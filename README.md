@@ -1,1 +1,0 @@
-[![Hongqi's GitHub Banner](./assets/mainBanner.png)](https://google.com)
