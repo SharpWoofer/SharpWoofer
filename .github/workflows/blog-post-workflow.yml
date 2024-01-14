@@ -42,4 +42,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           # Replace this URL with your rss feed URL/s
-          feed_list: "https://www.feedspot.com/infiniterss.php?followfeedid=1430625&q=site:https%3A%2F%2Fscreenrant.com%2Ffeed%2F"
+          feed_list: "https://rss.app/feeds/tivAYKbvtaoP4vuy.xml"
