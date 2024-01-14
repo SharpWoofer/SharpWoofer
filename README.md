@@ -60,6 +60,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The only way round is through.
+> Freedom from desire leads to inner peace.
 >
-> <p>Robert Frost</p>
+> <p>Lao Tzu</p>
