@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [How Ultimate Spider-Man Can Be Sony&#39;s New Peter Parker](https://www.imdb.com/news/ni64398965/)
-- [‘Mean Girls’ Drives $100 Million Box Office Weekend, but It May Be the Last One Until March](https://www.imdb.com/news/ni64398924/)
-- [Madame Web Teaser Unveils New Footage of the Spider-Women’s Suits](https://www.imdb.com/news/ni64398740/)
-- [How to Watch ‘True Detective: Night Country&#39; Premiere Live on Apple TV, Fire TV, Roku &amp; Mobile](https://www.imdb.com/news/ni64398600/)
-- [Top Gun III Is A Go!](https://www.imdb.com/news/ni64398569/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Life is what happens to you while you're busy making other plans.
+> We suffer more often in imagination than in reality.
 >
-> <p>John Lennon</p>
+> <p>Seneca</p>
