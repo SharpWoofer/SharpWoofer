@@ -56,6 +56,8 @@ Hello!
 
 <br>
 
-## 📣 How about a quote before you go?
+## 📣 How about an inspirational quote before you go?
 
 > {office_quote}
+>
+> <p>{office_character}</p>

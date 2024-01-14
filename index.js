@@ -1,4 +1,4 @@
-//require("isomorphic-unfetch");
+require("isomorphic-unfetch");
 const { promises: fs } = require("fs");
 const path = require("path");
 
@@ -8,22 +8,23 @@ async function main() {
         await fs.readFile(path.join(process.cwd(), "./README.template.md"))
     ).toString("utf-8");
 
-    const request = require('request');
-    var category = 'movies';
-    request.get({
-    url: 'https://api.api-ninjas.com/v1/quotes?category=' + category,
-    headers: {
-        'X-Api-Key': 'O/9pb/n+fo54jsYcGxmOBQ==SQBJEjCTSPe51ECK'
-    },
-    }, function(error, response, body) {
-    if(error) return console.error('Request failed:', error);
-    else if(response.statusCode != 200) return console.error('Error:', response.statusCode, body.toString('utf8'));
-    else console.log(body)
-    });
+    const office_quote = await (
+        await fetch("https://zenquotes.io/api/random")
+    ).json();
+
+    console.log(office_quote);
+
+    const quoteData = office_quote[0];
+    const quoteText = quoteData.q;
+    const author = quoteData.a;
+
+    console.log("Quote:", quoteText);
+    console.log("Author:", author);
+
 
     const readme = readmeTemplate
-        .replace("{office_quote}", body)
-        //.replace("{office_character}", body)
+        .replace("{office_quote}", quoteText)
+        .replace("{office_character}", author)
 
     await fs.writeFile("README.md", readme);
 }
