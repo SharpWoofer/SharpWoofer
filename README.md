@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Madame Web Teaser Unveils New Footage of the Spider-Women’s Suits](https://www.imdb.com/news/ni64398740/)
-- [Top Gun III Is A Go!](https://www.imdb.com/news/ni64398569/)
-- [How to Watch 2023 Primetime Emmy Awards Live Online Without Cable](https://www.imdb.com/news/ni64398584/)
-- [Siva to Geethanjali, top-rated Nagarjuna films on IMDb- Republic World](https://www.republicworld.com/web-stories/entertainment/siva-to-geethanjali-top-rated-nagarjuna-films-on-imdb)
-- [New ‘Fear Street’ Movie in the Works at Netflix, Author R.L. Stine Says](https://www.imdb.com/news/ni64398403/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> To improve is to change, so to be perfect is to change often.
+> Engage in those actions and thoughts that nurture the good qualities you want to have.
 >
-> <p>Winston Churchill</p>
+> <p>Paramahansa Yogananda</p>
