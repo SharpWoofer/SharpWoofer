@@ -56,8 +56,8 @@ Hello!
 
 <br>
 
-## 📣 How about an Office quote before you go?
+## 📣 How about an inspirational quote before you go?
 
-> Anyone who has ever made anything of importance was disciplined.
+> Why change? Everyone has his own style. When you have found it, you should stick to it.
 >
-> <p>Andrew Hendrixson</p>
+> <p>Audrey Hepburn</p>
