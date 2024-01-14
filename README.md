@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Top Gun III Is A Go!](https://www.imdb.com/news/ni64398569/)
-- [How to Watch 2023 Primetime Emmy Awards Live Online Without Cable](https://www.imdb.com/news/ni64398584/)
-- [Siva to Geethanjali, top-rated Nagarjuna films on IMDb- Republic World](https://www.republicworld.com/web-stories/entertainment/siva-to-geethanjali-top-rated-nagarjuna-films-on-imdb)
-- [New ‘Fear Street’ Movie in the Works at Netflix, Author R.L. Stine Says](https://www.imdb.com/news/ni64398403/)
-- [‘Mean Girls’ Directors Dreamed of Casting Harry Styles in a Classic Role](https://www.imdb.com/news/ni64398204/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The pursuit of mastery bears gifts. 
+> We build too many walls and not enough bridges.
 >
-> <p>Gary Keller</p>
+> <p>Isaac Newton</p>
