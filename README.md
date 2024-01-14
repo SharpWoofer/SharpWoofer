@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [‘Mean Girls’ Drives $100 Million Box Office Weekend, but It May Be the Last One Until March](https://www.imdb.com/news/ni64398924/)
-- [Madame Web Teaser Unveils New Footage of the Spider-Women’s Suits](https://www.imdb.com/news/ni64398740/)
-- [Top Gun III Is A Go!](https://www.imdb.com/news/ni64398569/)
-- [How to Watch 2023 Primetime Emmy Awards Live Online Without Cable](https://www.imdb.com/news/ni64398584/)
-- [Siva to Geethanjali, top-rated Nagarjuna films on IMDb- Republic World](https://www.republicworld.com/web-stories/entertainment/siva-to-geethanjali-top-rated-nagarjuna-films-on-imdb)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Engage in those actions and thoughts that nurture the good qualities you want to have.
+> Life is what happens to you while you're busy making other plans.
 >
-> <p>Paramahansa Yogananda</p>
+> <p>John Lennon</p>
