@@ -25,9 +25,9 @@ jobs:
           git config pull.rebase false
           git pull
           git add .
-          git config --global user.name "Your Name"
-          git config --global user.email "Your E-Mail"
-          git commit -m "[Automated] README updated with new quote!"
+          git config --global user.name "SharpWoofer"
+          git config --global user.email "cai_hongqi@yahoo.com"
+          git commit -m "[Automated] README updated with new hourly quote!"
       - name: Push
         uses: ad-m/github-push-action@master
         with:
@@ -42,4 +42,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           # Replace this URL with your rss feed URL/s
-          feed_list: "https://braydoncoyer.dev/rss/feed.xml"
+          feed_list: "https://zapier.com/engine/rss/17599123/hq-movie-review"

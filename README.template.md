@@ -2,6 +2,8 @@
 
 [![Visits Badge](https://badges.pufler.dev/visits/SharpWoofer/SharpWoofer)](https://google.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/hongqi-cai-385566275/)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/SharpWoofer/SharpWoofer/blog-post-workflow.yml?style=flat)
+
 
 Hello!
 
@@ -56,7 +58,7 @@ Hello!
 
 <br>
 
-## 📣 How about an inspirational quote before you go?
+## 📣 Inspirational quote of the hour
 
 > {office_quote}
 >
