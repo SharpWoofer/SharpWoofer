@@ -58,6 +58,6 @@ Hello!
 
 ## 📣 How about an inspirational quote before you go?
 
-> All things come into being by conflict of opposites.
+> If you don't like something change it; if you can't change it, change the way you think about it.
 >
-> <p>Heraclitus</p>
+> <p>Mary Engelbreit</p>
