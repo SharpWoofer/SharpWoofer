@@ -58,6 +58,6 @@ Hello!
 
 ## 📣 How about an inspirational quote before you go?
 
-> Why change? Everyone has his own style. When you have found it, you should stick to it.
+> All things come into being by conflict of opposites.
 >
-> <p>Audrey Hepburn</p>
+> <p>Heraclitus</p>
