@@ -58,6 +58,6 @@ Hello!
 
 ## 📣 How about an inspirational quote before you go?
 
-> Why change? Everyone has his own style. When you have found it, you should stick to it.
+> If you don't like something change it; if you can't change it, change the way you think about it.
 >
-> <p>Audrey Hepburn</p>
+> <p>Mary Engelbreit</p>
