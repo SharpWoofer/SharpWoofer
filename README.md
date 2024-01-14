@@ -13,7 +13,11 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Sarah Snook Says Casting Agent Once Told Her ‘You’re a Nobody’ and We Need to ‘Change All of You’ and Make You ‘Lose Weight’](https://www.imdb.com/news/ni64398999/)
+- [How Ultimate Spider-Man Can Be Sony&#39;s New Peter Parker](https://www.imdb.com/news/ni64398965/)
+- [‘Mean Girls’ Drives $100 Million Box Office Weekend, but It May Be the Last One Until March](https://www.imdb.com/news/ni64398924/)
+- [Madame Web Teaser Unveils New Footage of the Spider-Women’s Suits](https://www.imdb.com/news/ni64398740/)
+- [How to Watch ‘True Detective: Night Country&#39; Premiere Live on Apple TV, Fire TV, Roku &amp; Mobile](https://www.imdb.com/news/ni64398600/)
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
