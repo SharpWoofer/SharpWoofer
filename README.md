@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [African American Film Critics Awards: ‘American Fiction,’ ‘The Color Purple’ and ‘Origin’ Top Winners](https://www.imdb.com/news/ni64399837/)
-- [Ariana DeBose Reacts to That Critics Choice Joke About Her Singing](https://www.imdb.com/news/ni64399799/)
-- [‘Dalida’ Star Sveva Alviti and Newton Mayenge Board Cannes-Set Romance ‘The Other Side of Fame’ &lpar;Exclusive&rpar;](https://www.imdb.com/news/ni64399708/)
-- [Why Fantasia Barrino Paused Therapy While Filming ‘The Color Purple’](https://www.imdb.com/news/ni64399687/)
-- [‘Hanu Man’ Indian Superhero Film Emerges as Hit, Adds Screens in North America &lpar;Exclusive&rpar;](https://www.imdb.com/news/ni64399665/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The only place success comes before work is in the dictionary.
+> One of the most difficult things is not to change society - but to change yourself.
 >
-> <p>Vince Lombardi</p>
+> <p>Nelson Mandela</p>
