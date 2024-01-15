@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [15 of the best suspense thriller series on Netflix with an IMDb rating of 7 or above](https://www.lifestyleasia.com/ind/entertainment/streaming/best-suspense-thriller-series-on-netflix-ranked-by-imdb-rating-ozark-money-heist-aranyak/)
-- [Yellowstone Recap: Who Wound Up With Fresh Blood on Their Hands?](https://www.imdb.com/news/ni64391088/)
-- [Siva to Geethanjali, top-rated Nagarjuna films on IMDb- Republic World](https://www.republicworld.com/web-stories/entertainment/siva-to-geethanjali-top-rated-nagarjuna-films-on-imdb)
-- [Peacock’s NFL Playoff Game Sets Streaming Record](https://www.imdb.com/news/ni64399442/)
-- [China Box Office: ‘Jonny Keep Walking’ Retains Top Spot as ‘The Beekeeper’ Lands in Fourth](https://www.imdb.com/news/ni64399409/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Success in any endeavor depends on the degree to which it is an expression of your true self. 
+> There are two kinds of perfect people: those who are dead, and those who have not been born yet.
 >
-> <p>Ralph Marston</p>
+> <p>Chinese Proverb</p>
