@@ -13,7 +13,11 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-
+- [New ‘True Detective’ Boss Calls Out ‘Bros and Hardcore Fanboys’ Whose Mission Is to Drag Down Season 4 Audience Score: ‘It’s Kind of Sad’](https://www.imdb.com/news/ni64400198/)
+- [‘Chicago Med’: Charles &amp; Ripley Conflict, Sharon’s New Romance, and More Season 9 Scoop](https://www.imdb.com/news/ni64400096/)
+- [‘Law &amp; Order: Organized Crime’: Danielle Moné Truitt Teases Bell’s Frenemy &amp; Team’s Grief in Season 4](https://www.imdb.com/news/ni64399934/)
+- [‘Monsters: The Lyle and Erik Menendez Story’ Casts Javier Bardem, Chloë Sevigny &amp; More](https://www.imdb.com/news/ni64399933/)
+- [African American Film Critics Awards: ‘American Fiction,’ ‘The Color Purple’ and ‘Origin’ Top Winners](https://www.imdb.com/news/ni64399837/)
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
