@@ -13,7 +13,11 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Harrison Ford Chokes Up Accepting Critics Choice Career Achievement Award: ‘I Feel Enormously Lucky’](https://www.imdb.com/news/ni64399340/)
+- [Drew Barrymore Praises Reneé Rapp for Protecting Her From Alleged Stalker: ‘She Mama-Beared Out’](https://www.imdb.com/news/ni64399341/)
+- [‘We Are Family’ Mystery Star &amp; Cousin on Donna Summer Duet and How Show Changed Them](https://www.imdb.com/news/ni64399326/)
+- [Spider-Man: Across the Spider-Verse Gets Big Win at Critics&#39; Choice Awards](https://www.imdb.com/news/ni64399331/)
+- [&#39;Meet Yourself&#39; and 13 other romantic Chinese dramas with an IMDb rating of above 7](https://www.lifestyleasia.com/hk/entertainment/best-romantic-chinese-dramas-ranked-by-imdb-hidden-love-eternal-love-my-girlfriend-is-an-alien/)
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
