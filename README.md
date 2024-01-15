@@ -13,7 +13,11 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-
+- [‘Law &amp; Order: Organized Crime’: Danielle Moné Truitt Teases Bell’s Frenemy &amp; Team’s Grief in Season 4](https://www.imdb.com/news/ni64399934/)
+- [‘Monsters: The Lyle and Erik Menendez Story’ Casts Javier Bardem, Chloë Sevigny &amp; More](https://www.imdb.com/news/ni64399933/)
+- [African American Film Critics Awards: ‘American Fiction,’ ‘The Color Purple’ and ‘Origin’ Top Winners](https://www.imdb.com/news/ni64399837/)
+- [Ariana DeBose Reacts to That Critics Choice Joke About Her Singing](https://www.imdb.com/news/ni64399799/)
+- [‘Dalida’ Star Sveva Alviti and Newton Mayenge Board Cannes-Set Romance ‘The Other Side of Fame’ &lpar;Exclusive&rpar;](https://www.imdb.com/news/ni64399708/)
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
