@@ -13,7 +13,11 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Peacock’s NFL Playoff Game Sets Streaming Record](https://www.imdb.com/news/ni64399442/)
+- [China Box Office: ‘Jonny Keep Walking’ Retains Top Spot as ‘The Beekeeper’ Lands in Fourth](https://www.imdb.com/news/ni64399409/)
+- [14 best Chinese dramas to watch with IMDb rating above 7.5](https://www.lifestyleasia.com/sg/entertainment/streaming/best-chinese-dramas-to-watch-ranked-by-imdb-rating-nirvana-in-fire-the-untamed-hidden-love/)
+- [Harrison Ford Chokes Up Accepting Critics Choice Career Achievement Award: ‘I Feel Enormously Lucky’](https://www.imdb.com/news/ni64399340/)
+- [Drew Barrymore Praises Reneé Rapp for Protecting Her From Alleged Stalker: ‘She Mama-Beared Out’](https://www.imdb.com/news/ni64399341/)
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
