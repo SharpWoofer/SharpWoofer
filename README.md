@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [‘The Traitors’: Kate Chastain Joins Cast, Dr. Will Kirby to Guest Star &lpar;Video&rpar;](https://www.imdb.com/news/ni64399609/)
-- [‘Poor Things’ thrives at UK-Ireland box office with £1.6m opening; ‘Wonka’ stays top for sixth weekend](https://www.imdb.com/news/ni64399624/)
-- [What’s Coming to Netflix This Week: January 15th to 21st, 2024](https://www.imdb.com/news/ni64399614/)
-- [15 of the best suspense thriller series on Netflix with an IMDb rating of 7 or above](https://www.lifestyleasia.com/ind/entertainment/streaming/best-suspense-thriller-series-on-netflix-ranked-by-imdb-rating-ozark-money-heist-aranyak/)
-- [Yellowstone Recap: Who Wound Up With Fresh Blood on Their Hands?](https://www.imdb.com/news/ni64391088/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Formal education will make you a living, self-education will make you a fortune.
+> The dream is free, but the hustle is sold separately.
 >
-> <p>Jim Rohn</p>
+> <p>Steve Harvey</p>
