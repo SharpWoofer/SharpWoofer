@@ -13,7 +13,11 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-
+- [‘Dalida’ Star Sveva Alviti and Newton Mayenge Board Cannes-Set Romance ‘The Other Side of Fame’ &lpar;Exclusive&rpar;](https://www.imdb.com/news/ni64399708/)
+- [Why Fantasia Barrino Paused Therapy While Filming ‘The Color Purple’](https://www.imdb.com/news/ni64399687/)
+- [‘Hanu Man’ Indian Superhero Film Emerges as Hit, Adds Screens in North America &lpar;Exclusive&rpar;](https://www.imdb.com/news/ni64399665/)
+- [How to Watch the 2024 Presidential Election Iowa Caucuses](https://www.imdb.com/news/ni64399666/)
+- [‘The Traitors’: Kate Chastain Joins Cast, Dr. Will Kirby to Guest Star &lpar;Video&rpar;](https://www.imdb.com/news/ni64399609/)
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
