@@ -13,7 +13,11 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-
+- [15 of the best suspense thriller series on Netflix with an IMDb rating of 7 or above](https://www.lifestyleasia.com/ind/entertainment/streaming/best-suspense-thriller-series-on-netflix-ranked-by-imdb-rating-ozark-money-heist-aranyak/)
+- [Yellowstone Recap: Who Wound Up With Fresh Blood on Their Hands?](https://www.imdb.com/news/ni64391088/)
+- [Peacock’s NFL Playoff Game Sets Streaming Record](https://www.imdb.com/news/ni64399442/)
+- [China Box Office: ‘Jonny Keep Walking’ Retains Top Spot as ‘The Beekeeper’ Lands in Fourth](https://www.imdb.com/news/ni64399409/)
+- [14 best Chinese dramas to watch with IMDb rating above 7.5](https://www.lifestyleasia.com/sg/entertainment/streaming/best-chinese-dramas-to-watch-ranked-by-imdb-rating-nirvana-in-fire-the-untamed-hidden-love/)
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
