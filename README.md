@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Meet Yourself&#39; and 13 other romantic Chinese dramas with an IMDb rating of above 7](https://www.lifestyleasia.com/hk/entertainment/best-romantic-chinese-dramas-ranked-by-imdb-hidden-love-eternal-love-my-girlfriend-is-an-alien/)
-- [Leaked Listings Reveal Sony Preparing New Longer-Lasting DualSense V2 Controller](https://www.imdb.com/news/ni64399110/)
-- [‘The Young and the Restless’: What’s Next for Nikki’s Sobriety Struggles &amp; More](https://www.imdb.com/news/ni64399087/)
-- [Alec Musser, ‘All My Children’ and ‘Grown Ups’ Actor, Dies at 50](https://www.imdb.com/news/ni64399031/)
-- [Sarah Snook Says Casting Agent Once Told Her ‘You’re a Nobody’ and We Need to ‘Change All of You’ and Make You ‘Lose Weight’](https://www.imdb.com/news/ni64398999/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> To injure an opponent is to injure yourself. To control aggression without inflicting injury is the Art of Peace.
+> We're responsible for everything that happens to us.
 >
-> <p>Morihei Ueshiba</p>
+> <p>Yanni</p>
