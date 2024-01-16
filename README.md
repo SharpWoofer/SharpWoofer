@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [‘Madu’ to Open Santa Barbara International Film Festival](https://www.imdb.com/news/ni64401844/)
-- [Alec Musser Cause of Death Revealed](https://www.imdb.com/news/ni64401780/)
-- [The Terrors of The Woman in the Wall Are Both Fantastical and All Too Real](https://www.imdb.com/news/ni64401812/)
-- [Imax Hires Anne Globe as Chief Marketing Officer](https://www.imdb.com/news/ni64401779/)
-- [Lakeith Stanfield Joins Mark Wahlberg in Shane Black’s ‘Play Dirty’ &lpar;Exclusive&rpar;](https://www.imdb.com/news/ni64401740/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> If you are depressed, you are living in the past. If you are anxious, you are living in the future. if you are at peace, you are living in the present.
+> The future depends on what you do today. 
 >
-> <p>Lao Tzu</p>
+> <p>Mahatma Gandhi</p>
