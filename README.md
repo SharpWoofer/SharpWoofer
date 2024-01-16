@@ -13,7 +13,11 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-
+- [‘Better Call Saul’ Ends Six-Season Run With Zero Emmy Wins](https://www.imdb.com/news/ni64400791/)
+- [Roy Wood Jr. Confirms His Plea for a ‘Daily Show’ Host at Emmy Awards: “This Has Been Going on Too Long!”](https://www.imdb.com/news/ni64400790/)
+- [‘Succession’ Creator Jesse Armstrong in Best Drama Win Emmys Speech: “We Can Now Depart the Stage”](https://www.imdb.com/news/ni64400792/)
+- [Matthew Perry Remembered as Charlie Puth Sings ‘Friends’ Theme at Emmys](https://www.imdb.com/news/ni64400739/)
+- [Katherine Heigl Joins ‘Grey’s Anatomy’ Reunion at Emmys and Nods to Her Controversial Exit: ‘Yes, There Have Been Changes Over the Years’](https://www.imdb.com/news/ni64400635/)
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
