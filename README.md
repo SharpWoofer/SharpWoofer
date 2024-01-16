@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Jennifer Coolidge Wins Second Supporting Actress Emmy for ‘The White Lotus’](https://www.imdb.com/news/ni64400537/)
-- [Quinta Brunson Wins Emmy for Outstanding Lead Actress in a Comedy Series for ‘Abbott Elementary’](https://www.imdb.com/news/ni64400539/)
-- [Anthony Anderson Kicks off 75th Emmys with Classic Bits and Surprise Guest: His Mom](https://www.imdb.com/news/ni64400538/)
-- [Emmys 2023: The Complete Winners List &lpar;Updating Live&rpar;](https://www.imdb.com/news/ni64400466/)
-- [2023-2024 Emmy Awards Winners: Complete List](https://www.imdb.com/news/ni64400478/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Not all those who wander are lost.
+> You don't have to be great to start, but you have to start to be great.  
 >
-> <p>J.R.R. Tolkien</p>
+> <p>Zig Ziglar</p>
