@@ -13,7 +13,11 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-
+- [How to Watch ‘Death and Other Details’ Series Premiere on Apple TV, Fire TV, Roku &amp; Mobile](https://www.imdb.com/news/ni64401165/)
+- [Russian Director Aleksey German Jr. Talks His Controversial War Film ‘Air’ and Calls for Dialogue Over Ukraine: ‘It Is Impossible to Cancel Russian Culture’ &lpar;Exclusive&rpar;](https://www.imdb.com/news/ni64401139/)
+- [Yagoub Alfarhan Joins Telfaz11’s ‘AlGaid,’ Latest Feature From Saudi Banner Behind Local Hits ‘Sattar,’ ‘Mandoob’ &lpar;Exclusive&rpar;](https://www.imdb.com/news/ni64401044/)
+- [7 Best Hindi mystery movies on Amazon Prime: Aamir Khan&#39;s Talaash to Akshay Kumar&#39;s 8x10 Tasveer](https://www.pinkvilla.com/entertainment/news/hindi-mystery-movies-on-amazon-prime-1271816)
+- [&#39;Shark Tank India 3&#39; to witness evolution of cybersecurity in India  with &#39;AI Kavach&#39;](https://www.imdb.com/news/ni64401020/)
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
