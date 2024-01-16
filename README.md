@@ -13,7 +13,11 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Kerry Howley, Writer of Sundance-Bound ‘Winner,’ Signs With Black Bear &lpar;Exclusive&rpar;](https://www.imdb.com/news/ni64401483/)
+- [‘Jeanne du Barry’ Director Maiwenn Fined $435 for Spitting on French Journalist in Restaurant](https://www.imdb.com/news/ni64401397/)
+- [Matthew Macfadyen Made It Halfway Through ‘Succession’ Final Season Before Asking About the Ending](https://www.imdb.com/news/ni64401372/)
+- [‘The Wire’ Creator David Simon Laments After Baltimore Sun Sold to Sinclair TV Chairman](https://www.imdb.com/news/ni64401327/)
+- [Noah Hawley Explains Why His “Alien” TV Series Won’t Be Using Anything from ‘Prometheus’](https://www.imdb.com/news/ni64401309/)
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
