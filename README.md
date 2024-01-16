@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [‘The Wire’ Creator David Simon Laments After Baltimore Sun Sold to Sinclair TV Chairman](https://www.imdb.com/news/ni64401327/)
-- [Noah Hawley Explains Why His “Alien” TV Series Won’t Be Using Anything from ‘Prometheus’](https://www.imdb.com/news/ni64401309/)
-- [Ultraviolet Had TV&#39;s Darkest Take on Vampires](https://www.imdb.com/news/ni64401237/)
-- [How to Watch ‘Death and Other Details’ Series Premiere on Apple TV, Fire TV, Roku &amp; Mobile](https://www.imdb.com/news/ni64401165/)
-- [Russian Director Aleksey German Jr. Talks His Controversial War Film ‘Air’ and Calls for Dialogue Over Ukraine: ‘It Is Impossible to Cancel Russian Culture’ &lpar;Exclusive&rpar;](https://www.imdb.com/news/ni64401139/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Anyone who wants to achieve a dream must stay strong, focused and steady.
+> The divine is not something high above us. It is in heaven, it is in earth, it is inside us.
 >
-> <p>Estee Lauder</p>
+> <p>Morihei Ueshiba</p>
