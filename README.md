@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Emmys 2023: The Complete Winners List &lpar;Updating Live&rpar;](https://www.imdb.com/news/ni64400466/)
-- [2023-2024 Emmy Awards Winners: Complete List](https://www.imdb.com/news/ni64400478/)
-- [How to Watch the 75th Primetime Emmy Awards](https://www.imdb.com/news/ni64400476/)
-- [Billie Eilish, Dua Lipa and Olivia Rodrigo to Perform at 2024 Grammys](https://www.imdb.com/news/ni64400430/)
-- [‘True Detective: Night Country’ Premieres to Over 2 Million Viewers](https://www.imdb.com/news/ni64400300/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> I discovered a long time ago that if I helped enough people get what they wanted, I would always get what I wanted and I would never have to worry.
+> Success is the sum of small efforts, repeated day in and day out.
 >
-> <p>Tony Robbins</p>
+> <p>Robert Collier</p>
