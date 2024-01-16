@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Katherine Heigl Joins ‘Grey’s Anatomy’ Reunion at Emmys and Nods to Her Controversial Exit: ‘Yes, There Have Been Changes Over the Years’](https://www.imdb.com/news/ni64400635/)
-- [Emmys: ‘Cheers’ Reunion Brings Ted Danson, Kelsey Grammer &amp; Others Back to TV’s Most Iconic Bar](https://www.imdb.com/news/ni64400591/)
-- [Jennifer Coolidge Wins Second Supporting Actress Emmy for ‘The White Lotus’](https://www.imdb.com/news/ni64400537/)
-- [Quinta Brunson Wins Emmy for Outstanding Lead Actress in a Comedy Series for ‘Abbott Elementary’](https://www.imdb.com/news/ni64400539/)
-- [Anthony Anderson Kicks off 75th Emmys with Classic Bits and Surprise Guest: His Mom](https://www.imdb.com/news/ni64400538/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> You don't have to be great to start, but you have to start to be great.  
+> Sadness is but a wall between two gardens.
 >
-> <p>Zig Ziglar</p>
+> <p>Kahlil Gibran</p>
