@@ -13,7 +13,11 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Yagoub Alfarhan Joins Telfaz11’s ‘AlGaid,’ Latest Feature From Saudi Banner Behind Local Hits ‘Sattar,’ ‘Mandoob’ &lpar;Exclusive&rpar;](https://www.imdb.com/news/ni64401044/)
+- [&#39;Shark Tank India 3&#39; to witness evolution of cybersecurity in India  with &#39;AI Kavach&#39;](https://www.imdb.com/news/ni64401020/)
+- [10 best Hindi dubbed anime movies on Netflix](https://www.editorji.com/amp/web-stories/entertainment/10-best-hindi-dubbed-anime-movies-on-netflix-1705397598603)
+- [‘Ally McBeal,’ ‘Grey’s Anatomy,’ ‘Martin’ Casts Reunite for Emmys Ceremony](https://www.imdb.com/news/ni64400851/)
+- [‘Better Call Saul’ Ends Six-Season Run With Zero Emmy Wins](https://www.imdb.com/news/ni64400791/)
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
