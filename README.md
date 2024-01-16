@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [‘True Detective: Night Country’ Premieres to Over 2 Million Viewers](https://www.imdb.com/news/ni64400300/)
-- [‘Napoleon’ Battles ‘Oppenheimer’ for VOD Lead; ‘Lift’ and Kevin Hart #1 at Netflix](https://www.imdb.com/news/ni64400302/)
-- [New ‘True Detective’ Boss Calls Out ‘Bros and Hardcore Fanboys’ Whose Mission Is to Drag Down Season 4 Audience Score: ‘It’s Kind of Sad’](https://www.imdb.com/news/ni64400198/)
-- [‘Chicago Med’: Charles &amp; Ripley Conflict, Sharon’s New Romance, and More Season 9 Scoop](https://www.imdb.com/news/ni64400096/)
-- [‘Law &amp; Order: Organized Crime’: Danielle Moné Truitt Teases Bell’s Frenemy &amp; Team’s Grief in Season 4](https://www.imdb.com/news/ni64399934/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Only by acceptance of the past, can you alter it.
+> If you truly love Nature, you will find beauty everywhere. 
 >
-> <p>T.S. Eliot</p>
+> <p>Vincent van Gogh</p>
