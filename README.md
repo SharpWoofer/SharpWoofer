@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [10 best Hindi dubbed anime movies on Netflix](https://www.editorji.com/amp/web-stories/entertainment/10-best-hindi-dubbed-anime-movies-on-netflix-1705397598603)
-- [‘Ally McBeal,’ ‘Grey’s Anatomy,’ ‘Martin’ Casts Reunite for Emmys Ceremony](https://www.imdb.com/news/ni64400851/)
-- [‘Better Call Saul’ Ends Six-Season Run With Zero Emmy Wins](https://www.imdb.com/news/ni64400791/)
-- [Roy Wood Jr. Confirms His Plea for a ‘Daily Show’ Host at Emmy Awards: “This Has Been Going on Too Long!”](https://www.imdb.com/news/ni64400790/)
-- [‘Succession’ Creator Jesse Armstrong in Best Drama Win Emmys Speech: “We Can Now Depart the Stage”](https://www.imdb.com/news/ni64400792/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Fortunate are those who take the first steps.
+> The time is now, the place is here. Stay in the present.
 >
-> <p>Paulo Coelho</p>
+> <p>Dan Millman</p>
