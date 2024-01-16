@@ -13,7 +13,11 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Charlotte St. Martin to Retire as President of the Broadway League](https://www.imdb.com/news/ni64401898/)
+- [‘Madu’ to Open Santa Barbara International Film Festival](https://www.imdb.com/news/ni64401844/)
+- [Alec Musser Cause of Death Revealed](https://www.imdb.com/news/ni64401780/)
+- [The Terrors of The Woman in the Wall Are Both Fantastical and All Too Real](https://www.imdb.com/news/ni64401812/)
+- [Imax Hires Anne Globe as Chief Marketing Officer](https://www.imdb.com/news/ni64401779/)
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
