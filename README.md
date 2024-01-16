@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Ghostbusters: Frozen Empire Finally Does Right by a Classic Franchise Character](https://www.imdb.com/news/ni64401670/)
-- [Naughty Dog Has Worked on an &quot;Untitled&quot; IP since 2021](https://www.imdb.com/news/ni64401600/)
-- [Noah Schnapp Posts TikTok Addressing “Misconstrued” Beliefs About Israel-Gaza Conflict](https://www.imdb.com/news/ni64401520/)
-- [With Google Play Movies &amp; TV Disappearing, Where Can You Watch Your Purchased Shows and Movies?](https://www.imdb.com/news/ni64401511/)
-- [Kerry Howley, Writer of Sundance-Bound ‘Winner,’ Signs With Black Bear &lpar;Exclusive&rpar;](https://www.imdb.com/news/ni64401483/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Be a good animal, true to your instincts.
+> You win more from losing than winning.
 >
-> <p>D. H. Lawrence</p>
+> <p>Morgan Wootten</p>
