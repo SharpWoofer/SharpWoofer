@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Noah Schnapp Posts TikTok Addressing “Misconstrued” Beliefs About Israel-Gaza Conflict](https://www.imdb.com/news/ni64401520/)
-- [With Google Play Movies &amp; TV Disappearing, Where Can You Watch Your Purchased Shows and Movies?](https://www.imdb.com/news/ni64401511/)
-- [Kerry Howley, Writer of Sundance-Bound ‘Winner,’ Signs With Black Bear &lpar;Exclusive&rpar;](https://www.imdb.com/news/ni64401483/)
-- [‘Jeanne du Barry’ Director Maiwenn Fined $435 for Spitting on French Journalist in Restaurant](https://www.imdb.com/news/ni64401397/)
-- [Matthew Macfadyen Made It Halfway Through ‘Succession’ Final Season Before Asking About the Ending](https://www.imdb.com/news/ni64401372/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Everybody's life is either rewarding or an example.
+> Be a good animal, true to your instincts.
 >
-> <p>Tony Robbins</p>
+> <p>D. H. Lawrence</p>
