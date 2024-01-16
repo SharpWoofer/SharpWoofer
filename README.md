@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [‘Percy Jackson’ Author &amp; Series Co-Creator Throws Dig at Film: ‘Normalize Bad Movie Erasure’](https://www.imdb.com/news/ni64401760/)
-- [Martin Scorsese on Working With Robbie Robertson on ‘Flower Moon’ Music as the Culmination of a 47-Year Friendship: ‘I Just Miss Robbie. Period’](https://www.imdb.com/news/ni64401693/)
-- [Chad Stahelski Will Oversee ‘Highlander’ and ‘John Wick’ Franchises for Lionsgate](https://www.imdb.com/news/ni64401694/)
-- [Ghostbusters: Frozen Empire Finally Does Right by a Classic Franchise Character](https://www.imdb.com/news/ni64401670/)
-- [Naughty Dog Has Worked on an &quot;Untitled&quot; IP since 2021](https://www.imdb.com/news/ni64401600/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> You win more from losing than winning.
+> If you are depressed, you are living in the past. If you are anxious, you are living in the future. if you are at peace, you are living in the present.
 >
-> <p>Morgan Wootten</p>
+> <p>Lao Tzu</p>
