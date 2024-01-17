@@ -13,7 +13,11 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Namita Thapar dives into elegance with her show-stopping outfits in &#39;Shark Tank India 3&#39;](https://www.imdb.com/news/ni64402621/)
+- [10 Great Superman TV Shows, Ranked by IMDb](https://collider.com/superman-tv-shows-ranked-imdb/)
+- [Let’s Talk About ‘Sex’: Dag Johan Haugerud Discusses ‘Sincere, Truthful and Shameless’ First Part of Trilogy as It Scores Berlinale Premiere, Debuts Trailer &lpar;Exclusive&rpar;](https://www.imdb.com/news/ni64402604/)
+- [Berlinale Film ‘Every You Every Me,’ About Falling Out of Love With Your Partner, Picked Up by Be For Films &lpar;Exclusive&rpar;](https://www.imdb.com/news/ni64402601/)
+- [Cinecittà Chief Nicola Maccanico on Revamping Italy’s Iconic Studios as Biz Picks Up After Hollywood Strikes &lpar;Exclusive&rpar;](https://www.imdb.com/news/ni64402602/)
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
