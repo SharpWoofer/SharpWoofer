@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [‘The Tattooist of Auschwitz’ First Look Photos &amp; Premiere Date Unveiled by Peacock](https://www.imdb.com/news/ni64402794/)
-- [‘Fargo’ Season 5 Settles Its Debts in Riveting Finale](https://www.imdb.com/news/ni64402709/)
-- [Sundance’s Fifth Annual Latinx House to Feature Artists From ‘Ponyboi,’ ‘In the Summers’ &lpar;Exclusive&rpar;](https://www.imdb.com/news/ni64402705/)
-- [6 deserving actors who never won an Emmy award: From Emilia Clarke to Steve Carell](https://www.hindustantimes.com/entertainment/tv/6-deserving-actors-who-never-won-an-emmy-award-from-emilia-clarke-to-steve-carell-101705481448025.html)
-- [Middle East, Gender Politics in Focus in Berlin Sidebars](https://www.imdb.com/news/ni64402658/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Don't be afraid of enemies who attack you. Be afraid of the friends who flatter you.
+> How to get more opportunity: Create more opportunity for others.
 >
-> <p>Dale Carnegie</p>
+> <p>Jack Butcher</p>
