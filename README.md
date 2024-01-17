@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Jonathan Majors’ ‘Magazine Dreams’ Will Seek a New Distributor After Searchlight Exits](https://www.imdb.com/news/ni64402236/)
-- [‘Percy Jackson’: Lotus Casino Was Star Trio’s Favorite Scene to Film](https://www.imdb.com/news/ni64402205/)
-- [Lorne Michaels Says Tina Fey ‘Could Easily’ Take Over ‘Saturday Night Live’: She’s ‘Brilliant and Great at Everything’](https://www.imdb.com/news/ni64402202/)
-- [Oscar Voting Closes: Greta Gerwig’s ‘Barbie’ Directing Chances, ‘Saltburn’ Surging and More Revelations Learned From Academy Voters](https://www.imdb.com/news/ni64402169/)
-- [Every Episode of &#39;Band of Brothers,&#39; Ranked According to IMDb](https://collider.com/band-of-brothers-episodes-ranked-imdb/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Don't learn to do, but learn in doing.
+> Fear is what stops you. Courage is what keeps you going.
 >
-> <p>Samuel Butler</p>
+> <p>Unknown</p>
