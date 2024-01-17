@@ -13,7 +13,11 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-
+- [A Chuck E. Cheese Game Show Is Being Developed, And It’s a Bit Like ‘Squid Game’](https://www.imdb.com/news/ni64403313/)
+- [Forest Whitaker Joins ‘Emperor of Ocean Park’ at MGM+](https://www.imdb.com/news/ni64403261/)
+- [Comic Book Writer Jimmy Palmiotti Offers Decades of Work for Charity](https://www.imdb.com/news/ni64403229/)
+- [Motion Picture Association Renews Chair-ceo Charles Rivkin’s Contract for Third Term](https://www.imdb.com/news/ni64403246/)
+- [Variety Earns Two GLAAD Media Award Nominations for Outstanding Online Journalism and Magazine Overall Coverage](https://www.imdb.com/news/ni64403205/)
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
