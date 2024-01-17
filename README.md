@@ -13,7 +13,11 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Kamal Haasan, Ajith Kumar, Vikram, Vijay Sethupathi, Keerthy Suresh Films Lead Netflix’s 2024 Tamil Slate](https://www.imdb.com/news/ni64402568/)
+- [Jean-Claude Van Damme’s Action-Comedy ‘Le Jardinier’ Boarded by Prime Video in France, Other Angle for International Sales &lpar;Exclusive&rpar;](https://www.imdb.com/news/ni64402567/)
+- [Sundance-Bound Iranian Film ‘In the Land of Brothers’ Nabbed by September Film in Benelux &lpar;Exclusive&rpar;](https://www.imdb.com/news/ni64402559/)
+- [Maruthi&#39;s Sarcastic Reply To IMDb](https://www.m9.news/short/maruthis-sarcastic-reply-to-imdb/)
+- [15 best suspense thriller series on Netflix with an IMDb rating above 7](https://www.lifestyleasia.com/sg/entertainment/streaming/best-suspense-thriller-series-on-netflix-ranked-by-imdb-rating-ozark-money-heist-aranyak/)
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
