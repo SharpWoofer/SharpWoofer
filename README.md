@@ -13,7 +13,11 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Variety Earns Two GLAAD Media Award Nominations for Outstanding Online Journalism and Magazine Overall Coverage](https://www.imdb.com/news/ni64403205/)
+- [Amazon MGM Studios Signs Multiyear First-Look Deal with Tastemade](https://www.imdb.com/news/ni64403087/)
+- [Emma Laird, Fionn Whitehead, Zar Amir Ebrahimi, Adwoa Aboah Lead Psychological Drama ‘Satisfaction’ &lpar;Exclusive&rpar;](https://www.imdb.com/news/ni64403083/)
+- [Netflix to Honor 1974 Cinema with Curated Film Collection](https://www.imdb.com/news/ni64403088/)
+- [2023&#39;s Biggest R-Rated Romantic Comedy Signals A Major Hollywood Shift](https://www.imdb.com/news/ni64403068/)
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
