@@ -13,7 +13,11 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-
+- [‘Percy Jackson’: Lotus Casino Was Star Trio’s Favorite Scene to Film](https://www.imdb.com/news/ni64402205/)
+- [Lorne Michaels Says Tina Fey ‘Could Easily’ Take Over ‘Saturday Night Live’: She’s ‘Brilliant and Great at Everything’](https://www.imdb.com/news/ni64402202/)
+- [Oscar Voting Closes: Greta Gerwig’s ‘Barbie’ Directing Chances, ‘Saltburn’ Surging and More Revelations Learned From Academy Voters](https://www.imdb.com/news/ni64402169/)
+- [Every Episode of &#39;Band of Brothers,&#39; Ranked According to IMDb](https://collider.com/band-of-brothers-episodes-ranked-imdb/)
+- [‘Jeopardy!’ Fans React To Fan Favorite Elimination](https://www.imdb.com/news/ni64402128/)
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
