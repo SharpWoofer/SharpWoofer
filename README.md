@@ -13,7 +13,11 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-
+- [‘Cinema is Political:’ French Sales Agents Confront Global Tensions, Carbon Cutting Amid Rise in International Admissions](https://www.imdb.com/news/ni64402065/)
+- [George Clooney on Why He Has “More Fun” Directing Than Acting](https://www.imdb.com/news/ni64402076/)
+- [Dolph Lundgren Is ‘Disappointed’ for ‘Aquaman 2’ Viewers Because a ‘Really Good’ Original Cut Got Axed: ‘I Didn’t See Any Reason’ for Reshooting](https://www.imdb.com/news/ni64402064/)
+- [Bob Chapek Books First Post-Disney Gig: Board Seat at Medical Device Firm Masimo](https://www.imdb.com/news/ni64402077/)
+- [The War and Treaty: How the Best New Artist Grammy Nominees Came to Be ‘Friends’ With the Emmys, Too, and Win Over Superfan Zach Bryan](https://www.imdb.com/news/ni64402075/)
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
