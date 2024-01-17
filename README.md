@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Shark Tank India 3&#39; to witness innovative pitch by Bihar&#39;s taxi revolution &#39;RodBez&#39;](https://www.imdb.com/news/ni64402469/)
-- [Film Curator, Programmer and Archivist June Givanni to Receive BAFTA Outstanding British Contribution to Cinema Award](https://www.imdb.com/news/ni64402458/)
-- [How the ‘Mean Girls’ Directors Captured Social Media’s Brutality: ‘Your Popularity Is Quantified’](https://www.imdb.com/news/ni64402417/)
-- [‘Beef’ Creator Lee Sung Jin Teases Potential Season 2 Inspirations and Whether He’ll Pull a Ryan Murphy](https://www.imdb.com/news/ni64402418/)
-- [‘Loot’ Star Joel Kim Booster Hints at a ‘Much More Joke-Dense’ Season 2](https://www.imdb.com/news/ni64402421/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The world is changed by your example, not by your opinion.
+> Happiness is a choice and a skill and you can dedicate yourself to learning that skill and making that choice.
 >
-> <p>Paulo Coelho</p>
+> <p>Naval Ravikant</p>
