@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [XYZ Films Hires Former STX Executive Celine Lin in Senior Sales, Distribution and Licensing Role](https://www.imdb.com/news/ni64403003/)
-- [Pauly Shore to Play Richard Simmons in New Biopic](https://www.imdb.com/news/ni64403002/)
-- [Fire Country Season 2: EPs Tease ‘Great Surprises’ That Will Make Fans ‘Happy’](https://www.imdb.com/news/ni64403064/)
-- [Finalists for Black List-Inspired Athena List Revealed &lpar;Exclusive&rpar;](https://www.imdb.com/news/ni64402921/)
-- [Global Production Bodies Unite to Ask Governments to Ensure Streamers Invest More in Local Content](https://www.imdb.com/news/ni64402973/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience.
+> True love stories never have endings.
 >
-> <p>Eleanor Roosevelt</p>
+> <p>Richard Bach</p>
