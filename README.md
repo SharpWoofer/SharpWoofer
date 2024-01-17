@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Oscar Voting Closes: Greta Gerwig’s ‘Barbie’ Directing Chances, ‘Saltburn’ Surging and More Revelations Learned From Academy Voters](https://www.imdb.com/news/ni64402169/)
-- [Every Episode of &#39;Band of Brothers,&#39; Ranked According to IMDb](https://collider.com/band-of-brothers-episodes-ranked-imdb/)
-- [‘Jeopardy!’ Fans React To Fan Favorite Elimination](https://www.imdb.com/news/ni64402128/)
-- [Jodie Foster Called Out Hollywood in 1991 for Not Being ‘Kind to Women’ Directors: I ‘Never Thought’ a Film Like ‘Barbie’ Was ‘Going to Happen’](https://www.imdb.com/news/ni64402112/)
-- [‘Cinema is Political:’ French Sales Agents Confront Global Tensions, Carbon Cutting Amid Rise in International Admissions](https://www.imdb.com/news/ni64402065/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> We know nothing of tomorrow, our business is to be good and happy today.
+> Problems remain as problems because people are busy defending them rather than finding solutions.
 >
-> <p>Sydney Smith</p>
+> <p>Celestine Chua</p>
