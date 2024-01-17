@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon Makes Big Play for Faith-Based Content](https://www.imdb.com/news/ni64403411/)
-- [Prabhas’ The Raja Saab plot line on IMDb got the film’s director Maruthi talking. Here’s what he has to say](https://indianexpress.com/article/entertainment/telugu/prabhas-the-raja-saab-plot-line-on-imdb-got-the-films-director-maruthi-talking-heres-what-he-has-to-say-9114226/)
-- [A Chuck E. Cheese Game Show Is Being Developed, And It’s a Bit Like ‘Squid Game’](https://www.imdb.com/news/ni64403313/)
-- [Forest Whitaker Joins ‘Emperor of Ocean Park’ at MGM+](https://www.imdb.com/news/ni64403261/)
-- [Comic Book Writer Jimmy Palmiotti Offers Decades of Work for Charity](https://www.imdb.com/news/ni64403229/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Have a heart that never hardens, and a temper that never tires, and a touch that never hurts.
+> To do great work one must be very idle as well as very industrious.
 >
-> <p>Charles Dickens</p>
+> <p>Samuel Butler</p>
