@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Locarno Prizewinner ‘Excursion’ Sells to International Distributors &lpar;Exclusive&rpar;](https://www.imdb.com/news/ni64402892/)
-- [CAA Signs ‘Union’ Filmmaker Brett Story Ahead of Sundance World Premiere &lpar;Exclusive&rpar;](https://www.imdb.com/news/ni64402890/)
-- [Merry Christmas beats Andhadhun: Know Katrina Kaif-Vijay Sethupathi starrer&#39;s IMDb rating here](https://www.indiatvnews.com/entertainment/news/merry-christmas-beats-andhadhun-know-katrina-kaif-vijay-sethupathi-starrer-s-imdb-rating-here-2024-01-17-912375)
-- [AARP Movies for Grownups Awards: ‘Killers of the Flower Moon’ Named Best Picture](https://www.imdb.com/news/ni64402886/)
-- [‘The Tattooist of Auschwitz’ First Look Photos &amp; Premiere Date Unveiled by Peacock](https://www.imdb.com/news/ni64402794/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> How to get more opportunity: Create more opportunity for others.
+> The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience.
 >
-> <p>Jack Butcher</p>
+> <p>Eleanor Roosevelt</p>
