@@ -13,7 +13,11 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Sundance-Bound Iranian Film ‘In the Land of Brothers’ Nabbed by September Film in Benelux &lpar;Exclusive&rpar;](https://www.imdb.com/news/ni64402559/)
+- [Maruthi&#39;s Sarcastic Reply To IMDb](https://www.m9.news/short/maruthis-sarcastic-reply-to-imdb/)
+- [Prabhas Starrer The Raja Saab Director Has A Tongue-In-Cheek Reaction To IMDb&#39;s Incorrect Synopsis- Republic World](https://www.republicworld.com/entertainment/telugu-cinema/prabhas-starrer-the-raja-saab-director-has-a-tongue-in-cheek-reaction-to-imdb-s-incorrect-synopsis)
+- [Merry Christmas Shatters Records: Katrina Kaif and Vijay Sethupathi starrer Hits 8.8 IMDb Rating, Surpassing Andhadhun](https://www.filmcompanion.in/news/merry-christmas-shatters-records-katrina-kaif-and-vijay-sethupathi-starrer-hits-88-imdb-rating-surpassing-andhadhun)
+- [&#39;Shark Tank India 3&#39; to witness innovative pitch by Bihar&#39;s taxi revolution &#39;RodBez&#39;](https://www.imdb.com/news/ni64402469/)
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
