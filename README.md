@@ -13,7 +13,11 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-
+- [‘Fargo’ Season 5 Settles Its Debts in Riveting Finale](https://www.imdb.com/news/ni64402709/)
+- [6 deserving actors who never won an Emmy award: From Emilia Clarke to Steve Carell](https://www.hindustantimes.com/entertainment/tv/6-deserving-actors-who-never-won-an-emmy-award-from-emilia-clarke-to-steve-carell-101705481448025.html)
+- [Middle East, Gender Politics in Focus in Berlin Sidebars](https://www.imdb.com/news/ni64402658/)
+- [Namita Thapar dives into elegance with her show-stopping outfits in &#39;Shark Tank India 3&#39;](https://www.imdb.com/news/ni64402621/)
+- [10 Great Superman TV Shows, Ranked by IMDb](https://collider.com/superman-tv-shows-ranked-imdb/)
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
