@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Red Hot Chili Peppers Frontman Anthony Kiedis’ Memoir Optioned by Universal Pictures, With Brian Grazer and Guy Oseary to Produce](https://www.imdb.com/news/ni64403479/)
-- [When Superman and Batman Copyrights Expire in a Decade, Will It Be Kryptonite for DC?](https://www.imdb.com/news/ni64403449/)
-- [Jonathan Ross to Host U.K. Academy Awards Coverage as ITV Launch Oscar-Nominated Movies Fast Channel](https://www.imdb.com/news/ni64403427/)
-- [International Cinematographers Guild Names Two New Regional Directors Ahead of 2024 Negotiations](https://www.imdb.com/news/ni64403443/)
-- [Sally El Hosaini and James Krishna Floyd’s LGBTQ Romance ‘Unicorns’ Acquired by Signature for U.K. &lpar;Exclusive&rpar;](https://www.imdb.com/news/ni64403450/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> To do great work one must be very idle as well as very industrious.
+> Failure is simply the opportunity to begin again, this time more intelligently.
 >
-> <p>Samuel Butler</p>
+> <p>Henry Ford</p>
