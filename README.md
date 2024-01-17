@@ -13,7 +13,11 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Every Episode of &#39;Band of Brothers,&#39; Ranked According to IMDb](https://collider.com/band-of-brothers-episodes-ranked-imdb/)
+- [‘Jeopardy!’ Fans React To Fan Favorite Elimination](https://www.imdb.com/news/ni64402128/)
+- [Jodie Foster Called Out Hollywood in 1991 for Not Being ‘Kind to Women’ Directors: I ‘Never Thought’ a Film Like ‘Barbie’ Was ‘Going to Happen’](https://www.imdb.com/news/ni64402112/)
+- [‘Cinema is Political:’ French Sales Agents Confront Global Tensions, Carbon Cutting Amid Rise in International Admissions](https://www.imdb.com/news/ni64402065/)
+- [George Clooney on Why He Has “More Fun” Directing Than Acting](https://www.imdb.com/news/ni64402076/)
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
