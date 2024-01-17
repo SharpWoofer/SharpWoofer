@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [How the ‘Mean Girls’ Directors Captured Social Media’s Brutality: ‘Your Popularity Is Quantified’](https://www.imdb.com/news/ni64402417/)
-- [‘Beef’ Creator Lee Sung Jin Teases Potential Season 2 Inspirations and Whether He’ll Pull a Ryan Murphy](https://www.imdb.com/news/ni64402418/)
-- [‘Loot’ Star Joel Kim Booster Hints at a ‘Much More Joke-Dense’ Season 2](https://www.imdb.com/news/ni64402421/)
-- [Hollywood Creative Alliance Allegedly Told Studio it Could Influence Critics Choice Awards Voting](https://www.imdb.com/news/ni64402415/)
-- [5 Takeaways From ‘The Real Housewives of Salt Lake City’ Season 4 Reunion, Part 2](https://www.imdb.com/news/ni64402419/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Live your life and forget your age.
+> The world is changed by your example, not by your opinion.
 >
-> <p>Norman Vincent Peale</p>
+> <p>Paulo Coelho</p>
