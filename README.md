@@ -13,7 +13,11 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Is Dakota Johnson&#39;s Madame Web Different From the Comic Version?](https://www.imdb.com/news/ni64403606/)
+- [Pitchfork Folded Into GQ as Condé Nast Makes Cuts at Music Publication](https://www.imdb.com/news/ni64403507/)
+- [Former ‘Scream VII’ Director Christopher Landon Lines Up First Project Since  Exit](https://www.imdb.com/news/ni64403568/)
+- [Until Dawn: David F. Sandberg, Gary Dauberman re-team for video game adaptation](https://www.imdb.com/news/ni64403558/)
+- [Red Hot Chili Peppers Frontman Anthony Kiedis’ Memoir Optioned by Universal Pictures, With Brian Grazer and Guy Oseary to Produce](https://www.imdb.com/news/ni64403479/)
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
