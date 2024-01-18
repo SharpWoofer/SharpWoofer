@@ -13,7 +13,11 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Magnet Releasing Nabs Suspense-Horror Film ‘What You Wish For’ &lpar;Exclusive&rpar;](https://www.imdb.com/news/ni64403732/)
+- [Tell Me Lies Finally Starts Season 2 Production — See the Cast Photos!](https://www.imdb.com/news/ni64403738/)
+- [‘American Nightmare’ Team on Digging Into the Brutal ‘Gone Girl’ Case and Police Refusing to Participate: ‘They Turned Their Backs on Us’](https://www.imdb.com/news/ni64403737/)
+- [TVLine Items: Camila Mendes’ Amazon Rom-Com Trailer, Jenny Slate Joins Michelle Williams Series and More](https://www.imdb.com/news/ni64403673/)
+- [Paramount Global Announces Participants for 2024-2025 Writers Mentoring Program &lpar;Exclusive&rpar;](https://www.imdb.com/news/ni64403625/)
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
