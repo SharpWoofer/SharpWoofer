@@ -13,7 +13,11 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Johnny Depp Shares First Images from Directorial Effort ‘Modi’ as Filming Wraps](https://www.imdb.com/news/ni64404958/)
+- [5 Takeaways From BAFTA Noms: Lily Gladstone’s Snub, ‘Barbie’s’ Underperformance and More](https://www.imdb.com/news/ni64405000/)
+- [Michael Jackson Biopic Casts Juliano Krue Valdi as Young Michael](https://www.imdb.com/news/ni64404927/)
+- [How John Early and Theda Hammel Found Laughs in Lockdowns in the Pandemic-Set ‘Stress Positions’](https://www.imdb.com/news/ni64404930/)
+- [Johnny Depp Directs Al Pacino in First Look at ‘Modi’; Says First Directorial Gig After Trials Is ‘Transformative Experience’](https://www.imdb.com/news/ni64404928/)
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
