@@ -13,7 +13,11 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Cillian Murphy Historical Drama ‘Small Things Like These’ to Open Berlin Film Festival](https://www.imdb.com/news/ni64404119/)
+- [‘Stillwater’ Writer Noé Debré Talks Feature Debut ‘A Good Jewish Boy,’ Reveals New Projects With Tom McCarthy, Alexander Payne &lpar;Exclusive&rpar;](https://www.imdb.com/news/ni64404118/)
+- [Legendary’s ‘The Book of Clarence’ Moved Off UK Release Schedule](https://www.imdb.com/news/ni64404100/)
+- [The Match Factory Snaps Up ‘Sweat’ Director Magnus von Horn’s First Genre Pic, ‘The Girl With the Needle’ &lpar;Exclusive&rpar;](https://www.imdb.com/news/ni64404084/)
+- [Rasa Film Group Launches Collective Focusing on Strong Female Protagonists and Positive Muslim Characters &lpar;Exclusive&rpar;](https://www.imdb.com/news/ni64404085/)
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
