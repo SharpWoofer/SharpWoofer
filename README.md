@@ -13,7 +13,11 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-
+- [12th Fail: Vikrant Massey-Vidhu Vinod Chopra&#39;s movie tops IMDb chart](https://www.business-standard.com/entertainment/12th-fail-vikrant-massey-vidhu-vinod-chopra-s-movie-tops-imdb-chart-124011800166_1.html)
+- [Magnet Releasing Nabs Suspense-Horror Film ‘What You Wish For’ &lpar;Exclusive&rpar;](https://www.imdb.com/news/ni64403732/)
+- [Tell Me Lies Finally Starts Season 2 Production — See the Cast Photos!](https://www.imdb.com/news/ni64403738/)
+- [‘American Nightmare’ Team on Digging Into the Brutal ‘Gone Girl’ Case and Police Refusing to Participate: ‘They Turned Their Backs on Us’](https://www.imdb.com/news/ni64403737/)
+- [TVLine Items: Camila Mendes’ Amazon Rom-Com Trailer, Jenny Slate Joins Michelle Williams Series and More](https://www.imdb.com/news/ni64403673/)
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
