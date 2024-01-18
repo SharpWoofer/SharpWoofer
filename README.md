@@ -13,7 +13,11 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Is Joe Biden Still a Blockbuster in Hollywood?](https://www.imdb.com/news/ni64404481/)
+- [Mubi Takes Levan Akin’s ‘Crossing’ Ahead of Berlin Premiere &lpar;Exclusive&rpar;](https://www.imdb.com/news/ni64404489/)
+- [Christian Wikander Out as Head of Global Scripted at Banijay](https://www.imdb.com/news/ni64404483/)
+- [See the Cover of the Next ‘Percy Jackson’ Novel  &lpar;Exclusive&rpar;](https://www.imdb.com/news/ni64404484/)
+- [Nelson Peltz Nominates Himself and Jay Rasulo to Disney’s Board as Proxy Fight Officially Kicks Off](https://www.imdb.com/news/ni64404487/)
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
