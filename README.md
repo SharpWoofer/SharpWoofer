@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [The Match Factory Snaps Up ‘Sweat’ Director Magnus von Horn’s First Genre Pic, ‘The Girl With the Needle’ &lpar;Exclusive&rpar;](https://www.imdb.com/news/ni64404084/)
-- [Rasa Film Group Launches Collective Focusing on Strong Female Protagonists and Positive Muslim Characters &lpar;Exclusive&rpar;](https://www.imdb.com/news/ni64404085/)
-- [The Holdovers: Everything you need to know about the award winning film](https://www.scotsman.com/arts-and-culture/film-and-tv/the-holdovers-release-date-of-golden-globes-2024-winning-film-imdb-reviews-cast-and-running-time-4483107)
-- [How to Watch the 2024 BAFTA Film Awards Nominations Online](https://www.imdb.com/news/ni64404055/)
-- [‘Manta Ray’ Star Wanlop Rungkumjad Heads Cast of Taiwan Drama Film ‘Mongrel,’ Screening at IFFR Darkroom &lpar;Exclusive&rpar;](https://www.imdb.com/news/ni64404064/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Even if you persuade me, you won't persuade me.
+> Life is but one dream flowing into another.
 >
-> <p>Aristophanes</p>
+> <p>Ming-Dao Deng</p>
