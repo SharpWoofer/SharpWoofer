@@ -13,7 +13,11 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Fusion Entertainment Signs ‘Ghostlight’ Star Keith Kupferer Ahead of Sundance Premiere &lpar;Exclusive&rpar;](https://www.imdb.com/news/ni64405186/)
+- [Venom 3 Gets New Updated Logo 10 Days After Sony Unveiled The Marvel Movie&#39;s First Logo](https://www.imdb.com/news/ni64405141/)
+- [Final Emmys Recap: Variety’s Awards Circuit Roundtable Dissects This Year’s Big Winners and Losers](https://www.imdb.com/news/ni64405102/)
+- [IMAX Opens Remastered ‘Queen Rock Montreal’ Concert Film With Input From Band Members Brian May and Roger Taylor](https://www.imdb.com/news/ni64405045/)
+- [Kevin Hart Says Claim He’s an Industry Plant Is ‘Not Worth My Time,’ Weighs In on Dave Chappelle: ‘Not Watching Someone You Don’t Find Funny’ Is an Option](https://www.imdb.com/news/ni64405070/)
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
