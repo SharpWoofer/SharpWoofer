@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [‘EastEnders’ Set Studio Sold and Leased Back by BBC to Meet Savings Target](https://www.imdb.com/news/ni64404044/)
-- [MPA Chairman and CEO Charles Rivkin Renews Contract Through 2027](https://www.imdb.com/news/ni64403953/)
-- [Richard Simmons Says He Never Gave Permission for Pauly Shore-Starring Biopic: ‘Don’t Believe Everything You Read’](https://www.imdb.com/news/ni64403948/)
-- [Pierce Brosnan Pleads Not Guilty to Hiking Off-Trail at Yellowstone National Park](https://www.imdb.com/news/ni64403950/)
-- [Christopher Landon in Talks to Direct Werewolf Film ‘Big Bad’ for Lionsgate](https://www.imdb.com/news/ni64403951/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Don't change your mind just because people are offended; change your mind if you're wrong.
+> When you have to make a choice and don't make it, that is in itself a choice.
 >
-> <p>Criss Jami</p>
+> <p>William James</p>
