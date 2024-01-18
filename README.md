@@ -13,7 +13,11 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-
+- [So Long Wbd Sports, Hello TNT Sports](https://www.imdb.com/news/ni64404526/)
+- [Jodie Foster Confirms Princess Leia Offer; She Turned Down ‘Star Wars’ Because of a Disney Contract She ‘Didn’t Want to Pull Out Of’](https://www.imdb.com/news/ni64404524/)
+- [Film Movement Scoops Up North American Rights for  Bittersweet Comedy ‘A Nice Jewish Boy’ &lpar;Exclusive&rpar;](https://www.imdb.com/news/ni64404522/)
+- [‘The Great Beauty’ Actor Toni Servillo to Star in Drama About ‘Last Godfather’ Matteo Messina Denaro by ‘Sicilian Ghost Story’ Directors](https://www.imdb.com/news/ni64404523/)
+- [TV Premieres Drop, Theatrical Wide Releases Spike and True Crime Soars in 2023: Luminate Year-End Film &amp; TV Report](https://www.imdb.com/news/ni64404521/)
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
