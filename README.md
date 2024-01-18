@@ -13,7 +13,11 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-
+- [How to Watch the 2024 BAFTA Film Awards Nominations Online](https://www.imdb.com/news/ni64404055/)
+- [‘Manta Ray’ Star Wanlop Rungkumjad Heads Cast of Taiwan Drama Film ‘Mongrel,’ Screening at IFFR Darkroom &lpar;Exclusive&rpar;](https://www.imdb.com/news/ni64404064/)
+- [Prabhas&#39; The Raja Saab Plot Details on IMDb Are Fake?](https://www.comingsoon.net/indian/news/1493544-prabhas-the-raja-saab-plot-details-on-imdb-are-fake)
+- [‘EastEnders’ Set Studio Sold and Leased Back by BBC to Meet Savings Target](https://www.imdb.com/news/ni64404044/)
+- [MPA Chairman and CEO Charles Rivkin Renews Contract Through 2027](https://www.imdb.com/news/ni64403953/)
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
