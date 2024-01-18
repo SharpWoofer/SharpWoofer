@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Sundance Film Festival: Will Strike Hangover and New In-Person Rules Heat Up the Sales Market?](https://www.imdb.com/news/ni64404704/)
-- [Landmark Theatres Sets Classic Film Screening Series to Mark Exhibitor’s 50th Anniversary](https://www.imdb.com/news/ni64404705/)
-- [AC Independent Boss Nick Shumaker Talks One Year of Anonymous Content’s Sales and Finance Arm and Repping Five Films at Sundance &lpar;Exclusive&rpar;](https://www.imdb.com/news/ni64404706/)
-- [Nelson Peltz Officially Launches Disney Proxy Fight, Aiming to Push Company to Hit ‘Netflix-Like’ Streaming Margins. But Can He Get the Votes to Win?](https://www.imdb.com/news/ni64404703/)
-- [‘Fargo’ Star Juno Temple Breaks Down Finale Showdown and the Unsung Heroes Behind Dot](https://www.imdb.com/news/ni64404682/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Your conscience is the measure of the honesty of your selfishness. Listen to it carefully.
+> Always be a first rate version of yourself and not a second rate version of someone else.
 >
-> <p>Richard Bach</p>
+> <p>Judy Garland</p>
