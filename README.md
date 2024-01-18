@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Final Emmys Recap: Variety’s Awards Circuit Roundtable Dissects This Year’s Big Winners and Losers](https://www.imdb.com/news/ni64405102/)
-- [IMAX Opens Remastered ‘Queen Rock Montreal’ Concert Film With Input From Band Members Brian May and Roger Taylor](https://www.imdb.com/news/ni64405045/)
-- [Kevin Hart Says Claim He’s an Industry Plant Is ‘Not Worth My Time,’ Weighs In on Dave Chappelle: ‘Not Watching Someone You Don’t Find Funny’ Is an Option](https://www.imdb.com/news/ni64405070/)
-- [‘The Good Doctor’ Adds Actor With Autism Kayla Cromer &amp; Wavyy Jonez for Final Season](https://www.imdb.com/news/ni64405067/)
-- [Jimmy Hoffa Docuseries in the Works at Village Roadshow Unscripted Television](https://www.imdb.com/news/ni64405071/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Those who bring sunshine into the lives of others cannot keep it from themselves.
+> The journey is what brings us happiness not the destination.
 >
-> <p>James Matthew Barrie</p>
+> <p>Dan Millman</p>
