@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Venom 3&#39;s New Logo Is Here, Still Doesn&#39;t Feature a Subtitle](https://www.imdb.com/news/ni64404907/)
-- [&#39;Madame Web&#39; Sneak Peek — Dakota Johnson Spills the Tea on Cassandra](https://www.imdb.com/news/ni64404882/)
-- [Sundance Film Festival: Will Strike Hangover and New In-Person Rules Heat Up the Sales Market?](https://www.imdb.com/news/ni64404704/)
-- [Landmark Theatres Sets Classic Film Screening Series to Mark Exhibitor’s 50th Anniversary](https://www.imdb.com/news/ni64404705/)
-- [AC Independent Boss Nick Shumaker Talks One Year of Anonymous Content’s Sales and Finance Arm and Repping Five Films at Sundance &lpar;Exclusive&rpar;](https://www.imdb.com/news/ni64404706/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Always be a first rate version of yourself and not a second rate version of someone else.
+> Goodness is the only investment that never fails.
 >
-> <p>Judy Garland</p>
+> <p>Henry David Thoreau</p>
