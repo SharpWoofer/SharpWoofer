@@ -13,7 +13,11 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-
+- [TVLine Items: Camila Mendes’ Amazon Rom-Com Trailer, Jenny Slate Joins Michelle Williams Series and More](https://www.imdb.com/news/ni64403673/)
+- [Paramount Global Announces Participants for 2024-2025 Writers Mentoring Program &lpar;Exclusive&rpar;](https://www.imdb.com/news/ni64403625/)
+- [Richard Simmons Disavows Biopic Starring Pauly Shore, as Studio Promises to ‘Produce a Movie That Honors Him’](https://www.imdb.com/news/ni64403612/)
+- [Danielle Schoenberg Joins Odenkirk Provissiero Entertainment As Partner](https://www.imdb.com/news/ni64403629/)
+- [Is Dakota Johnson&#39;s Madame Web Different From the Comic Version?](https://www.imdb.com/news/ni64403606/)
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
