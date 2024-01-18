@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Joe Biden Still a Blockbuster in Hollywood?](https://www.imdb.com/news/ni64404481/)
-- [Mubi Takes Levan Akin’s ‘Crossing’ Ahead of Berlin Premiere &lpar;Exclusive&rpar;](https://www.imdb.com/news/ni64404489/)
-- [Christian Wikander Out as Head of Global Scripted at Banijay](https://www.imdb.com/news/ni64404483/)
-- [See the Cover of the Next ‘Percy Jackson’ Novel  &lpar;Exclusive&rpar;](https://www.imdb.com/news/ni64404484/)
-- [Nelson Peltz Nominates Himself and Jay Rasulo to Disney’s Board as Proxy Fight Officially Kicks Off](https://www.imdb.com/news/ni64404487/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> No experience is a cause of success or failure. We do not suffer from the shock of our experiences, so-called trauma - but we make out of them just what suits our purposes.
+> A man's worth is no greater than his ambitions.
 >
-> <p>Alfred Adler</p>
+> <p>Marcus Aurelius</p>
