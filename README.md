@@ -13,7 +13,11 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-
+- [‘Emily in Paris’ Star Ashley Park Hospitalized for Critical Septic Shock, Now Recovering: ‘I’m Safely on the Other Side of the Worst’](https://www.imdb.com/news/ni64406425/)
+- [Jodie Foster Says Warner Bros. Giving Greta Gerwig ‘All the Money to Support’ Her ‘Barbie’ Vision Is ‘New for Women Directors’: ‘I Hope It Continues’](https://www.imdb.com/news/ni64406390/)
+- [Sundance 2024: Netflix Buys ‘Ibelin,’ Documentary About Late Norwegian Gamer, in One of Festival’s First Sales](https://www.imdb.com/news/ni64406391/)
+- [And in November, We Streamed with Ads](https://www.imdb.com/news/ni64406389/)
+- [Sports Illustrated Hit With “Mass Layoffs,” Union Says](https://www.imdb.com/news/ni64406393/)
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
