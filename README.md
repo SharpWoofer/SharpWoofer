@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Tom Hollander’s Truman Capote Faces Off Against the Swans in FX’s New ‘Feud’ Trailer](https://www.imdb.com/news/ni64405566/)
-- [Kelly Osbourne Regrets 2015 Comments About Latinos: “The Worst Thing I’ve Ever Done”](https://www.imdb.com/news/ni64405559/)
-- [Malia Obama Short Film ‘The Heart’ Screening at Sundance](https://www.imdb.com/news/ni64405489/)
-- [Rob Lowe Mistakenly Texted Bradley Cooper About Winning a Golden Globe Instead of Robert Downey Jr; Cooper Lost the Award: ‘Oh S—!’](https://www.imdb.com/news/ni64405491/)
-- [How ‘Law &amp; Order’ Wrote Out Jeffrey Donovan’s Cosgrove in Season 23 Premiere](https://www.imdb.com/news/ni64405455/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Embrace the life you have and stop wishing that you could be someone else.
+> Use your smile to change the world but don't let the world change your smile.
 >
-> <p>Joyce Meyer</p>
+> <p>Unknown</p>
