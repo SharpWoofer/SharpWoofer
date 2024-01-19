@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [How ‘Law &amp; Order’ Wrote Out Jeffrey Donovan’s Cosgrove in Season 23 Premiere](https://www.imdb.com/news/ni64405455/)
-- [‘Eno’ Review: A Compelling Portrait of Music Visionary Brian Eno Is Different Each Time You Watch It](https://www.imdb.com/news/ni64405435/)
-- [Kelly Osbourne Admits ‘I Was a Self-Righteous C—‘ for That ‘If You Kick Every Latino Out of This Country’ Comment: ‘The Worst Thing I’ve Ever Done’](https://www.imdb.com/news/ni64405411/)
-- [‘Ghostlight’ Review: The Duo Behind ‘Saint Frances’ Find Fresh Layers in Shakespeare’s ‘Romeo and Juliet’](https://www.imdb.com/news/ni64405370/)
-- [Fox Sets Cast for Lifeguard Drama Series ‘Rescue: Hi Surf’](https://www.imdb.com/news/ni64405306/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Life is a balance of holding on and letting go.
+> Humans and prosperity never endure side by side for long.
 >
-> <p>Rumi</p>
+> <p>Herodotus</p>
