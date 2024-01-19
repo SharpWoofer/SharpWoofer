@@ -13,7 +13,11 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Uber Taking Naming Rights to Three Aeg Properties in Berlin](https://www.imdb.com/news/ni64406106/)
+- [Ayo Edebiri Keeps Shouting Out Ireland — and the Country Is Embracing It](https://www.imdb.com/news/ni64406180/)
+- [Searchlight Pictures Giving Laura Chinn’s ‘Suncoast’ a Theatrical Run Ahead of Streaming Debut &lpar;Exclusive&rpar;](https://www.imdb.com/news/ni64406139/)
+- [France’s New Culture Minister Rachida Dati Says Movies ‘Save Lives’ in First Address to Entertainment Industry Players](https://www.imdb.com/news/ni64406140/)
+- [Ruth Wilson’s Striking Performance in ‘The Woman in the Wall’ Doesn’t Make Up for the Gothic’s Dense Narrative: TV Review](https://www.imdb.com/news/ni64406153/)
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
