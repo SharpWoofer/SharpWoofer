@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Warner Bros. Discovery Signs Five-Year Indian Cricket Rights Deal for U.K., Ireland – Global Bulletin](https://www.imdb.com/news/ni64405710/)
-- [Christopher Nolan Hates Getting Recognized in Public, According to Robert Downey Jr.](https://www.imdb.com/news/ni64405688/)
-- [‘Your Monster’ Review: A Miscast Melissa Barrera Bonds With the Beast Under Her Bed](https://www.imdb.com/news/ni64405689/)
-- [‘Veni Vidi Vici’ Scandalizes Sundance With Infanticide, Brangelina and Balenciaga](https://www.imdb.com/news/ni64405673/)
-- [Sundance Kicks Off With Big Applause for Bloody Nazi-Killing Revenge Movie ‘Freaky Tales’ and a Heartfelt Tribute to Angus Cloud](https://www.imdb.com/news/ni64405611/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> If the only prayer you ever say in your entire life is thank you, it will be enough.
+> Forgive those who have hurt you.
 >
-> <p>Meister Eckhart</p>
+> <p>Les Brown</p>
