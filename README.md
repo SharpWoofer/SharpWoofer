@@ -13,7 +13,11 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-
+- [‘Skywalkers: A Love Story’ Review: A Thrilling, Vertigo-Inducing Documentary That Scales the Heights of Fear and Devotion](https://www.imdb.com/news/ni64405757/)
+- [‘The Young Pope’ Producers Mario Gianani, Lorenzo Mieli Exit Fremantle to Form New Outfit](https://www.imdb.com/news/ni64405756/)
+- [‘Freaky Tales’ Review: Pedro Pascal, Jay Ellis and [You’ll Never Guess] Steal Overstuffed Oakland Homage](https://www.imdb.com/news/ni64405728/)
+- [Warner Bros. Discovery Signs Five-Year Indian Cricket Rights Deal for U.K., Ireland – Global Bulletin](https://www.imdb.com/news/ni64405710/)
+- [Christopher Nolan Hates Getting Recognized in Public, According to Robert Downey Jr.](https://www.imdb.com/news/ni64405688/)
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
