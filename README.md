@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Madame Web’s Dakota Johnson Brags About Her Stunt Driving: ‘Watch out, Tom Cruise’](https://www.imdb.com/news/ni64406693/)
-- [Melissa Barrera Says ‘Scream’ Firing Led to a ‘Big Awakening’: ‘I’m Just So Grateful for Everything That’s Happened’](https://www.imdb.com/news/ni64406558/)
-- [‘I Saw the TV Glow’ Review: Jane Schoenbrun’s Eerie Ode to Adolescent Television Obsessions](https://www.imdb.com/news/ni64406560/)
-- [Paramount Global SVP of Streaming Strategy Sean Gupta Is Exiting](https://www.imdb.com/news/ni64406604/)
-- [Justin Timberlake Returning to SNL for First Time in Almost 10 Years](https://www.imdb.com/news/ni64406606/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Persistence. Perfection. Patience. Power. Prioritize your passion. It keeps you sane.
+> When you're curious, you find lots of interesting things to do.
 >
-> <p>Criss Jami</p>
+> <p>Walt Disney</p>
