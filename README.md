@@ -13,7 +13,11 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Kelly Osbourne Admits ‘I Was a Self-Righteous C—‘ for That ‘If You Kick Every Latino Out of This Country’ Comment: ‘The Worst Thing I’ve Ever Done’](https://www.imdb.com/news/ni64405411/)
+- [‘Ghostlight’ Review: The Duo Behind ‘Saint Frances’ Find Fresh Layers in Shakespeare’s ‘Romeo and Juliet’](https://www.imdb.com/news/ni64405370/)
+- [Fox Sets Cast for Lifeguard Drama Series ‘Rescue: Hi Surf’](https://www.imdb.com/news/ni64405306/)
+- [‘Rap Sh!t’ Will Not Return for Season 3 on Max](https://www.imdb.com/news/ni64405307/)
+- [Connie Britton on Why She Missed ‘American Horror Story’ Reunion at Emmys](https://www.imdb.com/news/ni64405342/)
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
