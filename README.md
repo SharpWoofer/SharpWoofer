@@ -13,7 +13,11 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-
+- [‘Rescue: Hi Surf’: Fox’s New Lifeguard Drama Series Unveils Cast](https://www.imdb.com/news/ni64405836/)
+- [French Actor Agnes Jaoui to Receive Honorary Cesar Award](https://www.imdb.com/news/ni64405823/)
+- [‘Skywalkers: A Love Story’ Review: A Thrilling, Vertigo-Inducing Documentary That Scales the Heights of Fear and Devotion](https://www.imdb.com/news/ni64405757/)
+- [‘The Young Pope’ Producers Mario Gianani, Lorenzo Mieli Exit Fremantle to Form New Outfit](https://www.imdb.com/news/ni64405756/)
+- [‘Freaky Tales’ Review: Pedro Pascal, Jay Ellis and [You’ll Never Guess] Steal Overstuffed Oakland Homage](https://www.imdb.com/news/ni64405728/)
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
