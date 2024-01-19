@@ -13,7 +13,11 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Good Guy PlayStation Refunding The Last of Us Part 2 Remastered Pre-Orders](https://www.imdb.com/news/ni64405608/)
+- [‘Thelma’ Review: Lifelong Character Actor June Squibb Lands a Leading Role … in an Unlikely Action Movie](https://www.imdb.com/news/ni64405586/)
+- [Tom Hollander’s Truman Capote Faces Off Against the Swans in FX’s New ‘Feud’ Trailer](https://www.imdb.com/news/ni64405566/)
+- [Kelly Osbourne Regrets 2015 Comments About Latinos: “The Worst Thing I’ve Ever Done”](https://www.imdb.com/news/ni64405559/)
+- [Malia Obama Short Film ‘The Heart’ Screening at Sundance](https://www.imdb.com/news/ni64405489/)
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
