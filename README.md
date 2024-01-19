@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Fox Sets Cast for Lifeguard Drama Series ‘Rescue: Hi Surf’](https://www.imdb.com/news/ni64405306/)
-- [‘Rap Sh!t’ Will Not Return for Season 3 on Max](https://www.imdb.com/news/ni64405307/)
-- [Connie Britton on Why She Missed ‘American Horror Story’ Reunion at Emmys](https://www.imdb.com/news/ni64405342/)
-- [Sony Pictures Entertainment Dedicates John Williams Music Building At Studio With A Little Help From Steven Spielberg, J.J. Abrams And More](https://www.imdb.com/news/ni64405346/)
-- [Melvil Poupaud Honored With French Cinema Award at Starry Ministry of Culture Ceremony](https://www.imdb.com/news/ni64405326/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Simplicity is a difficult thing to achieve.  
+> It is what we make out of what we have, not what we are given, that separates one person from another.
 >
-> <p>Charlie Chaplin</p>
+> <p>Nelson Mandela</p>
