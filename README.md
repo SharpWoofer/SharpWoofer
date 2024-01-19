@@ -13,7 +13,11 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Christopher Nolan Hates Getting Recognized in Public, According to Robert Downey Jr.](https://www.imdb.com/news/ni64405688/)
+- [‘Your Monster’ Review: A Miscast Melissa Barrera Bonds With the Beast Under Her Bed](https://www.imdb.com/news/ni64405689/)
+- [‘Veni Vidi Vici’ Scandalizes Sundance With Infanticide, Brangelina and Balenciaga](https://www.imdb.com/news/ni64405673/)
+- [Sundance Kicks Off With Big Applause for Bloody Nazi-Killing Revenge Movie ‘Freaky Tales’ and a Heartfelt Tribute to Angus Cloud](https://www.imdb.com/news/ni64405611/)
+- [Good Guy PlayStation Refunding The Last of Us Part 2 Remastered Pre-Orders](https://www.imdb.com/news/ni64405608/)
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
