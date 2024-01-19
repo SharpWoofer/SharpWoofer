@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [‘Freaky Tales’ Review: Pedro Pascal, Jay Ellis and [You’ll Never Guess] Steal Overstuffed Oakland Homage](https://www.imdb.com/news/ni64405728/)
-- [Warner Bros. Discovery Signs Five-Year Indian Cricket Rights Deal for U.K., Ireland – Global Bulletin](https://www.imdb.com/news/ni64405710/)
-- [Christopher Nolan Hates Getting Recognized in Public, According to Robert Downey Jr.](https://www.imdb.com/news/ni64405688/)
-- [‘Your Monster’ Review: A Miscast Melissa Barrera Bonds With the Beast Under Her Bed](https://www.imdb.com/news/ni64405689/)
-- [‘Veni Vidi Vici’ Scandalizes Sundance With Infanticide, Brangelina and Balenciaga](https://www.imdb.com/news/ni64405673/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Forgive those who have hurt you.
+> All men who have achieved great things have been great dreamers. 
 >
-> <p>Les Brown</p>
+> <p>Orison Swett Marden</p>
