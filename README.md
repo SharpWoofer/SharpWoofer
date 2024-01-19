@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Paramount Global SVP of Streaming Strategy Sean Gupta Is Exiting](https://www.imdb.com/news/ni64406604/)
-- [Justin Timberlake Returning to SNL for First Time in Almost 10 Years](https://www.imdb.com/news/ni64406606/)
-- [‘Saturday Night Live’ Recruits Dakota Johnson as Host With Musical Guest Justin Timberlake](https://www.imdb.com/news/ni64406601/)
-- [Dakota Johnson to Host ‘SNL’ With Justin Timberlake as Musical Guest](https://www.imdb.com/news/ni64406605/)
-- [Easterseals Disability Film Challenge Returns With $15,000 Grants to Winners](https://www.imdb.com/news/ni64406484/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The greatest enemy of knowledge is not ignorance, it's the illusion of knowledge.
+> Persistence. Perfection. Patience. Power. Prioritize your passion. It keeps you sane.
 >
-> <p>Stephen Hawking</p>
+> <p>Criss Jami</p>
