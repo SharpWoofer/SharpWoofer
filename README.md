@@ -13,7 +13,11 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Searchlight Pictures Giving Laura Chinn’s ‘Suncoast’ a Theatrical Run Ahead of Streaming Debut &lpar;Exclusive&rpar;](https://www.imdb.com/news/ni64406139/)
+- [France’s New Culture Minister Rachida Dati Says Movies ‘Save Lives’ in First Address to Entertainment Industry Players](https://www.imdb.com/news/ni64406140/)
+- [‘10 Lives’ Director Chris Jenkins on Animating Cat Butts and Working With Zayn Malik: ‘We Immediately Bonded’](https://www.imdb.com/news/ni64406063/)
+- [‘Teen Mom 2’ Star Kailyn Lowry Opens Up About New Twin Boys](https://www.imdb.com/news/ni64406046/)
+- [‘The Voice’ Producer Inks Pact for Global Esports Games Reality TV Shows, Live Events](https://www.imdb.com/news/ni64406047/)
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
