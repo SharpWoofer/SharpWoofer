@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Malia Obama Short Film ‘The Heart’ Screening at Sundance](https://www.imdb.com/news/ni64405489/)
-- [Rob Lowe Mistakenly Texted Bradley Cooper About Winning a Golden Globe Instead of Robert Downey Jr; Cooper Lost the Award: ‘Oh S—!’](https://www.imdb.com/news/ni64405491/)
-- [How ‘Law &amp; Order’ Wrote Out Jeffrey Donovan’s Cosgrove in Season 23 Premiere](https://www.imdb.com/news/ni64405455/)
-- [‘Origin’: Why Kris Bowers’ ‘Leaves’ Music Cue Made Ava DuVernay Break Down in Tears &lpar;Exclusive&rpar;](https://www.imdb.com/news/ni64405434/)
-- [‘Eno’ Review: A Compelling Portrait of Music Visionary Brian Eno Is Different Each Time You Watch It](https://www.imdb.com/news/ni64405435/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> You give but little when you give of your possessions. It is when you give of yourself that you truly give.
+> Embrace the life you have and stop wishing that you could be someone else.
 >
-> <p>Kahlil Gibran</p>
+> <p>Joyce Meyer</p>
