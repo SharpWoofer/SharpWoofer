@@ -13,7 +13,11 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-
+- [And in November, We Streamed with Ads](https://www.imdb.com/news/ni64406389/)
+- [Lance Frank, Christa Robinson Given Expanded Communications Roles for CBS News, Stations, Media Ventures](https://www.imdb.com/news/ni64406355/)
+- [Jodie Foster Admits She Was ‘A Little Scared’ to Appear on The View](https://www.imdb.com/news/ni64406317/)
+- [‘Naked and Afraid’ Contestants Face Killer Crocodiles &amp; Aggressive Hippos in New Season Trailer &lpar;Video&rpar;](https://www.imdb.com/news/ni64406318/)
+- [Cara Delevingne, South Korean Model Xu Meen Make a Case for Digital Nomad Style in McM’s New Campaign](https://www.imdb.com/news/ni64406257/)
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
