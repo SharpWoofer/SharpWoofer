@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Looking Was Much More Than the ‘Gay Girls’](https://www.imdb.com/news/ni64406017/)
-- [Off-Peak TV: Number of U.S. Scripted Shows Fell 24% in 2023, Study Finds](https://www.imdb.com/news/ni64405947/)
-- [Berlinale Panorama Title ‘Memories of a Burning Body’ Swooped On by Bendita Film Sales &lpar;Exclusive&rpar;](https://www.imdb.com/news/ni64405901/)
-- [How to Watch ‘Hazbin Hotel’: Season 1 Premiere on Apple TV, Fire TV, Roku &amp; Mobile](https://www.imdb.com/news/ni64405894/)
-- [Jacob Elordi Is ‘Assuming’ ‘Euphoria’ Season 3 Will Take Place in the Future: ‘Otherwise, It’s Going to Seem Like a Weird Bit’](https://www.imdb.com/news/ni64405862/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> It is in the heart that makes a man rich. He is rich according to what he is, not according to what he has.
+> Peace begins with a smile.
 >
-> <p>Henry Ward Beecher</p>
+> <p>Mother Teresa</p>
