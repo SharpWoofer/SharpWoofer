@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Sundance Kicks Off With Big Applause for Bloody Nazi-Killing Revenge Movie ‘Freaky Tales’ and a Heartfelt Tribute to Angus Cloud](https://www.imdb.com/news/ni64405611/)
-- [Good Guy PlayStation Refunding The Last of Us Part 2 Remastered Pre-Orders](https://www.imdb.com/news/ni64405608/)
-- [‘Thelma’ Review: Lifelong Character Actor June Squibb Lands a Leading Role … in an Unlikely Action Movie](https://www.imdb.com/news/ni64405586/)
-- [Tom Hollander’s Truman Capote Faces Off Against the Swans in FX’s New ‘Feud’ Trailer](https://www.imdb.com/news/ni64405566/)
-- [Kelly Osbourne Regrets 2015 Comments About Latinos: “The Worst Thing I’ve Ever Done”](https://www.imdb.com/news/ni64405559/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Do not ignore the passion that burns in you. Spend time to discover your gift.
+> Enthusiasm is a vital element toward the individual success of every man or woman.
 >
-> <p>Steve Harvey</p>
+> <p>Conrad Hilton</p>
