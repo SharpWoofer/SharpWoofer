@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Berlinale Panorama Title ‘Memories of a Burning Body’ Swooped On by Bendita Film Sales &lpar;Exclusive&rpar;](https://www.imdb.com/news/ni64405901/)
-- [How to Watch ‘Hazbin Hotel’: Season 1 Premiere on Apple TV, Fire TV, Roku &amp; Mobile](https://www.imdb.com/news/ni64405894/)
-- [Jacob Elordi Is ‘Assuming’ ‘Euphoria’ Season 3 Will Take Place in the Future: ‘Otherwise, It’s Going to Seem Like a Weird Bit’](https://www.imdb.com/news/ni64405862/)
-- [‘Sebastian’ Director Mikko Makela on Providing a ‘Frank and Honest’ Portrayal of Queer Sexuality in Sundance Pick &lpar;Exclusive&rpar;](https://www.imdb.com/news/ni64405858/)
-- [7 Best TVF Web Series According To IMDb Ratings](https://www.filmcompanion.in/ampstories/web-stories/7-best-tvf-web-series-according-to-imdb-ratings)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> In a world that is constantly changing, it is to our advantage to learn how to adapt and enjoy something better.
+> It is in the heart that makes a man rich. He is rich according to what he is, not according to what he has.
 >
-> <p>Spencer Johnson</p>
+> <p>Henry Ward Beecher</p>
