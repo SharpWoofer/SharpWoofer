@@ -13,7 +13,11 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-
+- [PBS SoCal Rebrands Sister Public Broadcaster Kcet As ‘PBS SoCal Plus’](https://www.imdb.com/news/ni64407003/)
+- [Sundance Pro-Palestinian March Set for Sunday](https://www.imdb.com/news/ni64406974/)
+- [Kenya Barris’ Richard Pryor Biopic Is a 10-Episode Series; New ‘Wizard of Oz’ Is Set in Inglewood and ‘It’s a Wonderful Life’ Remake Has Poc Lead: ‘I’m Still a Believer in IP’](https://www.imdb.com/news/ni64406975/)
+- [‘The Traitors’ Team Breaks Down Castle Logistics, Extremely Fast Filming Schedule and How They Crafted That Epic Funeral Episode](https://www.imdb.com/news/ni64406945/)
+- [Josh Hutcherson Reveals He Lost Out on ‘Home Alone’ Role](https://www.imdb.com/news/ni64406951/)
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
