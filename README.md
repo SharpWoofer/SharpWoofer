@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Sundance Winner Sofia Alaoui to Tackle Eco-Anxieties in Apocalyptic Thriller ‘Tarfaya’: ‘This World Is Full of Poetry and Melancholy’ &lpar;Exclusive&rpar;](https://www.imdb.com/news/ni64407241/)
-- [‘Just the Two of Us’ Duo Valérie Donzelli, Audrey Diwan Reteam for Caregiver Drama ‘The Infinite Present Ends’ &lpar;Exclusive&rpar;](https://www.imdb.com/news/ni64407212/)
-- [‘Presence’ Review: Steven Soderbergh Tells a Ghost Story from the Ghost’s Pov. It Is Scary? Not Quite. But the Family Demons Lure You In](https://www.imdb.com/news/ni64407173/)
-- [‘Agent of Happiness’ Review: A Documentary Searches for True Contentment in Bhutan](https://www.imdb.com/news/ni64407147/)
-- [Sofia Vergara, Netflix Sued by Griselda Blanco’s Estate Over Upcoming Series](https://www.imdb.com/news/ni64407129/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less.
+> Often we pass beside happiness without seeing it, without looking at it, or even if we have seen and looked at it, without recognizing it.
 >
-> <p>Dan Millman</p>
+> <p>Alexandre Dumas</p>
