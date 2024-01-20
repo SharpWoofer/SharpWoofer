@@ -13,7 +13,11 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-
+- [‘Dìdi’ Review: Fremont-Set Sundance Movie Recalls Being the Kid Brother in an Immigrant Household](https://www.imdb.com/news/ni64407081/)
+- [Jesse Eisenberg and Riley Keough’s ‘Sasquatch Sunset’ Weirds Out Sundance With Bigfoots Having Sex, Vomiting and Farting](https://www.imdb.com/news/ni64407080/)
+- [‘Modern Family’ Star Ed O’Neill Nearly Got Into Organized Crime Instead of Pursuing Acting](https://www.imdb.com/news/ni64407061/)
+- [15 of the best suspense series on Amazon Prime Video with an IMDb rating of 7 and above](https://www.lifestyleasia.com/ind/entertainment/streaming/best-suspense-series-on-amazon-prime-video-ranked-by-imdb-rating-farzi-reacher-breathe/)
+- [‘Between the Temples’ Review: Jason Schwartzman Gives Carol Kane a Belated Bat Mitzvah in a Winningly Off-Kilter Comedy](https://www.imdb.com/news/ni64407063/)
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
