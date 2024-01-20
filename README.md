@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [‘Just the Two of Us’ Duo Valérie Donzelli, Audrey Diwan Reteam for Caregiver Drama ‘The Infinite Present Ends’ &lpar;Exclusive&rpar;](https://www.imdb.com/news/ni64407212/)
-- [‘Presence’ Review: Steven Soderbergh Tells a Ghost Story from the Ghost’s Pov. It Is Scary? Not Quite. But the Family Demons Lure You In](https://www.imdb.com/news/ni64407173/)
-- [‘Agent of Happiness’ Review: A Documentary Searches for True Contentment in Bhutan](https://www.imdb.com/news/ni64407147/)
-- [Sofia Vergara, Netflix Sued by Griselda Blanco’s Estate Over Upcoming Series](https://www.imdb.com/news/ni64407129/)
-- [PBS SoCal Rebrands Kcet Broadcast Channel as ‘PBS SoCal Plus’](https://www.imdb.com/news/ni64407120/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> What most people need to learn in life is how to love people and use things instead of using people and loving things.
+> The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less.
 >
-> <p>Unknown</p>
+> <p>Dan Millman</p>
