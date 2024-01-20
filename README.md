@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Sofia Vergara, Netflix Sued by Griselda Blanco’s Estate Over Upcoming Series](https://www.imdb.com/news/ni64407129/)
-- [PBS SoCal Rebrands Kcet Broadcast Channel as ‘PBS SoCal Plus’](https://www.imdb.com/news/ni64407120/)
-- [‘Between the Temples’ Carol Kane Says Jews Should ‘Stand Up and Be Proud’ in Time of Chaos](https://www.imdb.com/news/ni64407136/)
-- [‘Sasquatch Sunset’ Review: Jesse Eisenberg and Riley Keough Act Beastly in This Odd Bigfoot Saga](https://www.imdb.com/news/ni64407128/)
-- [Every Renewed and Canceled TV Show in 2024](https://www.imdb.com/news/ni64407137/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Do not use life to give life to death. Do not use death to bring death to life.
+> Mastery is not a function of genius or talent, it is a function of time and intense focus applied to a particular field of knowledge.
 >
-> <p>Zhuangzi</p>
+> <p>Robert Greene</p>
