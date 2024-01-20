@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Lucy Liu Doesn’t Think ‘Charlie’s Angels 3’ Will Ever Get Made: ‘I Will Be Shocked if That Happened’](https://www.imdb.com/news/ni64406648/)
-- [Justin Timberlake to Appear as ‘SNL’ Musical Guest for First Time in Years](https://www.imdb.com/news/ni64406711/)
-- [Madame Web’s Dakota Johnson Brags About Her Stunt Driving: ‘Watch out, Tom Cruise’](https://www.imdb.com/news/ni64406693/)
-- [Melissa Barrera Says ‘Scream’ Firing Led to a ‘Big Awakening’: ‘I’m Just So Grateful for Everything That’s Happened’](https://www.imdb.com/news/ni64406558/)
-- [‘I Saw the TV Glow’ Review: Jane Schoenbrun’s Eerie Ode to Adolescent Television Obsessions](https://www.imdb.com/news/ni64406560/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> When you're curious, you find lots of interesting things to do.
+> Be yourself; everyone else is already taken 
 >
-> <p>Walt Disney</p>
+> <p>Oscar Wilde</p>
