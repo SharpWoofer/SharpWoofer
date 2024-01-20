@@ -13,7 +13,11 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-
+- [‘The Conners’: Nick Offerman to Guest-Star in Season 6](https://www.imdb.com/news/ni64407727/)
+- [‘True Detective’: Every Important Symbol From ‘Night Country’ &lpar;So Far&rpar;](https://www.imdb.com/news/ni64407728/)
+- [Top Takeaways From Variety’s Entertainment Summit at CES 2024](https://www.imdb.com/news/ni64395371/)
+- [‘Doctor Who’ Star Millie Gibson to Be Replaced by Varada Sethu After One Season](https://www.imdb.com/news/ni64407679/)
+- [Normani, Dylan O’Brien and More Win Breakthrough Awards at Variety &amp; Golden Globes Sundance Party: ‘I’ve Only Been Here in My Dreams Up Until Now’](https://www.imdb.com/news/ni64407627/)
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
