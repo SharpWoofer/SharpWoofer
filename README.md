@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Riley Keough, Jesse Eisenberg Spent Two Hours Transforming Into Bigfoot With ‘Tons of Fur’ for Absurdist Sundance Movie ‘Sasquatch Sunset’](https://www.imdb.com/news/ni64406868/)
-- [Fighters Win Key Ruling Clearing Way For Legal Bout With Tko Group’s UFC](https://www.imdb.com/news/ni64406846/)
-- [‘The Way Home’ Stars Share On-Set Memories, Who They’d Like to Fight &amp; More &lpar;Video&rpar;](https://www.imdb.com/news/ni64406852/)
-- [‘Flight Attendant’ Not Returning for Season 3 at Max](https://www.imdb.com/news/ni64406856/)
-- [‘Rust’ Armorer’s Attorney-Client Texts Mistakenly Given to Key Witness](https://www.imdb.com/news/ni64406820/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Be yourself; everyone else is already taken 
+> Life is either a daring adventure, or it is nothing.
 >
-> <p>Oscar Wilde</p>
+> <p>Helen Keller</p>
