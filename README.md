@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Sony Saved A Dying Movie Genre In 2023 With 2 Major Hits](https://www.imdb.com/news/ni64407376/)
-- [How to Watch United State Men&#39;s National Soccer Team vs. Slovenia Friendly on Jan. 20, 2024 Live Online Without Cable](https://www.imdb.com/news/ni64407346/)
-- [Sundance Breakout ‘Handling the Undead,’ Where ‘Dread Infuses Each Frame,’ Sells Wide for TrustNordisk &lpar;Exclusive&rpar;](https://www.imdb.com/news/ni64407324/)
-- [Sundance Winner Sofia Alaoui to Tackle Eco-Anxieties in Apocalyptic Thriller ‘Tarfaya’: ‘This World Is Full of Poetry and Melancholy’ &lpar;Exclusive&rpar;](https://www.imdb.com/news/ni64407241/)
-- [‘Just the Two of Us’ Duo Valérie Donzelli, Audrey Diwan Reteam for Caregiver Drama ‘The Infinite Present Ends’ &lpar;Exclusive&rpar;](https://www.imdb.com/news/ni64407212/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Be a good animal, true to your instincts.
+> When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.  
 >
-> <p>D. H. Lawrence</p>
+> <p>Wayne Dyer</p>
