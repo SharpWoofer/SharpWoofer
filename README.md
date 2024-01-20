@@ -13,7 +13,11 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Michelle Hurd Talks ‘Star Trek: Legacy’ Hopes &amp; Ponders ‘Svu’ Return](https://www.imdb.com/news/ni64407781/)
+- [‘Mean Girls’ Has Edge During First Weak Weekend Of 2024 – Saturday Box Office](https://www.imdb.com/news/ni64407778/)
+- [River Gallo Is Ready to Conquer Sundance With Bold Intersex Crime Drama ‘Ponyboi’](https://www.imdb.com/news/ni64407759/)
+- [David Alan Grier: White People Might Watch ‘American Society’ and Say They’re ‘Tired of Hearing About Race,’ but ‘We’re Tired of Talking About It’](https://www.imdb.com/news/ni64407758/)
+- [‘The Conners’: Nick Offerman to Guest-Star in Season 6](https://www.imdb.com/news/ni64407727/)
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
