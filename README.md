@@ -13,7 +13,11 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Normani, Dylan O’Brien and More Win Breakthrough Awards at Variety &amp; Golden Globes Sundance Party: ‘I’ve Only Been Here in My Dreams Up Until Now’](https://www.imdb.com/news/ni64407627/)
+- [Box Office: ‘I.S.S.’ Fails to Launch With $1.2 Million Opening Day, ‘Mean Girls’ on Top](https://www.imdb.com/news/ni64407576/)
+- [Dolly de Leon’s Next Act: ‘Triangle of Sadness’ Breakout on Her Two Buzzy Sundance Films](https://www.imdb.com/news/ni64407574/)
+- [Steven Soderbergh’s ‘Presence’ Was So Intense That Some Sundance Viewers Walked Out: ‘I Cannot Take This Stress’](https://www.imdb.com/news/ni64407575/)
+- [Riley Keough Receives the IMDb STARmeter Award at the 2024 Sundance Film Festival](https://www.eagletribune.com/region/riley-keough-receives-the-imdb-starmeter-award-at-the-2024-sundance-film-festival/article_361740e3-0f0f-578f-9322-431e12986f29.html)
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
