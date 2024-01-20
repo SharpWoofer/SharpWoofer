@@ -13,7 +13,11 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Riley Keough Receives the IMDb STARmeter Award at the 2024 Sundance Film Festival](https://www.eagletribune.com/region/riley-keough-receives-the-imdb-starmeter-award-at-the-2024-sundance-film-festival/article_361740e3-0f0f-578f-9322-431e12986f29.html)
+- [2024 Summer Olympics: 3 Must-See Moments From the Games](https://www.imdb.com/news/ni64407504/)
+- [Adam Harrison Dies: Son of ‘Pawn Stars’ Star Rick Harrison Was 39](https://www.imdb.com/news/ni64407503/)
+- [Where To Watch Dumb Money On Streaming](https://www.imdb.com/news/ni64407535/)
+- [Sony Saved A Dying Movie Genre In 2023 With 2 Major Hits](https://www.imdb.com/news/ni64407376/)
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
