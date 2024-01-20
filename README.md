@@ -13,7 +13,11 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-
+- [‘Founders Day’ Review: Political Backstabbing Turns Literal in Semi-Comedic Slasher](https://www.imdb.com/news/ni64407114/)
+- [‘Ibelin’ Review: A Shattering Documentary About a Gamer’s Secret Life](https://www.imdb.com/news/ni64407113/)
+- [China’s Lin Jianjie Debuts Genre-Fluid ‘Brief History of a Family’ at Sundance: ‘Chinese Middle Classes Are Still New to This Identity’ &lpar;Exclusive&rpar;](https://www.imdb.com/news/ni64407115/)
+- [‘Dìdi’ Review: Fremont-Set Sundance Movie Recalls Being the Kid Brother in an Immigrant Household](https://www.imdb.com/news/ni64407081/)
+- [Jesse Eisenberg and Riley Keough’s ‘Sasquatch Sunset’ Weirds Out Sundance With Bigfoots Having Sex, Vomiting and Farting](https://www.imdb.com/news/ni64407080/)
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
