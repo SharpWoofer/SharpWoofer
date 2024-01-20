@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [‘The Traitors’ Team Breaks Down Castle Logistics, Extremely Fast Filming Schedule and How They Crafted That Epic Funeral Episode](https://www.imdb.com/news/ni64406945/)
-- [Josh Hutcherson Reveals He Lost Out on ‘Home Alone’ Role](https://www.imdb.com/news/ni64406951/)
-- [After an Explosive Season 2 Finale, ‘Reacher’ Star Alan Ritchson Teases Next Season: ‘I Want to See More of the 110th’](https://www.imdb.com/news/ni64406946/)
-- [Hca Disputes Allegations of Influence Peddling As Questionable Communication Comes to Light &lpar;Exclusive&rpar;](https://www.imdb.com/news/ni64406919/)
-- [‘Love Me’ Review: Kristen Stewart and Steven Yeun Stare Madly Into One Another’s AIs in Robot-Love Rom-Com](https://www.imdb.com/news/ni64406917/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day.
+> Peace of mind is that mental condition in which you have accepted the worst.
 >
-> <p>Paulo Coelho</p>
+> <p>Lin Yutang</p>
