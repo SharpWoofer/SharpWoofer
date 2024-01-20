@@ -13,7 +13,11 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-
+- [River Gallo Is Ready to Conquer Sundance With Bold Intersex Crime Drama ‘Ponyboi’](https://www.imdb.com/news/ni64407759/)
+- [David Alan Grier: White People Might Watch ‘American Society’ and Say They’re ‘Tired of Hearing About Race,’ but ‘We’re Tired of Talking About It’](https://www.imdb.com/news/ni64407758/)
+- [‘The Conners’: Nick Offerman to Guest-Star in Season 6](https://www.imdb.com/news/ni64407727/)
+- [‘True Detective’: Every Important Symbol From ‘Night Country’ &lpar;So Far&rpar;](https://www.imdb.com/news/ni64407728/)
+- [Top Takeaways From Variety’s Entertainment Summit at CES 2024](https://www.imdb.com/news/ni64395371/)
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
