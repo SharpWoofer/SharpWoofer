@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [‘Agent of Happiness’ Review: A Documentary Searches for True Contentment in Bhutan](https://www.imdb.com/news/ni64407147/)
-- [Sofia Vergara, Netflix Sued by Griselda Blanco’s Estate Over Upcoming Series](https://www.imdb.com/news/ni64407129/)
-- [PBS SoCal Rebrands Kcet Broadcast Channel as ‘PBS SoCal Plus’](https://www.imdb.com/news/ni64407120/)
-- [‘Between the Temples’ Carol Kane Says Jews Should ‘Stand Up and Be Proud’ in Time of Chaos](https://www.imdb.com/news/ni64407136/)
-- [‘Sasquatch Sunset’ Review: Jesse Eisenberg and Riley Keough Act Beastly in This Odd Bigfoot Saga](https://www.imdb.com/news/ni64407128/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Mastery is not a function of genius or talent, it is a function of time and intense focus applied to a particular field of knowledge.
+> Know yourself and you will win all battles.
 >
-> <p>Robert Greene</p>
+> <p>Sun Tzu</p>
