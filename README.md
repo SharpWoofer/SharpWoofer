@@ -13,7 +13,11 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-
+- [‘Seeking Mavis Beacon’ Review: Thoughtful Doc Pursues an Elusive Black Icon](https://www.imdb.com/news/ni64408296/)
+- [‘Love Lies Bleeding’ Premiere Leaves Sundance Crowd Cheering, Squirming During Kristen Stewart and Katy O’Brian’s Gory Love Story](https://www.imdb.com/news/ni64408295/)
+- [‘Invisible Nation’ Review: Taiwan’s President Tsai Ing-wen Fights For Her Country’s Survival in Vanessa Hope’s Compelling Documentary](https://www.imdb.com/news/ni64408299/)
+- [Aubrey Plaza and Megan Park on Getting Justin Bieber’s Approval for Fantasy Scene in Sundance Comedy ‘My Old Ass’](https://www.imdb.com/news/ni64408197/)
+- [‘My Old Ass’ Review: Always-Welcome Aubrey Plaza Pops in From the Future in YA Crowd-Pleaser](https://www.imdb.com/news/ni64408196/)
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
