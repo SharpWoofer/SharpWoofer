@@ -74,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> When you win, say nothing, when you lose say less.
+> Don't let your mind stop you.
 >
-> <p>Wayne Gretzky</p>
+> <p>Steve Harvey</p>
