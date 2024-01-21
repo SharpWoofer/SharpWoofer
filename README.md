@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Marlena Shaw, “California Soul” Singer, Dies at 81](https://www.imdb.com/news/ni64408093/)
-- [‘Girls State’ Review: ‘Boys State’ Doc Duo Checks in on the Equivalent &lpar;but Not Equal&rpar; Mock-Government Program](https://www.imdb.com/news/ni64408063/)
-- [‘A Real Pain’ Review: Jesse Eisenberg and Kieran Culkin in a Film That Flows From Humor to Unexpectedly Affecting Places](https://www.imdb.com/news/ni64408037/)
-- [‘Winner’ Review: Emilia Jones Takes on the U.S. Government in Overly Jaunty Reality Winner Dramedy](https://www.imdb.com/news/ni64407997/)
-- [Kieran Culkin on Being Directed by Fellow Actor Jesse Eisenberg: “B****, I Got Notes for You, Too”](https://www.imdb.com/news/ni64407996/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Never whine, never complain, never try to justify yourself.
+> Never settle for the crumbs of life.
 >
-> <p>Robert Greene</p>
+> <p>Og Mandino</p>
