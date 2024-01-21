@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [‘Winner’ Review: Emilia Jones Takes on the U.S. Government in Overly Jaunty Reality Winner Dramedy](https://www.imdb.com/news/ni64407997/)
-- [Kieran Culkin on Being Directed by Fellow Actor Jesse Eisenberg: “B****, I Got Notes for You, Too”](https://www.imdb.com/news/ni64407996/)
-- [Variety’s 2024 Sundance Studio Portrait Gallery](https://www.imdb.com/news/ni64407975/)
-- [‘The American Society of Magical Negroes’ Review: A Racial Satire Wittier and More Scalding Than ‘American Fiction’](https://www.imdb.com/news/ni64407974/)
-- [Reese Witherspoon Responds to Fans Concerned She’s Eating Snow: “You Only Live Once”](https://www.imdb.com/news/ni64407980/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Youth is happy because it has the ability to see beauty. Anyone who keeps the ability to see beauty never grows old. 
+> Never whine, never complain, never try to justify yourself.
 >
-> <p>Franz Kafka</p>
+> <p>Robert Greene</p>
