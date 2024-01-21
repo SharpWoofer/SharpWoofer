@@ -74,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Winners don't Quit. That's why they Win.
+> When you win, say nothing, when you lose say less.
 >
-> <p>Unknown</p>
+> <p>Wayne Gretzky</p>
