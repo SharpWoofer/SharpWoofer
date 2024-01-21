@@ -74,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Blessed is he who expects nothing, for he shall never be disappointed.
+> Winners don't Quit. That's why they Win.
 >
-> <p>Alexander Pope</p>
+> <p>Unknown</p>
