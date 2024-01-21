@@ -13,7 +13,11 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Riley Keough wins IMDb STARmeter Award, talks Sasquatch sex scenes](https://ew.com/riley-keough-wins-imdb-starmeter-award-sasquatch-sunset-sundance-2024-8546836)
+- [Christopher Reeve’s Children Never Watched That ‘Flash’ CGI Cameo, Say He’d Choose ‘Remains of the Day’ Over ‘Superman’ as the Film He’s Proud of Most](https://www.imdb.com/news/ni64407868/)
+- [‘Frida’ Review: Popular Mexican Painter Speaks for Herself in Doc Drawn From Kahlo’s Diaries](https://www.imdb.com/news/ni64407867/)
+- [Gov. Gavin Newsom Tells Bill Maher That He Tried to Resolve WGA and SAG-AFTRA Strikes: ‘You Can Be Constructive Behind the Scenes’](https://www.imdb.com/news/ni64407869/)
+- [Scott Manners, Veteran Talent Agent and Artists &amp; Representatives Founder, Dies at 68](https://www.imdb.com/news/ni64407826/)
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
