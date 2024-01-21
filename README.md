@@ -13,7 +13,11 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Aubrey Plaza and Megan Park on Getting Justin Bieber’s Approval for Fantasy Scene in Sundance Comedy ‘My Old Ass’](https://www.imdb.com/news/ni64408197/)
+- [‘My Old Ass’ Review: Always-Welcome Aubrey Plaza Pops in From the Future in YA Crowd-Pleaser](https://www.imdb.com/news/ni64408196/)
+- [‘Mean Girls’ Star Rachel McAdams Makes Surprise ‘SNL’ Appearance to Introduce Reneé Rapp, Megan Thee Stallion Joins Performance](https://www.imdb.com/news/ni64408179/)
+- [Marlena Shaw, “California Soul” Singer, Dies at 81](https://www.imdb.com/news/ni64408093/)
+- [‘Girls State’ Review: ‘Boys State’ Doc Duo Checks in on the Equivalent &lpar;but Not Equal&rpar; Mock-Government Program](https://www.imdb.com/news/ni64408063/)
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
