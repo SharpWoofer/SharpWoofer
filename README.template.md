@@ -8,7 +8,7 @@
 
 Hello!
 
-## 📝 Latest Movie Reviews (IMDB Placeholder for now)
+## 📝 Latest Movie Reviews (NASA Placeholder for now)
 
 <br>
 
