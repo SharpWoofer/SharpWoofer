@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA Interns at Johnson’s Rock Yard](https://www.nasa.gov/image-detail/52945857760-666c5484fe-o/)
-- [NASA’S OSIRIS-REx Curation Team Reveals Remaining Asteroid Sample](https://www.nasa.gov/image-detail/osiris-rex-pe-examination-5/)
-- [Hubble Captures a Monster Merger](https://www.nasa.gov/image-detail/when-one-plus-one-eventually-equals-one/)
-- [An Aurora in Another Light](https://www.nasa.gov/image-detail/nameraurora-vir-2023309-lrg/)
-- [NASA’s X-59 Quiet Supersonic Research Aircraft Unveiled](https://www.nasa.gov/image-detail/nasas-x-59-quiet-supersonic-research-aircraft-unveiled/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> A fear-oriented man is always calculating, planning, arranging, safeguarding. His whole life is lost in this way.
+> Values are like fingerprints. Nobody's are the same, but you leave 'em all over everything you do.
 >
-> <p>Osho</p>
+> <p>Elvis Presley</p>
