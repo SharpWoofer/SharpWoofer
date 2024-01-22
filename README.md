@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA’S OSIRIS-REx Curation Team Reveals Remaining Asteroid Sample](https://www.nasa.gov/image-detail/osiris-rex-pe-examination-5/)
-- [Hubble Captures a Monster Merger](https://www.nasa.gov/image-detail/when-one-plus-one-eventually-equals-one/)
-- [An Aurora in Another Light](https://www.nasa.gov/image-detail/nameraurora-vir-2023309-lrg/)
-- [NASA’s X-59 Quiet Supersonic Research Aircraft Unveiled](https://www.nasa.gov/image-detail/nasas-x-59-quiet-supersonic-research-aircraft-unveiled/)
-- [Verdant Farmlands of Simsbury, Connecticut](https://www.nasa.gov/image-detail/simsbury-oli2-2022258-lrg/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Exceptional thinkers ignore their critics and go about their business making history.
+> A fear-oriented man is always calculating, planning, arranging, safeguarding. His whole life is lost in this way.
 >
-> <p>John Eliot</p>
+> <p>Osho</p>
