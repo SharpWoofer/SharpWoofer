@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA Interns at Johnson’s Rock Yard](https://www.nasa.gov/image-detail/52945857760-666c5484fe-o/)
-- [NASA’S OSIRIS-REx Curation Team Reveals Remaining Asteroid Sample](https://www.nasa.gov/image-detail/osiris-rex-pe-examination-5/)
-- [Hubble Captures a Monster Merger](https://www.nasa.gov/image-detail/when-one-plus-one-eventually-equals-one/)
-- [An Aurora in Another Light](https://www.nasa.gov/image-detail/nameraurora-vir-2023309-lrg/)
-- [NASA’s X-59 Quiet Supersonic Research Aircraft Unveiled](https://www.nasa.gov/image-detail/nasas-x-59-quiet-supersonic-research-aircraft-unveiled/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> As you grow older you will discover that you have two hands. One for helping yourself, the other for helping others.
+> The secret of life is to fall seven times and to get up eight times.
 >
-> <p>Audrey Hepburn</p>
+> <p>Paulo Coelho</p>
