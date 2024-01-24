@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Axiom Mission 3 Launches to the International Space Station](https://www.nasa.gov/image-detail/afs-8-101-474/)
-- [NASA Interns at Johnson’s Rock Yard](https://www.nasa.gov/image-detail/52945857760-666c5484fe-o/)
-- [NASA’S OSIRIS-REx Curation Team Reveals Remaining Asteroid Sample](https://www.nasa.gov/image-detail/osiris-rex-pe-examination-5/)
-- [Hubble Captures a Monster Merger](https://www.nasa.gov/image-detail/when-one-plus-one-eventually-equals-one/)
-- [An Aurora in Another Light](https://www.nasa.gov/image-detail/nameraurora-vir-2023309-lrg/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Actions are the seeds of fate. Deeds grow into destiny.
+> Everything great that has ever happened to humanity has begun as a single thought in someone's mind.
 >
-> <p>Harry S. Truman</p>
+> <p>Yanni</p>
