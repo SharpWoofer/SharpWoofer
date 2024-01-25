@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Celebrating NASA&#39;s Spirit and Opportunity Rovers’ Mars Landings](https://www.nasa.gov/image-detail/e1-mer-20th-poster-vert-front-1080x1920-1-eefb7b/)
-- [Axiom Mission 3 Launches to the International Space Station](https://www.nasa.gov/image-detail/afs-8-101-474/)
-- [NASA Interns at Johnson’s Rock Yard](https://www.nasa.gov/image-detail/52945857760-666c5484fe-o/)
-- [NASA’S OSIRIS-REx Curation Team Reveals Remaining Asteroid Sample](https://www.nasa.gov/image-detail/osiris-rex-pe-examination-5/)
-- [Hubble Captures a Monster Merger](https://www.nasa.gov/image-detail/when-one-plus-one-eventually-equals-one/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Life comes at us in waves. We can't predict or control those waves, but we can learn to surf.
+> In youth we run into difficulties. In old age difficulties run into us. 
 >
-> <p>Dan Millman</p>
+> <p>Beverly Sills</p>
