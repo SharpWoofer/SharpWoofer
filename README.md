@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Celebrating NASA&#39;s Spirit and Opportunity Rovers’ Mars Landings](https://www.nasa.gov/image-detail/e1-mer-20th-poster-vert-front-1080x1920-1-eefb7b/)
-- [Axiom Mission 3 Launches to the International Space Station](https://www.nasa.gov/image-detail/afs-8-101-474/)
-- [NASA Interns at Johnson’s Rock Yard](https://www.nasa.gov/image-detail/52945857760-666c5484fe-o/)
-- [NASA’S OSIRIS-REx Curation Team Reveals Remaining Asteroid Sample](https://www.nasa.gov/image-detail/osiris-rex-pe-examination-5/)
-- [Hubble Captures a Monster Merger](https://www.nasa.gov/image-detail/when-one-plus-one-eventually-equals-one/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> People who bite the hand that feeds them usually lick the boot that kicks them.
+> He who is untrue to his own cause cannot command the respect of others.
 >
-> <p>Eric Hoffer</p>
+> <p>Albert Einstein</p>
