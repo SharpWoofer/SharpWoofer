@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Day of Remembrance](https://www.nasa.gov/image-detail/day-of-remembrance-13/)
-- [Celebrating NASA&#39;s Spirit and Opportunity Rovers’ Mars Landings](https://www.nasa.gov/image-detail/e1-mer-20th-poster-vert-front-1080x1920-1-eefb7b/)
-- [Axiom Mission 3 Launches to the International Space Station](https://www.nasa.gov/image-detail/afs-8-101-474/)
-- [NASA Interns at Johnson’s Rock Yard](https://www.nasa.gov/image-detail/52945857760-666c5484fe-o/)
-- [NASA’S OSIRIS-REx Curation Team Reveals Remaining Asteroid Sample](https://www.nasa.gov/image-detail/osiris-rex-pe-examination-5/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> As long as a human being worries about when he will die, and what he has that is his, all of his works are zero.
+> It's easy to wish for health when you're sick.  When you're doing well, you need just as much vigilance.
 >
-> <p>Kabir</p>
+> <p>Kamal Ravikant</p>
