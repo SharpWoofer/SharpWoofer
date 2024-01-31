@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Cygnus Flies to the International Space Station](https://www.nasa.gov/image-detail/afs-8-101-479/)
-- [Earth&#39;s Atmospheric Glow](https://www.nasa.gov/image-detail/iss070e076676/)
-- [A New Home for Ingenuity Mars Helicopter Prototype](https://www.nasa.gov/image-detail/ingenuity-mars-helicopter-prototype-donation-to-nasm/)
-- [Day of Remembrance](https://www.nasa.gov/image-detail/day-of-remembrance-13/)
-- [Celebrating NASA&#39;s Spirit and Opportunity Rovers’ Mars Landings](https://www.nasa.gov/image-detail/e1-mer-20th-poster-vert-front-1080x1920-1-eefb7b/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Life is simply what our feelings do to us.
+> We crave for new sensations but soon become indifferent to them. The wonders of yesterday are today common occurrences 
 >
-> <p>Honore de Balzac</p>
+> <p>Nikola Tesla</p>
