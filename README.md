@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Cygnus Flies to the International Space Station](https://www.nasa.gov/image-detail/afs-8-101-479/)
-- [Earth&#39;s Atmospheric Glow](https://www.nasa.gov/image-detail/iss070e076676/)
-- [A New Home for Ingenuity Mars Helicopter Prototype](https://www.nasa.gov/image-detail/ingenuity-mars-helicopter-prototype-donation-to-nasm/)
-- [Day of Remembrance](https://www.nasa.gov/image-detail/day-of-remembrance-13/)
-- [Celebrating NASA&#39;s Spirit and Opportunity Rovers’ Mars Landings](https://www.nasa.gov/image-detail/e1-mer-20th-poster-vert-front-1080x1920-1-eefb7b/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> I am thankful to all who said no to me. It is because of them that I'm doing it myself.
+> If you get up one more time than you fall, you will make it through.
 >
-> <p>Albert Einstein</p>
+> <p>Chinese Proverb</p>
