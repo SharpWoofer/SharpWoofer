@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [First Hot Fire Test of the Year for Artemis](https://www.nasa.gov/image-detail/s24-001-ssc-20240117-s00006-rs-25-testorig/)
-- [Cygnus Flies to the International Space Station](https://www.nasa.gov/image-detail/afs-8-101-479/)
-- [Earth&#39;s Atmospheric Glow](https://www.nasa.gov/image-detail/iss070e076676/)
-- [A New Home for Ingenuity Mars Helicopter Prototype](https://www.nasa.gov/image-detail/ingenuity-mars-helicopter-prototype-donation-to-nasm/)
-- [Day of Remembrance](https://www.nasa.gov/image-detail/day-of-remembrance-13/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> People don't realize that now is all there ever is; there is no past or future except as memory or anticipation in your mind.
+> Greatness comes from living with purpose and passion.
 >
-> <p>Eckhart Tolle</p>
+> <p>Ralph Marston</p>
