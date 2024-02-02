@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [First Hot Fire Test of the Year for Artemis](https://www.nasa.gov/image-detail/s24-001-ssc-20240117-s00006-rs-25-testorig/)
-- [Cygnus Flies to the International Space Station](https://www.nasa.gov/image-detail/afs-8-101-479/)
-- [Earth&#39;s Atmospheric Glow](https://www.nasa.gov/image-detail/iss070e076676/)
-- [A New Home for Ingenuity Mars Helicopter Prototype](https://www.nasa.gov/image-detail/ingenuity-mars-helicopter-prototype-donation-to-nasm/)
-- [Day of Remembrance](https://www.nasa.gov/image-detail/day-of-remembrance-13/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The greatest gift that you can give to others is the gift of unconditional love and acceptance. 
+> Sometimes letting things go is an act of far greater power than defending or hanging on.
 >
-> <p>Brian Tracy</p>
+> <p>Eckhart Tolle</p>
