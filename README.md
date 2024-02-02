@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [First Hot Fire Test of the Year for Artemis](https://www.nasa.gov/image-detail/s24-001-ssc-20240117-s00006-rs-25-testorig/)
-- [Cygnus Flies to the International Space Station](https://www.nasa.gov/image-detail/afs-8-101-479/)
-- [Earth&#39;s Atmospheric Glow](https://www.nasa.gov/image-detail/iss070e076676/)
-- [A New Home for Ingenuity Mars Helicopter Prototype](https://www.nasa.gov/image-detail/ingenuity-mars-helicopter-prototype-donation-to-nasm/)
-- [Day of Remembrance](https://www.nasa.gov/image-detail/day-of-remembrance-13/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -26,8 +22,8 @@ Hello!
 
 <br>
 
-<a href="https://github.com/SharpWoofer/SC2002-Project">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SharpWoofer&repo=SC2002-Project&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/J0JIng/SC2002-CAMs-Project">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=J0JIng&repo=SC2002-CAMs-Project&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Wise people, even though all laws were abolished, would still lead the same life.
+> Silence is a source of great strength.
 >
-> <p>Aristophanes</p>
+> <p>Lao Tzu</p>
