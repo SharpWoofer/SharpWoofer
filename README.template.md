@@ -3,7 +3,7 @@
 [![Visits Badge](https://badges.pufler.dev/visits/SharpWoofer/SharpWoofer)](https://badges.pufler.dev)
 ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/SharpWoofer/SharpWoofer/blog-post-workflow.yml?style=flat)
 [![Updated Badge](https://badges.pufler.dev/updated/SharpWoofer/SharpWoofer)](https://badges.pufler.dev)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/hongqi-cai-385566275/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/hongqicai/)
 
 
 Hello!
