@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Hubble Sees a Merged Galaxy](https://www.nasa.gov/image-detail/hubble-eso185-ig013-strm2-3-flat/)
-- [First Hot Fire Test of the Year for Artemis](https://www.nasa.gov/image-detail/s24-001-ssc-20240117-s00006-rs-25-testorig/)
-- [Cygnus Flies to the International Space Station](https://www.nasa.gov/image-detail/afs-8-101-479/)
-- [Earth&#39;s Atmospheric Glow](https://www.nasa.gov/image-detail/iss070e076676/)
-- [A New Home for Ingenuity Mars Helicopter Prototype](https://www.nasa.gov/image-detail/ingenuity-mars-helicopter-prototype-donation-to-nasm/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> When we allow negative messages to fester in our head, they take on a life of their own.
+> If you want to know what God thinks about money just look at the people He gives it to.
 >
-> <p>Lolly Daskal</p>
+> <p>Alexander Pope</p>
