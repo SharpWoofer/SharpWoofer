@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Astronaut Bruce McCandless Performs the First Untethered Spacewalk](https://www.nasa.gov/image-detail/s84-27018orig/)
-- [First Artemis Moon Crew Trains for Return to Earth](https://www.nasa.gov/image-detail/jsc2024e009648orig/)
-- [Deputy Discovery and Systems Health Technical Area Lead Dr. Rodney Martin](https://www.nasa.gov/image-detail/enviromental-portrait-of-rodney-martin/)
-- [Hubble Sees a Merged Galaxy](https://www.nasa.gov/image-detail/hubble-eso185-ig013-strm2-3-flat/)
-- [First Hot Fire Test of the Year for Artemis](https://www.nasa.gov/image-detail/s24-001-ssc-20240117-s00006-rs-25-testorig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> To become what you are not, behave as you do not.
+> We are all different. Don't judge, understand instead.
 >
-> <p>T.S. Eliot</p>
+> <p>Roy T. Bennett</p>
