@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Skylab 4 Recovery Ends Program](https://www.nasa.gov/image-detail/s74-17744orig/)
-- [Astronaut Bruce McCandless Performs the First Untethered Spacewalk](https://www.nasa.gov/image-detail/s84-27018orig/)
-- [First Artemis Moon Crew Trains for Return to Earth](https://www.nasa.gov/image-detail/jsc2024e009648orig/)
-- [Deputy Discovery and Systems Health Technical Area Lead Dr. Rodney Martin](https://www.nasa.gov/image-detail/enviromental-portrait-of-rodney-martin/)
-- [Hubble Sees a Merged Galaxy](https://www.nasa.gov/image-detail/hubble-eso185-ig013-strm2-3-flat/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Friendship is one of the most tangible things in a world which offers fewer and fewer supports.
+> Leave the beaten track behind occasionally and dive into the woods. Every time you do you will be certain to find something you have never seen before.
 >
-> <p>Kenneth Branagh</p>
+> <p>Alexander Graham Bell</p>
