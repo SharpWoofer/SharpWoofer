@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Skylab 4 Recovery Ends Program](https://www.nasa.gov/image-detail/s74-17744orig/)
-- [Astronaut Bruce McCandless Performs the First Untethered Spacewalk](https://www.nasa.gov/image-detail/s84-27018orig/)
-- [First Artemis Moon Crew Trains for Return to Earth](https://www.nasa.gov/image-detail/jsc2024e009648orig/)
-- [Deputy Discovery and Systems Health Technical Area Lead Dr. Rodney Martin](https://www.nasa.gov/image-detail/enviromental-portrait-of-rodney-martin/)
-- [Hubble Sees a Merged Galaxy](https://www.nasa.gov/image-detail/hubble-eso185-ig013-strm2-3-flat/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The trouble with most of us is that we'd rather be ruined by praise than saved by criticism.
+> If you love life, don't waste time, for time is what life is made up of. 
 >
-> <p>Norman Vincent Peale</p>
+> <p>Bruce Lee</p>
