@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Astronaut Bob Hines](https://www.nasa.gov/image-detail/bobhines-fon-52257560772-244c61aeef-k/)
-- [Skylab 4 Recovery Ends Program](https://www.nasa.gov/image-detail/s74-17744orig/)
-- [Astronaut Bruce McCandless Performs the First Untethered Spacewalk](https://www.nasa.gov/image-detail/s84-27018orig/)
-- [First Artemis Moon Crew Trains for Return to Earth](https://www.nasa.gov/image-detail/jsc2024e009648orig/)
-- [Deputy Discovery and Systems Health Technical Area Lead Dr. Rodney Martin](https://www.nasa.gov/image-detail/enviromental-portrait-of-rodney-martin/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Prefer to be defeated in the presence of the wise than to excel among fools.
+> Life goes by very fast. And the worst thing in life that you can have is a job that you hate, and have no energy and creativity in.
 >
-> <p>Dogen</p>
+> <p>Robert Greene</p>
