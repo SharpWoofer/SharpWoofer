@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Astronaut Charles Bolden Preps for Deorbit](https://www.nasa.gov/image-detail/sts060-302-001orig/)
-- [Astronaut Bob Hines](https://www.nasa.gov/image-detail/bobhines-fon-52257560772-244c61aeef-k/)
-- [Skylab 4 Recovery Ends Program](https://www.nasa.gov/image-detail/s74-17744orig/)
-- [Astronaut Bruce McCandless Performs the First Untethered Spacewalk](https://www.nasa.gov/image-detail/s84-27018orig/)
-- [First Artemis Moon Crew Trains for Return to Earth](https://www.nasa.gov/image-detail/jsc2024e009648orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The more you take responsibility for your past and present, the more you are able to create the future you seek.
+> Worry is a waste of emotional reserve.
 >
-> <p>Celestine Chua</p>
+> <p>Ayn Rand</p>
