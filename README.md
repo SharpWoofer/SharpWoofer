@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NGC 4254 &lpar;Webb Image&rpar;](https://www.nasa.gov/image-detail/53495965723-5c5c821f78-o/)
-- [Astronaut Charles Bolden Preps for Deorbit](https://www.nasa.gov/image-detail/sts060-302-001orig/)
-- [Astronaut Bob Hines](https://www.nasa.gov/image-detail/bobhines-fon-52257560772-244c61aeef-k/)
-- [Skylab 4 Recovery Ends Program](https://www.nasa.gov/image-detail/s74-17744orig/)
-- [Astronaut Bruce McCandless Performs the First Untethered Spacewalk](https://www.nasa.gov/image-detail/s84-27018orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Tall oaks grow from little acorns.
+> Decide whether or not the goal is worth the risks involved. If it is, stop worrying.
 >
-> <p>Andrew Carnegie</p>
+> <p>Amelia Earhart</p>
