@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Signing Our Names](https://www.nasa.gov/image-detail/afs-8-101-491/)
-- [Intuitive Machines Launches to the Moon](https://www.nasa.gov/image-detail/afs-8-101-487/)
-- [A Floridian Sunset](https://www.nasa.gov/image-detail/afs-8-101-486/)
-- [NGC 4254 &lpar;Webb Image&rpar;](https://www.nasa.gov/image-detail/53495965723-5c5c821f78-o/)
-- [Astronaut Charles Bolden Preps for Deorbit](https://www.nasa.gov/image-detail/sts060-302-001orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> A real friend is one who walks in when the rest of the world walks out.
+> Never give up work. Work gives you meaning and purpose and life is empty without it.
 >
-> <p>Unknown</p>
+> <p>Stephen Hawking</p>
