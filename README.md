@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Signing Our Names](https://www.nasa.gov/image-detail/afs-8-101-491/)
-- [Intuitive Machines Launches to the Moon](https://www.nasa.gov/image-detail/afs-8-101-487/)
-- [A Floridian Sunset](https://www.nasa.gov/image-detail/afs-8-101-486/)
-- [NGC 4254 &lpar;Webb Image&rpar;](https://www.nasa.gov/image-detail/53495965723-5c5c821f78-o/)
-- [Astronaut Charles Bolden Preps for Deorbit](https://www.nasa.gov/image-detail/sts060-302-001orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The ability to hold two competing thoughts in one's mind and still be able to function is the mark of a superior mind.
+> Don't concern yourself with the money. Be of service. Build. Work. Dream. Create.
 >
-> <p>F. Scott Fitzgerald</p>
+> <p>Earl Nightingale</p>
