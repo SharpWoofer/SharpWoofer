@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Former Deputy Program Manager Dr. Camille Alleyne](https://www.nasa.gov/image-detail/jsc2024e005756/)
-- [Signing Our Names](https://www.nasa.gov/image-detail/afs-8-101-491/)
-- [Intuitive Machines Launches to the Moon](https://www.nasa.gov/image-detail/afs-8-101-487/)
-- [A Floridian Sunset](https://www.nasa.gov/image-detail/afs-8-101-486/)
-- [NGC 4254 &lpar;Webb Image&rpar;](https://www.nasa.gov/image-detail/53495965723-5c5c821f78-o/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Those who attain the middle Dominate the whole.
+> I have no methods; all I do is accept people as they are.
 >
-> <p>Ming-Dao Deng</p>
+> <p>Joan Rivers</p>
