@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Shanghai from Space](https://www.nasa.gov/image-detail/iss070e096351-2/)
-- [Studying Arctic Ice](https://www.nasa.gov/image-detail/7348420132-79aab0d0d9-o/)
-- [Former Deputy Program Manager Dr. Camille Alleyne](https://www.nasa.gov/image-detail/jsc2024e005756/)
-- [Signing Our Names](https://www.nasa.gov/image-detail/afs-8-101-491/)
-- [Intuitive Machines Launches to the Moon](https://www.nasa.gov/image-detail/afs-8-101-487/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Chop your own wood and it will warm you twice. 
+> One day, in retrospect, the years of struggle will strike you as the most beautiful.
 >
-> <p>Henry Ford</p>
+> <p>Sigmund Freud</p>
