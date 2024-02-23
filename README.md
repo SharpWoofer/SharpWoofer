@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Shanghai from Space](https://www.nasa.gov/image-detail/iss070e096351-2/)
-- [Studying Arctic Ice](https://www.nasa.gov/image-detail/7348420132-79aab0d0d9-o/)
-- [Former Deputy Program Manager Dr. Camille Alleyne](https://www.nasa.gov/image-detail/jsc2024e005756/)
-- [Signing Our Names](https://www.nasa.gov/image-detail/afs-8-101-491/)
-- [Intuitive Machines Launches to the Moon](https://www.nasa.gov/image-detail/afs-8-101-487/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Be polite to all, but intimate with few.
+> Learn from the rejection and turn it into an opportunity!
 >
-> <p>Thomas Jefferson</p>
+> <p>Mary Engelbreit</p>
