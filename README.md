@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Shanghai from Space](https://www.nasa.gov/image-detail/iss070e096351-2/)
-- [Studying Arctic Ice](https://www.nasa.gov/image-detail/7348420132-79aab0d0d9-o/)
-- [Former Deputy Program Manager Dr. Camille Alleyne](https://www.nasa.gov/image-detail/jsc2024e005756/)
-- [Signing Our Names](https://www.nasa.gov/image-detail/afs-8-101-491/)
-- [Intuitive Machines Launches to the Moon](https://www.nasa.gov/image-detail/afs-8-101-487/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> You can have results or excuses, but not both.
+> The major difference between the big shot and the little shot is the big shot is just a little shot who kept on shooting.
 >
-> <p>Arnold Schwarzenegger</p>
+> <p>Zig Ziglar</p>
