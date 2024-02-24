@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Hubble Views an Active Star-Forming Galaxy](https://www.nasa.gov/image-detail/a-high-amount-of-ram/)
-- [Shanghai from Space](https://www.nasa.gov/image-detail/iss070e096351-2/)
-- [Studying Arctic Ice](https://www.nasa.gov/image-detail/7348420132-79aab0d0d9-o/)
-- [Former Deputy Program Manager Dr. Camille Alleyne](https://www.nasa.gov/image-detail/jsc2024e005756/)
-- [Signing Our Names](https://www.nasa.gov/image-detail/afs-8-101-491/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Art, like morality, consists of drawing the line somewhere.
+> A fool sees himself as another, but a wise man sees others as himself.
 >
-> <p>Gilbert Chesterton</p>
+> <p>Dogen</p>
