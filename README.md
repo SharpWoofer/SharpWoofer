@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA, Partners Test Artemis II Recovery Procedures](https://www.nasa.gov/image-detail/afs-8-101-497/)
-- [Hubble Views an Active Star-Forming Galaxy](https://www.nasa.gov/image-detail/a-high-amount-of-ram/)
-- [Shanghai from Space](https://www.nasa.gov/image-detail/iss070e096351-2/)
-- [Studying Arctic Ice](https://www.nasa.gov/image-detail/7348420132-79aab0d0d9-o/)
-- [Former Deputy Program Manager Dr. Camille Alleyne](https://www.nasa.gov/image-detail/jsc2024e005756/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> It's not whether you get knocked down, its whether you get back up.
+> Some changes look negative on the surface but you will soon realize that space is being created in your life for something new to emerge.
 >
-> <p>Vince Lombardi</p>
+> <p>Eckhart Tolle</p>
