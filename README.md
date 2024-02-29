@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Atmospheric Science Branch Chief Dr. Charles Gatebe](https://www.nasa.gov/image-detail/charlesgatebe/)
-- [A Splash of Pink](https://www.nasa.gov/image-detail/05pd2169orig/)
-- [NASA, Partners Test Artemis II Recovery Procedures](https://www.nasa.gov/image-detail/afs-8-101-497/)
-- [Hubble Views an Active Star-Forming Galaxy](https://www.nasa.gov/image-detail/a-high-amount-of-ram/)
-- [Shanghai from Space](https://www.nasa.gov/image-detail/iss070e096351-2/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The Law of Concentration states that whatever you dwell upon grows. The more you think about something, the more it becomes part of your reality.
+> Fools talk, cowards are silent, wise men listen.
 >
-> <p>Brian Tracy</p>
+> <p>Carlos Ruiz Zafon</p>
