@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Odysseus Lands on the Moon](https://www.nasa.gov/image-detail/csys-surface-hdr-mix-no-logo/)
-- [Atmospheric Science Branch Chief Dr. Charles Gatebe](https://www.nasa.gov/image-detail/charlesgatebe/)
-- [A Splash of Pink](https://www.nasa.gov/image-detail/05pd2169orig/)
-- [NASA, Partners Test Artemis II Recovery Procedures](https://www.nasa.gov/image-detail/afs-8-101-497/)
-- [Hubble Views an Active Star-Forming Galaxy](https://www.nasa.gov/image-detail/a-high-amount-of-ram/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> I dream my painting and I paint my dream.
+> Yesterday is the past, tomorrow is the future, today is a gift - that's why it's called the present.
 >
-> <p>Vincent van Gogh</p>
+> <p>George Bernard Shaw</p>
