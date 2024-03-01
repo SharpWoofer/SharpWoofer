@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Hubble Uncovers a Celestial Fossil](https://www.nasa.gov/image-detail/hubble-uncovers-a-celestial-fossil/)
-- [Odysseus Lands on the Moon](https://www.nasa.gov/image-detail/csys-surface-hdr-mix-no-logo/)
-- [Atmospheric Science Branch Chief Dr. Charles Gatebe](https://www.nasa.gov/image-detail/charlesgatebe/)
-- [A Splash of Pink](https://www.nasa.gov/image-detail/05pd2169orig/)
-- [NASA, Partners Test Artemis II Recovery Procedures](https://www.nasa.gov/image-detail/afs-8-101-497/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Hope and fear come from feeling that we lack something; they come from a sense of poverty.
+> All power is from within and therefore under our control.
 >
-> <p>Pema Chodron</p>
+> <p>Robert Collier</p>
