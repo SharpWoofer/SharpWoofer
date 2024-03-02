@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Hubble Uncovers a Celestial Fossil](https://www.nasa.gov/image-detail/hubble-uncovers-a-celestial-fossil/)
-- [Odysseus Lands on the Moon](https://www.nasa.gov/image-detail/csys-surface-hdr-mix-no-logo/)
-- [Atmospheric Science Branch Chief Dr. Charles Gatebe](https://www.nasa.gov/image-detail/charlesgatebe/)
-- [A Splash of Pink](https://www.nasa.gov/image-detail/05pd2169orig/)
-- [NASA, Partners Test Artemis II Recovery Procedures](https://www.nasa.gov/image-detail/afs-8-101-497/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> In the beginner's mind there are many possibilities, but in the expert's mind there are few.
+> Opportunity is missed by most people because it is dressed in overalls and looks like work.
 >
-> <p>Shunryu Suzuki</p>
+> <p>Thomas Edison</p>
