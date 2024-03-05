@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Women of NASA Langley Research Center](https://www.nasa.gov/image-detail/53548171424-81c8fe55ce-o/)
-- [Hubble Uncovers a Celestial Fossil](https://www.nasa.gov/image-detail/hubble-uncovers-a-celestial-fossil/)
-- [Odysseus Lands on the Moon](https://www.nasa.gov/image-detail/csys-surface-hdr-mix-no-logo/)
-- [Atmospheric Science Branch Chief Dr. Charles Gatebe](https://www.nasa.gov/image-detail/charlesgatebe/)
-- [A Splash of Pink](https://www.nasa.gov/image-detail/05pd2169orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> We crave for new sensations but soon become indifferent to them. The wonders of yesterday are today common occurrences 
+> Many have died; you also will die. The drum of death is being beaten. The world has fallen in love with a dream. Only sayings of the wise will remain.
 >
-> <p>Nikola Tesla</p>
+> <p>Kabir</p>
