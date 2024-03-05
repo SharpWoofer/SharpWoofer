@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Women of NASA Langley Research Center](https://www.nasa.gov/image-detail/53548171424-81c8fe55ce-o/)
-- [Hubble Uncovers a Celestial Fossil](https://www.nasa.gov/image-detail/hubble-uncovers-a-celestial-fossil/)
-- [Odysseus Lands on the Moon](https://www.nasa.gov/image-detail/csys-surface-hdr-mix-no-logo/)
-- [Atmospheric Science Branch Chief Dr. Charles Gatebe](https://www.nasa.gov/image-detail/charlesgatebe/)
-- [A Splash of Pink](https://www.nasa.gov/image-detail/05pd2169orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Without struggle, no progress and no result. Every breaking of habit produces a change in the machine.
+> You can do nothing to change the past, and the future will never come exactly as you plan or hope for.
 >
-> <p>G.I. Gurdjieff</p>
+> <p>Dan Millman</p>
