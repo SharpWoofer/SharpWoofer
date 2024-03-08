@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Apollo 9 Astronaut David Scott’s Spacewalk](https://www.nasa.gov/image-detail/as09-20-3064orig/)
-- [NASA’s Newest Astronauts](https://www.nasa.gov/image-detail/photo-taken-during-the-2024-nasa-astronaut-graduation-ceremony-held-in-the-teague-auditorium-at-nasas-johnson-space-center-2/)
-- [Women of NASA Langley Research Center](https://www.nasa.gov/image-detail/53548171424-81c8fe55ce-o/)
-- [Hubble Uncovers a Celestial Fossil](https://www.nasa.gov/image-detail/hubble-uncovers-a-celestial-fossil/)
-- [Odysseus Lands on the Moon](https://www.nasa.gov/image-detail/csys-surface-hdr-mix-no-logo/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Whatever you do,strive to do it so well that no man living and no man dead and no man yet to be born could do it any better.
+> People don't realize that now is all there ever is; there is no past or future except as memory or anticipation in your mind.
 >
-> <p>Benjamin Mays</p>
+> <p>Eckhart Tolle</p>
