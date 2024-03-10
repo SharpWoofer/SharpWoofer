@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Martian Barchan Dunes](https://www.nasa.gov/image-detail/pia23669orig/)
-- [Apollo 9 Astronaut David Scott’s Spacewalk](https://www.nasa.gov/image-detail/as09-20-3064orig/)
-- [NASA’s Newest Astronauts](https://www.nasa.gov/image-detail/photo-taken-during-the-2024-nasa-astronaut-graduation-ceremony-held-in-the-teague-auditorium-at-nasas-johnson-space-center-2/)
-- [Women of NASA Langley Research Center](https://www.nasa.gov/image-detail/53548171424-81c8fe55ce-o/)
-- [Hubble Uncovers a Celestial Fossil](https://www.nasa.gov/image-detail/hubble-uncovers-a-celestial-fossil/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Every moment you get is a gift. Spend it on things that matter. Don't spend it by dwelling on unhappy things.
+> It's your outlook on life that counts.
 >
-> <p>Celestine Chua</p>
+> <p>Betty White</p>
