@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA Astronauts Jasmin Moghbeli and Loral O’Hara Read First Woman](https://www.nasa.gov/image-detail/iss070e064628/)
-- [Moon and Sun Over Wyoming](https://www.nasa.gov/image-detail/2017-total-solar-eclipse-44/)
-- [Martian Barchan Dunes](https://www.nasa.gov/image-detail/pia23669orig/)
-- [Apollo 9 Astronaut David Scott’s Spacewalk](https://www.nasa.gov/image-detail/as09-20-3064orig/)
-- [NASA’s Newest Astronauts](https://www.nasa.gov/image-detail/photo-taken-during-the-2024-nasa-astronaut-graduation-ceremony-held-in-the-teague-auditorium-at-nasas-johnson-space-center-2/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Freeing oneself from words is liberation. 
+> There is nothing more truly artistic than to love people.
 >
-> <p>Bodhidharma</p>
+> <p>Vincent van Gogh</p>
