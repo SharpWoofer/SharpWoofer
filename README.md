@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Apollo 9 Crew Comes Home](https://www.nasa.gov/image-detail/s69-27919orig/)
-- [NASA Astronauts Jasmin Moghbeli and Loral O’Hara Read First Woman](https://www.nasa.gov/image-detail/iss070e064628/)
-- [Moon and Sun Over Wyoming](https://www.nasa.gov/image-detail/2017-total-solar-eclipse-44/)
-- [Martian Barchan Dunes](https://www.nasa.gov/image-detail/pia23669orig/)
-- [Apollo 9 Astronaut David Scott’s Spacewalk](https://www.nasa.gov/image-detail/as09-20-3064orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Never settle for the crumbs of life.
+> A dead thing can go with the stream, but only a living thing can go against it.
 >
-> <p>Og Mandino</p>
+> <p>Gilbert Chesterton</p>
