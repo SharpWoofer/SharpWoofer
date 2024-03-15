@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Celebrating Pi Day on the International Space Station](https://www.nasa.gov/image-detail/iss068e075336/)
-- [Apollo 9 Crew Comes Home](https://www.nasa.gov/image-detail/s69-27919orig/)
-- [NASA Astronauts Jasmin Moghbeli and Loral O’Hara Read First Woman](https://www.nasa.gov/image-detail/iss070e064628/)
-- [Moon and Sun Over Wyoming](https://www.nasa.gov/image-detail/2017-total-solar-eclipse-44/)
-- [Martian Barchan Dunes](https://www.nasa.gov/image-detail/pia23669orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Our deeds determine us, as much as we determine our deeds.
+> It all depends on what you choose to believe.
 >
-> <p>George Eliot</p>
+> <p>Spencer Johnson</p>
