@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [St. Patrick&#39;s Aurora Illuminates the Night Sky](https://www.nasa.gov/image-detail/gsfc-20171208-archive-e000760orig-stpatricksaurora-iotd/)
-- [Celebrating Pi Day on the International Space Station](https://www.nasa.gov/image-detail/iss068e075336/)
-- [Apollo 9 Crew Comes Home](https://www.nasa.gov/image-detail/s69-27919orig/)
-- [NASA Astronauts Jasmin Moghbeli and Loral O’Hara Read First Woman](https://www.nasa.gov/image-detail/iss070e064628/)
-- [Moon and Sun Over Wyoming](https://www.nasa.gov/image-detail/2017-total-solar-eclipse-44/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years.
+> The greatest of empires, is the empire over one's self.
 >
-> <p>Richard Bach</p>
+> <p>Publilius Syrus</p>
