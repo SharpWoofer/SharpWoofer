@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Gemini VI Astronauts Thomas P. Stafford and Walter M. Schirra Jr.](https://www.nasa.gov/image-detail/s65-56151orig/)
-- [St. Patrick&#39;s Aurora Illuminates the Night Sky](https://www.nasa.gov/image-detail/gsfc-20171208-archive-e000760orig-stpatricksaurora-iotd/)
-- [Celebrating Pi Day on the International Space Station](https://www.nasa.gov/image-detail/iss068e075336/)
-- [Apollo 9 Crew Comes Home](https://www.nasa.gov/image-detail/s69-27919orig/)
-- [NASA Astronauts Jasmin Moghbeli and Loral O’Hara Read First Woman](https://www.nasa.gov/image-detail/iss070e064628/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Learning is a gift, even when pain is your teacher.
+> Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. 
 >
-> <p>Michael Jordan</p>
+> <p>Steve Jobs</p>
