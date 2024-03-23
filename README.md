@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [A Tranquil Sunrise](https://www.nasa.gov/image-detail/nasas-spacex-crew-7-splashdown-5/)
-- [Ocean Worlds Planetary Scientist Dr. Lynnae Quick](https://www.nasa.gov/image-detail/lynnae-quick-portrait/)
-- [Gemini VI Astronauts Thomas P. Stafford and Walter M. Schirra Jr.](https://www.nasa.gov/image-detail/s65-56151orig/)
-- [St. Patrick&#39;s Aurora Illuminates the Night Sky](https://www.nasa.gov/image-detail/gsfc-20171208-archive-e000760orig-stpatricksaurora-iotd/)
-- [Celebrating Pi Day on the International Space Station](https://www.nasa.gov/image-detail/iss068e075336/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Faith is taking the first step even when you don't see the whole staircase.
+> Is it really possible to tell someone else what one feels?
 >
-> <p>Martin Luther King, Jr.</p>
+> <p>Leo Tolstoy</p>
