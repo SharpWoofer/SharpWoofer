@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Hubble Views a Galaxy Under Pressure](https://www.nasa.gov/image-detail/hubble-views-a-galaxy-under-pressure/)
-- [A Tranquil Sunrise](https://www.nasa.gov/image-detail/nasas-spacex-crew-7-splashdown-5/)
-- [Ocean Worlds Planetary Scientist Dr. Lynnae Quick](https://www.nasa.gov/image-detail/lynnae-quick-portrait/)
-- [Gemini VI Astronauts Thomas P. Stafford and Walter M. Schirra Jr.](https://www.nasa.gov/image-detail/s65-56151orig/)
-- [St. Patrick&#39;s Aurora Illuminates the Night Sky](https://www.nasa.gov/image-detail/gsfc-20171208-archive-e000760orig-stpatricksaurora-iotd/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Life is too short to waste your time on people who don't respect, appreciate, and value you.
+> Unexpressed emotions will never die. They are buried alive and will come forth later in uglier ways.
 >
-> <p>Roy T. Bennett</p>
+> <p>Sigmund Freud</p>
