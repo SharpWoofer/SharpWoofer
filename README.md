@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [CADRE Rovers’ Test Drive in the Mars Yard](https://www.nasa.gov/image-detail/pia26168orig/)
-- [Hubble Views a Galaxy Under Pressure](https://www.nasa.gov/image-detail/hubble-views-a-galaxy-under-pressure/)
-- [A Tranquil Sunrise](https://www.nasa.gov/image-detail/nasas-spacex-crew-7-splashdown-5/)
-- [Ocean Worlds Planetary Scientist Dr. Lynnae Quick](https://www.nasa.gov/image-detail/lynnae-quick-portrait/)
-- [Gemini VI Astronauts Thomas P. Stafford and Walter M. Schirra Jr.](https://www.nasa.gov/image-detail/s65-56151orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> What you seek is seeking you.
+> You will never do anything in this world without courage. It is the greatest quality of the mind next to honor.
 >
-> <p>Rumi</p>
+> <p>James Allen</p>
