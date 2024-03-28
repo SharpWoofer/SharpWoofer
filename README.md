@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Sending “Water” to Europa](https://www.nasa.gov/image-detail/pia26063orig/)
-- [CADRE Rovers’ Test Drive in the Mars Yard](https://www.nasa.gov/image-detail/pia26168orig/)
-- [Hubble Views a Galaxy Under Pressure](https://www.nasa.gov/image-detail/hubble-views-a-galaxy-under-pressure/)
-- [A Tranquil Sunrise](https://www.nasa.gov/image-detail/nasas-spacex-crew-7-splashdown-5/)
-- [Ocean Worlds Planetary Scientist Dr. Lynnae Quick](https://www.nasa.gov/image-detail/lynnae-quick-portrait/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> No one can confidently say that he will still be living tomorrow.
+> It's very important to like the people you work with, otherwise life and your job is gonna be quite miserable.
 >
-> <p>Euripides</p>
+> <p>Elon Musk</p>
