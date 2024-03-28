@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Sending “Water” to Europa](https://www.nasa.gov/image-detail/pia26063orig/)
-- [CADRE Rovers’ Test Drive in the Mars Yard](https://www.nasa.gov/image-detail/pia26168orig/)
-- [Hubble Views a Galaxy Under Pressure](https://www.nasa.gov/image-detail/hubble-views-a-galaxy-under-pressure/)
-- [A Tranquil Sunrise](https://www.nasa.gov/image-detail/nasas-spacex-crew-7-splashdown-5/)
-- [Ocean Worlds Planetary Scientist Dr. Lynnae Quick](https://www.nasa.gov/image-detail/lynnae-quick-portrait/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The glow of one warm thought is to me worth more than money.
+> When uncomfortable, my instinct is not to avoid the discomfort but to become at peace with it.
 >
-> <p>Thomas Jefferson</p>
+> <p>Josh Waitzkin</p>
