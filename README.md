@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Mariner 7 Goes to Mars](https://www.nasa.gov/image-detail/101-ksc-69p-223orig/)
-- [Sending “Water” to Europa](https://www.nasa.gov/image-detail/pia26063orig/)
-- [CADRE Rovers’ Test Drive in the Mars Yard](https://www.nasa.gov/image-detail/pia26168orig/)
-- [Hubble Views a Galaxy Under Pressure](https://www.nasa.gov/image-detail/hubble-views-a-galaxy-under-pressure/)
-- [A Tranquil Sunrise](https://www.nasa.gov/image-detail/nasas-spacex-crew-7-splashdown-5/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Some people find fault like there is a reward for it.  
+> Numbing the pain for a while will only make it worse when you finally feel it.
 >
-> <p>Zig Ziglar</p>
+> <p>Albus Dumbledore</p>
