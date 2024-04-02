@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [A Home for Astronauts around the Moon](https://www.nasa.gov/image-detail/halo-shell-illuminatedorig/)
-- [Safety First!](https://www.nasa.gov/image-detail/gmt087_23_34_loral-ohara_pao-photos-solar-eclipse/)
-- [International Space Station Program Deputy Chief Scientist Meghan Everett](https://www.nasa.gov/image-detail/meghaneverett-jsc2024e019923/)
-- [Mariner 7 Goes to Mars](https://www.nasa.gov/image-detail/101-ksc-69p-223orig/)
-- [Sending “Water” to Europa](https://www.nasa.gov/image-detail/pia26063orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> To every action there is always opposed an equal reaction.
+> Love never keeps a man from pursuing his destiny.
 >
-> <p>Isaac Newton</p>
+> <p>Paulo Coelho</p>
