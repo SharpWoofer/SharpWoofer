@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Safety First!](https://www.nasa.gov/image-detail/gmt087_23_34_loral-ohara_pao-photos-solar-eclipse/)
-- [International Space Station Program Deputy Chief Scientist Meghan Everett](https://www.nasa.gov/image-detail/meghaneverett-jsc2024e019923/)
-- [Mariner 7 Goes to Mars](https://www.nasa.gov/image-detail/101-ksc-69p-223orig/)
-- [Sending “Water” to Europa](https://www.nasa.gov/image-detail/pia26063orig/)
-- [CADRE Rovers’ Test Drive in the Mars Yard](https://www.nasa.gov/image-detail/pia26168orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> One day, in retrospect, the years of struggle will strike you as the most beautiful.
+> Freedom itself demands discomfort.
 >
-> <p>Sigmund Freud</p>
+> <p>Mark Manson</p>
