@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Carving a Path](https://www.nasa.gov/image-detail/iss069e060266-2/)
-- [A Home for Astronauts around the Moon](https://www.nasa.gov/image-detail/halo-shell-illuminatedorig/)
-- [Safety First!](https://www.nasa.gov/image-detail/gmt087_23_34_loral-ohara_pao-photos-solar-eclipse/)
-- [International Space Station Program Deputy Chief Scientist Meghan Everett](https://www.nasa.gov/image-detail/meghaneverett-jsc2024e019923/)
-- [Mariner 7 Goes to Mars](https://www.nasa.gov/image-detail/101-ksc-69p-223orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> We are all different. Don't judge, understand instead.
+> To bear trials with a calm mind robs misfortune of its strength and burden.
 >
-> <p>Roy T. Bennett</p>
+> <p>Seneca</p>
