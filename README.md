@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Exobiology Deputy Branch Chief Melissa Kirven-Brooks](https://www.nasa.gov/image-detail/environmental-portrait-of-deputy-branch-chief-dr-melissa-kirven-2/)
-- [Carving a Path](https://www.nasa.gov/image-detail/iss069e060266-2/)
-- [A Home for Astronauts around the Moon](https://www.nasa.gov/image-detail/halo-shell-illuminatedorig/)
-- [Safety First!](https://www.nasa.gov/image-detail/gmt087_23_34_loral-ohara_pao-photos-solar-eclipse/)
-- [International Space Station Program Deputy Chief Scientist Meghan Everett](https://www.nasa.gov/image-detail/meghaneverett-jsc2024e019923/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Remember where you came from, where you're going, and why you created this mess you got yourself into in the first place.
+> The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way.
 >
-> <p>Richard Bach</p>
+> <p>Robert Kiyosaki</p>
