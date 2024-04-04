@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Carving a Path](https://www.nasa.gov/image-detail/iss069e060266-2/)
-- [A Home for Astronauts around the Moon](https://www.nasa.gov/image-detail/halo-shell-illuminatedorig/)
-- [Safety First!](https://www.nasa.gov/image-detail/gmt087_23_34_loral-ohara_pao-photos-solar-eclipse/)
-- [International Space Station Program Deputy Chief Scientist Meghan Everett](https://www.nasa.gov/image-detail/meghaneverett-jsc2024e019923/)
-- [Mariner 7 Goes to Mars](https://www.nasa.gov/image-detail/101-ksc-69p-223orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Letting go means to come to the realization that some people are a part of your history, but not a part of your destiny.
+> To judge a man by his weakest link or deed is like judging the power of the ocean by one wave.
 >
-> <p>Steve Maraboli</p>
+> <p>Elvis Presley</p>
