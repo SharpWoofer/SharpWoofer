@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Astronauts Protect Their Eyes with Eclipse Glasses](https://www.nasa.gov/image-detail/expedition-69-crew-wears-solar-eclipse-glasses/)
-- [Exobiology Deputy Branch Chief Melissa Kirven-Brooks](https://www.nasa.gov/image-detail/environmental-portrait-of-deputy-branch-chief-dr-melissa-kirven-2/)
-- [Carving a Path](https://www.nasa.gov/image-detail/iss069e060266-2/)
-- [A Home for Astronauts around the Moon](https://www.nasa.gov/image-detail/halo-shell-illuminatedorig/)
-- [Safety First!](https://www.nasa.gov/image-detail/gmt087_23_34_loral-ohara_pao-photos-solar-eclipse/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.
+> Patience is a form of wisdom. It demonstrates that we understand and accept the fact that sometimes things must unfold in their own time.
 >
-> <p>Dr. Seuss</p>
+> <p>Jon Kabat-Zinn</p>
