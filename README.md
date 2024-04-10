@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Seeing Totality](https://www.nasa.gov/image-detail/2024-total-solar-eclipse/)
-- [Astronauts Protect Their Eyes with Eclipse Glasses](https://www.nasa.gov/image-detail/expedition-69-crew-wears-solar-eclipse-glasses/)
-- [Exobiology Deputy Branch Chief Melissa Kirven-Brooks](https://www.nasa.gov/image-detail/environmental-portrait-of-deputy-branch-chief-dr-melissa-kirven-2/)
-- [Carving a Path](https://www.nasa.gov/image-detail/iss069e060266-2/)
-- [A Home for Astronauts around the Moon](https://www.nasa.gov/image-detail/halo-shell-illuminatedorig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> To acquire true self power you have to feel beneath no one, be immune to criticism and be fearless.
+> Inspiration exists, but it has to find you working.
 >
-> <p>Deepak Chopra</p>
+> <p>Pablo Picasso</p>
