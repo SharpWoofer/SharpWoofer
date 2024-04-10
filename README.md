@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Seeing Totality](https://www.nasa.gov/image-detail/2024-total-solar-eclipse/)
-- [Astronauts Protect Their Eyes with Eclipse Glasses](https://www.nasa.gov/image-detail/expedition-69-crew-wears-solar-eclipse-glasses/)
-- [Exobiology Deputy Branch Chief Melissa Kirven-Brooks](https://www.nasa.gov/image-detail/environmental-portrait-of-deputy-branch-chief-dr-melissa-kirven-2/)
-- [Carving a Path](https://www.nasa.gov/image-detail/iss069e060266-2/)
-- [A Home for Astronauts around the Moon](https://www.nasa.gov/image-detail/halo-shell-illuminatedorig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> When you view failure as feedback, you get more done. When you view failure as a finality, you get nothing done.
+> We build too many walls and not enough bridges.
 >
-> <p>Jack Butcher</p>
+> <p>Isaac Newton</p>
