@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Seeing Totality](https://www.nasa.gov/image-detail/2024-total-solar-eclipse/)
-- [Astronauts Protect Their Eyes with Eclipse Glasses](https://www.nasa.gov/image-detail/expedition-69-crew-wears-solar-eclipse-glasses/)
-- [Exobiology Deputy Branch Chief Melissa Kirven-Brooks](https://www.nasa.gov/image-detail/environmental-portrait-of-deputy-branch-chief-dr-melissa-kirven-2/)
-- [Carving a Path](https://www.nasa.gov/image-detail/iss069e060266-2/)
-- [A Home for Astronauts around the Moon](https://www.nasa.gov/image-detail/halo-shell-illuminatedorig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Fear, uncertainty, and discomfort are your compasses toward growth.
+> We must not cease from exploration. And the end of all our exploring will be to arrive where we began and to know the place for the first time.
 >
-> <p>Celestine Chua</p>
+> <p>T.S. Eliot</p>
