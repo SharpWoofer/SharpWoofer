@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [The First Space Shuttle](https://www.nasa.gov/image-detail/launch-of-sts-1-from-ksc-complex-39/)
-- [Seeing Totality](https://www.nasa.gov/image-detail/2024-total-solar-eclipse/)
-- [Astronauts Protect Their Eyes with Eclipse Glasses](https://www.nasa.gov/image-detail/expedition-69-crew-wears-solar-eclipse-glasses/)
-- [Exobiology Deputy Branch Chief Melissa Kirven-Brooks](https://www.nasa.gov/image-detail/environmental-portrait-of-deputy-branch-chief-dr-melissa-kirven-2/)
-- [Carving a Path](https://www.nasa.gov/image-detail/iss069e060266-2/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Fear of death is fear of surrender to Infinity. Learn to surrender, to exist at Infinity while alive, and fear of death dissolves.
+> Happiness is a gift and the trick is not to expect it, but to delight in it when it comes.
 >
-> <p>Adi Da Samraj</p>
+> <p>Charles Dickens</p>
