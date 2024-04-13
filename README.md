@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [The First Space Shuttle](https://www.nasa.gov/image-detail/launch-of-sts-1-from-ksc-complex-39/)
-- [Seeing Totality](https://www.nasa.gov/image-detail/2024-total-solar-eclipse/)
-- [Astronauts Protect Their Eyes with Eclipse Glasses](https://www.nasa.gov/image-detail/expedition-69-crew-wears-solar-eclipse-glasses/)
-- [Exobiology Deputy Branch Chief Melissa Kirven-Brooks](https://www.nasa.gov/image-detail/environmental-portrait-of-deputy-branch-chief-dr-melissa-kirven-2/)
-- [Carving a Path](https://www.nasa.gov/image-detail/iss069e060266-2/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Your mind will make you rich or poor, depending on the use you put to it.
+> You have the ability, now apply yourself.
 >
-> <p>Brian Tracy</p>
+> <p>Benjamin Mays</p>
