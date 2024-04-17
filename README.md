@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA’s VIPER Gets Its Head and Neck](https://www.nasa.gov/image-detail/jsc2024e013783orig/)
-- [Seeing the Solar Eclipse from 223,000 Miles Away](https://www.nasa.gov/image-detail/m1467242026l-cal-echo-reduce11-4fi-rotate-ee9150/)
-- [The First Space Shuttle](https://www.nasa.gov/image-detail/launch-of-sts-1-from-ksc-complex-39/)
-- [Seeing Totality](https://www.nasa.gov/image-detail/2024-total-solar-eclipse/)
-- [Astronauts Protect Their Eyes with Eclipse Glasses](https://www.nasa.gov/image-detail/expedition-69-crew-wears-solar-eclipse-glasses/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Wishing to be friends is quick work, but friendship is a slow ripening fruit.
+> Far more crucial than what we know or do not know is what we do not want to know.
 >
-> <p>Aristotle</p>
+> <p>Eric Hoffer</p>
