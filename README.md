@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Sometimes Getting the Perfect Picture Really Is Rocket Science](https://www.nasa.gov/image-detail/20240408-wallopsapepmission-cpirner-1x1/)
-- [NASA’s VIPER Gets Its Head and Neck](https://www.nasa.gov/image-detail/jsc2024e013783orig/)
-- [Seeing the Solar Eclipse from 223,000 Miles Away](https://www.nasa.gov/image-detail/m1467242026l-cal-echo-reduce11-4fi-rotate-ee9150/)
-- [The First Space Shuttle](https://www.nasa.gov/image-detail/launch-of-sts-1-from-ksc-complex-39/)
-- [Seeing Totality](https://www.nasa.gov/image-detail/2024-total-solar-eclipse/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Humor isn't for everyone. It's only for people who want to have fun, enjoy life, and feel alive.
+> Be truthful about your emotions, and use your mind and emotions in your favor, not against yourself.
 >
-> <p>Anne Wilson Schaef</p>
+> <p>Robert Kiyosaki</p>
