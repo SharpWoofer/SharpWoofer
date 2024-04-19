@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Water Touches Everything](https://www.nasa.gov/image-detail/2024-earthday-desktop-white-4k/)
-- [Sometimes Getting the Perfect Picture Really Is Rocket Science](https://www.nasa.gov/image-detail/20240408-wallopsapepmission-cpirner-1x1/)
-- [NASA’s VIPER Gets Its Head and Neck](https://www.nasa.gov/image-detail/jsc2024e013783orig/)
-- [Seeing the Solar Eclipse from 223,000 Miles Away](https://www.nasa.gov/image-detail/m1467242026l-cal-echo-reduce11-4fi-rotate-ee9150/)
-- [The First Space Shuttle](https://www.nasa.gov/image-detail/launch-of-sts-1-from-ksc-complex-39/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Give more than you think you can, trusting that you are richer than you think.
+> If you are not living each day with excitement, energy, and passion, then you are not living true to your life purpose.
 >
-> <p>Jon Kabat-Zinn</p>
+> <p>Celestine Chua</p>
