@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Looking Beyond the Veil](https://www.nasa.gov/image-detail/stsci-01hqnvf0hhrf5hh4hkh8s9c83x/)
-- [Water Touches Everything](https://www.nasa.gov/image-detail/2024-earthday-desktop-white-4k/)
-- [Sometimes Getting the Perfect Picture Really Is Rocket Science](https://www.nasa.gov/image-detail/20240408-wallopsapepmission-cpirner-1x1/)
-- [NASA’s VIPER Gets Its Head and Neck](https://www.nasa.gov/image-detail/jsc2024e013783orig/)
-- [Seeing the Solar Eclipse from 223,000 Miles Away](https://www.nasa.gov/image-detail/m1467242026l-cal-echo-reduce11-4fi-rotate-ee9150/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> I hear and I forget. I see and I remember. I do and I understand. 
+> The best mind-altering drug is the truth.
 >
-> <p>Confucius</p>
+> <p>Lily Tomlin</p>
