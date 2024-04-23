@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Our Beautiful Water World](https://www.nasa.gov/image-detail/pia18033-medium/)
-- [Looking Beyond the Veil](https://www.nasa.gov/image-detail/stsci-01hqnvf0hhrf5hh4hkh8s9c83x/)
-- [Water Touches Everything](https://www.nasa.gov/image-detail/2024-earthday-desktop-white-4k/)
-- [Sometimes Getting the Perfect Picture Really Is Rocket Science](https://www.nasa.gov/image-detail/20240408-wallopsapepmission-cpirner-1x1/)
-- [NASA’s VIPER Gets Its Head and Neck](https://www.nasa.gov/image-detail/jsc2024e013783orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The impossible can always be broken down into possibilities.
+> The less you want, the richer you are. The more you need in order to be happy, the more miserable you'll be.
 >
-> <p>Unknown</p>
+> <p>Yanni</p>
