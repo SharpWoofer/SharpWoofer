@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Tracking Spring Flooding](https://www.nasa.gov/image-detail/uralriver-flood-oli2-20240413-lrg/)
-- [Hubble Spots the Little Dumbbell Nebula](https://www.nasa.gov/image-detail/hubble-34th-littledumbell-stsci-01htddqw1h508m7gww4eyfmh3h/)
-- [Our Beautiful Water World](https://www.nasa.gov/image-detail/pia18033-medium/)
-- [Looking Beyond the Veil](https://www.nasa.gov/image-detail/stsci-01hqnvf0hhrf5hh4hkh8s9c83x/)
-- [Water Touches Everything](https://www.nasa.gov/image-detail/2024-earthday-desktop-white-4k/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Dreams have only one owner at a time. That's why dreamers are lonely.
+> Life would be tragic if it weren't funny.
 >
-> <p>William Faulkner</p>
+> <p>Stephen Hawking</p>
