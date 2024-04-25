@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating the Moon with Art](https://www.nasa.gov/image-detail/lrc-1964-b701-p-10753large/)
-- [Tracking Spring Flooding](https://www.nasa.gov/image-detail/uralriver-flood-oli2-20240413-lrg/)
-- [Hubble Spots the Little Dumbbell Nebula](https://www.nasa.gov/image-detail/hubble-34th-littledumbell-stsci-01htddqw1h508m7gww4eyfmh3h/)
-- [Our Beautiful Water World](https://www.nasa.gov/image-detail/pia18033-medium/)
-- [Looking Beyond the Veil](https://www.nasa.gov/image-detail/stsci-01hqnvf0hhrf5hh4hkh8s9c83x/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Believe you can and you're halfway there.
+> If you can't imagine it, you can't have it.
 >
-> <p>Theodore Roosevelt</p>
+> <p>Toni Morrison</p>
