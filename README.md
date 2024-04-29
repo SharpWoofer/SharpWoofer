@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Hubble Spots a Magnificent Barred Galaxy](https://www.nasa.gov/image-detail/hubble-spots-a-magnificent-barred-galaxy/)
-- [Navigating the Moon with Art](https://www.nasa.gov/image-detail/lrc-1964-b701-p-10753large/)
-- [Tracking Spring Flooding](https://www.nasa.gov/image-detail/uralriver-flood-oli2-20240413-lrg/)
-- [Hubble Spots the Little Dumbbell Nebula](https://www.nasa.gov/image-detail/hubble-34th-littledumbell-stsci-01htddqw1h508m7gww4eyfmh3h/)
-- [Our Beautiful Water World](https://www.nasa.gov/image-detail/pia18033-medium/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Don't set your own goals by what other people make important.
+> Only to the extent that we expose ourselves over and over to annihilation can that which is indestructible in us be found.
 >
-> <p>Lolly Daskal</p>
+> <p>Pema Chodron</p>
