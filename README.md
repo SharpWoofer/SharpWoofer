@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [The Horse’s Mane](https://www.nasa.gov/image-detail/stsci-01hv4cg0eacm1mc07e10x19knx/)
-- [Hubble Spots a Magnificent Barred Galaxy](https://www.nasa.gov/image-detail/hubble-spots-a-magnificent-barred-galaxy/)
-- [Navigating the Moon with Art](https://www.nasa.gov/image-detail/lrc-1964-b701-p-10753large/)
-- [Tracking Spring Flooding](https://www.nasa.gov/image-detail/uralriver-flood-oli2-20240413-lrg/)
-- [Hubble Spots the Little Dumbbell Nebula](https://www.nasa.gov/image-detail/hubble-34th-littledumbell-stsci-01htddqw1h508m7gww4eyfmh3h/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better. 
+> Logic is like the sword - those who appeal to it shall perish by it.
 >
-> <p>Samuel Beckett</p>
+> <p>Samuel Butler</p>
