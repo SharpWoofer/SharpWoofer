@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [The Horse’s Mane](https://www.nasa.gov/image-detail/stsci-01hv4cg0eacm1mc07e10x19knx/)
-- [Hubble Spots a Magnificent Barred Galaxy](https://www.nasa.gov/image-detail/hubble-spots-a-magnificent-barred-galaxy/)
-- [Navigating the Moon with Art](https://www.nasa.gov/image-detail/lrc-1964-b701-p-10753large/)
-- [Tracking Spring Flooding](https://www.nasa.gov/image-detail/uralriver-flood-oli2-20240413-lrg/)
-- [Hubble Spots the Little Dumbbell Nebula](https://www.nasa.gov/image-detail/hubble-34th-littledumbell-stsci-01htddqw1h508m7gww4eyfmh3h/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Muddy water is best cleared by leaving it alone.
+> We never know how high we are till we are called to rise. Then if we are true to form our statures touch the skies.
 >
-> <p>Alan Watts</p>
+> <p>Emily Dickinson</p>
