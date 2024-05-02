@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [By Their Powers Combined](https://www.nasa.gov/image-detail/pia26147orig/)
-- [International Space Station Program Manager Dana Weigel](https://www.nasa.gov/image-detail/danaweigel-jsc2024e023417-crop/)
-- [The Horse’s Mane](https://www.nasa.gov/image-detail/stsci-01hv4cg0eacm1mc07e10x19knx/)
-- [Hubble Spots a Magnificent Barred Galaxy](https://www.nasa.gov/image-detail/hubble-spots-a-magnificent-barred-galaxy/)
-- [Navigating the Moon with Art](https://www.nasa.gov/image-detail/lrc-1964-b701-p-10753large/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Do one thing every day that scares you.
+> The most difficult times for many of us are the ones we give ourselves.
 >
-> <p>Eleanor Roosevelt</p>
+> <p>Pema Chodron</p>
