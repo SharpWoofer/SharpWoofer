@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Galaxy Evolution Explorer Searches for Light](https://www.nasa.gov/image-detail/pia04234orig/)
-- [By Their Powers Combined](https://www.nasa.gov/image-detail/pia26147orig/)
-- [International Space Station Program Manager Dana Weigel](https://www.nasa.gov/image-detail/danaweigel-jsc2024e023417-crop/)
-- [The Horse’s Mane](https://www.nasa.gov/image-detail/stsci-01hv4cg0eacm1mc07e10x19knx/)
-- [Hubble Spots a Magnificent Barred Galaxy](https://www.nasa.gov/image-detail/hubble-spots-a-magnificent-barred-galaxy/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> You don't have to move mountains. You'll change the world simply by being a warm, kind-hearted human being.
+> Action may not always bring happiness, but there is no happiness without action.
 >
-> <p>Anita Krizzan</p>
+> <p>William James</p>
