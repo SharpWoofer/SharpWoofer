@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [A Moonlit Trio](https://www.nasa.gov/image-detail/nhq202012170005large/)
-- [Galaxy Evolution Explorer Searches for Light](https://www.nasa.gov/image-detail/pia04234orig/)
-- [By Their Powers Combined](https://www.nasa.gov/image-detail/pia26147orig/)
-- [International Space Station Program Manager Dana Weigel](https://www.nasa.gov/image-detail/danaweigel-jsc2024e023417-crop/)
-- [The Horse’s Mane](https://www.nasa.gov/image-detail/stsci-01hv4cg0eacm1mc07e10x19knx/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The only place where success comes before work is in the dictionary.
+> Don't waste your energy on being angry at something that somebody did six months ago or a year ago. It's over.
 >
-> <p>Vidal Sassoon</p>
+> <p>Joan Rivers</p>
