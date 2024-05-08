@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Jupiter’s Great Red Spot](https://www.nasa.gov/image-detail/47462090512-65ac1cde76-o/)
-- [Astronaut Suni Williams Prepares for Crew Flight Test](https://www.nasa.gov/image-detail/afs-8-101-536/)
-- [A Moonlit Trio](https://www.nasa.gov/image-detail/nhq202012170005large/)
-- [Galaxy Evolution Explorer Searches for Light](https://www.nasa.gov/image-detail/pia04234orig/)
-- [By Their Powers Combined](https://www.nasa.gov/image-detail/pia26147orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Every saint has a past, and every sinner has a future.
+> Do you have the patience to wait until your mud settles and the water is clear?
 >
-> <p>Oscar Wilde</p>
+> <p>Lao Tzu</p>
