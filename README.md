@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Sulaiman Mountain Haze](https://www.nasa.gov/image-detail/iss070e042565-lrg/)
-- [Jupiter’s Great Red Spot](https://www.nasa.gov/image-detail/47462090512-65ac1cde76-o/)
-- [Astronaut Suni Williams Prepares for Crew Flight Test](https://www.nasa.gov/image-detail/afs-8-101-536/)
-- [A Moonlit Trio](https://www.nasa.gov/image-detail/nhq202012170005large/)
-- [Galaxy Evolution Explorer Searches for Light](https://www.nasa.gov/image-detail/pia04234orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Champions keep playing until they get it right.
+> The seasons do not push one another; neither do clouds race the wind across the sky. All things happen in their own good time.
 >
-> <p>Billie Jean King</p>
+> <p>Dan Millman</p>
