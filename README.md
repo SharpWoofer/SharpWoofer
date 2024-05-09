@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Sulaiman Mountain Haze](https://www.nasa.gov/image-detail/iss070e042565-lrg/)
-- [Jupiter’s Great Red Spot](https://www.nasa.gov/image-detail/47462090512-65ac1cde76-o/)
-- [Astronaut Suni Williams Prepares for Crew Flight Test](https://www.nasa.gov/image-detail/afs-8-101-536/)
-- [A Moonlit Trio](https://www.nasa.gov/image-detail/nhq202012170005large/)
-- [Galaxy Evolution Explorer Searches for Light](https://www.nasa.gov/image-detail/pia04234orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> If you can't imagine it, you can't have it.
+> You can easily judge the character of a man by how he treats those who can do nothing for him.
 >
-> <p>Toni Morrison</p>
+> <p>Johann Wolfgang von Goethe</p>
