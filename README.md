@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Sulaiman Mountain Haze](https://www.nasa.gov/image-detail/iss070e042565-lrg/)
-- [Jupiter’s Great Red Spot](https://www.nasa.gov/image-detail/47462090512-65ac1cde76-o/)
-- [Astronaut Suni Williams Prepares for Crew Flight Test](https://www.nasa.gov/image-detail/afs-8-101-536/)
-- [A Moonlit Trio](https://www.nasa.gov/image-detail/nhq202012170005large/)
-- [Galaxy Evolution Explorer Searches for Light](https://www.nasa.gov/image-detail/pia04234orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The greatest value of a picture is when it forces us to notice what we never expected to see.
+> There is no greater agony than bearing an untold story inside you.
 >
-> <p>John Tukey</p>
+> <p>Maya Angelou</p>
