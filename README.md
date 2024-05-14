@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Aurora over Idaho](https://www.nasa.gov/image-detail/aurora-may24-iss/)
-- [That&#39;s Refreshing](https://www.nasa.gov/image-detail/afs-8-101-541/)
-- [Spitzer Space Telescope Captures Galactic Snack](https://www.nasa.gov/image-detail/pia26276-the-infrared-face-of-the-andromeda-galaxy/)
-- [Sulaiman Mountain Haze](https://www.nasa.gov/image-detail/iss070e042565-lrg/)
-- [Jupiter’s Great Red Spot](https://www.nasa.gov/image-detail/47462090512-65ac1cde76-o/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> There exists only the present instant; a Now which always and without end is itself new.
+> The most important thing in life is to stop saying 'I wish' and start saying 'I will'. Consider nothing impossible, then treat possibilities as probabilities.
 >
-> <p>Meister Eckhart</p>
+> <p>Charles Dickens</p>
