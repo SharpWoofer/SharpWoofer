@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Good Night, Moon](https://www.nasa.gov/image-detail/gmt117_ehdc1_7548-3/)
-- [Aurora over Idaho](https://www.nasa.gov/image-detail/aurora-may24-iss/)
-- [That&#39;s Refreshing](https://www.nasa.gov/image-detail/afs-8-101-541/)
-- [Spitzer Space Telescope Captures Galactic Snack](https://www.nasa.gov/image-detail/pia26276-the-infrared-face-of-the-andromeda-galaxy/)
-- [Sulaiman Mountain Haze](https://www.nasa.gov/image-detail/iss070e042565-lrg/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Those who are easily shocked should be shocked more often.
+> Happiness is not a goal...it's a by-product of a life well lived.
 >
-> <p>Mae West</p>
+> <p>Eleanor Roosevelt</p>
