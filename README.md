@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Good Night, Moon](https://www.nasa.gov/image-detail/gmt117_ehdc1_7548-3/)
-- [Aurora over Idaho](https://www.nasa.gov/image-detail/aurora-may24-iss/)
-- [That&#39;s Refreshing](https://www.nasa.gov/image-detail/afs-8-101-541/)
-- [Spitzer Space Telescope Captures Galactic Snack](https://www.nasa.gov/image-detail/pia26276-the-infrared-face-of-the-andromeda-galaxy/)
-- [Sulaiman Mountain Haze](https://www.nasa.gov/image-detail/iss070e042565-lrg/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Who you are is always right.
+> What a book a devil's chaplain might write on the clumsy, wasteful, blundering, low, and horribly cruel work of nature!
 >
-> <p>Ming-Dao Deng</p>
+> <p>Charles Darwin</p>
