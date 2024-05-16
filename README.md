@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Good Night, Moon](https://www.nasa.gov/image-detail/gmt117_ehdc1_7548-3/)
-- [Aurora over Idaho](https://www.nasa.gov/image-detail/aurora-may24-iss/)
-- [That&#39;s Refreshing](https://www.nasa.gov/image-detail/afs-8-101-541/)
-- [Spitzer Space Telescope Captures Galactic Snack](https://www.nasa.gov/image-detail/pia26276-the-infrared-face-of-the-andromeda-galaxy/)
-- [Sulaiman Mountain Haze](https://www.nasa.gov/image-detail/iss070e042565-lrg/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Nothing you do is going to matter that much in the long run. Don't take yourself so seriously.
+> In a world that is constantly changing, it is to our advantage to learn how to adapt and enjoy something better.
 >
-> <p>Naval Ravikant</p>
+> <p>Spencer Johnson</p>
