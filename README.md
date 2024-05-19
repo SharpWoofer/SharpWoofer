@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Hubble Views the Dawn of a Sun-like Star](https://www.nasa.gov/image-detail/hubble-hptau-wfc3-1-flat-finalok/)
-- [Space Physics and Space Weather Scientist Dr. Yihua &lpar;Eva&rpar; Zheng](https://www.nasa.gov/image-detail/yihua-zheng-portrait/)
-- [Good Night, Moon](https://www.nasa.gov/image-detail/gmt117_ehdc1_7548-3/)
-- [Aurora over Idaho](https://www.nasa.gov/image-detail/aurora-may24-iss/)
-- [That&#39;s Refreshing](https://www.nasa.gov/image-detail/afs-8-101-541/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> One of the oldest human needs is having someone to wonder where you are when you don't come home at night. 
+> Until we can manage time, we can manage nothing else.
 >
-> <p>Margaret Mead</p>
+> <p>Peter Drucker</p>
