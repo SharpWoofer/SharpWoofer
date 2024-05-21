@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Readying Apollo 10 for Launch](https://www.nasa.gov/image-detail/s69-33855orig/)
-- [Hubble Views the Dawn of a Sun-like Star](https://www.nasa.gov/image-detail/hubble-hptau-wfc3-1-flat-finalok/)
-- [Space Physics and Space Weather Scientist Dr. Yihua &lpar;Eva&rpar; Zheng](https://www.nasa.gov/image-detail/yihua-zheng-portrait/)
-- [Good Night, Moon](https://www.nasa.gov/image-detail/gmt117_ehdc1_7548-3/)
-- [Aurora over Idaho](https://www.nasa.gov/image-detail/aurora-may24-iss/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> It is the nature of the wise to resist pleasures, but the foolish to be a slave to them.
+> The greatest gift that you can give to others is the gift of unconditional love and acceptance. 
 >
-> <p>Epictetus</p>
+> <p>Brian Tracy</p>
