@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Modeling the Hawaiian Shoreline](https://www.nasa.gov/image-detail/53689662071-e96062887e-o/)
-- [Readying Apollo 10 for Launch](https://www.nasa.gov/image-detail/s69-33855orig/)
-- [Hubble Views the Dawn of a Sun-like Star](https://www.nasa.gov/image-detail/hubble-hptau-wfc3-1-flat-finalok/)
-- [Space Physics and Space Weather Scientist Dr. Yihua &lpar;Eva&rpar; Zheng](https://www.nasa.gov/image-detail/yihua-zheng-portrait/)
-- [Good Night, Moon](https://www.nasa.gov/image-detail/gmt117_ehdc1_7548-3/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> We have a choice everyday regarding the attitude we will embrace for that day.
+> The worst part of success is trying to find someone who is happy for you.
 >
-> <p>Charles Swindoll</p>
+> <p>Bette Midler</p>
