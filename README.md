@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [A Moonlit Moonwalk](https://www.nasa.gov/image-detail/jsc2024e035651orig/)
-- [Modeling the Hawaiian Shoreline](https://www.nasa.gov/image-detail/53689662071-e96062887e-o/)
-- [Readying Apollo 10 for Launch](https://www.nasa.gov/image-detail/s69-33855orig/)
-- [Hubble Views the Dawn of a Sun-like Star](https://www.nasa.gov/image-detail/hubble-hptau-wfc3-1-flat-finalok/)
-- [Space Physics and Space Weather Scientist Dr. Yihua &lpar;Eva&rpar; Zheng](https://www.nasa.gov/image-detail/yihua-zheng-portrait/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Life is a long lesson in humility. 
+> Anyone telling you it's pointless to share your perspective is sharing their perspective.
 >
-> <p>James Matthew Barrie</p>
+> <p>Jack Butcher</p>
