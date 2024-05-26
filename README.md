@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Helen Ling, Changemaker](https://www.nasa.gov/image-detail/p-13728a-helen-ling/)
-- [A Moonlit Moonwalk](https://www.nasa.gov/image-detail/jsc2024e035651orig/)
-- [Modeling the Hawaiian Shoreline](https://www.nasa.gov/image-detail/53689662071-e96062887e-o/)
-- [Readying Apollo 10 for Launch](https://www.nasa.gov/image-detail/s69-33855orig/)
-- [Hubble Views the Dawn of a Sun-like Star](https://www.nasa.gov/image-detail/hubble-hptau-wfc3-1-flat-finalok/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Perhaps the most tragic thing about mankind is that we are all dreaming about some magical garden over the horizon, instead of enjoying the roses that are right outside today.
+> Challenge yourself to find the good and beautiful thing inside of everyone.
 >
-> <p>Andrew Carnegie</p>
+> <p>Mark Manson</p>
