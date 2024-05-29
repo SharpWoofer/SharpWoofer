@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Apollo 10 Ends Successfully](https://www.nasa.gov/image-detail/apollo-10-recovery/)
-- [Helen Ling, Changemaker](https://www.nasa.gov/image-detail/p-13728a-helen-ling/)
-- [A Moonlit Moonwalk](https://www.nasa.gov/image-detail/jsc2024e035651orig/)
-- [Modeling the Hawaiian Shoreline](https://www.nasa.gov/image-detail/53689662071-e96062887e-o/)
-- [Readying Apollo 10 for Launch](https://www.nasa.gov/image-detail/s69-33855orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> It is indeed a radical act of love just to sit down and be quiet for a time by yourself.
+> Everything you've ever wanted is on the other side of fear.
 >
-> <p>Jon Kabat-Zinn</p>
+> <p>Brian Tracy</p>
