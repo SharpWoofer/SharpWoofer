@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Deputy Program Manager Vir Thanvi](https://www.nasa.gov/image-detail/vir-thanvi-portrait/)
-- [Apollo 10 Ends Successfully](https://www.nasa.gov/image-detail/apollo-10-recovery/)
-- [Helen Ling, Changemaker](https://www.nasa.gov/image-detail/p-13728a-helen-ling/)
-- [A Moonlit Moonwalk](https://www.nasa.gov/image-detail/jsc2024e035651orig/)
-- [Modeling the Hawaiian Shoreline](https://www.nasa.gov/image-detail/53689662071-e96062887e-o/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> When one does not have what one wants, one must want what one has.
+> The score never interested me, only the game.
 >
-> <p>Sigmund Freud</p>
+> <p>Mae West</p>
