@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Webb Spots a Starburst](https://www.nasa.gov/image-detail/fireworks-of-stellar-starbursts/)
-- [Deputy Program Manager Vir Thanvi](https://www.nasa.gov/image-detail/vir-thanvi-portrait/)
-- [Apollo 10 Ends Successfully](https://www.nasa.gov/image-detail/apollo-10-recovery/)
-- [Helen Ling, Changemaker](https://www.nasa.gov/image-detail/p-13728a-helen-ling/)
-- [A Moonlit Moonwalk](https://www.nasa.gov/image-detail/jsc2024e035651orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Perseverance and spirit have done wonders in all ages. 
+> Engage in those actions and thoughts that nurture the good qualities you want to have.
 >
-> <p>George Washington</p>
+> <p>Paramahansa Yogananda</p>
