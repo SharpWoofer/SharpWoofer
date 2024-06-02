@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Hurricane Season Begins](https://www.nasa.gov/image-detail/iss069e084548-lrg/)
-- [Webb Spots a Starburst](https://www.nasa.gov/image-detail/fireworks-of-stellar-starbursts/)
-- [Deputy Program Manager Vir Thanvi](https://www.nasa.gov/image-detail/vir-thanvi-portrait/)
-- [Apollo 10 Ends Successfully](https://www.nasa.gov/image-detail/apollo-10-recovery/)
-- [Helen Ling, Changemaker](https://www.nasa.gov/image-detail/p-13728a-helen-ling/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> It will never rain roses: when we want to have more roses, we must plant more roses.
+> Whatever happened, happened for the good. Whatever is happening, is happening for the good. Whatever will happen, will also happen for the good.
 >
-> <p>George Eliot</p>
+> <p>Bhagavad Gita</p>
