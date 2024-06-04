@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Hurricane Season Begins](https://www.nasa.gov/image-detail/iss069e084548-lrg/)
-- [Webb Spots a Starburst](https://www.nasa.gov/image-detail/fireworks-of-stellar-starbursts/)
-- [Deputy Program Manager Vir Thanvi](https://www.nasa.gov/image-detail/vir-thanvi-portrait/)
-- [Apollo 10 Ends Successfully](https://www.nasa.gov/image-detail/apollo-10-recovery/)
-- [Helen Ling, Changemaker](https://www.nasa.gov/image-detail/p-13728a-helen-ling/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> What a book a devil's chaplain might write on the clumsy, wasteful, blundering, low, and horribly cruel work of nature!
+> The measure of who we are is what we do with what we have.
 >
-> <p>Charles Darwin</p>
+> <p>Vince Lombardi</p>
