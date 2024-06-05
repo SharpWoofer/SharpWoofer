@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Starliner to the Stars](https://www.nasa.gov/image-detail/nasas-boeing-crew-flight-test-launch-2/)
-- [Crews Unpack NASA’s Europa Clipper Spacecraft](https://www.nasa.gov/image-detail/afs-8-101-550/)
-- [Hurricane Season Begins](https://www.nasa.gov/image-detail/iss069e084548-lrg/)
-- [Webb Spots a Starburst](https://www.nasa.gov/image-detail/fireworks-of-stellar-starbursts/)
-- [Deputy Program Manager Vir Thanvi](https://www.nasa.gov/image-detail/vir-thanvi-portrait/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Whatever you do in life, surround yourself with smart people who'll argue with you.
+> The only thing worse than being blind is having sight but no vision.
 >
-> <p>John Wooden</p>
+> <p>Helen Keller</p>
