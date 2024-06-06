@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Starliner to the Stars](https://www.nasa.gov/image-detail/nasas-boeing-crew-flight-test-launch-2/)
-- [Crews Unpack NASA’s Europa Clipper Spacecraft](https://www.nasa.gov/image-detail/afs-8-101-550/)
-- [Hurricane Season Begins](https://www.nasa.gov/image-detail/iss069e084548-lrg/)
-- [Webb Spots a Starburst](https://www.nasa.gov/image-detail/fireworks-of-stellar-starbursts/)
-- [Deputy Program Manager Vir Thanvi](https://www.nasa.gov/image-detail/vir-thanvi-portrait/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> A clever person turns great troubles into little ones, and little ones into none at all. 
+> Conflict cannot survive without your participation. 
 >
-> <p>Chinese Proverb</p>
+> <p>Wayne Dyer</p>
