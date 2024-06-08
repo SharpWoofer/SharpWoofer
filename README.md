@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [What Are You Looking At?](https://www.nasa.gov/image-detail/ksc00pp0306orig/)
-- [Artemis II Astronauts Participate in Moon Tree Dedication Ceremony](https://www.nasa.gov/image-detail/artemis-ii-astronauts-participate-in-moon-tree-dedication-ceremony-3/)
-- [Starliner to the Stars](https://www.nasa.gov/image-detail/nasas-boeing-crew-flight-test-launch-2/)
-- [Crews Unpack NASA’s Europa Clipper Spacecraft](https://www.nasa.gov/image-detail/afs-8-101-550/)
-- [Hurricane Season Begins](https://www.nasa.gov/image-detail/iss069e084548-lrg/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Talent is luck. The important thing in life is courage.
+> Wealth consists not in having great possessions, but in having few wants.
 >
-> <p>Woody Allen</p>
+> <p>Epictetus</p>
