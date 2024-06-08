@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [What Are You Looking At?](https://www.nasa.gov/image-detail/ksc00pp0306orig/)
-- [Artemis II Astronauts Participate in Moon Tree Dedication Ceremony](https://www.nasa.gov/image-detail/artemis-ii-astronauts-participate-in-moon-tree-dedication-ceremony-3/)
-- [Starliner to the Stars](https://www.nasa.gov/image-detail/nasas-boeing-crew-flight-test-launch-2/)
-- [Crews Unpack NASA’s Europa Clipper Spacecraft](https://www.nasa.gov/image-detail/afs-8-101-550/)
-- [Hurricane Season Begins](https://www.nasa.gov/image-detail/iss069e084548-lrg/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Every traveler has a home of his own, and he learns to appreciate it the more from his wandering.
+> Follow your instincts. That is where true wisdom manifests itself.
 >
-> <p>Charles Dickens</p>
+> <p>Oprah Winfrey</p>
