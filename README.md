@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [“Earthrise” by NASA Astronaut Bill Anders](https://www.nasa.gov/image-detail/as08-14-2383orig/)
-- [What Are You Looking At?](https://www.nasa.gov/image-detail/ksc00pp0306orig/)
-- [Artemis II Astronauts Participate in Moon Tree Dedication Ceremony](https://www.nasa.gov/image-detail/artemis-ii-astronauts-participate-in-moon-tree-dedication-ceremony-3/)
-- [Starliner to the Stars](https://www.nasa.gov/image-detail/nasas-boeing-crew-flight-test-launch-2/)
-- [Crews Unpack NASA’s Europa Clipper Spacecraft](https://www.nasa.gov/image-detail/afs-8-101-550/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Man's character is his fate.
+> You can, you should, and if you're brave enough to start, you will.
 >
-> <p>Heraclitus</p>
+> <p>Stephen King</p>
