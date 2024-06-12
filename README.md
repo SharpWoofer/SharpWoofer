@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Celebrating Pride at NASA’s Ames Research Center](https://www.nasa.gov/image-detail/intersex-progress-pride-flag-at-ames/)
-- [“Earthrise” by NASA Astronaut Bill Anders](https://www.nasa.gov/image-detail/as08-14-2383orig/)
-- [What Are You Looking At?](https://www.nasa.gov/image-detail/ksc00pp0306orig/)
-- [Artemis II Astronauts Participate in Moon Tree Dedication Ceremony](https://www.nasa.gov/image-detail/artemis-ii-astronauts-participate-in-moon-tree-dedication-ceremony-3/)
-- [Starliner to the Stars](https://www.nasa.gov/image-detail/nasas-boeing-crew-flight-test-launch-2/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Words used to attract the dull of wit are not to be relied on.
+> If you think you can do a thing or think you can't do a thing, you're right.
 >
-> <p>Huang Po</p>
+> <p>Henry Ford</p>
