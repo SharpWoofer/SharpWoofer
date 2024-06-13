@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [A Solitary Sight](https://www.nasa.gov/image-detail/iss070e000820/)
-- [Celebrating Pride at NASA’s Ames Research Center](https://www.nasa.gov/image-detail/intersex-progress-pride-flag-at-ames/)
-- [“Earthrise” by NASA Astronaut Bill Anders](https://www.nasa.gov/image-detail/as08-14-2383orig/)
-- [What Are You Looking At?](https://www.nasa.gov/image-detail/ksc00pp0306orig/)
-- [Artemis II Astronauts Participate in Moon Tree Dedication Ceremony](https://www.nasa.gov/image-detail/artemis-ii-astronauts-participate-in-moon-tree-dedication-ceremony-3/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The positive thinker sees the invisible, feels the intangible, and achieves the impossible.
+> For every minute you are angry you lose sixty seconds of happiness.
 >
-> <p>Winston Churchill</p>
+> <p>Ralph Waldo Emerson</p>
