@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Sea Ice Swirls](https://www.nasa.gov/image-detail/greenlandiceswirls-tmo-20240604-lrg/)
-- [A Solitary Sight](https://www.nasa.gov/image-detail/iss070e000820/)
-- [Celebrating Pride at NASA’s Ames Research Center](https://www.nasa.gov/image-detail/intersex-progress-pride-flag-at-ames/)
-- [“Earthrise” by NASA Astronaut Bill Anders](https://www.nasa.gov/image-detail/as08-14-2383orig/)
-- [What Are You Looking At?](https://www.nasa.gov/image-detail/ksc00pp0306orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> When you know what you want, and want it bad enough, you will find a way to get it.
+> Life comes at us in waves. We can't predict or control those waves, but we can learn to surf.
 >
-> <p>Jim Rohn</p>
+> <p>Dan Millman</p>
