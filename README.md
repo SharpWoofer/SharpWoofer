@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Hubble Captures a Cosmic Fossil](https://www.nasa.gov/image-detail/hubble-ngc2005-potw2424a/)
-- [Sea Ice Swirls](https://www.nasa.gov/image-detail/greenlandiceswirls-tmo-20240604-lrg/)
-- [A Solitary Sight](https://www.nasa.gov/image-detail/iss070e000820/)
-- [Celebrating Pride at NASA’s Ames Research Center](https://www.nasa.gov/image-detail/intersex-progress-pride-flag-at-ames/)
-- [“Earthrise” by NASA Astronaut Bill Anders](https://www.nasa.gov/image-detail/as08-14-2383orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> A man who dares to waste one hour of time has not discovered the value of life.
+> Decide what your truth is. Then live it.
 >
-> <p>Charles Darwin</p>
+> <p>Kamal Ravikant</p>
