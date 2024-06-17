@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Management and Program Analyst Mallory Carbon](https://www.nasa.gov/image-detail/mallory-carbon-portrait/)
-- [Hubble Captures a Cosmic Fossil](https://www.nasa.gov/image-detail/hubble-ngc2005-potw2424a/)
-- [Sea Ice Swirls](https://www.nasa.gov/image-detail/greenlandiceswirls-tmo-20240604-lrg/)
-- [A Solitary Sight](https://www.nasa.gov/image-detail/iss070e000820/)
-- [Celebrating Pride at NASA’s Ames Research Center](https://www.nasa.gov/image-detail/intersex-progress-pride-flag-at-ames/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The soul is neither born, and nor does it die.
+> Teachers open the door. You enter by yourself. 
 >
-> <p>Bhagavad Gita</p>
+> <p>Chinese Proverb</p>
