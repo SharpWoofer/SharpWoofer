@@ -74,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Don't spend time beating on a wall, hoping to transform it into a door.
+> Your imagination is your preview of life's coming attractions.
 >
-> <p>Coco Chanel</p>
+> <p>Albert Einstein</p>
