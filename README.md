@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Celebrating Juneteenth](https://www.nasa.gov/image-detail/gmt327_21_31_1096_ceo-galapagos-bahamas-mexico-texas/)
-- [Management and Program Analyst Mallory Carbon](https://www.nasa.gov/image-detail/mallory-carbon-portrait/)
-- [Hubble Captures a Cosmic Fossil](https://www.nasa.gov/image-detail/hubble-ngc2005-potw2424a/)
-- [Sea Ice Swirls](https://www.nasa.gov/image-detail/greenlandiceswirls-tmo-20240604-lrg/)
-- [A Solitary Sight](https://www.nasa.gov/image-detail/iss070e000820/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The chief danger in life is that you may take too many precautions.
+> If you don't like something change it; if you can't change it, change the way you think about it.
 >
-> <p>Alfred Adler</p>
+> <p>Mary Engelbreit</p>
