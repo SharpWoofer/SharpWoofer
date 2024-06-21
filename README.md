@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s Hubble Celebrates 21st Anniversary with &quot;Rose&quot; of Galaxies](https://www.nasa.gov/image-detail/gsfc-20171208-archive-e001885orig/)
-- [Celebrating Juneteenth](https://www.nasa.gov/image-detail/gmt327_21_31_1096_ceo-galapagos-bahamas-mexico-texas/)
-- [Management and Program Analyst Mallory Carbon](https://www.nasa.gov/image-detail/mallory-carbon-portrait/)
-- [Hubble Captures a Cosmic Fossil](https://www.nasa.gov/image-detail/hubble-ngc2005-potw2424a/)
-- [Sea Ice Swirls](https://www.nasa.gov/image-detail/greenlandiceswirls-tmo-20240604-lrg/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Happiness is not a goal...it's a by-product of a life well lived.
+> Happiness is not something ready made. It comes from your own actions.
 >
-> <p>Eleanor Roosevelt</p>
+> <p>Dalai Lama</p>
