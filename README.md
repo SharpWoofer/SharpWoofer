@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [HuskyWorks During Rover Testing](https://www.nasa.gov/image-detail/huskyworks-during-rover-testing/)
-- [NASA&#39;s Hubble Celebrates 21st Anniversary with &quot;Rose&quot; of Galaxies](https://www.nasa.gov/image-detail/gsfc-20171208-archive-e001885orig/)
-- [Celebrating Juneteenth](https://www.nasa.gov/image-detail/gmt327_21_31_1096_ceo-galapagos-bahamas-mexico-texas/)
-- [Management and Program Analyst Mallory Carbon](https://www.nasa.gov/image-detail/mallory-carbon-portrait/)
-- [Hubble Captures a Cosmic Fossil](https://www.nasa.gov/image-detail/hubble-ngc2005-potw2424a/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> You can easily judge the character of a man by how he treats those who can do nothing for him.
+> We cannot always do great things in life, but we can do small things with great love.
 >
-> <p>Simon Sinek</p>
+> <p>Dan Millman</p>
