@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [HuskyWorks During Rover Testing](https://www.nasa.gov/image-detail/huskyworks-during-rover-testing/)
-- [NASA&#39;s Hubble Celebrates 21st Anniversary with &quot;Rose&quot; of Galaxies](https://www.nasa.gov/image-detail/gsfc-20171208-archive-e001885orig/)
-- [Celebrating Juneteenth](https://www.nasa.gov/image-detail/gmt327_21_31_1096_ceo-galapagos-bahamas-mexico-texas/)
-- [Management and Program Analyst Mallory Carbon](https://www.nasa.gov/image-detail/mallory-carbon-portrait/)
-- [Hubble Captures a Cosmic Fossil](https://www.nasa.gov/image-detail/hubble-ngc2005-potw2424a/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Every person, all the events of your life are there because you have drawn them there. What you choose to do with them is up to you.
+> As mortals, we're ruled by conditions, not by ourselves.
 >
-> <p>Richard Bach</p>
+> <p>Bodhidharma</p>
