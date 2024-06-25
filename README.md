@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [On the GOES](https://www.nasa.gov/image-detail/afs-8-101-574/)
-- [HuskyWorks During Rover Testing](https://www.nasa.gov/image-detail/huskyworks-during-rover-testing/)
-- [NASA&#39;s Hubble Celebrates 21st Anniversary with &quot;Rose&quot; of Galaxies](https://www.nasa.gov/image-detail/gsfc-20171208-archive-e001885orig/)
-- [Celebrating Juneteenth](https://www.nasa.gov/image-detail/gmt327_21_31_1096_ceo-galapagos-bahamas-mexico-texas/)
-- [Management and Program Analyst Mallory Carbon](https://www.nasa.gov/image-detail/mallory-carbon-portrait/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> No man is more cheated than the selfish man.
+> Successful people tend to become more successful because they are always thinking about their successes.
 >
-> <p>Henry Ward Beecher</p>
+> <p>Brian Tracy</p>
