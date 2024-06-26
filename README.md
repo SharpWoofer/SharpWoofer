@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Human Factors Researcher Garrett Sadler](https://www.nasa.gov/image-detail/enviromental-portrait-of-research-ast-human-machine-systems-gar/)
-- [On the GOES](https://www.nasa.gov/image-detail/afs-8-101-574/)
-- [HuskyWorks During Rover Testing](https://www.nasa.gov/image-detail/huskyworks-during-rover-testing/)
-- [NASA&#39;s Hubble Celebrates 21st Anniversary with &quot;Rose&quot; of Galaxies](https://www.nasa.gov/image-detail/gsfc-20171208-archive-e001885orig/)
-- [Celebrating Juneteenth](https://www.nasa.gov/image-detail/gmt327_21_31_1096_ceo-galapagos-bahamas-mexico-texas/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Sometimes letting things go is an act of far greater power than defending or hanging on.
+> No one is useless in this world who lightens the burdens of another.
 >
-> <p>Eckhart Tolle</p>
+> <p>Charles Dickens</p>
