@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NOAA’s GOES-U Satellite Launches](https://www.nasa.gov/image-detail/afs-8-101-578/)
-- [Human Factors Researcher Garrett Sadler](https://www.nasa.gov/image-detail/enviromental-portrait-of-research-ast-human-machine-systems-gar/)
-- [On the GOES](https://www.nasa.gov/image-detail/afs-8-101-574/)
-- [HuskyWorks During Rover Testing](https://www.nasa.gov/image-detail/huskyworks-during-rover-testing/)
-- [NASA&#39;s Hubble Celebrates 21st Anniversary with &quot;Rose&quot; of Galaxies](https://www.nasa.gov/image-detail/gsfc-20171208-archive-e001885orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Failure is an option here. If things are not failing, you are not innovating enough.
+> Each path to knowledge involves different rules and these rules are not interchangeable.
 >
-> <p>Elon Musk</p>
+> <p>Barack Obama</p>
