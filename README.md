@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Hubble Captures Infant Stars Transforming a Nebula](https://www.nasa.gov/image-detail/a-transformation-in-progress/)
-- [NOAA’s GOES-U Satellite Launches](https://www.nasa.gov/image-detail/afs-8-101-578/)
-- [Human Factors Researcher Garrett Sadler](https://www.nasa.gov/image-detail/enviromental-portrait-of-research-ast-human-machine-systems-gar/)
-- [On the GOES](https://www.nasa.gov/image-detail/afs-8-101-574/)
-- [HuskyWorks During Rover Testing](https://www.nasa.gov/image-detail/huskyworks-during-rover-testing/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> We can spend our whole lives escaping from the monsters of our minds.
+> Little minds have little worries, big minds have no time for worries.
 >
-> <p>Pema Chodron</p>
+> <p>Ralph Waldo Emerson</p>
