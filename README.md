@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [The Maze is Afoot](https://www.nasa.gov/image-detail/pia26337orig/)
-- [Hubble Captures Infant Stars Transforming a Nebula](https://www.nasa.gov/image-detail/a-transformation-in-progress/)
-- [NOAA’s GOES-U Satellite Launches](https://www.nasa.gov/image-detail/afs-8-101-578/)
-- [Human Factors Researcher Garrett Sadler](https://www.nasa.gov/image-detail/enviromental-portrait-of-research-ast-human-machine-systems-gar/)
-- [On the GOES](https://www.nasa.gov/image-detail/afs-8-101-574/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Mistakes are painful when they happen, but years later a collection of mistakes is what is called experience.
+> The more you are grateful for what you have the more you will have to be grateful for.  
 >
-> <p>Denis Waitley</p>
+> <p>Zig Ziglar</p>
