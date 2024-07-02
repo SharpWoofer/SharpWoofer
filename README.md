@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Cassini Sees Saturn](https://www.nasa.gov/image-detail/saturn-in-color/)
-- [The Maze is Afoot](https://www.nasa.gov/image-detail/pia26337orig/)
-- [Hubble Captures Infant Stars Transforming a Nebula](https://www.nasa.gov/image-detail/a-transformation-in-progress/)
-- [NOAA’s GOES-U Satellite Launches](https://www.nasa.gov/image-detail/afs-8-101-578/)
-- [Human Factors Researcher Garrett Sadler](https://www.nasa.gov/image-detail/enviromental-portrait-of-research-ast-human-machine-systems-gar/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> It is truth that liberates, not your effort to be free.
+> There's no scarcity of opportunity to make a living at what you love. There is only a scarcity of resolve to make it happen.
 >
-> <p>Jiddu Krishnamurti</p>
+> <p>Wayne Dyer</p>
