@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Studying Hurricane Beryl from Space](https://www.nasa.gov/image-detail/grbgka7wwaafx70/)
-- [Cassini Sees Saturn](https://www.nasa.gov/image-detail/saturn-in-color/)
-- [The Maze is Afoot](https://www.nasa.gov/image-detail/pia26337orig/)
-- [Hubble Captures Infant Stars Transforming a Nebula](https://www.nasa.gov/image-detail/a-transformation-in-progress/)
-- [NOAA’s GOES-U Satellite Launches](https://www.nasa.gov/image-detail/afs-8-101-578/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> New beginnings are disguised as painful endings.
+> Working hard for something we don't care about is called stress: Working hard for something we love is called passion.
 >
-> <p>Lao Tzu</p>
+> <p>Simon Sinek</p>
