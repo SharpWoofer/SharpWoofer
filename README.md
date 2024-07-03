@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Studying Hurricane Beryl from Space](https://www.nasa.gov/image-detail/grbgka7wwaafx70/)
-- [Cassini Sees Saturn](https://www.nasa.gov/image-detail/saturn-in-color/)
-- [The Maze is Afoot](https://www.nasa.gov/image-detail/pia26337orig/)
-- [Hubble Captures Infant Stars Transforming a Nebula](https://www.nasa.gov/image-detail/a-transformation-in-progress/)
-- [NOAA’s GOES-U Satellite Launches](https://www.nasa.gov/image-detail/afs-8-101-578/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> It is the greatest of all mistakes to do nothing because you can only do little; do something.
+> It's not what happens to you, but how you react to it that matters.
 >
-> <p>Sydney Smith</p>
+> <p>Epictetus</p>
