@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Orion on the Rise](https://www.nasa.gov/image-detail/afs-8-101-580/)
-- [Studying Hurricane Beryl from Space](https://www.nasa.gov/image-detail/grbgka7wwaafx70/)
-- [Cassini Sees Saturn](https://www.nasa.gov/image-detail/saturn-in-color/)
-- [The Maze is Afoot](https://www.nasa.gov/image-detail/pia26337orig/)
-- [Hubble Captures Infant Stars Transforming a Nebula](https://www.nasa.gov/image-detail/a-transformation-in-progress/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The more you take responsibility for your past and present, the more you are able to create the future you seek.
+> We can change our lives. We can do, have, and be exactly what we wish.
 >
-> <p>Celestine Chua</p>
+> <p>Tony Robbins</p>
