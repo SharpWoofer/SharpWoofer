@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [30 Years Ago: STS-65 Lifts Off](https://www.nasa.gov/image-detail/sts065-s-050orig/)
-- [Orion on the Rise](https://www.nasa.gov/image-detail/afs-8-101-580/)
-- [Studying Hurricane Beryl from Space](https://www.nasa.gov/image-detail/grbgka7wwaafx70/)
-- [Cassini Sees Saturn](https://www.nasa.gov/image-detail/saturn-in-color/)
-- [The Maze is Afoot](https://www.nasa.gov/image-detail/pia26337orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -78,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Just try to be the best you can be; never cease trying to be the best you can be. That's in your power.
+> The less you open your heart to others, the more your heart suffers.
 >
-> <p>John Wooden</p>
+> <p>Deepak Chopra</p>
