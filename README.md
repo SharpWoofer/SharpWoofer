@@ -74,6 +74,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Never let the fear of striking out keep you from playing the game.
+> A man's worth is no greater than his ambitions.
 >
-> <p>Babe Ruth</p>
+> <p>Marcus Aurelius</p>
