@@ -28,8 +28,8 @@ Hello!
 
 <br>
 
-<a href="https://github.com/J0JIng/SC2002-CAMs-Project">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=J0JIng&repo=SC2002-CAMs-Project&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/SharpWoofer/CAMs-Project">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SharpWoofer&repo=CAMs-Project&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
