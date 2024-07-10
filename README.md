@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Artemis II Core Stage Moves from Final to VAB](https://www.nasa.gov/image-detail/artemis-ii-core-stage-moves-from-final-to-vab/)
-- [30 Years Ago: STS-65 Lifts Off](https://www.nasa.gov/image-detail/sts065-s-050orig/)
-- [Orion on the Rise](https://www.nasa.gov/image-detail/afs-8-101-580/)
-- [Studying Hurricane Beryl from Space](https://www.nasa.gov/image-detail/grbgka7wwaafx70/)
-- [Cassini Sees Saturn](https://www.nasa.gov/image-detail/saturn-in-color/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> To be calm is the highest achievement of the self.
+> Throw your heart over the bar and your body will follow.
 >
-> <p>Zen Proverb</p>
+> <p>Norman Vincent Peale</p>
