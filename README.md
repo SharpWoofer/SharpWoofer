@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [A Midsummer Red Sprite Seen from Space](https://www.nasa.gov/image-detail/iss071e170351/)
-- [Artemis II Core Stage Moves from Final to VAB](https://www.nasa.gov/image-detail/artemis-ii-core-stage-moves-from-final-to-vab/)
-- [30 Years Ago: STS-65 Lifts Off](https://www.nasa.gov/image-detail/sts065-s-050orig/)
-- [Orion on the Rise](https://www.nasa.gov/image-detail/afs-8-101-580/)
-- [Studying Hurricane Beryl from Space](https://www.nasa.gov/image-detail/grbgka7wwaafx70/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> All has not been said and never will be.
+> Teachers open the door. You enter by yourself. 
 >
-> <p>Samuel Beckett</p>
+> <p>Chinese Proverb</p>
