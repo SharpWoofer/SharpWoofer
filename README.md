@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [The Penguin and the Egg](https://www.nasa.gov/image-detail/stsci-01j06y2cnayapkbw5ekm4s94xj/)
-- [A Midsummer Red Sprite Seen from Space](https://www.nasa.gov/image-detail/iss071e170351/)
-- [Artemis II Core Stage Moves from Final to VAB](https://www.nasa.gov/image-detail/artemis-ii-core-stage-moves-from-final-to-vab/)
-- [30 Years Ago: STS-65 Lifts Off](https://www.nasa.gov/image-detail/sts065-s-050orig/)
-- [Orion on the Rise](https://www.nasa.gov/image-detail/afs-8-101-580/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Outstanding people have one thing in common: an absolute sense of mission.  
+> Be the silent watcher of your thoughts and behavior. You are beneath the thinker.
 >
-> <p>Zig Ziglar</p>
+> <p>Eckhart Tolle</p>
