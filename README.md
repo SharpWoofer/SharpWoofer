@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA Meatball Painting on Kennedy&#39;s VAB](https://www.nasa.gov/image-detail/afs-8-101-583/)
-- [The Penguin and the Egg](https://www.nasa.gov/image-detail/stsci-01j06y2cnayapkbw5ekm4s94xj/)
-- [A Midsummer Red Sprite Seen from Space](https://www.nasa.gov/image-detail/iss071e170351/)
-- [Artemis II Core Stage Moves from Final to VAB](https://www.nasa.gov/image-detail/artemis-ii-core-stage-moves-from-final-to-vab/)
-- [30 Years Ago: STS-65 Lifts Off](https://www.nasa.gov/image-detail/sts065-s-050orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> If you look for perfection, you'll never be content.
+> The power of man has grown in every sphere, except over himself.
 >
-> <p>Leo Tolstoy</p>
+> <p>Winston Churchill</p>
