@@ -34,8 +34,8 @@ Hello!
 
 <br>
 
-<a href="https://github.com/SharpWoofer/TikTok-Tech-Immersion-Assignment-2023">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SharpWoofer&repo=TikTok-Tech-Immersion-Assignment-2023&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/SharpWoofer/TikTok-IM">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SharpWoofer&repo=TikTok-IM&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
