@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Apollo 11 Lifts Off](https://www.nasa.gov/image-detail/s69-39961orig/)
-- [NASA Meatball Painting on Kennedy&#39;s VAB](https://www.nasa.gov/image-detail/afs-8-101-583/)
-- [The Penguin and the Egg](https://www.nasa.gov/image-detail/stsci-01j06y2cnayapkbw5ekm4s94xj/)
-- [A Midsummer Red Sprite Seen from Space](https://www.nasa.gov/image-detail/iss071e170351/)
-- [Artemis II Core Stage Moves from Final to VAB](https://www.nasa.gov/image-detail/artemis-ii-core-stage-moves-from-final-to-vab/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Don't let making a living prevent you from making a life.
+> Sometimes you put walls up not to keep people out, but to see who cares enough to break them down.
 >
-> <p>John Wooden</p>
+> <p>Socrates</p>
