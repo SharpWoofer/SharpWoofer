@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Acting Center Chief Technologist Dr. Phillip Williams](https://www.nasa.gov/image-detail/lrc-2024-ocio-p-00686/)
-- [Apollo 11 Lifts Off](https://www.nasa.gov/image-detail/s69-39961orig/)
-- [NASA Meatball Painting on Kennedy&#39;s VAB](https://www.nasa.gov/image-detail/afs-8-101-583/)
-- [The Penguin and the Egg](https://www.nasa.gov/image-detail/stsci-01j06y2cnayapkbw5ekm4s94xj/)
-- [A Midsummer Red Sprite Seen from Space](https://www.nasa.gov/image-detail/iss071e170351/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The happiness of your life depends upon the quality of your thoughts; therefore guard accordingly.
+> May you live all the days of your life.
 >
-> <p>Marcus Aurelius</p>
+> <p>Jonathan Swift</p>
