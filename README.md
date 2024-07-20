@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Explorers on the Moon: Apollo 11 Landing](https://www.nasa.gov/image-detail/apollo-11-mission-image-astronaut-edwin-aldrin-poses-beside-th/)
-- [Artemis II Core Stage on the Move](https://www.nasa.gov/image-detail/artemis-ii-core-stage-rollout-2/)
-- [Acting Center Chief Technologist Dr. Phillip Williams](https://www.nasa.gov/image-detail/lrc-2024-ocio-p-00686/)
-- [Apollo 11 Lifts Off](https://www.nasa.gov/image-detail/s69-39961orig/)
-- [NASA Meatball Painting on Kennedy&#39;s VAB](https://www.nasa.gov/image-detail/afs-8-101-583/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> If we have no peace, it is because we have forgotten that we belong to each other.
+> The more you praise and celebrate your life, the more there is in life to celebrate. 
 >
-> <p>Mother Teresa</p>
+> <p>Oprah Winfrey</p>
