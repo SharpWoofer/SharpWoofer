@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Chandra Sees the Peacock’s Galaxy](https://www.nasa.gov/image-detail/25th-ngc6872/)
-- [Explorers on the Moon: Apollo 11 Landing](https://www.nasa.gov/image-detail/apollo-11-mission-image-astronaut-edwin-aldrin-poses-beside-th/)
-- [Artemis II Core Stage on the Move](https://www.nasa.gov/image-detail/artemis-ii-core-stage-rollout-2/)
-- [Acting Center Chief Technologist Dr. Phillip Williams](https://www.nasa.gov/image-detail/lrc-2024-ocio-p-00686/)
-- [Apollo 11 Lifts Off](https://www.nasa.gov/image-detail/s69-39961orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> When the root is strong, the fruit is sweet.
+> To get angry is like to revenge yourself for the guilt of others.
 >
-> <p>Bob Marley</p>
+> <p>Jonathan Swift</p>
