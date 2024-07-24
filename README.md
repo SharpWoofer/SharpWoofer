@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Astronaut Eileen Collins, NASA’s First Female Shuttle Commander](https://www.nasa.gov/image-detail/sts093-309-027orig/)
-- [Chandra Sees the Peacock’s Galaxy](https://www.nasa.gov/image-detail/25th-ngc6872/)
-- [Explorers on the Moon: Apollo 11 Landing](https://www.nasa.gov/image-detail/apollo-11-mission-image-astronaut-edwin-aldrin-poses-beside-th/)
-- [Artemis II Core Stage on the Move](https://www.nasa.gov/image-detail/artemis-ii-core-stage-rollout-2/)
-- [Acting Center Chief Technologist Dr. Phillip Williams](https://www.nasa.gov/image-detail/lrc-2024-ocio-p-00686/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> I was angered, for I had no shoes. Then I met a man who had no feet. 
+> Once you learn to quit, it becomes a habit.
 >
-> <p>Chinese Proverb</p>
+> <p>Vince Lombardi</p>
