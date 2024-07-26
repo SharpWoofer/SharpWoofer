@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [From Intern to Astronaut](https://www.nasa.gov/image-detail/afs-8-101-587/)
-- [A Saturnian Summer](https://www.nasa.gov/image-detail/stsci-h-p2043a-f-1592x1137-1/)
-- [Astronaut Eileen Collins, NASA’s First Female Shuttle Commander](https://www.nasa.gov/image-detail/sts093-309-027orig/)
-- [Chandra Sees the Peacock’s Galaxy](https://www.nasa.gov/image-detail/25th-ngc6872/)
-- [Explorers on the Moon: Apollo 11 Landing](https://www.nasa.gov/image-detail/apollo-11-mission-image-astronaut-edwin-aldrin-poses-beside-th/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> It only takes a split second to smile and forget, yet to someone that needed it, it can last a lifetime.
+> Not why the addiction but why the pain.
 >
-> <p>Steve Maraboli</p>
+> <p>Gabor Mate</p>
