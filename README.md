@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Hubble Images a Classic Spiral](https://www.nasa.gov/image-detail/hubble-ngc3430-spiral/)
-- [From Intern to Astronaut](https://www.nasa.gov/image-detail/afs-8-101-587/)
-- [A Saturnian Summer](https://www.nasa.gov/image-detail/stsci-h-p2043a-f-1592x1137-1/)
-- [Astronaut Eileen Collins, NASA’s First Female Shuttle Commander](https://www.nasa.gov/image-detail/sts093-309-027orig/)
-- [Chandra Sees the Peacock’s Galaxy](https://www.nasa.gov/image-detail/25th-ngc6872/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Believe you can and you will be halfway there.
+> An empty head is not really empty; it is stuffed with rubbish. Hence the difficulty of forcing anything into an empty head.
 >
-> <p>Lolly Daskal</p>
+> <p>Eric Hoffer</p>
