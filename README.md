@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Peekaboo!](https://www.nasa.gov/image-detail/wildlife-photography-bunnies/)
-- [Hubble Images a Classic Spiral](https://www.nasa.gov/image-detail/hubble-ngc3430-spiral/)
-- [From Intern to Astronaut](https://www.nasa.gov/image-detail/afs-8-101-587/)
-- [A Saturnian Summer](https://www.nasa.gov/image-detail/stsci-h-p2043a-f-1592x1137-1/)
-- [Astronaut Eileen Collins, NASA’s First Female Shuttle Commander](https://www.nasa.gov/image-detail/sts093-309-027orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Creativity is intelligence having fun.
+> Change happens when the pain of holding on becomes greater than the fear of letting go.
 >
-> <p>Albert Einstein</p>
+> <p>Spencer Johnson</p>
