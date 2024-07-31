@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Transportation Officer Melissa Coleman](https://www.nasa.gov/image-detail/afs-8-101-569/)
-- [Peekaboo!](https://www.nasa.gov/image-detail/wildlife-photography-bunnies/)
-- [Hubble Images a Classic Spiral](https://www.nasa.gov/image-detail/hubble-ngc3430-spiral/)
-- [From Intern to Astronaut](https://www.nasa.gov/image-detail/afs-8-101-587/)
-- [A Saturnian Summer](https://www.nasa.gov/image-detail/stsci-h-p2043a-f-1592x1137-1/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Superstars think like superstars long before the fans or the press anoint them.
+> Far and away the best prize that life has to offer is the chance to work hard at work worth doing.
 >
-> <p>John Eliot</p>
+> <p>Theodore Roosevelt</p>
