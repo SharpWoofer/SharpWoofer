@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Ranger 7 Snaps the Moon](https://www.nasa.gov/image-detail/pia02975orig/)
-- [Transportation Officer Melissa Coleman](https://www.nasa.gov/image-detail/afs-8-101-569/)
-- [Peekaboo!](https://www.nasa.gov/image-detail/wildlife-photography-bunnies/)
-- [Hubble Images a Classic Spiral](https://www.nasa.gov/image-detail/hubble-ngc3430-spiral/)
-- [From Intern to Astronaut](https://www.nasa.gov/image-detail/afs-8-101-587/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Success on the outside means nothing unless you also have success within.
+> It is difficult to free fools from the chains they revere. 
 >
-> <p>Robin Sharma</p>
+> <p>Voltaire</p>
