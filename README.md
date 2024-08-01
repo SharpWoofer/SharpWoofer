@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Ranger 7 Snaps the Moon](https://www.nasa.gov/image-detail/pia02975orig/)
-- [Transportation Officer Melissa Coleman](https://www.nasa.gov/image-detail/afs-8-101-569/)
-- [Peekaboo!](https://www.nasa.gov/image-detail/wildlife-photography-bunnies/)
-- [Hubble Images a Classic Spiral](https://www.nasa.gov/image-detail/hubble-ngc3430-spiral/)
-- [From Intern to Astronaut](https://www.nasa.gov/image-detail/afs-8-101-587/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Do every act of your life as if it were your last.
+> Don't gain the world and lose your soul. Wisdom is better than silver and gold.
 >
-> <p>Marcus Aurelius</p>
+> <p>Bob Marley</p>
