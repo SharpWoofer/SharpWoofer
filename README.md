@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Artemis II Core Stage Arrives at Kennedy](https://www.nasa.gov/image-detail/afs-8-101-592/)
-- [Telfer Mine, Western Australia](https://www.nasa.gov/image-detail/teflermine-oli2-20231215-lrg/)
-- [Ranger 7 Snaps the Moon](https://www.nasa.gov/image-detail/pia02975orig/)
-- [Transportation Officer Melissa Coleman](https://www.nasa.gov/image-detail/afs-8-101-569/)
-- [Peekaboo!](https://www.nasa.gov/image-detail/wildlife-photography-bunnies/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Only one thing is ever guaranteed, that is that you will definitely not achieve the goal if you don't take the shot.
+> If you can't imagine it, you can't have it.
 >
-> <p>Wayne Gretzky</p>
+> <p>Toni Morrison</p>
