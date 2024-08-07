@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Doomed Star Eta Carinae](https://www.nasa.gov/image-detail/etacarinae-hubbleschmidt-1764-aaeb6f/)
-- [Europa Clipper Solar Array Alignment and Install](https://www.nasa.gov/image-detail/afs-8-101-593/)
-- [Artemis II Core Stage Arrives at Kennedy](https://www.nasa.gov/image-detail/afs-8-101-592/)
-- [Telfer Mine, Western Australia](https://www.nasa.gov/image-detail/teflermine-oli2-20231215-lrg/)
-- [Ranger 7 Snaps the Moon](https://www.nasa.gov/image-detail/pia02975orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Only one thing is ever guaranteed, that is that you will definitely not achieve the goal if you don't take the shot.
+> Stay away from people who makes you feel like you are wasting their time.
 >
-> <p>Wayne Gretzky</p>
+> <p>Paulo Coelho</p>
