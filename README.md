@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Carving Canyons](https://www.nasa.gov/image-detail/iss069e039063-lrg/)
-- [Doomed Star Eta Carinae](https://www.nasa.gov/image-detail/etacarinae-hubbleschmidt-1764-aaeb6f/)
-- [Europa Clipper Solar Array Alignment and Install](https://www.nasa.gov/image-detail/afs-8-101-593/)
-- [Artemis II Core Stage Arrives at Kennedy](https://www.nasa.gov/image-detail/afs-8-101-592/)
-- [Telfer Mine, Western Australia](https://www.nasa.gov/image-detail/teflermine-oli2-20231215-lrg/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The power of human thought grows exponentially with the number of minds that share that thought.
+> Believe you can and you will be halfway there.
 >
-> <p>Dan Brown</p>
+> <p>Lolly Daskal</p>
