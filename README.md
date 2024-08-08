@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Interior of Vacuum Tank at the Electric Propulsion Laboratory](https://www.nasa.gov/image-detail/grc-1961-c-57748-orig/)
-- [Carving Canyons](https://www.nasa.gov/image-detail/iss069e039063-lrg/)
-- [Europa Clipper Solar Array Alignment and Install](https://www.nasa.gov/image-detail/afs-8-101-593/)
-- [Artemis II Core Stage Arrives at Kennedy](https://www.nasa.gov/image-detail/afs-8-101-592/)
-- [Telfer Mine, Western Australia](https://www.nasa.gov/image-detail/teflermine-oli2-20231215-lrg/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Better to have, and not need, than to need, and not have.
+> We suffer for the simple reason that suffering is biologically useful. It is nature's preferred agent for inspiring change.
 >
-> <p>Franz Kafka</p>
+> <p>Mark Manson</p>
