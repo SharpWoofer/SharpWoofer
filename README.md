@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [The International Space Station’s “window to the world”](https://www.nasa.gov/image-detail/iss065e241659/)
-- [Interior of Vacuum Tank at the Electric Propulsion Laboratory](https://www.nasa.gov/image-detail/grc-1961-c-57748-orig/)
-- [Carving Canyons](https://www.nasa.gov/image-detail/iss069e039063-lrg/)
-- [Europa Clipper Solar Array Alignment and Install](https://www.nasa.gov/image-detail/afs-8-101-593/)
-- [Artemis II Core Stage Arrives at Kennedy](https://www.nasa.gov/image-detail/afs-8-101-592/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Your goals are the road maps that guide you and show you what is possible for your life.
+> Life becomes easier and more beautiful when we can see the good in other people.
 >
-> <p>Les Brown</p>
+> <p>Roy T. Bennett</p>
