@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Earth’s Crest Over the Lunar Horizon](https://www.nasa.gov/image-detail/5052744416-353f737db7-o/)
-- [Webb Sees Gassy Baby Stars](https://www.nasa.gov/image-detail/53804051336-3a87b00dce-o/)
-- [The International Space Station’s “window to the world”](https://www.nasa.gov/image-detail/iss065e241659/)
-- [Interior of Vacuum Tank at the Electric Propulsion Laboratory](https://www.nasa.gov/image-detail/grc-1961-c-57748-orig/)
-- [Carving Canyons](https://www.nasa.gov/image-detail/iss069e039063-lrg/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> If you see yourself as prosperous, you will be.
+> Doing the best at this moment puts you in the best place for the next moment.
 >
-> <p>Robert Collier</p>
+> <p>Oprah Winfrey</p>
