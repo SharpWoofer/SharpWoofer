@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [São Francisco’s Colorful Palette](https://www.nasa.gov/image-detail/iss070-e-51989-lrg/)
-- [A Practiced Escape](https://www.nasa.gov/image-detail/afs-8-101-742/)
-- [Earth’s Crest Over the Lunar Horizon](https://www.nasa.gov/image-detail/5052744416-353f737db7-o/)
-- [Webb Sees Gassy Baby Stars](https://www.nasa.gov/image-detail/53804051336-3a87b00dce-o/)
-- [The International Space Station’s “window to the world”](https://www.nasa.gov/image-detail/iss065e241659/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.
+> The most efficient way of rendering the poor harmless is to teach them to want to imitate the rich.
 >
-> <p>Henry Ford</p>
+> <p>Carlos Ruiz Zafon</p>
