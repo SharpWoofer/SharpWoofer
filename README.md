@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Knowledge has to be improved, challenged, and increased constantly, or it vanishes.
+> There is a wisdom of the head, and there is a wisdom of the heart.
 >
-> <p>Peter Drucker</p>
+> <p>Charles Dickens</p>
