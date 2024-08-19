@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Rings and Things](https://www.nasa.gov/image-detail/rings-and-things/)
-- [São Francisco’s Colorful Palette](https://www.nasa.gov/image-detail/iss070-e-51989-lrg/)
-- [A Practiced Escape](https://www.nasa.gov/image-detail/afs-8-101-742/)
-- [Earth’s Crest Over the Lunar Horizon](https://www.nasa.gov/image-detail/5052744416-353f737db7-o/)
-- [Webb Sees Gassy Baby Stars](https://www.nasa.gov/image-detail/53804051336-3a87b00dce-o/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Only when one allows themself the right to die, do they then give yourself the permission to live.
+> Goals are the fuel in the furnace of achievement.
 >
-> <p>C. Sean McGee</p>
+> <p>Brian Tracy</p>
