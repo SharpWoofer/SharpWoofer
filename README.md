@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Revisiting OSIRIS-REx](https://www.nasa.gov/image-detail/osiris-rex-sample-return-training-15/)
-- [Rings and Things](https://www.nasa.gov/image-detail/rings-and-things/)
-- [São Francisco’s Colorful Palette](https://www.nasa.gov/image-detail/iss070-e-51989-lrg/)
-- [A Practiced Escape](https://www.nasa.gov/image-detail/afs-8-101-742/)
-- [Earth’s Crest Over the Lunar Horizon](https://www.nasa.gov/image-detail/5052744416-353f737db7-o/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> If you're not failing every now and again, it's a sign you're not doing anything very innovative.
+> Cherish forever what makes you unique, cuz you're really a yawn if it goes.
 >
-> <p>Woody Allen</p>
+> <p>Bette Midler</p>
