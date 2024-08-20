@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Revisiting OSIRIS-REx](https://www.nasa.gov/image-detail/osiris-rex-sample-return-training-15/)
-- [Rings and Things](https://www.nasa.gov/image-detail/rings-and-things/)
-- [São Francisco’s Colorful Palette](https://www.nasa.gov/image-detail/iss070-e-51989-lrg/)
-- [A Practiced Escape](https://www.nasa.gov/image-detail/afs-8-101-742/)
-- [Earth’s Crest Over the Lunar Horizon](https://www.nasa.gov/image-detail/5052744416-353f737db7-o/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> You will never do anything in this world without courage. It is the greatest quality of the mind next to honor.
+> Simplicity is a difficult thing to achieve.  
 >
-> <p>James Allen</p>
+> <p>Charlie Chaplin</p>
