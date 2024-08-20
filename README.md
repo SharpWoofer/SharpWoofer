@@ -13,7 +13,11 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Revisiting OSIRIS-REx](https://www.nasa.gov/image-detail/osiris-rex-sample-return-training-15/)
+- [Rings and Things](https://www.nasa.gov/image-detail/rings-and-things/)
+- [São Francisco’s Colorful Palette](https://www.nasa.gov/image-detail/iss070-e-51989-lrg/)
+- [A Practiced Escape](https://www.nasa.gov/image-detail/afs-8-101-742/)
+- [Earth’s Crest Over the Lunar Horizon](https://www.nasa.gov/image-detail/5052744416-353f737db7-o/)
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
