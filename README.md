@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Tortoise Takes a Leisurely Stroll](https://www.nasa.gov/image-detail/ksc-2014-2853orig/)
-- [Revisiting OSIRIS-REx](https://www.nasa.gov/image-detail/osiris-rex-sample-return-training-15/)
-- [Rings and Things](https://www.nasa.gov/image-detail/rings-and-things/)
-- [São Francisco’s Colorful Palette](https://www.nasa.gov/image-detail/iss070-e-51989-lrg/)
-- [A Practiced Escape](https://www.nasa.gov/image-detail/afs-8-101-742/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> When everything seems to be going against you, remember that the airplane takes off against the wind, not with it. 
+> Every time you are tempted to react in the same old way, ask if you want to be a prisoner of the past or a pioneer of the future.
 >
-> <p>Henry Ford</p>
+> <p>Deepak Chopra</p>
