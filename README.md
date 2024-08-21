@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Tortoise Takes a Leisurely Stroll](https://www.nasa.gov/image-detail/ksc-2014-2853orig/)
-- [Revisiting OSIRIS-REx](https://www.nasa.gov/image-detail/osiris-rex-sample-return-training-15/)
-- [Rings and Things](https://www.nasa.gov/image-detail/rings-and-things/)
-- [São Francisco’s Colorful Palette](https://www.nasa.gov/image-detail/iss070-e-51989-lrg/)
-- [A Practiced Escape](https://www.nasa.gov/image-detail/afs-8-101-742/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Wealth consists not in having great possessions, but in having few wants.
+> If you quit once it becomes a habit.
 >
-> <p>Epictetus</p>
+> <p>Michael Jordan</p>
