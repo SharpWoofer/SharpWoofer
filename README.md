@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Rare Blue Supermoon 8/19/24](https://www.nasa.gov/image-detail/rare-blue-supermoon-8-19-24/)
-- [Tortoise Takes a Leisurely Stroll](https://www.nasa.gov/image-detail/ksc-2014-2853orig/)
-- [Revisiting OSIRIS-REx](https://www.nasa.gov/image-detail/osiris-rex-sample-return-training-15/)
-- [Rings and Things](https://www.nasa.gov/image-detail/rings-and-things/)
-- [São Francisco’s Colorful Palette](https://www.nasa.gov/image-detail/iss070-e-51989-lrg/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Some changes look negative on the surface but you will soon realize that space is being created in your life for something new to emerge.
+> If you look for perfection, you'll never be content.
 >
-> <p>Eckhart Tolle</p>
+> <p>Leo Tolstoy</p>
