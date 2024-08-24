@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [First Look at Hybrid Electric Research Aircraft](https://www.nasa.gov/image-detail/electrified-powertrain-flight-demonstration/)
-- [Sunrise Begins](https://www.nasa.gov/image-detail/iss071e487194/)
-- [Rare Blue Supermoon 8/19/24](https://www.nasa.gov/image-detail/rare-blue-supermoon-8-19-24/)
-- [Tortoise Takes a Leisurely Stroll](https://www.nasa.gov/image-detail/ksc-2014-2853orig/)
-- [Revisiting OSIRIS-REx](https://www.nasa.gov/image-detail/osiris-rex-sample-return-training-15/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Life is a challenge, meet it! Life is a dream, realize it! Life is a game, play it! Life is love, enjoy it!
+> Doubt is an uncomfortable condition, but certainty is a ridiculous one.
 >
-> <p>Sathya Sai Baba</p>
+> <p>Voltaire</p>
