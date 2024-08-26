@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [First Look at Hybrid Electric Research Aircraft](https://www.nasa.gov/image-detail/electrified-powertrain-flight-demonstration/)
-- [Sunrise Begins](https://www.nasa.gov/image-detail/iss071e487194/)
-- [Rare Blue Supermoon 8/19/24](https://www.nasa.gov/image-detail/rare-blue-supermoon-8-19-24/)
-- [Tortoise Takes a Leisurely Stroll](https://www.nasa.gov/image-detail/ksc-2014-2853orig/)
-- [Revisiting OSIRIS-REx](https://www.nasa.gov/image-detail/osiris-rex-sample-return-training-15/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Fear of death is fear of surrender to Infinity. Learn to surrender, to exist at Infinity while alive, and fear of death dissolves.
+> Opportunity often comes disguised in the form of misfortune or temporary defeat.
 >
-> <p>Adi Da Samraj</p>
+> <p>Napoleon Hill</p>
