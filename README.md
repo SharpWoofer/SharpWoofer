@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Dr. Irene Duhart Long](https://www.nasa.gov/image-detail/ksc-94pc-0901orig/)
-- [First Look at Hybrid Electric Research Aircraft](https://www.nasa.gov/image-detail/electrified-powertrain-flight-demonstration/)
-- [Sunrise Begins](https://www.nasa.gov/image-detail/iss071e487194/)
-- [Rare Blue Supermoon 8/19/24](https://www.nasa.gov/image-detail/rare-blue-supermoon-8-19-24/)
-- [Tortoise Takes a Leisurely Stroll](https://www.nasa.gov/image-detail/ksc-2014-2853orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> I do not exist to impress the world. I exist to live my life in a way that will make me happy.
+> Reflect upon your present blessings of which every man has many - not on your past misfortunes, of which all men have some.
 >
-> <p>Richard Bach</p>
+> <p>Charles Dickens</p>
