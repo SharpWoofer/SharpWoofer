@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Hubble Pinpoints a Dim, Starry Mini-galaxy](https://www.nasa.gov/image-detail/pegasus-acs-flatcrop-cont-final/)
-- [Dr. Irene Duhart Long](https://www.nasa.gov/image-detail/ksc-94pc-0901orig/)
-- [First Look at Hybrid Electric Research Aircraft](https://www.nasa.gov/image-detail/electrified-powertrain-flight-demonstration/)
-- [Sunrise Begins](https://www.nasa.gov/image-detail/iss071e487194/)
-- [Rare Blue Supermoon 8/19/24](https://www.nasa.gov/image-detail/rare-blue-supermoon-8-19-24/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> If you throw away all thoughts of attainment, you will then come to see the real purpose of your quest.
+> What we dwell on is who we become.
 >
-> <p>Seungsahn</p>
+> <p>Oprah Winfrey</p>
