@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Saharan Dust in the Wind](https://www.nasa.gov/image-detail/dustmorocco-vir-20240824-lrg/)
-- [A SAFER Way](https://www.nasa.gov/image-detail/testing-a-safer-system-during-eva/)
-- [Hubble Pinpoints a Dim, Starry Mini-galaxy](https://www.nasa.gov/image-detail/pegasus-acs-flatcrop-cont-final/)
-- [Dr. Irene Duhart Long](https://www.nasa.gov/image-detail/ksc-94pc-0901orig/)
-- [First Look at Hybrid Electric Research Aircraft](https://www.nasa.gov/image-detail/electrified-powertrain-flight-demonstration/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> When we think about our strengths, we are strong. When we think about our weaknesses, we are weak.
+> Don't allow your mind to tell your heart what to do. The mind gives up easily.
 >
-> <p>Peter A. Cohen</p>
+> <p>Paulo Coelho</p>
