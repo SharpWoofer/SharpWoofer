@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Saharan Dust in the Wind](https://www.nasa.gov/image-detail/dustmorocco-vir-20240824-lrg/)
-- [A SAFER Way](https://www.nasa.gov/image-detail/testing-a-safer-system-during-eva/)
-- [Hubble Pinpoints a Dim, Starry Mini-galaxy](https://www.nasa.gov/image-detail/pegasus-acs-flatcrop-cont-final/)
-- [Dr. Irene Duhart Long](https://www.nasa.gov/image-detail/ksc-94pc-0901orig/)
-- [First Look at Hybrid Electric Research Aircraft](https://www.nasa.gov/image-detail/electrified-powertrain-flight-demonstration/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Our life is what our thoughts make it. A man will find that as he alters his thoughts toward things and other people, things and other people will alter towards him.
+> Be brave. Take risks. Nothing can substitute experience.
 >
-> <p>James Allen</p>
+> <p>Paulo Coelho</p>
