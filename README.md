@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Great Aurora](https://www.nasa.gov/image-detail/gmt284_16_02_shane-kimbrough_1068_great-aurora/)
-- [T-38 Flyover of Artemis I on Launch Pad](https://www.nasa.gov/image-detail/52310837270-83eca00989-o/)
-- [Saharan Dust in the Wind](https://www.nasa.gov/image-detail/dustmorocco-vir-20240824-lrg/)
-- [A SAFER Way](https://www.nasa.gov/image-detail/testing-a-safer-system-during-eva/)
-- [Hubble Pinpoints a Dim, Starry Mini-galaxy](https://www.nasa.gov/image-detail/pegasus-acs-flatcrop-cont-final/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Integrity is telling myself the truth. And honesty is telling the truth to other people.
+> If you try, you might get exactly what you want. If you don't, you don't.
 >
-> <p>Spencer Johnson</p>
+> <p>Unknown</p>
