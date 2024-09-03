@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [T-38 Flyover of Artemis I on Launch Pad](https://www.nasa.gov/image-detail/52310837270-83eca00989-o/)
-- [Saharan Dust in the Wind](https://www.nasa.gov/image-detail/dustmorocco-vir-20240824-lrg/)
-- [A SAFER Way](https://www.nasa.gov/image-detail/testing-a-safer-system-during-eva/)
-- [Hubble Pinpoints a Dim, Starry Mini-galaxy](https://www.nasa.gov/image-detail/pegasus-acs-flatcrop-cont-final/)
-- [Dr. Irene Duhart Long](https://www.nasa.gov/image-detail/ksc-94pc-0901orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> A man who dares to waste one hour of time has not discovered the value of life.
+> Great loves too must be endured.
 >
-> <p>Charles Darwin</p>
+> <p>Coco Chanel</p>
