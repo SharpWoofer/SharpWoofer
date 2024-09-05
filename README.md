@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Gateway’s Propulsion System Testing Throttles Up](https://www.nasa.gov/image-detail/52124102831-c3d676c685-o/)
-- [Great Aurora](https://www.nasa.gov/image-detail/gmt284_16_02_shane-kimbrough_1068_great-aurora/)
-- [T-38 Flyover of Artemis I on Launch Pad](https://www.nasa.gov/image-detail/52310837270-83eca00989-o/)
-- [Saharan Dust in the Wind](https://www.nasa.gov/image-detail/dustmorocco-vir-20240824-lrg/)
-- [A SAFER Way](https://www.nasa.gov/image-detail/testing-a-safer-system-during-eva/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Patience is a form of wisdom. It demonstrates that we understand and accept the fact that sometimes things must unfold in their own time.
+> There is a difference between giving directions and giving direction.
 >
-> <p>Jon Kabat-Zinn</p>
+> <p>Simon Sinek</p>
