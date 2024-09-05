@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Ames Wind Tunnel](https://www.nasa.gov/image-detail/a-fst-37/)
-- [Gateway’s Propulsion System Testing Throttles Up](https://www.nasa.gov/image-detail/52124102831-c3d676c685-o/)
-- [Great Aurora](https://www.nasa.gov/image-detail/gmt284_16_02_shane-kimbrough_1068_great-aurora/)
-- [T-38 Flyover of Artemis I on Launch Pad](https://www.nasa.gov/image-detail/52310837270-83eca00989-o/)
-- [Saharan Dust in the Wind](https://www.nasa.gov/image-detail/dustmorocco-vir-20240824-lrg/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> We have no more right to consume happiness without producing it than to consume wealth without producing it.
+> Use your smile to change the world but don't let the world change your smile.
 >
-> <p>George Bernard Shaw</p>
+> <p>Unknown</p>
