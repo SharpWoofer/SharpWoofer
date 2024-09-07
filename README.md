@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [CubeSats are pictured after being deployed into Earth orbit](https://www.nasa.gov/image-detail/iss071e579940/)
-- [Ames Wind Tunnel](https://www.nasa.gov/image-detail/a-fst-37/)
-- [Gateway’s Propulsion System Testing Throttles Up](https://www.nasa.gov/image-detail/52124102831-c3d676c685-o/)
-- [Great Aurora](https://www.nasa.gov/image-detail/gmt284_16_02_shane-kimbrough_1068_great-aurora/)
-- [T-38 Flyover of Artemis I on Launch Pad](https://www.nasa.gov/image-detail/52310837270-83eca00989-o/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Success is the progressive realization of a worthy goal or ideal.
+> We can either add to our character each day, or we can fritter away our energies in distractions.
 >
-> <p>Earl Nightingale</p>
+> <p>Ming-Dao Deng</p>
