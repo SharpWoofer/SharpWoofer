@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [A Starry View](https://www.nasa.gov/image-detail/53951942710-9389759151-o/)
-- [The dome-shaped Brandburg Massif near the Atlantic coast of central Namibia](https://www.nasa.gov/image-detail/iss071e522460/)
-- [CubeSats are pictured after being deployed into Earth orbit](https://www.nasa.gov/image-detail/iss071e579940/)
-- [Ames Wind Tunnel](https://www.nasa.gov/image-detail/a-fst-37/)
-- [Gateway’s Propulsion System Testing Throttles Up](https://www.nasa.gov/image-detail/52124102831-c3d676c685-o/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> A mistake is only an error, it becomes a mistake when you fail to correct it.
+> A gentleman accepts the responsibility of his actions and bears the burden of their consequences.
 >
-> <p>John Lennon</p>
+> <p>William Faulkner</p>
