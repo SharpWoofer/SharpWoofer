@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [A Starry View](https://www.nasa.gov/image-detail/53951942710-9389759151-o/)
-- [The dome-shaped Brandburg Massif near the Atlantic coast of central Namibia](https://www.nasa.gov/image-detail/iss071e522460/)
-- [CubeSats are pictured after being deployed into Earth orbit](https://www.nasa.gov/image-detail/iss071e579940/)
-- [Ames Wind Tunnel](https://www.nasa.gov/image-detail/a-fst-37/)
-- [Gateway’s Propulsion System Testing Throttles Up](https://www.nasa.gov/image-detail/52124102831-c3d676c685-o/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> An ounce of performance is worth pounds of promises.
+> The more you take responsibility for your past and present, the more you are able to create the future you seek.
 >
-> <p>Mae West</p>
+> <p>Celestine Chua</p>
