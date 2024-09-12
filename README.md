@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Testing Europa Clipper&#39;s Solar Arrays](https://www.nasa.gov/image-detail/pia26066orig/)
-- [Chile Flowers Bloom in Space](https://www.nasa.gov/image-detail/afs-8-101-878/)
-- [A Starry View](https://www.nasa.gov/image-detail/53951942710-9389759151-o/)
-- [The dome-shaped Brandburg Massif near the Atlantic coast of central Namibia](https://www.nasa.gov/image-detail/iss071e522460/)
-- [CubeSats are pictured after being deployed into Earth orbit](https://www.nasa.gov/image-detail/iss071e579940/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Every failure brings with it the seed of an equivalent success.
+> Be Brave and Take Risks: You need to have faith in yourself. Be brave and take risks. You don't have to have it all figured out to move forward.
 >
-> <p>Napoleon Hill</p>
+> <p>Roy T. Bennett</p>
