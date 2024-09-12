@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Chile Flowers Bloom in Space](https://www.nasa.gov/image-detail/afs-8-101-878/)
-- [A Starry View](https://www.nasa.gov/image-detail/53951942710-9389759151-o/)
-- [The dome-shaped Brandburg Massif near the Atlantic coast of central Namibia](https://www.nasa.gov/image-detail/iss071e522460/)
-- [CubeSats are pictured after being deployed into Earth orbit](https://www.nasa.gov/image-detail/iss071e579940/)
-- [Ames Wind Tunnel](https://www.nasa.gov/image-detail/a-fst-37/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> To be truly positive in the eyes of some, you have to risk appearing negative in the eyes of others.
+> Intense love does not measure, it just gives.
 >
-> <p>Criss Jami</p>
+> <p>Mother Teresa</p>
