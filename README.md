@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Chile Flowers Bloom in Space](https://www.nasa.gov/image-detail/afs-8-101-878/)
-- [A Starry View](https://www.nasa.gov/image-detail/53951942710-9389759151-o/)
-- [The dome-shaped Brandburg Massif near the Atlantic coast of central Namibia](https://www.nasa.gov/image-detail/iss071e522460/)
-- [CubeSats are pictured after being deployed into Earth orbit](https://www.nasa.gov/image-detail/iss071e579940/)
-- [Ames Wind Tunnel](https://www.nasa.gov/image-detail/a-fst-37/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Don't measure yourself by what you have accomplished, but by what you should have accomplished with your ability.
+> Nothing is permanent in this wicked world - not even our troubles.
 >
-> <p>John Wooden</p>
+> <p>Charlie Chaplin</p>
