@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Testing Europa Clipper&#39;s Solar Arrays](https://www.nasa.gov/image-detail/pia26066orig/)
-- [Chile Flowers Bloom in Space](https://www.nasa.gov/image-detail/afs-8-101-878/)
-- [A Starry View](https://www.nasa.gov/image-detail/53951942710-9389759151-o/)
-- [The dome-shaped Brandburg Massif near the Atlantic coast of central Namibia](https://www.nasa.gov/image-detail/iss071e522460/)
-- [CubeSats are pictured after being deployed into Earth orbit](https://www.nasa.gov/image-detail/iss071e579940/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Investing in yourself is the best investment you will ever make.
+> Do Something. If it works, do more of it. If it doesn't, do something else.
 >
-> <p>Robin Sharma</p>
+> <p>Franklin D. Roosevelt</p>
