@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Waxing Gibbous Moon over Minnesota](https://www.nasa.gov/image-detail/iss066e105101/)
-- [Testing Europa Clipper&#39;s Solar Arrays](https://www.nasa.gov/image-detail/pia26066orig/)
-- [Chile Flowers Bloom in Space](https://www.nasa.gov/image-detail/afs-8-101-878/)
-- [A Starry View](https://www.nasa.gov/image-detail/53951942710-9389759151-o/)
-- [The dome-shaped Brandburg Massif near the Atlantic coast of central Namibia](https://www.nasa.gov/image-detail/iss071e522460/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> As you grow older you will discover that you have two hands. One for helping yourself, the other for helping others.
+> Love is merely the name for the desire and pursuit of the whole.
 >
-> <p>Audrey Hepburn</p>
+> <p>Aristophanes</p>
