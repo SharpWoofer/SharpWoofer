@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Hubble Examines a Busy Galactic Center](https://www.nasa.gov/image-detail/hubble-ic-4709/)
-- [Engineer Zaida Hernandez](https://www.nasa.gov/image-detail/jsc2024e060575-alt/)
-- [Ottawa’s Fall Rhapsody](https://www.nasa.gov/image-detail/iss063e107777-lrg/)
-- [Waxing Gibbous Moon over Minnesota](https://www.nasa.gov/image-detail/iss066e105101/)
-- [Testing Europa Clipper&#39;s Solar Arrays](https://www.nasa.gov/image-detail/pia26066orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> May you live all the days of your life.
+> He who loses wealth loses much; he who loses a friend loses more; but he that loses his courage loses all.
 >
-> <p>Jonathan Swift</p>
+> <p>Miguel de Cervantes</p>
