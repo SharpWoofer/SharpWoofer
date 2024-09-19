@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Hubble Examines a Busy Galactic Center](https://www.nasa.gov/image-detail/hubble-ic-4709/)
-- [Engineer Zaida Hernandez](https://www.nasa.gov/image-detail/jsc2024e060575-alt/)
-- [Ottawa’s Fall Rhapsody](https://www.nasa.gov/image-detail/iss063e107777-lrg/)
-- [Waxing Gibbous Moon over Minnesota](https://www.nasa.gov/image-detail/iss066e105101/)
-- [Testing Europa Clipper&#39;s Solar Arrays](https://www.nasa.gov/image-detail/pia26066orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Successful people do what unsuccessful people are not willing to do.
+> If you love life, don't waste time, for time is what life is made up of. 
 >
-> <p>Jim Rohn</p>
+> <p>Bruce Lee</p>
