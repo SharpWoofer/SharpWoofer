@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Honoring Hidden Figures](https://www.nasa.gov/image-detail/hidden-figures-congressional-gold-medal-ceremony-2/)
-- [Hubble Examines a Busy Galactic Center](https://www.nasa.gov/image-detail/hubble-ic-4709/)
-- [Engineer Zaida Hernandez](https://www.nasa.gov/image-detail/jsc2024e060575-alt/)
-- [Ottawa’s Fall Rhapsody](https://www.nasa.gov/image-detail/iss063e107777-lrg/)
-- [Waxing Gibbous Moon over Minnesota](https://www.nasa.gov/image-detail/iss066e105101/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Don't measure yourself by what you have accomplished, but by what you should have accomplished with your ability.
+> Even though you are on the right track - you will get run over if you just sit there.
 >
-> <p>John Wooden</p>
+> <p>Will Rogers</p>
