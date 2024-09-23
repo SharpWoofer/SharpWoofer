@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Honoring Hidden Figures](https://www.nasa.gov/image-detail/hidden-figures-congressional-gold-medal-ceremony-2/)
-- [Hubble Examines a Busy Galactic Center](https://www.nasa.gov/image-detail/hubble-ic-4709/)
-- [Engineer Zaida Hernandez](https://www.nasa.gov/image-detail/jsc2024e060575-alt/)
-- [Ottawa’s Fall Rhapsody](https://www.nasa.gov/image-detail/iss063e107777-lrg/)
-- [Waxing Gibbous Moon over Minnesota](https://www.nasa.gov/image-detail/iss066e105101/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Whatever you think the world is withholding from you, you are withholding from the world.
+> Decide upon your major definite purpose in life and then organize all your activities around it.
 >
-> <p>Eckhart Tolle</p>
+> <p>Brian Tracy</p>
