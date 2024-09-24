@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Expedition 71 Soyuz Landing](https://www.nasa.gov/image-detail/expedition-71-soyuz-landing/)
-- [Honoring Hidden Figures](https://www.nasa.gov/image-detail/hidden-figures-congressional-gold-medal-ceremony-2/)
-- [Hubble Examines a Busy Galactic Center](https://www.nasa.gov/image-detail/hubble-ic-4709/)
-- [Engineer Zaida Hernandez](https://www.nasa.gov/image-detail/jsc2024e060575-alt/)
-- [Ottawa’s Fall Rhapsody](https://www.nasa.gov/image-detail/iss063e107777-lrg/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> I have never in my life learned anything from any man who agreed with me.
+> If you do not push the boundaries, you will never know where they are.
 >
-> <p>Dudley Field Malone</p>
+> <p>T.S. Eliot</p>
