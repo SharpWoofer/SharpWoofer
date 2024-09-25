@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Astronaut José Hernández Boards Discovery](https://www.nasa.gov/image-detail/ksc-2009-4537orig-2/)
-- [Expedition 71 Soyuz Landing](https://www.nasa.gov/image-detail/expedition-71-soyuz-landing/)
-- [Honoring Hidden Figures](https://www.nasa.gov/image-detail/hidden-figures-congressional-gold-medal-ceremony-2/)
-- [Hubble Examines a Busy Galactic Center](https://www.nasa.gov/image-detail/hubble-ic-4709/)
-- [Engineer Zaida Hernandez](https://www.nasa.gov/image-detail/jsc2024e060575-alt/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> It is dangerous to be right in matters on which the established authorities are wrong.
+> Everyone has a sense of humor. If you don't laugh at jokes, you probably laugh at opinions.
 >
-> <p>Voltaire</p>
+> <p>Criss Jami</p>
