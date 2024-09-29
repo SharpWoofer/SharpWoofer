@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [The Stanley Cup Comes to Kennedy](https://www.nasa.gov/image-detail/afs-8-101-891/)
-- [NASA’s Art Program is Back](https://www.nasa.gov/image-detail/nasa-reestablishes-historical-art-program-with-space-themed-mural-2/)
-- [Astronaut José Hernández Boards Discovery](https://www.nasa.gov/image-detail/ksc-2009-4537orig-2/)
-- [Expedition 71 Soyuz Landing](https://www.nasa.gov/image-detail/expedition-71-soyuz-landing/)
-- [Honoring Hidden Figures](https://www.nasa.gov/image-detail/hidden-figures-congressional-gold-medal-ceremony-2/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The most virtuous are those who content themselves with being virtuous without seeking to appear so.
+> All life is an experiment. The more experiments you make, the better.
 >
-> <p>Plato</p>
+> <p>Ralph Waldo Emerson</p>
