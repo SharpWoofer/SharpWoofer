@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Communications Strategist Thalia Patrinos](https://www.nasa.gov/image-detail/thalia-patrinos-portrait/)
-- [The Stanley Cup Comes to Kennedy](https://www.nasa.gov/image-detail/afs-8-101-891/)
-- [NASA’s Art Program is Back](https://www.nasa.gov/image-detail/nasa-reestablishes-historical-art-program-with-space-themed-mural-2/)
-- [Astronaut José Hernández Boards Discovery](https://www.nasa.gov/image-detail/ksc-2009-4537orig-2/)
-- [Expedition 71 Soyuz Landing](https://www.nasa.gov/image-detail/expedition-71-soyuz-landing/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Monsters are real, and ghosts are real too. They live inside us, and sometimes, they win.
+> We must not cease from exploration. And the end of all our exploring will be to arrive where we began and to know the place for the first time.
 >
-> <p>Stephen King</p>
+> <p>T.S. Eliot</p>
