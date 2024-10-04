@@ -13,7 +13,11 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Astronauts Rubio and Berrios Speak During Hispanic Heritage Month](https://www.nasa.gov/image-detail/white-house-hispanic-heritage-month-event/)
+- [Communications Strategist Thalia Patrinos](https://www.nasa.gov/image-detail/thalia-patrinos-portrait/)
+- [The Stanley Cup Comes to Kennedy](https://www.nasa.gov/image-detail/afs-8-101-891/)
+- [NASA’s Art Program is Back](https://www.nasa.gov/image-detail/nasa-reestablishes-historical-art-program-with-space-themed-mural-2/)
+- [Astronaut José Hernández Boards Discovery](https://www.nasa.gov/image-detail/ksc-2009-4537orig-2/)
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
