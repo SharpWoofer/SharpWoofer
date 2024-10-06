@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Sunglint on the Alabama River](https://www.nasa.gov/image-detail/iss069-e-25553-lrg/)
-- [Astronauts Rubio and Berrios Speak During Hispanic Heritage Month](https://www.nasa.gov/image-detail/white-house-hispanic-heritage-month-event/)
-- [Communications Strategist Thalia Patrinos](https://www.nasa.gov/image-detail/thalia-patrinos-portrait/)
-- [The Stanley Cup Comes to Kennedy](https://www.nasa.gov/image-detail/afs-8-101-891/)
-- [NASA’s Art Program is Back](https://www.nasa.gov/image-detail/nasa-reestablishes-historical-art-program-with-space-themed-mural-2/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> We are shaped and fashioned by what we love.
+> Consider the rights of others before your own feelings, and the feelings of others before your own rights.
 >
-> <p>Johann Wolfgang von Goethe</p>
+> <p>John Wooden</p>
