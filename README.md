@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Instructions for Aliens](https://www.nasa.gov/image-detail/the-sounds-of-earth-record-cover/)
-- [Sunglint on the Alabama River](https://www.nasa.gov/image-detail/iss069-e-25553-lrg/)
-- [Astronauts Rubio and Berrios Speak During Hispanic Heritage Month](https://www.nasa.gov/image-detail/white-house-hispanic-heritage-month-event/)
-- [Communications Strategist Thalia Patrinos](https://www.nasa.gov/image-detail/thalia-patrinos-portrait/)
-- [The Stanley Cup Comes to Kennedy](https://www.nasa.gov/image-detail/afs-8-101-891/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> If there is a book that you want to read, but it hasn't been written yet, then you must write it.
+> When you realize you've made a mistake, take immediate steps to correct it.
 >
-> <p>Toni Morrison</p>
+> <p>Dalai Lama</p>
