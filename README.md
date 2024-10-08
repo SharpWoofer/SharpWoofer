@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Instructions for Aliens](https://www.nasa.gov/image-detail/the-sounds-of-earth-record-cover/)
-- [Sunglint on the Alabama River](https://www.nasa.gov/image-detail/iss069-e-25553-lrg/)
-- [Astronauts Rubio and Berrios Speak During Hispanic Heritage Month](https://www.nasa.gov/image-detail/white-house-hispanic-heritage-month-event/)
-- [Communications Strategist Thalia Patrinos](https://www.nasa.gov/image-detail/thalia-patrinos-portrait/)
-- [The Stanley Cup Comes to Kennedy](https://www.nasa.gov/image-detail/afs-8-101-891/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The only defense against the world is a thorough knowledge of it.
+> Natural talent only determines the limits of your athletic potential. It's dedication and a willingness to discipline your life that makes you great.
 >
-> <p>John Locke</p>
+> <p>Billie Jean King</p>
