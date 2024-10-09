@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA’s Earth Information Center at the Smithsonian](https://www.nasa.gov/image-detail/nasas-earth-information-center-at-museum-of-natural-history-4/)
-- [Instructions for Aliens](https://www.nasa.gov/image-detail/the-sounds-of-earth-record-cover/)
-- [Sunglint on the Alabama River](https://www.nasa.gov/image-detail/iss069-e-25553-lrg/)
-- [Astronauts Rubio and Berrios Speak During Hispanic Heritage Month](https://www.nasa.gov/image-detail/white-house-hispanic-heritage-month-event/)
-- [Communications Strategist Thalia Patrinos](https://www.nasa.gov/image-detail/thalia-patrinos-portrait/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The future belongs to those who learn more skills and combine them in creative ways.
+> Humor isn't for everyone. It's only for people who want to have fun, enjoy life, and feel alive.
 >
-> <p>Robert Greene</p>
+> <p>Anne Wilson Schaef</p>
