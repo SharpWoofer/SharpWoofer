@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Lead Astromaterial Curation Engineer Salvador Martinez III](https://www.nasa.gov/image-detail/jsc2023e048770/)
-- [NASA’s Earth Information Center at the Smithsonian](https://www.nasa.gov/image-detail/nasas-earth-information-center-at-museum-of-natural-history-4/)
-- [Instructions for Aliens](https://www.nasa.gov/image-detail/the-sounds-of-earth-record-cover/)
-- [Sunglint on the Alabama River](https://www.nasa.gov/image-detail/iss069-e-25553-lrg/)
-- [Astronauts Rubio and Berrios Speak During Hispanic Heritage Month](https://www.nasa.gov/image-detail/white-house-hispanic-heritage-month-event/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The secret of perfect health lies in keeping the mind always cheerful - never worried, never hurried, never borne down by any fear, thought or anxiety.
+> Don't be afraid to go slowly. Be afraid of stopping.
 >
-> <p>Sathya Sai Baba</p>
+> <p>Zen Proverb</p>
