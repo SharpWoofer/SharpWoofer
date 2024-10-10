@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Lead Astromaterial Curation Engineer Salvador Martinez III](https://www.nasa.gov/image-detail/jsc2023e048770/)
-- [NASA’s Earth Information Center at the Smithsonian](https://www.nasa.gov/image-detail/nasas-earth-information-center-at-museum-of-natural-history-4/)
-- [Instructions for Aliens](https://www.nasa.gov/image-detail/the-sounds-of-earth-record-cover/)
-- [Sunglint on the Alabama River](https://www.nasa.gov/image-detail/iss069-e-25553-lrg/)
-- [Astronauts Rubio and Berrios Speak During Hispanic Heritage Month](https://www.nasa.gov/image-detail/white-house-hispanic-heritage-month-event/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Where the willingness is great, the difficulties cannot be great.
+> Life is what you make it. Always has been, always will be.
 >
-> <p>Niccolo Machiavelli</p>
+> <p>Eleanor Roosevelt</p>
