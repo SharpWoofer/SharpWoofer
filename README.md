@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Ring Around the Mountain](https://www.nasa.gov/image-detail/mttaranaki-oli-20230610-lrg/)
-- [Lead Astromaterial Curation Engineer Salvador Martinez III](https://www.nasa.gov/image-detail/jsc2023e048770/)
-- [NASA’s Earth Information Center at the Smithsonian](https://www.nasa.gov/image-detail/nasas-earth-information-center-at-museum-of-natural-history-4/)
-- [Instructions for Aliens](https://www.nasa.gov/image-detail/the-sounds-of-earth-record-cover/)
-- [Sunglint on the Alabama River](https://www.nasa.gov/image-detail/iss069-e-25553-lrg/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Instead of worrying about what you cannot control, shift your energy to what you can create.
+> Have a vision, trust yourself, break some rules, ignore the naysayers, don't be afraid to fail.
 >
-> <p>Roy T. Bennett</p>
+> <p>Arnold Schwarzenegger</p>
