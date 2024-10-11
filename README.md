@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Ring Around the Mountain](https://www.nasa.gov/image-detail/mttaranaki-oli-20230610-lrg/)
-- [Lead Astromaterial Curation Engineer Salvador Martinez III](https://www.nasa.gov/image-detail/jsc2023e048770/)
-- [NASA’s Earth Information Center at the Smithsonian](https://www.nasa.gov/image-detail/nasas-earth-information-center-at-museum-of-natural-history-4/)
-- [Instructions for Aliens](https://www.nasa.gov/image-detail/the-sounds-of-earth-record-cover/)
-- [Sunglint on the Alabama River](https://www.nasa.gov/image-detail/iss069-e-25553-lrg/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Things may come to those who wait, but only the things left by those who hustle.
+> Riches don't make a man rich, they only make him busier.
 >
-> <p>Abraham Lincoln</p>
+> <p>Christopher Columbus</p>
