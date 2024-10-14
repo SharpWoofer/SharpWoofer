@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Ancient Comet Makes Appearance](https://www.nasa.gov/image-detail/iss072e020907/)
-- [Ring Around the Mountain](https://www.nasa.gov/image-detail/mttaranaki-oli-20230610-lrg/)
-- [Lead Astromaterial Curation Engineer Salvador Martinez III](https://www.nasa.gov/image-detail/jsc2023e048770/)
-- [NASA’s Earth Information Center at the Smithsonian](https://www.nasa.gov/image-detail/nasas-earth-information-center-at-museum-of-natural-history-4/)
-- [Instructions for Aliens](https://www.nasa.gov/image-detail/the-sounds-of-earth-record-cover/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Everything has its beauty, but not everyone sees it. 
+> When we strive to become better than we are, everything around us becomes better, too.
 >
-> <p>Confucius</p>
+> <p>Paulo Coelho</p>
