@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Europa Clipper Begins Journey to Jupiter’s Icy Moon](https://www.nasa.gov/image-detail/afs-8-101-904/)
-- [Ancient Comet Makes Appearance](https://www.nasa.gov/image-detail/iss072e020907/)
-- [Ring Around the Mountain](https://www.nasa.gov/image-detail/mttaranaki-oli-20230610-lrg/)
-- [Lead Astromaterial Curation Engineer Salvador Martinez III](https://www.nasa.gov/image-detail/jsc2023e048770/)
-- [NASA’s Earth Information Center at the Smithsonian](https://www.nasa.gov/image-detail/nasas-earth-information-center-at-museum-of-natural-history-4/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Everyone sees what you appear to be, few experience what you really are.
+> Not how long, but how well you have lived is the main thing.
 >
-> <p>Niccolo Machiavelli</p>
+> <p>Seneca</p>
