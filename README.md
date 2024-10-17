@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Imagining the Future](https://www.nasa.gov/image-detail/grc-1973-c-03174orig/)
-- [Europa Clipper Begins Journey to Jupiter’s Icy Moon](https://www.nasa.gov/image-detail/afs-8-101-904/)
-- [Ancient Comet Makes Appearance](https://www.nasa.gov/image-detail/iss072e020907/)
-- [Ring Around the Mountain](https://www.nasa.gov/image-detail/mttaranaki-oli-20230610-lrg/)
-- [Lead Astromaterial Curation Engineer Salvador Martinez III](https://www.nasa.gov/image-detail/jsc2023e048770/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Life may be full of pain but that's not an excuse to give up.
+> It's better to have a short life that is full of what you like doing, than a long life spent in a miserable way.
 >
-> <p>Arnold Schwarzenegger</p>
+> <p>Alan Watts</p>
