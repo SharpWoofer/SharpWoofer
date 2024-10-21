@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA Michoud Gets a Rare Visitor](https://www.nasa.gov/image-detail/epb-comet-tsuchinchanatlas-c2023a3orig/)
-- [Imagining the Future](https://www.nasa.gov/image-detail/grc-1973-c-03174orig/)
-- [Europa Clipper Begins Journey to Jupiter’s Icy Moon](https://www.nasa.gov/image-detail/afs-8-101-904/)
-- [Ancient Comet Makes Appearance](https://www.nasa.gov/image-detail/iss072e020907/)
-- [Ring Around the Mountain](https://www.nasa.gov/image-detail/mttaranaki-oli-20230610-lrg/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Love the life you live, live the life you love.
+> Never waste a minute of your precious life thinking about people you don't like.
 >
-> <p>Bob Marley</p>
+> <p>Celestine Chua</p>
