@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [A Dazzling Supernova](https://www.nasa.gov/image-detail/gsfc-20171208-archive-e000102orig/)
-- [On the Road Again…](https://www.nasa.gov/image-detail/afs-8-101-905/)
-- [NASA Michoud Gets a Rare Visitor](https://www.nasa.gov/image-detail/epb-comet-tsuchinchanatlas-c2023a3orig/)
-- [Imagining the Future](https://www.nasa.gov/image-detail/grc-1973-c-03174orig/)
-- [Europa Clipper Begins Journey to Jupiter’s Icy Moon](https://www.nasa.gov/image-detail/afs-8-101-904/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> When we have our body and mind in order, everything else will exist in the right place, in the right way.
+> The way to get started is to quit talking and begin doing.
 >
-> <p>Shunryu Suzuki</p>
+> <p>Walt Disney</p>
