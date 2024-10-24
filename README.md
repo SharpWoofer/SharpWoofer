@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Melbourne City Lights](https://www.nasa.gov/image-detail/iss072e034554/)
-- [A Dazzling Supernova](https://www.nasa.gov/image-detail/gsfc-20171208-archive-e000102orig/)
-- [On the Road Again…](https://www.nasa.gov/image-detail/afs-8-101-905/)
-- [NASA Michoud Gets a Rare Visitor](https://www.nasa.gov/image-detail/epb-comet-tsuchinchanatlas-c2023a3orig/)
-- [Imagining the Future](https://www.nasa.gov/image-detail/grc-1973-c-03174orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Make your stand today. On this spot. On this day.
+> Find your Light; They can't love you if they can't see you.
 >
-> <p>Ming-Dao Deng</p>
+> <p>Bette Midler</p>
