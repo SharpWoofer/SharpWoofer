@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [An Orange Blue Moon](https://www.nasa.gov/image-detail/afs-8-101-908/)
-- [Melbourne City Lights](https://www.nasa.gov/image-detail/iss072e034554/)
-- [A Dazzling Supernova](https://www.nasa.gov/image-detail/gsfc-20171208-archive-e000102orig/)
-- [On the Road Again…](https://www.nasa.gov/image-detail/afs-8-101-905/)
-- [NASA Michoud Gets a Rare Visitor](https://www.nasa.gov/image-detail/epb-comet-tsuchinchanatlas-c2023a3orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> It is not fair to ask of others what you are not willing to do yourself.
+> To every action there is always opposed an equal reaction.
 >
-> <p>Eleanor Roosevelt</p>
+> <p>Isaac Newton</p>
