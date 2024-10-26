@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Hubble Sees a Celestial Cannonball](https://www.nasa.gov/image-detail/hubble-ic3225-potw2443a/)
-- [An Orange Blue Moon](https://www.nasa.gov/image-detail/afs-8-101-908/)
-- [Melbourne City Lights](https://www.nasa.gov/image-detail/iss072e034554/)
-- [A Dazzling Supernova](https://www.nasa.gov/image-detail/gsfc-20171208-archive-e000102orig/)
-- [On the Road Again…](https://www.nasa.gov/image-detail/afs-8-101-905/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Actions are the seeds of fate. Deeds grow into destiny.
+> In youth we run into difficulties. In old age difficulties run into us. 
 >
-> <p>Harry S. Truman</p>
+> <p>Beverly Sills</p>
