@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [A Particular Lenticular Cloud](https://www.nasa.gov/image-detail/nzcloud-oli-20240907-lrg/)
-- [An Opportunity to Study Water](https://www.nasa.gov/image-detail/iss072e069543-2/)
-- [Hubble Sees a Celestial Cannonball](https://www.nasa.gov/image-detail/hubble-ic3225-potw2443a/)
-- [An Orange Blue Moon](https://www.nasa.gov/image-detail/afs-8-101-908/)
-- [Melbourne City Lights](https://www.nasa.gov/image-detail/iss072e034554/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Anyone who dreams of an uncommon life eventually discovers there is no choice but to seek an uncommon approach to living it.
+> The harder the conflict, the greater the triumph. 
 >
-> <p>Gary Keller</p>
+> <p>George Washington</p>
