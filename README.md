@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [60 Years Ago: Lunar Landing Research Vehicle Takes Flight](https://www.nasa.gov/image-detail/54105178059-4ba11d402b-o/)
-- [A Particular Lenticular Cloud](https://www.nasa.gov/image-detail/nzcloud-oli-20240907-lrg/)
-- [An Opportunity to Study Water](https://www.nasa.gov/image-detail/iss072e069543-2/)
-- [Hubble Sees a Celestial Cannonball](https://www.nasa.gov/image-detail/hubble-ic3225-potw2443a/)
-- [An Orange Blue Moon](https://www.nasa.gov/image-detail/afs-8-101-908/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Everything you look at can become a fairy tale and you can get a story from everything you touch.
+> He who knows, does not speak. He who speaks, does not know.
 >
-> <p>Hans Christian Andersen</p>
+> <p>Lao Tzu</p>
