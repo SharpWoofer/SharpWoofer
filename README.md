@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [60 Years Ago: Lunar Landing Research Vehicle Takes Flight](https://www.nasa.gov/image-detail/54105178059-4ba11d402b-o/)
-- [A Particular Lenticular Cloud](https://www.nasa.gov/image-detail/nzcloud-oli-20240907-lrg/)
-- [An Opportunity to Study Water](https://www.nasa.gov/image-detail/iss072e069543-2/)
-- [Hubble Sees a Celestial Cannonball](https://www.nasa.gov/image-detail/hubble-ic3225-potw2443a/)
-- [An Orange Blue Moon](https://www.nasa.gov/image-detail/afs-8-101-908/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Keep your eyes on the stars, but remember to keep your feet on the ground.
+> Love yourself with the same intensity you would use to pull yourself up if you were hanging off a cliff.
 >
-> <p>Theodore Roosevelt</p>
+> <p>Kamal Ravikant</p>
