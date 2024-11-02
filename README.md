@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Witch Nebula Casts Starry Spell](https://www.nasa.gov/image-detail/witch-head-brews-baby-stars-2/)
-- [60 Years Ago: Lunar Landing Research Vehicle Takes Flight](https://www.nasa.gov/image-detail/54105178059-4ba11d402b-o/)
-- [A Particular Lenticular Cloud](https://www.nasa.gov/image-detail/nzcloud-oli-20240907-lrg/)
-- [An Opportunity to Study Water](https://www.nasa.gov/image-detail/iss072e069543-2/)
-- [Hubble Sees a Celestial Cannonball](https://www.nasa.gov/image-detail/hubble-ic3225-potw2443a/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Dreams do come true, if we only wish hard enough, You can have anything in life if you will sacrifice everything else for it.
+> You don't have to be great to start, but you have to start to be great.  
 >
-> <p>James Matthew Barrie</p>
+> <p>Zig Ziglar</p>
