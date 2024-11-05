@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Atlantis Begins 13th Space Trip](https://www.nasa.gov/image-detail/sts066-s-011orig/)
-- [Witch Nebula Casts Starry Spell](https://www.nasa.gov/image-detail/witch-head-brews-baby-stars-2/)
-- [60 Years Ago: Lunar Landing Research Vehicle Takes Flight](https://www.nasa.gov/image-detail/54105178059-4ba11d402b-o/)
-- [A Particular Lenticular Cloud](https://www.nasa.gov/image-detail/nzcloud-oli-20240907-lrg/)
-- [An Opportunity to Study Water](https://www.nasa.gov/image-detail/iss072e069543-2/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Men are disturbed not by things, but by the view which they take of them.
+> Concentrate all your thoughts upon the work at hand. The sun's rays do not burn until brought to focus.
 >
-> <p>Epictetus</p>
+> <p>Alexander Graham Bell</p>
