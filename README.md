@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Contract Specialist Miranda Meyer](https://www.nasa.gov/image-detail/miranda-meyer-portrait/)
-- [Atlantis Begins 13th Space Trip](https://www.nasa.gov/image-detail/sts066-s-011orig/)
-- [Witch Nebula Casts Starry Spell](https://www.nasa.gov/image-detail/witch-head-brews-baby-stars-2/)
-- [60 Years Ago: Lunar Landing Research Vehicle Takes Flight](https://www.nasa.gov/image-detail/54105178059-4ba11d402b-o/)
-- [A Particular Lenticular Cloud](https://www.nasa.gov/image-detail/nzcloud-oli-20240907-lrg/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> It's the job that's never started that takes the longest to finish.
+> Stop being a prisoner of your past. Become the architect of your future.
 >
-> <p>J.R.R. Tolkien</p>
+> <p>Robin Sharma</p>
