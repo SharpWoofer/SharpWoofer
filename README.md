@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Earth Below](https://www.nasa.gov/image-detail/iss072e097437/)
-- [X-59’s Engine Started for Testing](https://www.nasa.gov/image-detail/x-59-performs-first-engine-run/)
-- [Contract Specialist Miranda Meyer](https://www.nasa.gov/image-detail/miranda-meyer-portrait/)
-- [Atlantis Begins 13th Space Trip](https://www.nasa.gov/image-detail/sts066-s-011orig/)
-- [Witch Nebula Casts Starry Spell](https://www.nasa.gov/image-detail/witch-head-brews-baby-stars-2/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> It still holds true that man is most uniquely human when he turns obstacles into opportunities.
+> Always try to be a little kinder than necessary.
 >
-> <p>Eric Hoffer</p>
+> <p>James Matthew Barrie</p>
