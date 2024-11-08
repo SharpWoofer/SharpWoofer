@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Earth Below](https://www.nasa.gov/image-detail/iss072e097437/)
-- [X-59’s Engine Started for Testing](https://www.nasa.gov/image-detail/x-59-performs-first-engine-run/)
-- [Contract Specialist Miranda Meyer](https://www.nasa.gov/image-detail/miranda-meyer-portrait/)
-- [Atlantis Begins 13th Space Trip](https://www.nasa.gov/image-detail/sts066-s-011orig/)
-- [Witch Nebula Casts Starry Spell](https://www.nasa.gov/image-detail/witch-head-brews-baby-stars-2/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> It's just a bad day, not a bad life.
+> The only real security that a man can have in this world is a reserve of knowledge, experience and ability. 
 >
-> <p>Mary Engelbreit</p>
+> <p>Henry Ford</p>
