@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Earth Below](https://www.nasa.gov/image-detail/iss072e097437/)
-- [X-59’s Engine Started for Testing](https://www.nasa.gov/image-detail/x-59-performs-first-engine-run/)
-- [Contract Specialist Miranda Meyer](https://www.nasa.gov/image-detail/miranda-meyer-portrait/)
-- [Atlantis Begins 13th Space Trip](https://www.nasa.gov/image-detail/sts066-s-011orig/)
-- [Witch Nebula Casts Starry Spell](https://www.nasa.gov/image-detail/witch-head-brews-baby-stars-2/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Wheresoever you go, go with all your heart.
+> If you want to turn a vision into reality, you have to give 100% and never stop believing in your dream.
 >
-> <p>Confucius</p>
+> <p>Arnold Schwarzenegger</p>
