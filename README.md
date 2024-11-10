@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Hubble Captures a Galaxy with Many Lights](https://www.nasa.gov/image-detail/galaxy-light-show/)
-- [Earth Below](https://www.nasa.gov/image-detail/iss072e097437/)
-- [X-59’s Engine Started for Testing](https://www.nasa.gov/image-detail/x-59-performs-first-engine-run/)
-- [Contract Specialist Miranda Meyer](https://www.nasa.gov/image-detail/miranda-meyer-portrait/)
-- [Atlantis Begins 13th Space Trip](https://www.nasa.gov/image-detail/sts066-s-011orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Intelligence, imagination, and knowledge are essential resources, but only effectiveness converts them into results.
+> There are no accidents... there is only some purpose that we haven't yet understood.
 >
-> <p>Peter Drucker</p>
+> <p>Deepak Chopra</p>
