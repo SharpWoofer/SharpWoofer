@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Hubble Captures a Galaxy with Many Lights](https://www.nasa.gov/image-detail/galaxy-light-show/)
-- [Earth Below](https://www.nasa.gov/image-detail/iss072e097437/)
-- [X-59’s Engine Started for Testing](https://www.nasa.gov/image-detail/x-59-performs-first-engine-run/)
-- [Contract Specialist Miranda Meyer](https://www.nasa.gov/image-detail/miranda-meyer-portrait/)
-- [Atlantis Begins 13th Space Trip](https://www.nasa.gov/image-detail/sts066-s-011orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Hope is not a strategy. Luck is not a factor. Fear is not an option.
+> A good character is the best tombstone. Carve your name on hearts, not on marble.
 >
-> <p>James Cameron</p>
+> <p>Charles Spurgeon</p>
