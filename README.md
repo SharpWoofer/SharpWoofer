@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Hubble Captures a Galaxy with Many Lights](https://www.nasa.gov/image-detail/galaxy-light-show/)
-- [Earth Below](https://www.nasa.gov/image-detail/iss072e097437/)
-- [X-59’s Engine Started for Testing](https://www.nasa.gov/image-detail/x-59-performs-first-engine-run/)
-- [Contract Specialist Miranda Meyer](https://www.nasa.gov/image-detail/miranda-meyer-portrait/)
-- [Atlantis Begins 13th Space Trip](https://www.nasa.gov/image-detail/sts066-s-011orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The most important single ingredient in the formula of success is knowing how to get along with people.
+> Treat every moment as your last. It is not preparation for something else.
 >
-> <p>Theodore Roosevelt</p>
+> <p>Shunryu Suzuki</p>
