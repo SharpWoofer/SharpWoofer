@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Native American Seeds Flown Aboard Space Station](https://www.nasa.gov/image-detail/iss070e028324/)
-- [Hubble Captures a Galaxy with Many Lights](https://www.nasa.gov/image-detail/galaxy-light-show/)
-- [Earth Below](https://www.nasa.gov/image-detail/iss072e097437/)
-- [X-59’s Engine Started for Testing](https://www.nasa.gov/image-detail/x-59-performs-first-engine-run/)
-- [Contract Specialist Miranda Meyer](https://www.nasa.gov/image-detail/miranda-meyer-portrait/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> There is no fear for one whose mind is not filled with desires.
+> Don't be pushed around by the fears in your mind. Be led by the dreams in your heart.
 >
-> <p>Buddha</p>
+> <p>Roy T. Bennett</p>
