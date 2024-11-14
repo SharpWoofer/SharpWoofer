@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [A Caribbean Spacewalk](https://www.nasa.gov/image-detail/sts051-75-036orig/)
-- [Native American Seeds Flown Aboard Space Station](https://www.nasa.gov/image-detail/iss070e028324/)
-- [Hubble Captures a Galaxy with Many Lights](https://www.nasa.gov/image-detail/galaxy-light-show/)
-- [Earth Below](https://www.nasa.gov/image-detail/iss072e097437/)
-- [X-59’s Engine Started for Testing](https://www.nasa.gov/image-detail/x-59-performs-first-engine-run/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Your very silence shows you agree.
+> If you can't fly, run. If you can't run, walk. If you can't walk, crawl, but by all means, keep moving.
 >
-> <p>Euripides</p>
+> <p>Martin Luther King, Jr.</p>
