@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [55 Years Ago: Apollo 12 Launches](https://www.nasa.gov/image-detail/s69-58883orig/)
-- [A Caribbean Spacewalk](https://www.nasa.gov/image-detail/sts051-75-036orig/)
-- [Native American Seeds Flown Aboard Space Station](https://www.nasa.gov/image-detail/iss070e028324/)
-- [Hubble Captures a Galaxy with Many Lights](https://www.nasa.gov/image-detail/galaxy-light-show/)
-- [Earth Below](https://www.nasa.gov/image-detail/iss072e097437/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> I was angered, for I had no shoes. Then I met a man who had no feet. 
+> Would you rather learn to deal with the truth now than be forced to do so later on?
 >
-> <p>Chinese Proverb</p>
+> <p>Celestine Chua</p>
