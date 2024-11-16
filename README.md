@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Two Years Ago: Artemis I Launch](https://www.nasa.gov/image-detail/artemis-i-launch-23/)
-- [55 Years Ago: Apollo 12 Launches](https://www.nasa.gov/image-detail/s69-58883orig/)
-- [A Caribbean Spacewalk](https://www.nasa.gov/image-detail/sts051-75-036orig/)
-- [Native American Seeds Flown Aboard Space Station](https://www.nasa.gov/image-detail/iss070e028324/)
-- [Hubble Captures a Galaxy with Many Lights](https://www.nasa.gov/image-detail/galaxy-light-show/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> When you've got nothing, you've got nothing to lose.
+> A thing constructed can only be loved after it is constructed; but a thing created is loved before it exists.
 >
-> <p>Bob Dylan</p>
+> <p>Charles Dickens</p>
