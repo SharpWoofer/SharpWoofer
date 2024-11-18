@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Two Years Ago: Artemis I Launch](https://www.nasa.gov/image-detail/artemis-i-launch-23/)
-- [55 Years Ago: Apollo 12 Launches](https://www.nasa.gov/image-detail/s69-58883orig/)
-- [A Caribbean Spacewalk](https://www.nasa.gov/image-detail/sts051-75-036orig/)
-- [Native American Seeds Flown Aboard Space Station](https://www.nasa.gov/image-detail/iss070e028324/)
-- [Hubble Captures a Galaxy with Many Lights](https://www.nasa.gov/image-detail/galaxy-light-show/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> No man is more cheated than the selfish man.
+> To be fully alive, fully human, and completely awake is to be continually thrown out of the nest.
 >
-> <p>Henry Ward Beecher</p>
+> <p>Pema Chodron</p>
