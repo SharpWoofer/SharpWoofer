@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [First Nations Launch Winners Watch Crew-7 Launch](https://www.nasa.gov/image-detail/afs-8-101-916/)
-- [Two Years Ago: Artemis I Launch](https://www.nasa.gov/image-detail/artemis-i-launch-23/)
-- [55 Years Ago: Apollo 12 Launches](https://www.nasa.gov/image-detail/s69-58883orig/)
-- [A Caribbean Spacewalk](https://www.nasa.gov/image-detail/sts051-75-036orig/)
-- [Native American Seeds Flown Aboard Space Station](https://www.nasa.gov/image-detail/iss070e028324/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> You cannot swim for new horizons until you have courage to lose sight of the shore.
+> Do good by stealth, and blush to find it fame.
 >
-> <p>William Faulkner</p>
+> <p>Alexander Pope</p>
