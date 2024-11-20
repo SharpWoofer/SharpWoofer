@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [On This Day: Apollo 12 Lands on the Moon](https://www.nasa.gov/image-detail/apollo-12-mission-image-dark-view-of-astronaut-alan-l-bean-climbing-down-the-ladder-of-the-lunar-module-lm/)
-- [First Nations Launch Winners Watch Crew-7 Launch](https://www.nasa.gov/image-detail/afs-8-101-916/)
-- [Two Years Ago: Artemis I Launch](https://www.nasa.gov/image-detail/artemis-i-launch-23/)
-- [55 Years Ago: Apollo 12 Launches](https://www.nasa.gov/image-detail/s69-58883orig/)
-- [A Caribbean Spacewalk](https://www.nasa.gov/image-detail/sts051-75-036orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> It's not the men in your life that matters, it's the life in your men.
+> Live your life as an exclamation rather than an explanation.
 >
-> <p>Mae West</p>
+> <p>Isaac Newton</p>
