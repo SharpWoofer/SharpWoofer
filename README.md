@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Ring Around Tabby’s Star](https://www.nasa.gov/image-detail/pia22081orig/)
-- [STS-129 Crew Aboard the Space Station](https://www.nasa.gov/image-detail/nasa-s-n-1124-80-1f/)
-- [On This Day: Apollo 12 Lands on the Moon](https://www.nasa.gov/image-detail/apollo-12-mission-image-dark-view-of-astronaut-alan-l-bean-climbing-down-the-ladder-of-the-lunar-module-lm/)
-- [First Nations Launch Winners Watch Crew-7 Launch](https://www.nasa.gov/image-detail/afs-8-101-916/)
-- [Two Years Ago: Artemis I Launch](https://www.nasa.gov/image-detail/artemis-i-launch-23/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Don't hate the player. Change the game.
+> Giving is living. If you stop wanting to give, there's nothing more to live for.
 >
-> <p>Steve Harvey</p>
+> <p>Audrey Hepburn</p>
