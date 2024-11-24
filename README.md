@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Icelandic Cyclones](https://www.nasa.gov/image-detail/gsfc-20171208-archive-e002167orig/)
-- [Ring Around Tabby’s Star](https://www.nasa.gov/image-detail/pia22081orig/)
-- [STS-129 Crew Aboard the Space Station](https://www.nasa.gov/image-detail/nasa-s-n-1124-80-1f/)
-- [On This Day: Apollo 12 Lands on the Moon](https://www.nasa.gov/image-detail/apollo-12-mission-image-dark-view-of-astronaut-alan-l-bean-climbing-down-the-ladder-of-the-lunar-module-lm/)
-- [First Nations Launch Winners Watch Crew-7 Launch](https://www.nasa.gov/image-detail/afs-8-101-916/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Things cannot forever go downward. There are limits to everything—even the cold, and the darkness, and the wind, and the dying.
+> I have lived with several Zen masters -- all of them cats.
 >
-> <p>Ming-Dao Deng</p>
+> <p>Eckhart Tolle</p>
