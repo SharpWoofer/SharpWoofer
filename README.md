@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Mini NASA Robot Takes a SWIM](https://www.nasa.gov/image-detail/pia26423orig/)
-- [Icelandic Cyclones](https://www.nasa.gov/image-detail/gsfc-20171208-archive-e002167orig/)
-- [Ring Around Tabby’s Star](https://www.nasa.gov/image-detail/pia22081orig/)
-- [STS-129 Crew Aboard the Space Station](https://www.nasa.gov/image-detail/nasa-s-n-1124-80-1f/)
-- [On This Day: Apollo 12 Lands on the Moon](https://www.nasa.gov/image-detail/apollo-12-mission-image-dark-view-of-astronaut-alan-l-bean-climbing-down-the-ladder-of-the-lunar-module-lm/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Welcome every morning with a smile. Look on the new day as another gift from your Creator, another golden opportunity.
+> Learn from the rejection and turn it into an opportunity!
 >
-> <p>Og Mandino</p>
+> <p>Mary Engelbreit</p>
