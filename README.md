@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Selfie Time with Astronaut Victor Glover](https://www.nasa.gov/image-detail/afs-8-101-919/)
-- [Mini NASA Robot Takes a SWIM](https://www.nasa.gov/image-detail/pia26423orig/)
-- [Icelandic Cyclones](https://www.nasa.gov/image-detail/gsfc-20171208-archive-e002167orig/)
-- [Ring Around Tabby’s Star](https://www.nasa.gov/image-detail/pia22081orig/)
-- [STS-129 Crew Aboard the Space Station](https://www.nasa.gov/image-detail/nasa-s-n-1124-80-1f/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Do not take life too seriously. You will never get out of it alive.
+> Talk does not cook rice.
 >
-> <p>Elbert Hubbard</p>
+> <p>Chinese Proverb</p>
