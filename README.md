@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [John Herrington Performs a Spacewalk](https://www.nasa.gov/image-detail/0302398orig/)
-- [Selfie Time with Astronaut Victor Glover](https://www.nasa.gov/image-detail/afs-8-101-919/)
-- [Mini NASA Robot Takes a SWIM](https://www.nasa.gov/image-detail/pia26423orig/)
-- [Icelandic Cyclones](https://www.nasa.gov/image-detail/gsfc-20171208-archive-e002167orig/)
-- [Ring Around Tabby’s Star](https://www.nasa.gov/image-detail/pia22081orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The joy of life comes from our encounters with new experiences.
+> Unless someone truly has the power to say no, they never truly have the power to say yes.
 >
-> <p>Christopher McCandless</p>
+> <p>Dan Millman</p>
