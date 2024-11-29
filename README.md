@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Management and Program Analyst Tami Wisniewski](https://www.nasa.gov/image-detail/ceb-5798/)
-- [John Herrington Performs a Spacewalk](https://www.nasa.gov/image-detail/0302398orig/)
-- [Selfie Time with Astronaut Victor Glover](https://www.nasa.gov/image-detail/afs-8-101-919/)
-- [Mini NASA Robot Takes a SWIM](https://www.nasa.gov/image-detail/pia26423orig/)
-- [Icelandic Cyclones](https://www.nasa.gov/image-detail/gsfc-20171208-archive-e002167orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> It is in your moments of decision that your destiny is shaped.
+> The secret of getting started is breaking your complex, overwhelming tasks into small manageable tasks, and then starting on the first one.
 >
-> <p>Tony Robbins</p>
+> <p>Mark Twain</p>
