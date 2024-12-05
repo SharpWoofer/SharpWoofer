@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Astronaut Suni Williams and Astrobee](https://www.nasa.gov/image-detail/iss072e189028/)
-- [Technicians Install Gateway’s Fuel Tanks](https://www.nasa.gov/image-detail/jsc2024e044854orig/)
-- [Management and Program Analyst Tami Wisniewski](https://www.nasa.gov/image-detail/ceb-5798/)
-- [John Herrington Performs a Spacewalk](https://www.nasa.gov/image-detail/0302398orig/)
-- [Selfie Time with Astronaut Victor Glover](https://www.nasa.gov/image-detail/afs-8-101-919/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The measure of who we are is what we do with what we have.
+> It is important that we forgive ourselves for making mistakes. We need to learn from our errors and move on.
 >
-> <p>Vince Lombardi</p>
+> <p>Steve Maraboli</p>
