@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Orange Lava, Blue Lagoon](https://www.nasa.gov/image-detail/icelanderuption-oli2-20241124-lrg/)
-- [Astronaut Suni Williams and Astrobee](https://www.nasa.gov/image-detail/iss072e189028/)
-- [Technicians Install Gateway’s Fuel Tanks](https://www.nasa.gov/image-detail/jsc2024e044854orig/)
-- [Management and Program Analyst Tami Wisniewski](https://www.nasa.gov/image-detail/ceb-5798/)
-- [John Herrington Performs a Spacewalk](https://www.nasa.gov/image-detail/0302398orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> To affect the quality of the day, that is the highest of arts.
+> People who say it cannot be done should not interrupt those who are doing it.
 >
-> <p>Henry David Thoreau</p>
+> <p>George Bernard Shaw</p>
