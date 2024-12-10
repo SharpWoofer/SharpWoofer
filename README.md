@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Mary W. Jackson Portrait Revealed](https://www.nasa.gov/image-detail/mary-w-jackson-portrait-unveiling-2/)
-- [Orange Lava, Blue Lagoon](https://www.nasa.gov/image-detail/icelanderuption-oli2-20241124-lrg/)
-- [Astronaut Suni Williams and Astrobee](https://www.nasa.gov/image-detail/iss072e189028/)
-- [Technicians Install Gateway’s Fuel Tanks](https://www.nasa.gov/image-detail/jsc2024e044854orig/)
-- [Management and Program Analyst Tami Wisniewski](https://www.nasa.gov/image-detail/ceb-5798/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Remember the entrance to the sanctuary is inside you.
+> To injure an opponent is to injure yourself. To control aggression without inflicting injury is the Art of Peace.
 >
-> <p>Rumi</p>
+> <p>Morihei Ueshiba</p>
