@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Mary W. Jackson Portrait Revealed](https://www.nasa.gov/image-detail/mary-w-jackson-portrait-unveiling-2/)
-- [Orange Lava, Blue Lagoon](https://www.nasa.gov/image-detail/icelanderuption-oli2-20241124-lrg/)
-- [Astronaut Suni Williams and Astrobee](https://www.nasa.gov/image-detail/iss072e189028/)
-- [Technicians Install Gateway’s Fuel Tanks](https://www.nasa.gov/image-detail/jsc2024e044854orig/)
-- [Management and Program Analyst Tami Wisniewski](https://www.nasa.gov/image-detail/ceb-5798/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> If you aren't sure which way to do something, do it both ways and see which works better.
+> There is no significance in life without struggle.
 >
-> <p>John Carmack</p>
+> <p>Lolly Daskal</p>
