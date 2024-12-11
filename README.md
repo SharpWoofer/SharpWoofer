@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA Astronauts O’Hara and Moghbeli Explore Earth Data](https://www.nasa.gov/image-detail/expediton-70-astronauts-visit-earth-information-center/)
-- [Mary W. Jackson Portrait Revealed](https://www.nasa.gov/image-detail/mary-w-jackson-portrait-unveiling-2/)
-- [Orange Lava, Blue Lagoon](https://www.nasa.gov/image-detail/icelanderuption-oli2-20241124-lrg/)
-- [Astronaut Suni Williams and Astrobee](https://www.nasa.gov/image-detail/iss072e189028/)
-- [Technicians Install Gateway’s Fuel Tanks](https://www.nasa.gov/image-detail/jsc2024e044854orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> It is not uncommon for people to spend their whole life waiting to start living.
+> The big secret in life is that there is no big secret. Whatever your goal, you can get there if you're willing to work.
 >
-> <p>Eckhart Tolle</p>
+> <p>Oprah Winfrey</p>
