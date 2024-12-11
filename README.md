@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA Astronauts O’Hara and Moghbeli Explore Earth Data](https://www.nasa.gov/image-detail/expediton-70-astronauts-visit-earth-information-center/)
-- [Mary W. Jackson Portrait Revealed](https://www.nasa.gov/image-detail/mary-w-jackson-portrait-unveiling-2/)
-- [Orange Lava, Blue Lagoon](https://www.nasa.gov/image-detail/icelanderuption-oli2-20241124-lrg/)
-- [Astronaut Suni Williams and Astrobee](https://www.nasa.gov/image-detail/iss072e189028/)
-- [Technicians Install Gateway’s Fuel Tanks](https://www.nasa.gov/image-detail/jsc2024e044854orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> It is better to offer no excuse than a bad one. 
+> Giving is the secret of a healthy life. Not necessarily money, but whatever a person has of encouragement, sympathy and understanding.
 >
-> <p>George Washington</p>
+> <p>John D. Rockefeller</p>
