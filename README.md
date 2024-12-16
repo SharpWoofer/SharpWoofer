@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Atmospheric Probe Takes Flight](https://www.nasa.gov/image-detail/atmospheric-probe-shows-promise-in-test-flight-2/)
-- [Hubble Captures an Edge-On Spiral with Curve Appeal](https://www.nasa.gov/image-detail/spiral-from-the-side/)
-- [NASA Astronauts O’Hara and Moghbeli Explore Earth Data](https://www.nasa.gov/image-detail/expediton-70-astronauts-visit-earth-information-center/)
-- [Mary W. Jackson Portrait Revealed](https://www.nasa.gov/image-detail/mary-w-jackson-portrait-unveiling-2/)
-- [Orange Lava, Blue Lagoon](https://www.nasa.gov/image-detail/icelanderuption-oli2-20241124-lrg/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> You are a function of what the whole universe is doing in the same way that a wave is a function of what the whole ocean is doing.
+> Everyone is a moon, and has a dark side which he never shows to anybody.
 >
-> <p>Alan Watts</p>
+> <p>Mark Twain</p>
