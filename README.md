@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Chandra and Webb Spy a Cosmic Wreath](https://www.nasa.gov/image-detail/ngc-602-webb-image-2/)
-- [Artemis II Core Stage Moves to High Bay 2](https://www.nasa.gov/image-detail/afs-8-101-959/)
-- [Atmospheric Probe Takes Flight](https://www.nasa.gov/image-detail/atmospheric-probe-shows-promise-in-test-flight-2/)
-- [Hubble Captures an Edge-On Spiral with Curve Appeal](https://www.nasa.gov/image-detail/spiral-from-the-side/)
-- [NASA Astronauts O’Hara and Moghbeli Explore Earth Data](https://www.nasa.gov/image-detail/expediton-70-astronauts-visit-earth-information-center/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The best time to plant a tree was 20 years ago. The second best time is now.
+> All men who have achieved great things have been great dreamers. 
 >
-> <p>Zen Proverb</p>
+> <p>Orison Swett Marden</p>
