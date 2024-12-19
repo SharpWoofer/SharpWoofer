@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Chandra and Webb Spy a Cosmic Wreath](https://www.nasa.gov/image-detail/ngc-602-webb-image-2/)
-- [Artemis II Core Stage Moves to High Bay 2](https://www.nasa.gov/image-detail/afs-8-101-959/)
-- [Atmospheric Probe Takes Flight](https://www.nasa.gov/image-detail/atmospheric-probe-shows-promise-in-test-flight-2/)
-- [Hubble Captures an Edge-On Spiral with Curve Appeal](https://www.nasa.gov/image-detail/spiral-from-the-side/)
-- [NASA Astronauts O’Hara and Moghbeli Explore Earth Data](https://www.nasa.gov/image-detail/expediton-70-astronauts-visit-earth-information-center/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> If you could kick the person in the pants responsible for most of your trouble, you wouldn't sit for a month.
+> Your success and happiness lie in you.
 >
-> <p>Theodore Roosevelt</p>
+> <p>Helen Keller</p>
