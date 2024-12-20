@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Gateway: Wired for Deep Space](https://www.nasa.gov/image-detail/a2d590e8-c7df-4f80-9cd4-11a1d20b8123/)
-- [Chandra and Webb Spy a Cosmic Wreath](https://www.nasa.gov/image-detail/ngc-602-webb-image-2/)
-- [Artemis II Core Stage Moves to High Bay 2](https://www.nasa.gov/image-detail/afs-8-101-959/)
-- [Atmospheric Probe Takes Flight](https://www.nasa.gov/image-detail/atmospheric-probe-shows-promise-in-test-flight-2/)
-- [Hubble Captures an Edge-On Spiral with Curve Appeal](https://www.nasa.gov/image-detail/spiral-from-the-side/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Every strike brings me closer to the next home run. 
+> The best teacher is experience and not through someone's distorted point of view.
 >
-> <p>Babe Ruth</p>
+> <p>Jack Kerouac</p>
