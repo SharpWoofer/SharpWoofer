@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Commercial Moon Rovers Under Test](https://www.nasa.gov/image-detail/jsc2024e076712-alt-8f82f3/)
-- [NASA’s Terra Satellite Captures 2015 Eclipse Shadow](https://www.nasa.gov/image-detail/gsfc-20171208-archive-e000755orig/)
-- [Gateway: Wired for Deep Space](https://www.nasa.gov/image-detail/a2d590e8-c7df-4f80-9cd4-11a1d20b8123/)
-- [Chandra and Webb Spy a Cosmic Wreath](https://www.nasa.gov/image-detail/ngc-602-webb-image-2/)
-- [Artemis II Core Stage Moves to High Bay 2](https://www.nasa.gov/image-detail/afs-8-101-959/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> You must learn to let go. Release the stress. You were never in control anyway.
+> You can have it all. You just can't have it all at once. 
 >
-> <p>Steve Maraboli</p>
+> <p>Oprah Winfrey</p>
