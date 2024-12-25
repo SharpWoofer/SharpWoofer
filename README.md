@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Hang a Shining Star Upon the Highest Bough](https://www.nasa.gov/image-detail/ngc2264-2/)
-- [Commercial Moon Rovers Under Test](https://www.nasa.gov/image-detail/jsc2024e076712-alt-8f82f3/)
-- [NASA’s Terra Satellite Captures 2015 Eclipse Shadow](https://www.nasa.gov/image-detail/gsfc-20171208-archive-e000755orig/)
-- [Gateway: Wired for Deep Space](https://www.nasa.gov/image-detail/a2d590e8-c7df-4f80-9cd4-11a1d20b8123/)
-- [Chandra and Webb Spy a Cosmic Wreath](https://www.nasa.gov/image-detail/ngc-602-webb-image-2/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Great thoughts speak only to the thoughtful mind, but great actions speak to all mankind.
+> Life must be rich and full of loving-it's no good otherwise, no good at all, for anyone.  
 >
-> <p>Theodore Roosevelt</p>
+> <p>Jack Kerouac</p>
