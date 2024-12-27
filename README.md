@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA Runs X-59 Engine in Maximum Afterburner](https://www.nasa.gov/image-detail/x-59-deck-2-round-2-engine-runs/)
-- [Hang a Shining Star Upon the Highest Bough](https://www.nasa.gov/image-detail/ngc2264-2/)
-- [Commercial Moon Rovers Under Test](https://www.nasa.gov/image-detail/jsc2024e076712-alt-8f82f3/)
-- [NASA’s Terra Satellite Captures 2015 Eclipse Shadow](https://www.nasa.gov/image-detail/gsfc-20171208-archive-e000755orig/)
-- [Gateway: Wired for Deep Space](https://www.nasa.gov/image-detail/a2d590e8-c7df-4f80-9cd4-11a1d20b8123/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The whole world is a series of miracles, but we're so used to them we call them ordinary things.
+> Pleasure can be supported by an illusion; but happiness rests upon truth. 
 >
-> <p>Hans Christian Andersen</p>
+> <p>Nicolas Chamfort</p>
