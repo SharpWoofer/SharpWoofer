@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Hubble Spies a Cosmic Eye](https://www.nasa.gov/image-detail/hubble-ngc2566-potw2451a/)
-- [NASA Runs X-59 Engine in Maximum Afterburner](https://www.nasa.gov/image-detail/x-59-deck-2-round-2-engine-runs/)
-- [Hang a Shining Star Upon the Highest Bough](https://www.nasa.gov/image-detail/ngc2264-2/)
-- [Commercial Moon Rovers Under Test](https://www.nasa.gov/image-detail/jsc2024e076712-alt-8f82f3/)
-- [NASA’s Terra Satellite Captures 2015 Eclipse Shadow](https://www.nasa.gov/image-detail/gsfc-20171208-archive-e000755orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Goals are the fuel in the furnace of achievement.
+> The hard path is often the right one. The river teaches more than the shore.
 >
-> <p>Brian Tracy</p>
+> <p>Maxime Lagace</p>
