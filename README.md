@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Remembering President Carter](https://www.nasa.gov/image-detail/carter-visit-3-2/)
-- [Hubble Spies a Cosmic Eye](https://www.nasa.gov/image-detail/hubble-ngc2566-potw2451a/)
-- [NASA Runs X-59 Engine in Maximum Afterburner](https://www.nasa.gov/image-detail/x-59-deck-2-round-2-engine-runs/)
-- [Hang a Shining Star Upon the Highest Bough](https://www.nasa.gov/image-detail/ngc2264-2/)
-- [Commercial Moon Rovers Under Test](https://www.nasa.gov/image-detail/jsc2024e076712-alt-8f82f3/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> A random act of kindness, no matter how small, can make a tremendous impact on someone else's life.
+> It is not uncommon for people to spend their whole life waiting to start living.
 >
-> <p>Roy T. Bennett</p>
+> <p>Eckhart Tolle</p>
