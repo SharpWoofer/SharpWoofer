@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Red and Green Aurora Move Through Earth’s Atmosphere](https://www.nasa.gov/image-detail/iss072e031823/)
-- [Remembering President Carter](https://www.nasa.gov/image-detail/carter-visit-3-2/)
-- [Hubble Spies a Cosmic Eye](https://www.nasa.gov/image-detail/hubble-ngc2566-potw2451a/)
-- [NASA Runs X-59 Engine in Maximum Afterburner](https://www.nasa.gov/image-detail/x-59-deck-2-round-2-engine-runs/)
-- [Hang a Shining Star Upon the Highest Bough](https://www.nasa.gov/image-detail/ngc2264-2/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> You just can't beat the person who never gives up. 
+> My guiding principle is this: Guilt is never to be doubted. 
 >
-> <p>Babe Ruth</p>
+> <p>Franz Kafka</p>
