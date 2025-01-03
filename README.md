@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Best of 2024: Total Solar Eclipse in Indianapolis](https://www.nasa.gov/image-detail/2024-total-solar-eclipse-3/)
-- [Red and Green Aurora Move Through Earth’s Atmosphere](https://www.nasa.gov/image-detail/iss072e031823/)
-- [Remembering President Carter](https://www.nasa.gov/image-detail/carter-visit-3-2/)
-- [Hubble Spies a Cosmic Eye](https://www.nasa.gov/image-detail/hubble-ngc2566-potw2451a/)
-- [NASA Runs X-59 Engine in Maximum Afterburner](https://www.nasa.gov/image-detail/x-59-deck-2-round-2-engine-runs/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Do what you can, with what you have, where you are.
+> Giving is living. If you stop wanting to give, there's nothing more to live for.
 >
-> <p>Theodore Roosevelt</p>
+> <p>Audrey Hepburn</p>
