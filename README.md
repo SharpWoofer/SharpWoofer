@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Media Day with Artemis II Crews](https://www.nasa.gov/image-detail/afs-8-101-962/)
-- [Best of 2024: Total Solar Eclipse in Indianapolis](https://www.nasa.gov/image-detail/2024-total-solar-eclipse-3/)
-- [Red and Green Aurora Move Through Earth’s Atmosphere](https://www.nasa.gov/image-detail/iss072e031823/)
-- [Remembering President Carter](https://www.nasa.gov/image-detail/carter-visit-3-2/)
-- [Hubble Spies a Cosmic Eye](https://www.nasa.gov/image-detail/hubble-ngc2566-potw2451a/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> My instinct is always to seek out challenges as opposed to avoiding them.
+> Without education, we are in a horrible and deadly danger of taking educated people seriously.
 >
-> <p>Josh Waitzkin</p>
+> <p>Gilbert Chesterton</p>
