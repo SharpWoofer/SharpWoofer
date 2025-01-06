@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Media Day with Artemis II Crews](https://www.nasa.gov/image-detail/afs-8-101-962/)
-- [Best of 2024: Total Solar Eclipse in Indianapolis](https://www.nasa.gov/image-detail/2024-total-solar-eclipse-3/)
-- [Red and Green Aurora Move Through Earth’s Atmosphere](https://www.nasa.gov/image-detail/iss072e031823/)
-- [Remembering President Carter](https://www.nasa.gov/image-detail/carter-visit-3-2/)
-- [Hubble Spies a Cosmic Eye](https://www.nasa.gov/image-detail/hubble-ngc2566-potw2451a/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Awaken. Take heed, do not squander your life.
+> A man has to learn that he cannot command things but that he can command himself; that he cannot coerce the wills of others but that he can mold and master his own will.
 >
-> <p>Dogen</p>
+> <p>James Allen</p>
