@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Defying Gravity](https://www.nasa.gov/image-detail/5135054500-8ef5339bc9-o/)
-- [Media Day with Artemis II Crews](https://www.nasa.gov/image-detail/afs-8-101-962/)
-- [Best of 2024: Total Solar Eclipse in Indianapolis](https://www.nasa.gov/image-detail/2024-total-solar-eclipse-3/)
-- [Red and Green Aurora Move Through Earth’s Atmosphere](https://www.nasa.gov/image-detail/iss072e031823/)
-- [Remembering President Carter](https://www.nasa.gov/image-detail/carter-visit-3-2/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Learn from the rejection and turn it into an opportunity!
+> Fortunate are those who take the first steps.
 >
-> <p>Mary Engelbreit</p>
+> <p>Paulo Coelho</p>
