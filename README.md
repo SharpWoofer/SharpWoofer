@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Laboratory Director Tawnya Plummer Laughinghouse](https://www.nasa.gov/image-detail/ceb-5997a/)
-- [Best of 2024: Reestablished NASA Art Program Begins with Mural in New York City](https://www.nasa.gov/image-detail/nasa-reestablishes-historical-art-program-with-space-themed-mural-4/)
-- [Defying Gravity](https://www.nasa.gov/image-detail/5135054500-8ef5339bc9-o/)
-- [Media Day with Artemis II Crews](https://www.nasa.gov/image-detail/afs-8-101-962/)
-- [Best of 2024: Total Solar Eclipse in Indianapolis](https://www.nasa.gov/image-detail/2024-total-solar-eclipse-3/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Too many of us are not living our dreams because we are living our fears.
+> The soul should always stand ajar, ready to welcome the ecstatic experience.
 >
-> <p>Les Brown</p>
+> <p>Emily Dickinson</p>
