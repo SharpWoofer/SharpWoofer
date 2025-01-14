@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Best of 2024: Dinosaur Prepared to Safely Watch Solar Eclipse](https://www.nasa.gov/image-detail/nasa-at-the-childrens-museum-of-indianapolis/)
-- [Earth in Far-Ultraviolet](https://www.nasa.gov/image-detail/s72-36972orig/)
-- [Los Angeles Fires Seen from International Space Station](https://www.nasa.gov/image-detail/gg6dnlmxqaaqfoe/)
-- [Laboratory Director Tawnya Plummer Laughinghouse](https://www.nasa.gov/image-detail/ceb-5997a/)
-- [Best of 2024: Reestablished NASA Art Program Begins with Mural in New York City](https://www.nasa.gov/image-detail/nasa-reestablishes-historical-art-program-with-space-themed-mural-4/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Try not to become a man of success, but rather try to become a man of value.
+> No one returns from a long journey the same person they were before.
 >
-> <p>Albert Einstein</p>
+> <p>Zen Proverb</p>
