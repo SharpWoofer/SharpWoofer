@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Earth in Far-Ultraviolet](https://www.nasa.gov/image-detail/s72-36972orig/)
-- [Los Angeles Fires Seen from International Space Station](https://www.nasa.gov/image-detail/gg6dnlmxqaaqfoe/)
-- [Laboratory Director Tawnya Plummer Laughinghouse](https://www.nasa.gov/image-detail/ceb-5997a/)
-- [Best of 2024: Reestablished NASA Art Program Begins with Mural in New York City](https://www.nasa.gov/image-detail/nasa-reestablishes-historical-art-program-with-space-themed-mural-4/)
-- [Defying Gravity](https://www.nasa.gov/image-detail/5135054500-8ef5339bc9-o/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The man who asks a question is a fool for a minute, the man who does not ask is a fool for life.
+> You can calculate the worth of a man by the number of his enemies.
 >
-> <p>Confucius</p>
+> <p>Gustave Flaubert</p>
