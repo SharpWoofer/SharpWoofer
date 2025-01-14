@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Earth in Far-Ultraviolet](https://www.nasa.gov/image-detail/s72-36972orig/)
-- [Los Angeles Fires Seen from International Space Station](https://www.nasa.gov/image-detail/gg6dnlmxqaaqfoe/)
-- [Laboratory Director Tawnya Plummer Laughinghouse](https://www.nasa.gov/image-detail/ceb-5997a/)
-- [Best of 2024: Reestablished NASA Art Program Begins with Mural in New York City](https://www.nasa.gov/image-detail/nasa-reestablishes-historical-art-program-with-space-themed-mural-4/)
-- [Defying Gravity](https://www.nasa.gov/image-detail/5135054500-8ef5339bc9-o/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Too much sanity may be madness and the maddest of all, to see life as it is and not as it should be. 
+> Giving is the secret of a healthy life. Not necessarily money, but whatever a person has of encouragement, sympathy and understanding.
 >
-> <p>Miguel de Cervantes</p>
+> <p>John D. Rockefeller</p>
