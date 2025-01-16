@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Langley’s Propeller Research Tunnel](https://www.nasa.gov/image-detail/7605912294-f4e0b4eb2f-o/)
-- [Best of 2024: Dinosaur Prepared to Safely Watch Solar Eclipse](https://www.nasa.gov/image-detail/nasa-at-the-childrens-museum-of-indianapolis/)
-- [Earth in Far-Ultraviolet](https://www.nasa.gov/image-detail/s72-36972orig/)
-- [Los Angeles Fires Seen from International Space Station](https://www.nasa.gov/image-detail/gg6dnlmxqaaqfoe/)
-- [Laboratory Director Tawnya Plummer Laughinghouse](https://www.nasa.gov/image-detail/ceb-5997a/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Enthusiasm is a vital element toward the individual success of every man or woman.
+> It will never rain roses: when we want to have more roses, we must plant more roses.
 >
-> <p>Conrad Hilton</p>
+> <p>George Eliot</p>
