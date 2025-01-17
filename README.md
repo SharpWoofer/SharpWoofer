@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Hubble Reveals Jupiter in Ultraviolet Light](https://www.nasa.gov/image-detail/hubble-provides-unique-ultraviolet-view-of-jupiter-2/)
-- [Langley’s Propeller Research Tunnel](https://www.nasa.gov/image-detail/7605912294-f4e0b4eb2f-o/)
-- [Best of 2024: Dinosaur Prepared to Safely Watch Solar Eclipse](https://www.nasa.gov/image-detail/nasa-at-the-childrens-museum-of-indianapolis/)
-- [Earth in Far-Ultraviolet](https://www.nasa.gov/image-detail/s72-36972orig/)
-- [Los Angeles Fires Seen from International Space Station](https://www.nasa.gov/image-detail/gg6dnlmxqaaqfoe/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> A needle is not sharp at both ends. 
+> Think how really precious is the time you have to spend, whether it's at work or with your family. Every minute should be enjoyed and savored.
 >
-> <p>Chinese Proverb</p>
+> <p>Earl Nightingale</p>
