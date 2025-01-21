@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Martin Luther King, Jr. Memorial](https://www.nasa.gov/image-detail/martin-luther-king-jr-memorial/)
-- [Hubble Reveals Jupiter in Ultraviolet Light](https://www.nasa.gov/image-detail/hubble-provides-unique-ultraviolet-view-of-jupiter-2/)
-- [Langley’s Propeller Research Tunnel](https://www.nasa.gov/image-detail/7605912294-f4e0b4eb2f-o/)
-- [Best of 2024: Dinosaur Prepared to Safely Watch Solar Eclipse](https://www.nasa.gov/image-detail/nasa-at-the-childrens-museum-of-indianapolis/)
-- [Earth in Far-Ultraviolet](https://www.nasa.gov/image-detail/s72-36972orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Reflect upon your present blessings of which every man has many - not on your past misfortunes, of which all men have some.
+> Success and failure come and go, but don't let them define you. It's who you are that matters.
 >
-> <p>Charles Dickens</p>
+> <p>Kamal Ravikant</p>
