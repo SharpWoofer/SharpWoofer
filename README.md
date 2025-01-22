@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Suni Williams Conducts Spacewalk](https://www.nasa.gov/image-detail/iss072e487421/)
-- [Martin Luther King, Jr. Memorial](https://www.nasa.gov/image-detail/martin-luther-king-jr-memorial/)
-- [Hubble Reveals Jupiter in Ultraviolet Light](https://www.nasa.gov/image-detail/hubble-provides-unique-ultraviolet-view-of-jupiter-2/)
-- [Langley’s Propeller Research Tunnel](https://www.nasa.gov/image-detail/7605912294-f4e0b4eb2f-o/)
-- [Best of 2024: Dinosaur Prepared to Safely Watch Solar Eclipse](https://www.nasa.gov/image-detail/nasa-at-the-childrens-museum-of-indianapolis/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The quicker you let go of old cheese, the sooner you find new cheese.
+> Great things happen to those who don't stop believing, trying, learning, and being grateful.
 >
-> <p>Spencer Johnson</p>
+> <p>Roy T. Bennett</p>
