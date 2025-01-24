@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Artist’s Concept of Gemini Spacecraft](https://www.nasa.gov/image-detail/s65-14257orig/)
-- [Suni Williams Conducts Spacewalk](https://www.nasa.gov/image-detail/iss072e487421/)
-- [Martin Luther King, Jr. Memorial](https://www.nasa.gov/image-detail/martin-luther-king-jr-memorial/)
-- [Hubble Reveals Jupiter in Ultraviolet Light](https://www.nasa.gov/image-detail/hubble-provides-unique-ultraviolet-view-of-jupiter-2/)
-- [Langley’s Propeller Research Tunnel](https://www.nasa.gov/image-detail/7605912294-f4e0b4eb2f-o/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The whole of life, from the moment you are born to the moment you die, is a process of learning.
+> Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty.
 >
-> <p>Jiddu Krishnamurti</p>
+> <p>Theodore Roosevelt</p>
