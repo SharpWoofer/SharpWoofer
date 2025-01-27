@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Hubble Studies the Tarantula Nebula’s Outskirts](https://www.nasa.gov/image-detail/a-tarantulas-outskirts/)
-- [Artist’s Concept of Gemini Spacecraft](https://www.nasa.gov/image-detail/s65-14257orig/)
-- [Suni Williams Conducts Spacewalk](https://www.nasa.gov/image-detail/iss072e487421/)
-- [Martin Luther King, Jr. Memorial](https://www.nasa.gov/image-detail/martin-luther-king-jr-memorial/)
-- [Hubble Reveals Jupiter in Ultraviolet Light](https://www.nasa.gov/image-detail/hubble-provides-unique-ultraviolet-view-of-jupiter-2/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> When you say yes to change, you are choosing to navigate that path peacefully and happily and see where it takes you.
+> People seldom do what they believe in. They do what is convenient, then repent.
 >
-> <p>Sonia Ricotti</p>
+> <p>Bob Dylan</p>
