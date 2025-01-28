@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Get My Good Side](https://www.nasa.gov/image-detail/afs-8-101-971/)
-- [Hubble Studies the Tarantula Nebula’s Outskirts](https://www.nasa.gov/image-detail/a-tarantulas-outskirts/)
-- [Artist’s Concept of Gemini Spacecraft](https://www.nasa.gov/image-detail/s65-14257orig/)
-- [Suni Williams Conducts Spacewalk](https://www.nasa.gov/image-detail/iss072e487421/)
-- [Martin Luther King, Jr. Memorial](https://www.nasa.gov/image-detail/martin-luther-king-jr-memorial/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Numbing the pain for a while will make it worse when you finally feel it.
+> Live, travel, adventure, bless, and don't be sorry.  
 >
-> <p>Albus Dumbledore</p>
+> <p>Jack Kerouac</p>
