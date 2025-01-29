@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Geyser Season on Mars](https://www.nasa.gov/image-detail/pia22881orig/)
-- [Wolf Moon in Washington](https://www.nasa.gov/image-detail/full-wolf-moon-rise/)
-- [Get My Good Side](https://www.nasa.gov/image-detail/afs-8-101-971/)
-- [Hubble Studies the Tarantula Nebula’s Outskirts](https://www.nasa.gov/image-detail/a-tarantulas-outskirts/)
-- [Artist’s Concept of Gemini Spacecraft](https://www.nasa.gov/image-detail/s65-14257orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Judge your success by what you had to give up in order to get it.
+> As long as a human being worries about when he will die, and what he has that is his, all of his works are zero.
 >
-> <p>Dalai Lama</p>
+> <p>Kabir</p>
