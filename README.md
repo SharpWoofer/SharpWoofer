@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Geyser Season on Mars](https://www.nasa.gov/image-detail/pia22881orig/)
-- [Wolf Moon in Washington](https://www.nasa.gov/image-detail/full-wolf-moon-rise/)
-- [Get My Good Side](https://www.nasa.gov/image-detail/afs-8-101-971/)
-- [Hubble Studies the Tarantula Nebula’s Outskirts](https://www.nasa.gov/image-detail/a-tarantulas-outskirts/)
-- [Artist’s Concept of Gemini Spacecraft](https://www.nasa.gov/image-detail/s65-14257orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Re-examine all that you have been told... dismiss that which insults your soul.
+> Your goals are the road maps that guide you and show you what is possible for your life.
 >
-> <p>Walt Whitman</p>
+> <p>Les Brown</p>
