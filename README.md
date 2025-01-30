@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Geyser Season on Mars](https://www.nasa.gov/image-detail/pia22881orig/)
-- [Wolf Moon in Washington](https://www.nasa.gov/image-detail/full-wolf-moon-rise/)
-- [Get My Good Side](https://www.nasa.gov/image-detail/afs-8-101-971/)
-- [Hubble Studies the Tarantula Nebula’s Outskirts](https://www.nasa.gov/image-detail/a-tarantulas-outskirts/)
-- [Artist’s Concept of Gemini Spacecraft](https://www.nasa.gov/image-detail/s65-14257orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> We don't stop playing because we grow old; we grow old because we stop playing.
+> Courage is the willingness to engage in a risk-taking behavior regardless of whether the consequences are unknown or possibly adverse.
 >
-> <p>George Bernard Shaw</p>
+> <p>Alfred Adler</p>
