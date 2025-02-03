@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an Antenna](https://www.nasa.gov/image-detail/pia26454orig/)
-- [SPHEREx’s Concentric Cones](https://www.nasa.gov/image-detail/pia26542orig/)
-- [Geyser Season on Mars](https://www.nasa.gov/image-detail/pia22881orig/)
-- [Wolf Moon in Washington](https://www.nasa.gov/image-detail/full-wolf-moon-rise/)
-- [Get My Good Side](https://www.nasa.gov/image-detail/afs-8-101-971/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Getting over a painful experience is much like crossing monkey bars. You have to let go at some point in order to move forward.
+> The law of harvest is to reap more than you sow. Sow an act, and you reap a habit. Sow a habit and you reap a character. Sow a character and you reap a destiny.
 >
-> <p>Unknown</p>
+> <p>James Allen</p>
