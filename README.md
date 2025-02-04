@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Stacking Artemis II](https://www.nasa.gov/image-detail/afs-8-101-972/)
-- [Building an Antenna](https://www.nasa.gov/image-detail/pia26454orig/)
-- [SPHEREx’s Concentric Cones](https://www.nasa.gov/image-detail/pia26542orig/)
-- [Geyser Season on Mars](https://www.nasa.gov/image-detail/pia22881orig/)
-- [Wolf Moon in Washington](https://www.nasa.gov/image-detail/full-wolf-moon-rise/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending.
+> Stand up to your obstacles and do something about them. You'll find they haven't half the strength you think they have.
 >
-> <p>Carl Bard</p>
+> <p>Norman Vincent Peale</p>
