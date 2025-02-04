@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Stacking Artemis II](https://www.nasa.gov/image-detail/afs-8-101-972/)
-- [Building an Antenna](https://www.nasa.gov/image-detail/pia26454orig/)
-- [SPHEREx’s Concentric Cones](https://www.nasa.gov/image-detail/pia26542orig/)
-- [Geyser Season on Mars](https://www.nasa.gov/image-detail/pia22881orig/)
-- [Wolf Moon in Washington](https://www.nasa.gov/image-detail/full-wolf-moon-rise/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The greatest discovery of all time is that a person can change their future by merely changing their attitude.
+> Employ your time in improving yourself by other men's writings, so that you shall gain easily what others have labored hard for.
 >
-> <p>Oprah Winfrey</p>
+> <p>Socrates</p>
