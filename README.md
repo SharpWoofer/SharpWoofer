@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Apollo 14 Moon Landing](https://www.nasa.gov/image-detail/as14-66-09277orig/)
-- [Bullseye!](https://www.nasa.gov/image-detail/hubble-leda1313424-stsci-01jjadtmj80r1r4w6kk563rw2c/)
-- [Stacking Artemis II](https://www.nasa.gov/image-detail/afs-8-101-972/)
-- [Building an Antenna](https://www.nasa.gov/image-detail/pia26454orig/)
-- [SPHEREx’s Concentric Cones](https://www.nasa.gov/image-detail/pia26542orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Definiteness of purpose is the starting point of all achievement. 
+> Walk with those seeking truth... RUN FROM THOSE WHO THINK THEY'VE FOUND IT.
 >
-> <p>W. Clement Stone</p>
+> <p>Deepak Chopra</p>
