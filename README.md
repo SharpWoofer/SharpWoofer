@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Robot Gets a Grip](https://www.nasa.gov/image-detail/gmt035_18_44_for-poic_suni-williams_astrobee/)
-- [Apollo 14 Moon Landing](https://www.nasa.gov/image-detail/as14-66-09277orig/)
-- [Bullseye!](https://www.nasa.gov/image-detail/hubble-leda1313424-stsci-01jjadtmj80r1r4w6kk563rw2c/)
-- [Stacking Artemis II](https://www.nasa.gov/image-detail/afs-8-101-972/)
-- [Building an Antenna](https://www.nasa.gov/image-detail/pia26454orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Always look on the bright side of things. If you can't comprehend this, polish that which has become dull until it begins to shine.
+> Care about what other people think and you will always be their prisoner.
 >
-> <p>Zen Proverb</p>
+> <p>Lao Tzu</p>
