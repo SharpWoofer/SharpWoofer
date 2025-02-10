@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Golden Moon over the Superdome](https://www.nasa.gov/image-detail/wolf-moon-rises-over-the-superdome-in-new-orleans/)
-- [Robot Gets a Grip](https://www.nasa.gov/image-detail/gmt035_18_44_for-poic_suni-williams_astrobee/)
-- [Apollo 14 Moon Landing](https://www.nasa.gov/image-detail/as14-66-09277orig/)
-- [Bullseye!](https://www.nasa.gov/image-detail/hubble-leda1313424-stsci-01jjadtmj80r1r4w6kk563rw2c/)
-- [Stacking Artemis II](https://www.nasa.gov/image-detail/afs-8-101-972/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Your purpose will be clear only when you listen to your heart.
+> Rewards and punishment is the lowest form of education.
 >
-> <p>Lolly Daskal</p>
+> <p>Zhuangzi</p>
