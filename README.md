@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Mount Everest from Space](https://www.nasa.gov/image-detail/sts080-733-001orig/)
-- [Golden Moon over the Superdome](https://www.nasa.gov/image-detail/wolf-moon-rises-over-the-superdome-in-new-orleans/)
-- [Robot Gets a Grip](https://www.nasa.gov/image-detail/gmt035_18_44_for-poic_suni-williams_astrobee/)
-- [Apollo 14 Moon Landing](https://www.nasa.gov/image-detail/as14-66-09277orig/)
-- [Bullseye!](https://www.nasa.gov/image-detail/hubble-leda1313424-stsci-01jjadtmj80r1r4w6kk563rw2c/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> People will forget what you said, people will forget what you did, but people will never forget how you made them feel.
+> You just can't beat the person who never gives up. 
 >
-> <p>Maya Angelou</p>
+> <p>Babe Ruth</p>
