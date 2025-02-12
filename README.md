@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Space Shuttle Endeavour Takes Flight](https://www.nasa.gov/image-detail/ksc00pp0230orig/)
-- [Mount Everest from Space](https://www.nasa.gov/image-detail/sts080-733-001orig/)
-- [Golden Moon over the Superdome](https://www.nasa.gov/image-detail/wolf-moon-rises-over-the-superdome-in-new-orleans/)
-- [Robot Gets a Grip](https://www.nasa.gov/image-detail/gmt035_18_44_for-poic_suni-williams_astrobee/)
-- [Apollo 14 Moon Landing](https://www.nasa.gov/image-detail/as14-66-09277orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Determine never to be idle. No person will have occasion to complain of the want of time who never loses any.
+> Associate yourself with men of good quality, if you esteem your own reputation; for 'tis better to be alone than in bad company. 
 >
-> <p>Thomas Jefferson</p>
+> <p>George Washington</p>
