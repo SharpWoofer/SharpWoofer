@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Giving NASA&#39;s CADRE a Hand](https://www.nasa.gov/image-detail/pia26427orig/)
-- [A Rainbow-colored “Feather” in the Martian Sky](https://www.nasa.gov/image-detail/pia25740orig/)
-- [Space Shuttle Endeavour Takes Flight](https://www.nasa.gov/image-detail/ksc00pp0230orig/)
-- [Mount Everest from Space](https://www.nasa.gov/image-detail/sts080-733-001orig/)
-- [Golden Moon over the Superdome](https://www.nasa.gov/image-detail/wolf-moon-rises-over-the-superdome-in-new-orleans/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> We learn to walk by falling down. If we never fell down, we would never walk.
+> It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.
 >
-> <p>Robert Kiyosaki</p>
+> <p>Albus Dumbledore</p>
