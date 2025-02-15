@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [A Stellar Bouquet](https://www.nasa.gov/image-detail/30dorlarge/)
-- [Giving NASA&#39;s CADRE a Hand](https://www.nasa.gov/image-detail/pia26427orig/)
-- [A Rainbow-colored “Feather” in the Martian Sky](https://www.nasa.gov/image-detail/pia25740orig/)
-- [Space Shuttle Endeavour Takes Flight](https://www.nasa.gov/image-detail/ksc00pp0230orig/)
-- [Mount Everest from Space](https://www.nasa.gov/image-detail/sts080-733-001orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Learn to enjoy every minute of your life. Be happy now. Don't wait for something outside of yourself to make you happy in the future.
+> Time and health are two precious assets that we don't recognize and appreciate until they have been depleted. 
 >
-> <p>Earl Nightingale</p>
+> <p>Denis Waitley</p>
