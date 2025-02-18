@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [A Stellar Bouquet](https://www.nasa.gov/image-detail/30dorlarge/)
-- [Giving NASA&#39;s CADRE a Hand](https://www.nasa.gov/image-detail/pia26427orig/)
-- [A Rainbow-colored “Feather” in the Martian Sky](https://www.nasa.gov/image-detail/pia25740orig/)
-- [Space Shuttle Endeavour Takes Flight](https://www.nasa.gov/image-detail/ksc00pp0230orig/)
-- [Mount Everest from Space](https://www.nasa.gov/image-detail/sts080-733-001orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Don't look for meaning in the words. Listen to the silences.
+> Far and away the best prize that life has to offer is the chance to work hard at work worth doing.
 >
-> <p>Samuel Beckett</p>
+> <p>Theodore Roosevelt</p>
