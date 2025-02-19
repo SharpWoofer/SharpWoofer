@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Our Pale Blue Dot](https://www.nasa.gov/image-detail/49533887268-9d045c7081-o/)
-- [A Stellar Bouquet](https://www.nasa.gov/image-detail/30dorlarge/)
-- [Giving NASA&#39;s CADRE a Hand](https://www.nasa.gov/image-detail/pia26427orig/)
-- [A Rainbow-colored “Feather” in the Martian Sky](https://www.nasa.gov/image-detail/pia25740orig/)
-- [Space Shuttle Endeavour Takes Flight](https://www.nasa.gov/image-detail/ksc00pp0230orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> It isn't what you have or who you are or where you are or what you are doing that makes you happy or unhappy. It is what you think about it.
+> In the practice of tolerance, one's enemy is the best teacher.
 >
-> <p>Dale Carnegie</p>
+> <p>Dalai Lama</p>
