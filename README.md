@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Our Pale Blue Dot](https://www.nasa.gov/image-detail/49533887268-9d045c7081-o/)
-- [A Stellar Bouquet](https://www.nasa.gov/image-detail/30dorlarge/)
-- [Giving NASA&#39;s CADRE a Hand](https://www.nasa.gov/image-detail/pia26427orig/)
-- [A Rainbow-colored “Feather” in the Martian Sky](https://www.nasa.gov/image-detail/pia25740orig/)
-- [Space Shuttle Endeavour Takes Flight](https://www.nasa.gov/image-detail/ksc00pp0230orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> When you reach the top of the mountain, keep climbing. 
+> It's not what you say out of your mouth that determines your life, it's what you whisper to yourself that has the most power!
 >
-> <p>Zen Proverb</p>
+> <p>Robert Kiyosaki</p>
