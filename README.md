@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Artemis II Rocket Booster Stacking Complete](https://www.nasa.gov/image-detail/afs-8-101-981/)
-- [Our Pale Blue Dot](https://www.nasa.gov/image-detail/49533887268-9d045c7081-o/)
-- [A Stellar Bouquet](https://www.nasa.gov/image-detail/30dorlarge/)
-- [Giving NASA&#39;s CADRE a Hand](https://www.nasa.gov/image-detail/pia26427orig/)
-- [A Rainbow-colored “Feather” in the Martian Sky](https://www.nasa.gov/image-detail/pia25740orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> No matter how smart we may think we are, no matter how committed we are to our truth, we can lose our way.
+> The greatest value of a picture is when it forces us to notice what we never expected to see.
 >
-> <p>Kamal Ravikant</p>
+> <p>John Tukey</p>
