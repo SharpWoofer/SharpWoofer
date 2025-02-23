@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Hubble Captures a Cosmic Cloudscape](https://www.nasa.gov/image-detail/cosmic-cloudscape/)
-- [Artemis II Rocket Booster Stacking Complete](https://www.nasa.gov/image-detail/afs-8-101-981/)
-- [Our Pale Blue Dot](https://www.nasa.gov/image-detail/49533887268-9d045c7081-o/)
-- [A Stellar Bouquet](https://www.nasa.gov/image-detail/30dorlarge/)
-- [Giving NASA&#39;s CADRE a Hand](https://www.nasa.gov/image-detail/pia26427orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> There is no self-discovery without pain and loss.
+> Let my soul smile through my heart and my heart smile through my eyes, that I may scatter rich smiles in sad hearts. 
 >
-> <p>Anita Krizzan</p>
+> <p>Paramahansa Yogananda</p>
