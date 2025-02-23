@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Hubble Captures a Cosmic Cloudscape](https://www.nasa.gov/image-detail/cosmic-cloudscape/)
-- [Artemis II Rocket Booster Stacking Complete](https://www.nasa.gov/image-detail/afs-8-101-981/)
-- [Our Pale Blue Dot](https://www.nasa.gov/image-detail/49533887268-9d045c7081-o/)
-- [A Stellar Bouquet](https://www.nasa.gov/image-detail/30dorlarge/)
-- [Giving NASA&#39;s CADRE a Hand](https://www.nasa.gov/image-detail/pia26427orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The only real mistake is the one from which we learn nothing. 
+> Find the game where you can win, and then commit your life to playing it; and play to win.
 >
-> <p>Henry Ford</p>
+> <p>Robert Kiyosaki</p>
