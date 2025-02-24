@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Hubble Captures a Cosmic Cloudscape](https://www.nasa.gov/image-detail/cosmic-cloudscape/)
-- [Artemis II Rocket Booster Stacking Complete](https://www.nasa.gov/image-detail/afs-8-101-981/)
-- [Our Pale Blue Dot](https://www.nasa.gov/image-detail/49533887268-9d045c7081-o/)
-- [A Stellar Bouquet](https://www.nasa.gov/image-detail/30dorlarge/)
-- [Giving NASA&#39;s CADRE a Hand](https://www.nasa.gov/image-detail/pia26427orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Fool me once, shame on you; fool me twice, shame on me. 
+> Most great people have achieved their greatest success just one step beyond their greatest failure.
 >
-> <p>Chinese Proverb</p>
+> <p>Napoleon Hill</p>
