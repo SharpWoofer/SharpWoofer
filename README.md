@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Milky Way on the Horizon](https://www.nasa.gov/image-detail/gmt029_06_47_don-pettit_ost-fwd-dragon-2/)
-- [Diamonds from NASA’s X-59](https://www.nasa.gov/image-detail/nasas-x-59-displays-mach-diamonds-at-maximum-afterburner/)
-- [Venus Blows Off Some Steam](https://www.nasa.gov/image-detail/arc-1977-ac77-0475-7orig/)
-- [Hubble Captures a Cosmic Cloudscape](https://www.nasa.gov/image-detail/cosmic-cloudscape/)
-- [Artemis II Rocket Booster Stacking Complete](https://www.nasa.gov/image-detail/afs-8-101-981/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> You're never too old for anything.
+> Failure is simply the opportunity to begin again, this time more intelligently.
 >
-> <p>Betty White</p>
+> <p>Henry Ford</p>
