@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Intuitive Machines-2 Lifts Off](https://www.nasa.gov/image-detail/afs-8-101-988/)
-- [Milky Way on the Horizon](https://www.nasa.gov/image-detail/gmt029_06_47_don-pettit_ost-fwd-dragon-2/)
-- [Diamonds from NASA’s X-59](https://www.nasa.gov/image-detail/nasas-x-59-displays-mach-diamonds-at-maximum-afterburner/)
-- [Venus Blows Off Some Steam](https://www.nasa.gov/image-detail/arc-1977-ac77-0475-7orig/)
-- [Hubble Captures a Cosmic Cloudscape](https://www.nasa.gov/image-detail/cosmic-cloudscape/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> My guiding principle is this: Guilt is never to be doubted. 
+> Before preparing to improve the world, first look around your own home three times. 
 >
-> <p>Franz Kafka</p>
+> <p>Chinese Proverb</p>
