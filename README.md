@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Langley Laboratory Apprentice at Work](https://www.nasa.gov/image-detail/lrc-1943-b701-p-33037large/)
-- [Intuitive Machines-2 Lifts Off](https://www.nasa.gov/image-detail/afs-8-101-988/)
-- [Milky Way on the Horizon](https://www.nasa.gov/image-detail/gmt029_06_47_don-pettit_ost-fwd-dragon-2/)
-- [Diamonds from NASA’s X-59](https://www.nasa.gov/image-detail/nasas-x-59-displays-mach-diamonds-at-maximum-afterburner/)
-- [Venus Blows Off Some Steam](https://www.nasa.gov/image-detail/arc-1977-ac77-0475-7orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Faith is taking the first step even when you don't see the whole staircase.
+> Everyone sees what you appear to be, few experience what you really are.
 >
-> <p>Martin Luther King, Jr.</p>
+> <p>Niccolo Machiavelli</p>
