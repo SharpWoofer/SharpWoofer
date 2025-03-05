@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Blue Ghost Lands on Moon](https://www.nasa.gov/image-detail/54359866846-dc14b1ff34-o/)
-- [NACA Test Pilot Poses with Plane](https://www.nasa.gov/image-detail/arc-1957-a-22548cropped/)
-- [Langley Laboratory Apprentice at Work](https://www.nasa.gov/image-detail/lrc-1943-b701-p-33037large/)
-- [Intuitive Machines-2 Lifts Off](https://www.nasa.gov/image-detail/afs-8-101-988/)
-- [Milky Way on the Horizon](https://www.nasa.gov/image-detail/gmt029_06_47_don-pettit_ost-fwd-dragon-2/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> You find peace not by rearranging the circumstances of your life, but by realizing who you are at the deepest level.
+> There is no such thing as a great talent without great willpower.
 >
-> <p>Eckhart Tolle</p>
+> <p>Honore de Balzac</p>
