@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Hubble Captures New View of Colorful Veil](https://www.nasa.gov/image-detail/lifting-the-veil/)
-- [Blue Ghost Lands on Moon](https://www.nasa.gov/image-detail/54359866846-dc14b1ff34-o/)
-- [NACA Test Pilot Poses with Plane](https://www.nasa.gov/image-detail/arc-1957-a-22548cropped/)
-- [Langley Laboratory Apprentice at Work](https://www.nasa.gov/image-detail/lrc-1943-b701-p-33037large/)
-- [Intuitive Machines-2 Lifts Off](https://www.nasa.gov/image-detail/afs-8-101-988/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> People become attached to their burdens sometimes more than the burdens are attached to them.
+> The merit of all things lies in their difficulty.
 >
-> <p>George Bernard Shaw</p>
+> <p>Alexandre Dumas</p>
