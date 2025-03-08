@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA Astronaut Tracy Dyson Speaks to Students](https://www.nasa.gov/image-detail/expedition-71-astronauts-visit-elsie-whitlow-stokes-cfpcs/)
-- [Kachemak Bay’s Stony Waters](https://www.nasa.gov/image-detail/alaska-kachemakbay-oli-20240920-lrg-2/)
-- [Hubble Captures New View of Colorful Veil](https://www.nasa.gov/image-detail/lifting-the-veil/)
-- [Blue Ghost Lands on Moon](https://www.nasa.gov/image-detail/54359866846-dc14b1ff34-o/)
-- [NACA Test Pilot Poses with Plane](https://www.nasa.gov/image-detail/arc-1957-a-22548cropped/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> When you are content to be simply yourself and don't compare or compete, everybody will respect you. 
+> I've always lived in the moment.
 >
-> <p>Lao Tzu</p>
+> <p>Yanni</p>
