@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA’s Dawn Sees Crescent Ceres](https://www.nasa.gov/image-detail/pia21407-fig1/)
-- [NASA Astronaut Tracy Dyson Speaks to Students](https://www.nasa.gov/image-detail/expedition-71-astronauts-visit-elsie-whitlow-stokes-cfpcs/)
-- [Kachemak Bay’s Stony Waters](https://www.nasa.gov/image-detail/alaska-kachemakbay-oli-20240920-lrg-2/)
-- [Hubble Captures New View of Colorful Veil](https://www.nasa.gov/image-detail/lifting-the-veil/)
-- [Blue Ghost Lands on Moon](https://www.nasa.gov/image-detail/54359866846-dc14b1ff34-o/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Success is within the reach of just about everyone.
+> There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them.
 >
-> <p>Lolly Daskal</p>
+> <p>Denis Waitley</p>
