@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Sun Rises on Crew-10 at Launch Pad](https://www.nasa.gov/image-detail/afs-8-101-994/)
-- [NASA&#39;s Artemis II Crew Speaks at SXSW](https://www.nasa.gov/image-detail/nasas-artemis-ii-crew-share-the-adventure-at-sxsw/)
-- [NASA’s Dawn Sees Crescent Ceres](https://www.nasa.gov/image-detail/pia21407-fig1/)
-- [NASA Astronaut Tracy Dyson Speaks to Students](https://www.nasa.gov/image-detail/expedition-71-astronauts-visit-elsie-whitlow-stokes-cfpcs/)
-- [Kachemak Bay’s Stony Waters](https://www.nasa.gov/image-detail/alaska-kachemakbay-oli-20240920-lrg-2/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> A good character is the best tombstone. Carve your name on hearts, not on marble.
+> A heart is not judged by how much you love, but by how much you are loved by others.
 >
-> <p>Charles Spurgeon</p>
+> <p>Judy Garland</p>
