@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Uranus Discovered 244 Years Ago](https://www.nasa.gov/image-detail/pia18182orig/)
-- [Sun Rises on Crew-10 at Launch Pad](https://www.nasa.gov/image-detail/afs-8-101-994/)
-- [NASA&#39;s Artemis II Crew Speaks at SXSW](https://www.nasa.gov/image-detail/nasas-artemis-ii-crew-share-the-adventure-at-sxsw/)
-- [NASA’s Dawn Sees Crescent Ceres](https://www.nasa.gov/image-detail/pia21407-fig1/)
-- [NASA Astronaut Tracy Dyson Speaks to Students](https://www.nasa.gov/image-detail/expedition-71-astronauts-visit-elsie-whitlow-stokes-cfpcs/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> What a liberation to realize that 'the voice in my head' is not who I am. Who am I then? The one who sees that.
+> You will not do incredible things without an incredible dream.
 >
-> <p>Eckhart Tolle</p>
+> <p>John Eliot</p>
