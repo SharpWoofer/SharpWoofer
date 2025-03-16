@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Blood Moon Lunar Eclipse](https://www.nasa.gov/image-detail/grc-2025-c-01603orig/)
-- [Uranus Discovered 244 Years Ago](https://www.nasa.gov/image-detail/pia18182orig/)
-- [Sun Rises on Crew-10 at Launch Pad](https://www.nasa.gov/image-detail/afs-8-101-994/)
-- [NASA&#39;s Artemis II Crew Speaks at SXSW](https://www.nasa.gov/image-detail/nasas-artemis-ii-crew-share-the-adventure-at-sxsw/)
-- [NASA’s Dawn Sees Crescent Ceres](https://www.nasa.gov/image-detail/pia21407-fig1/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The only thing worse than being blind is having sight but no vision.
+> Dreams provide nourishment for the soul, just as a meal does for the body.
 >
-> <p>Helen Keller</p>
+> <p>Paulo Coelho</p>
