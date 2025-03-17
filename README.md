@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA’s SpaceX Crew-10 Launch](https://www.nasa.gov/image-detail/nasas-spacex-crew-10-launch-2/)
-- [Blood Moon Lunar Eclipse](https://www.nasa.gov/image-detail/grc-2025-c-01603orig/)
-- [Uranus Discovered 244 Years Ago](https://www.nasa.gov/image-detail/pia18182orig/)
-- [Sun Rises on Crew-10 at Launch Pad](https://www.nasa.gov/image-detail/afs-8-101-994/)
-- [NASA&#39;s Artemis II Crew Speaks at SXSW](https://www.nasa.gov/image-detail/nasas-artemis-ii-crew-share-the-adventure-at-sxsw/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Live in each season as it passes; breathe the air, drink the drink, taste the fruit, and resign yourself to the influence of the earth.
+> Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a lifetime.
 >
-> <p>Henry David Thoreau</p>
+> <p>Lao Tzu</p>
