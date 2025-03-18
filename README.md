@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA’s SpaceX Crew-10 Launch](https://www.nasa.gov/image-detail/nasas-spacex-crew-10-launch-2/)
-- [Blood Moon Lunar Eclipse](https://www.nasa.gov/image-detail/grc-2025-c-01603orig/)
-- [Uranus Discovered 244 Years Ago](https://www.nasa.gov/image-detail/pia18182orig/)
-- [Sun Rises on Crew-10 at Launch Pad](https://www.nasa.gov/image-detail/afs-8-101-994/)
-- [NASA&#39;s Artemis II Crew Speaks at SXSW](https://www.nasa.gov/image-detail/nasas-artemis-ii-crew-share-the-adventure-at-sxsw/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Only to the extent that we expose ourselves over and over to annihilation can that which is indestructible in us be found.
+> You can never get enough of what you don't need to make you happy.
 >
-> <p>Pema Chodron</p>
+> <p>Eric Hoffer</p>
