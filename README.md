@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s SpaceX Crew-9 Members Pose for Portrait](https://www.nasa.gov/image-detail/gmt050_17_36_nick-hague_crew9-photos-2/)
-- [NASA’s SpaceX Crew-10 Launch](https://www.nasa.gov/image-detail/nasas-spacex-crew-10-launch-2/)
-- [Blood Moon Lunar Eclipse](https://www.nasa.gov/image-detail/grc-2025-c-01603orig/)
-- [Uranus Discovered 244 Years Ago](https://www.nasa.gov/image-detail/pia18182orig/)
-- [Sun Rises on Crew-10 at Launch Pad](https://www.nasa.gov/image-detail/afs-8-101-994/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> I think it's very important to have a feedback loop, where you're constantly thinking about what you've done and how you could be doing it better.
+> The golden opportunity you are seeking is in yourself. It is not in your environment; it is not in luck or chance, or the help of others; it is in yourself alone. 
 >
-> <p>Elon Musk</p>
+> <p>Orison Swett Marden</p>
