@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Making Ripples](https://www.nasa.gov/image-detail/ksc-07pd3144orig/)
-- [Hubble Sees a Spiral and a Star](https://www.nasa.gov/image-detail/a-spiral-and-a-star/)
-- [Welcome Home, Crew-9!](https://www.nasa.gov/image-detail/nasas-spacex-crew-9-splashdown-2/)
-- [NASA&#39;s SpaceX Crew-9 Members Pose for Portrait](https://www.nasa.gov/image-detail/gmt050_17_36_nick-hague_crew9-photos-2/)
-- [NASA’s SpaceX Crew-10 Launch](https://www.nasa.gov/image-detail/nasas-spacex-crew-10-launch-2/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Ancient Rule of Twenty-one: if you do anything for twenty-one days in a row, it will be installed as a habit.
+> Looking after my health today gives me a better hope for tomorrow. 
 >
-> <p>Robin Sharma</p>
+> <p>Anne Wilson Schaef</p>
