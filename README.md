@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Like Sands Through the Hourglass…](https://www.nasa.gov/image-detail/54371334710-315aac4209-o/)
-- [Making Ripples](https://www.nasa.gov/image-detail/ksc-07pd3144orig/)
-- [Hubble Sees a Spiral and a Star](https://www.nasa.gov/image-detail/a-spiral-and-a-star/)
-- [Welcome Home, Crew-9!](https://www.nasa.gov/image-detail/nasas-spacex-crew-9-splashdown-2/)
-- [NASA&#39;s SpaceX Crew-9 Members Pose for Portrait](https://www.nasa.gov/image-detail/gmt050_17_36_nick-hague_crew9-photos-2/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> He who knows, does not speak. He who speaks, does not know.
+> Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has.
 >
-> <p>Lao Tzu</p>
+> <p>Margaret Mead</p>
