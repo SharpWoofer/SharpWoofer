@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA’s Spirit Rover Gets Looked Over](https://www.nasa.gov/image-detail/ksc-03pd3272orig/)
-- [Like Sands Through the Hourglass…](https://www.nasa.gov/image-detail/54371334710-315aac4209-o/)
-- [Making Ripples](https://www.nasa.gov/image-detail/ksc-07pd3144orig/)
-- [Hubble Sees a Spiral and a Star](https://www.nasa.gov/image-detail/a-spiral-and-a-star/)
-- [Welcome Home, Crew-9!](https://www.nasa.gov/image-detail/nasas-spacex-crew-9-splashdown-2/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Not until we are lost do we begin to understand ourselves.
+> The way to get started is to quit talking and begin doing.
 >
-> <p>Henry David Thoreau</p>
+> <p>Walt Disney</p>
