@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Norman Rockwell Commemorates Gemini Program with Grissom and Young](https://www.nasa.gov/image-detail/8972300105-830d3ba3d4-o/)
-- [NASA’s Spirit Rover Gets Looked Over](https://www.nasa.gov/image-detail/ksc-03pd3272orig/)
-- [Like Sands Through the Hourglass…](https://www.nasa.gov/image-detail/54371334710-315aac4209-o/)
-- [Making Ripples](https://www.nasa.gov/image-detail/ksc-07pd3144orig/)
-- [Hubble Sees a Spiral and a Star](https://www.nasa.gov/image-detail/a-spiral-and-a-star/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> New beginnings are disguised as painful endings.
+> Winners are not afraid of losing. But losers are. Failure is part of the process of success. People who avoid failure also avoid success.
 >
-> <p>Lao Tzu</p>
+> <p>Robert Kiyosaki</p>
