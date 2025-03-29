@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Turning Vanes inside the Altitude Wind Tunnel](https://www.nasa.gov/image-detail/grc-1944-c-03991orig/)
-- [NEO Surveyor Instrument Enclosure Inside Historic Chamber A](https://www.nasa.gov/image-detail/pia26583orig/)
-- [Norman Rockwell Commemorates Gemini Program with Grissom and Young](https://www.nasa.gov/image-detail/8972300105-830d3ba3d4-o/)
-- [NASA’s Spirit Rover Gets Looked Over](https://www.nasa.gov/image-detail/ksc-03pd3272orig/)
-- [Like Sands Through the Hourglass…](https://www.nasa.gov/image-detail/54371334710-315aac4209-o/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Trusting our intuition often saves us from disaster. 
+> It is not because things are difficult that we do not dare; it is because we do not dare that things are difficult.  
 >
-> <p>Anne Wilson Schaef</p>
+> <p>Seneca</p>
