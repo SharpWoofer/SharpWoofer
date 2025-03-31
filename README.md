@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Artemis II Core Stage Integration – Complete!](https://www.nasa.gov/image-detail/afs-8-101-1010/)
-- [Turning Vanes inside the Altitude Wind Tunnel](https://www.nasa.gov/image-detail/grc-1944-c-03991orig/)
-- [NEO Surveyor Instrument Enclosure Inside Historic Chamber A](https://www.nasa.gov/image-detail/pia26583orig/)
-- [Norman Rockwell Commemorates Gemini Program with Grissom and Young](https://www.nasa.gov/image-detail/8972300105-830d3ba3d4-o/)
-- [NASA’s Spirit Rover Gets Looked Over](https://www.nasa.gov/image-detail/ksc-03pd3272orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> When you lose your desire for things that do not matter, you will be free.
+> The heart that gives, gathers.
 >
-> <p>Morihei Ueshiba</p>
+> <p>Lao Tzu</p>
