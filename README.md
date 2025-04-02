@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Studying Ice for the Future of Flight](https://www.nasa.gov/image-detail/grc-2024-c-12100-2/)
-- [Artemis II Core Stage Integration – Complete!](https://www.nasa.gov/image-detail/afs-8-101-1010/)
-- [Turning Vanes inside the Altitude Wind Tunnel](https://www.nasa.gov/image-detail/grc-1944-c-03991orig/)
-- [NEO Surveyor Instrument Enclosure Inside Historic Chamber A](https://www.nasa.gov/image-detail/pia26583orig/)
-- [Norman Rockwell Commemorates Gemini Program with Grissom and Young](https://www.nasa.gov/image-detail/8972300105-830d3ba3d4-o/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Unless you change how you are, you will always have what you got.
+> Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more.
 >
-> <p>Jim Rohn</p>
+> <p>Tony Robbins</p>
