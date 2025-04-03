@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [X-ray Clues Reveal Destroyed Planet](https://www.nasa.gov/image-detail/idl-tiff-file-124/)
-- [Studying Ice for the Future of Flight](https://www.nasa.gov/image-detail/grc-2024-c-12100-2/)
-- [Artemis II Core Stage Integration – Complete!](https://www.nasa.gov/image-detail/afs-8-101-1010/)
-- [Turning Vanes inside the Altitude Wind Tunnel](https://www.nasa.gov/image-detail/grc-1944-c-03991orig/)
-- [NEO Surveyor Instrument Enclosure Inside Historic Chamber A](https://www.nasa.gov/image-detail/pia26583orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The more one judges, the less one loves.
+> When you're curious, you find lots of interesting things to do.
 >
-> <p>Honore de Balzac</p>
+> <p>Walt Disney</p>
