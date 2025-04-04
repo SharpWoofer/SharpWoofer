@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Artemis II Insignia Honors All](https://www.nasa.gov/image-detail/jsc2025e034746orig/)
-- [X-ray Clues Reveal Destroyed Planet](https://www.nasa.gov/image-detail/idl-tiff-file-124/)
-- [Studying Ice for the Future of Flight](https://www.nasa.gov/image-detail/grc-2024-c-12100-2/)
-- [Artemis II Core Stage Integration – Complete!](https://www.nasa.gov/image-detail/afs-8-101-1010/)
-- [Turning Vanes inside the Altitude Wind Tunnel](https://www.nasa.gov/image-detail/grc-1944-c-03991orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The more rejection you get, the better you are, the more you've learned, the closer you are to your outcome.
+> Bad things are not the worst things that an happen to us. NOTHING is the worst thing that can happen to us.
 >
-> <p>Tony Robbins</p>
+> <p>Richard Bach</p>
