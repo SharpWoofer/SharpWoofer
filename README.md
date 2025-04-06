@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA Astronaut Jonny Kim](https://www.nasa.gov/image-detail/jsc2024e052672-alt2orig/)
-- [Artemis II Insignia Honors All](https://www.nasa.gov/image-detail/jsc2025e034746orig/)
-- [X-ray Clues Reveal Destroyed Planet](https://www.nasa.gov/image-detail/idl-tiff-file-124/)
-- [Studying Ice for the Future of Flight](https://www.nasa.gov/image-detail/grc-2024-c-12100-2/)
-- [Artemis II Core Stage Integration – Complete!](https://www.nasa.gov/image-detail/afs-8-101-1010/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy.
+> Creativity is the greatest rebellion in existence.
 >
-> <p>Norman Vincent Peale</p>
+> <p>Osho</p>
