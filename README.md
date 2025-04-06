@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA Astronaut Jonny Kim](https://www.nasa.gov/image-detail/jsc2024e052672-alt2orig/)
-- [Artemis II Insignia Honors All](https://www.nasa.gov/image-detail/jsc2025e034746orig/)
-- [X-ray Clues Reveal Destroyed Planet](https://www.nasa.gov/image-detail/idl-tiff-file-124/)
-- [Studying Ice for the Future of Flight](https://www.nasa.gov/image-detail/grc-2024-c-12100-2/)
-- [Artemis II Core Stage Integration – Complete!](https://www.nasa.gov/image-detail/afs-8-101-1010/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Most of us live our lives by accident - we live as it happens. Fulfilment comes when we live our lives on purpose.
+> True prayer has no set form.
 >
-> <p>Simon Sinek</p>
+> <p>Morihei Ueshiba</p>
