@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Expedition 73 Crew Launches to International Space Station](https://www.nasa.gov/image-detail/expedition-73-launch-3/)
-- [Sixty Years in Canberra: NASA’s Deep Space Network](https://www.nasa.gov/image-detail/pia23682orig/)
-- [Gateway’s First Habitation Module Arrives Stateside](https://www.nasa.gov/image-detail/jsc2025e034725orig/)
-- [NASA Astronaut Jonny Kim](https://www.nasa.gov/image-detail/jsc2024e052672-alt2orig/)
-- [Artemis II Insignia Honors All](https://www.nasa.gov/image-detail/jsc2025e034746orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Dream big and dare to fail.
+> Troubles are often the tools by which God fashions us for better things.
 >
-> <p>Norman Vaughan</p>
+> <p>Henry Ward Beecher</p>
