@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Linear Sand Dunes in the Great Sandy Desert](https://www.nasa.gov/image-detail/nasa-2008336/)
-- [Expedition 73 Crew Launches to International Space Station](https://www.nasa.gov/image-detail/expedition-73-launch-3/)
-- [Sixty Years in Canberra: NASA’s Deep Space Network](https://www.nasa.gov/image-detail/pia23682orig/)
-- [Gateway’s First Habitation Module Arrives Stateside](https://www.nasa.gov/image-detail/jsc2025e034725orig/)
-- [NASA Astronaut Jonny Kim](https://www.nasa.gov/image-detail/jsc2024e052672-alt2orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> We shape clay into a pot, but it is the emptiness inside that holds whatever we want.
+> He is richest who is content with the least, for content is the wealth of nature.
 >
-> <p>Lao Tzu</p>
+> <p>Socrates</p>
