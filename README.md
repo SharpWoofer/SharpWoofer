@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Apollo 13 Launch: 55 Years Ago](https://www.nasa.gov/image-detail/apollo-13-launch-ref-msfc-70-msg-2200-13-mix-file-2/)
-- [Linear Sand Dunes in the Great Sandy Desert](https://www.nasa.gov/image-detail/nasa-2008336/)
-- [Expedition 73 Crew Launches to International Space Station](https://www.nasa.gov/image-detail/expedition-73-launch-3/)
-- [Sixty Years in Canberra: NASA’s Deep Space Network](https://www.nasa.gov/image-detail/pia23682orig/)
-- [Gateway’s First Habitation Module Arrives Stateside](https://www.nasa.gov/image-detail/jsc2025e034725orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Your heart is the size of an ocean. Go find yourself in its hidden depths.
+> A man who acquires the ability to take full possession of his own mind may take possession of anything else to which he is justly entitled.
 >
-> <p>Rumi</p>
+> <p>Andrew Carnegie</p>
