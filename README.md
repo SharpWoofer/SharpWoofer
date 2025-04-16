@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Testing NASA’s IMAP &lpar;Interstellar Mapping and Acceleration Probe&rpar;](https://www.nasa.gov/image-detail/54445421160-48ee2acb22-o/)
-- [Sculpted by Luminous Stars](https://www.nasa.gov/image-detail/hubble-ngc346-heic2502a/)
-- [Apollo 13 Launch: 55 Years Ago](https://www.nasa.gov/image-detail/apollo-13-launch-ref-msfc-70-msg-2200-13-mix-file-2/)
-- [Linear Sand Dunes in the Great Sandy Desert](https://www.nasa.gov/image-detail/nasa-2008336/)
-- [Expedition 73 Crew Launches to International Space Station](https://www.nasa.gov/image-detail/expedition-73-launch-3/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> With self-discipline, almost anything is possible.
+> Never allow a person to tell you no who doesn't have the power to say yes.
 >
-> <p>Theodore Roosevelt</p>
+> <p>Eleanor Roosevelt</p>
