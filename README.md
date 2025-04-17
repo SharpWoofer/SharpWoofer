@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Space Shuttle Discovery Lifts Off](https://www.nasa.gov/image-detail/51d-9092large/)
-- [Scrub Jay at the Vehicle Assembly Building](https://www.nasa.gov/image-detail/afs-8-101-1017/)
-- [Testing NASA’s IMAP &lpar;Interstellar Mapping and Acceleration Probe&rpar;](https://www.nasa.gov/image-detail/54445421160-48ee2acb22-o/)
-- [Sculpted by Luminous Stars](https://www.nasa.gov/image-detail/hubble-ngc346-heic2502a/)
-- [Apollo 13 Launch: 55 Years Ago](https://www.nasa.gov/image-detail/apollo-13-launch-ref-msfc-70-msg-2200-13-mix-file-2/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Don't take yourself too seriously, pretty soon you can find the humor in our everyday lives.
+> Nothing gives one person so much advantage over another as to remain always cool and unruffled under all circumstances.
 >
-> <p>Betty White</p>
+> <p>Thomas Jefferson</p>
