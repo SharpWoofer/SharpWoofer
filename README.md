@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Scrub Jay at the Vehicle Assembly Building](https://www.nasa.gov/image-detail/afs-8-101-1017/)
-- [Testing NASA’s IMAP &lpar;Interstellar Mapping and Acceleration Probe&rpar;](https://www.nasa.gov/image-detail/54445421160-48ee2acb22-o/)
-- [Sculpted by Luminous Stars](https://www.nasa.gov/image-detail/hubble-ngc346-heic2502a/)
-- [Apollo 13 Launch: 55 Years Ago](https://www.nasa.gov/image-detail/apollo-13-launch-ref-msfc-70-msg-2200-13-mix-file-2/)
-- [Linear Sand Dunes in the Great Sandy Desert](https://www.nasa.gov/image-detail/nasa-2008336/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> You can't tell big dreams to small minded people.
+> People don't realize that now is all there ever is; there is no past or future except as memory or anticipation in your mind.
 >
-> <p>Steve Harvey</p>
+> <p>Eckhart Tolle</p>
