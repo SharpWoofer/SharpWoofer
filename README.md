@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Sunshine on Earth](https://www.nasa.gov/image-detail/gmt064_ehdc1/)
-- [Fuzzy Rings of a Dying Star](https://www.nasa.gov/image-detail/stsci-01jr92b3nyh10zq49kc8qmg569/)
-- [Hubble Spies Cosmic Pillar in Eagle Nebula](https://www.nasa.gov/image-detail/eagle-nebula-3/)
-- [Space Shuttle Discovery Lifts Off](https://www.nasa.gov/image-detail/51d-9092large/)
-- [Scrub Jay at the Vehicle Assembly Building](https://www.nasa.gov/image-detail/afs-8-101-1017/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Do not ignore the passion that burns in you. Spend time to discover your gift.
+> If you see someone without a smile give them one of yours.
 >
-> <p>Steve Harvey</p>
+> <p>Unknown</p>
