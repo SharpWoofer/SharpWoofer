@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Sunshine on Earth](https://www.nasa.gov/image-detail/gmt064_ehdc1/)
-- [Fuzzy Rings of a Dying Star](https://www.nasa.gov/image-detail/stsci-01jr92b3nyh10zq49kc8qmg569/)
-- [Hubble Spies Cosmic Pillar in Eagle Nebula](https://www.nasa.gov/image-detail/eagle-nebula-3/)
-- [Space Shuttle Discovery Lifts Off](https://www.nasa.gov/image-detail/51d-9092large/)
-- [Scrub Jay at the Vehicle Assembly Building](https://www.nasa.gov/image-detail/afs-8-101-1017/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Never let the things you can't do stop you from doing what you can.
+> First comes the shy wish. Then you must have the heart to have the dream. Then, you work, and work.  
 >
-> <p>Ronald Reagan</p>
+> <p>Estee Lauder</p>
