@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Fuzzy Rings of a Dying Star](https://www.nasa.gov/image-detail/stsci-01jr92b3nyh10zq49kc8qmg569/)
-- [Hubble Spies Cosmic Pillar in Eagle Nebula](https://www.nasa.gov/image-detail/eagle-nebula-3/)
-- [Space Shuttle Discovery Lifts Off](https://www.nasa.gov/image-detail/51d-9092large/)
-- [Scrub Jay at the Vehicle Assembly Building](https://www.nasa.gov/image-detail/afs-8-101-1017/)
-- [Testing NASA’s IMAP &lpar;Interstellar Mapping and Acceleration Probe&rpar;](https://www.nasa.gov/image-detail/54445421160-48ee2acb22-o/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Some men see things as they are and ask why. Others dream things that never were and ask why not.
+> Optimism, when applied to your life, develops strength and peace within you.
 >
-> <p>George Bernard Shaw</p>
+> <p>Norman Vincent Peale</p>
