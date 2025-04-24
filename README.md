@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA’s Lucy Spacecraft Images Asteroid Donaldjohanson](https://www.nasa.gov/image-detail/final-0798443319-dec/)
-- [Sunshine on Earth](https://www.nasa.gov/image-detail/gmt064_ehdc1/)
-- [Fuzzy Rings of a Dying Star](https://www.nasa.gov/image-detail/stsci-01jr92b3nyh10zq49kc8qmg569/)
-- [Hubble Spies Cosmic Pillar in Eagle Nebula](https://www.nasa.gov/image-detail/eagle-nebula-3/)
-- [Space Shuttle Discovery Lifts Off](https://www.nasa.gov/image-detail/51d-9092large/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The hardest arithmetic to master is that which enables us to count our blessings.
+> Sometimes it is more important to discover what one cannot do, than what one can do.
 >
-> <p>Eric Hoffer</p>
+> <p>Lin Yutang</p>
