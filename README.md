@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [All Hands for Artemis III](https://www.nasa.gov/image-detail/pia26430/)
-- [NASA’s Lucy Spacecraft Images Asteroid Donaldjohanson](https://www.nasa.gov/image-detail/final-0798443319-dec/)
-- [Sunshine on Earth](https://www.nasa.gov/image-detail/gmt064_ehdc1/)
-- [Fuzzy Rings of a Dying Star](https://www.nasa.gov/image-detail/stsci-01jr92b3nyh10zq49kc8qmg569/)
-- [Hubble Spies Cosmic Pillar in Eagle Nebula](https://www.nasa.gov/image-detail/eagle-nebula-3/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. 
+> If you let your head get too big, it'll break your neck.
 >
-> <p>Steve Jobs</p>
+> <p>Elvis Presley</p>
