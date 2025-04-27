@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Hubble Visits Glittering Cluster, Capturing Its Ultraviolet Light](https://www.nasa.gov/image-detail/hubble-m72-potw2516a/)
-- [All Hands for Artemis III](https://www.nasa.gov/image-detail/pia26430/)
-- [NASA’s Lucy Spacecraft Images Asteroid Donaldjohanson](https://www.nasa.gov/image-detail/final-0798443319-dec/)
-- [Sunshine on Earth](https://www.nasa.gov/image-detail/gmt064_ehdc1/)
-- [Fuzzy Rings of a Dying Star](https://www.nasa.gov/image-detail/stsci-01jr92b3nyh10zq49kc8qmg569/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> What's the point in being smart enough to read, if everything you read makes you dumb?
+> I have never in my life learned anything from any man who agreed with me.
 >
-> <p>C. Sean McGee</p>
+> <p>Dudley Field Malone</p>
