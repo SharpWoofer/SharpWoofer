@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Hubble Visits Glittering Cluster, Capturing Its Ultraviolet Light](https://www.nasa.gov/image-detail/hubble-m72-potw2516a/)
-- [All Hands for Artemis III](https://www.nasa.gov/image-detail/pia26430/)
-- [NASA’s Lucy Spacecraft Images Asteroid Donaldjohanson](https://www.nasa.gov/image-detail/final-0798443319-dec/)
-- [Sunshine on Earth](https://www.nasa.gov/image-detail/gmt064_ehdc1/)
-- [Fuzzy Rings of a Dying Star](https://www.nasa.gov/image-detail/stsci-01jr92b3nyh10zq49kc8qmg569/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Do it with passion, or not at all.
+> Life needs to be more than just solving problems every day. You need to wake up and be excited about the future.
 >
-> <p>Rosa Nouchette Carey</p>
+> <p>Elon Musk</p>
