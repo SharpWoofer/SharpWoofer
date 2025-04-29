@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Seeing the Cygnus Loop in a New Way](https://www.nasa.gov/image-detail/3dmodels-cygnus-astro-74ffde/)
-- [Hubble Visits Glittering Cluster, Capturing Its Ultraviolet Light](https://www.nasa.gov/image-detail/hubble-m72-potw2516a/)
-- [All Hands for Artemis III](https://www.nasa.gov/image-detail/pia26430/)
-- [NASA’s Lucy Spacecraft Images Asteroid Donaldjohanson](https://www.nasa.gov/image-detail/final-0798443319-dec/)
-- [Sunshine on Earth](https://www.nasa.gov/image-detail/gmt064_ehdc1/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Men are equal; it is not birth but virtue that makes the difference.
+> A man who dares to waste one hour of time has not discovered the value of life.
 >
-> <p>Voltaire</p>
+> <p>Charles Darwin</p>
