@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Hubble Spots a Squid in the Whale](https://www.nasa.gov/image-detail/the-squid-and-the-whale/)
-- [Seeing the Cygnus Loop in a New Way](https://www.nasa.gov/image-detail/3dmodels-cygnus-astro-74ffde/)
-- [Hubble Visits Glittering Cluster, Capturing Its Ultraviolet Light](https://www.nasa.gov/image-detail/hubble-m72-potw2516a/)
-- [All Hands for Artemis III](https://www.nasa.gov/image-detail/pia26430/)
-- [NASA’s Lucy Spacecraft Images Asteroid Donaldjohanson](https://www.nasa.gov/image-detail/final-0798443319-dec/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The moment you stop to think about whether you love someone, you've already stopped loving that person forever.
+> When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.
 >
-> <p>Carlos Ruiz Zafon</p>
+> <p>Henry Ford</p>
