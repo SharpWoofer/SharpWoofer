@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Saxophone in Space](https://www.nasa.gov/image-detail/s84-27211orig/)
-- [Hubble Spots a Squid in the Whale](https://www.nasa.gov/image-detail/the-squid-and-the-whale/)
-- [Seeing the Cygnus Loop in a New Way](https://www.nasa.gov/image-detail/3dmodels-cygnus-astro-74ffde/)
-- [Hubble Visits Glittering Cluster, Capturing Its Ultraviolet Light](https://www.nasa.gov/image-detail/hubble-m72-potw2516a/)
-- [All Hands for Artemis III](https://www.nasa.gov/image-detail/pia26430/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Your greatest asset is your earning ability. Your greatest resource is your time.
+> Truth is like the sun. You can shut it out for a time, but it ain't going away.
 >
-> <p>Brian Tracy</p>
+> <p>Elvis Presley</p>
