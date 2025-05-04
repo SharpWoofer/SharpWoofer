@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Back to Earth](https://www.nasa.gov/image-detail/gmt110_17_56_jonny-kim_1012_72s-soyuz-undocking/)
-- [Adding Dimension to Cassiopeia A](https://www.nasa.gov/image-detail/3dmodels-casa-2025-astro-2/)
-- [Saxophone in Space](https://www.nasa.gov/image-detail/s84-27211orig/)
-- [Hubble Spots a Squid in the Whale](https://www.nasa.gov/image-detail/the-squid-and-the-whale/)
-- [Seeing the Cygnus Loop in a New Way](https://www.nasa.gov/image-detail/3dmodels-cygnus-astro-74ffde/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The present moment dies every moment to become the past , is reborn every moment into the future. All experience is now. Now never ends.
+> For the things we have to learn before we can do them, we learn by doing them.
 >
-> <p>Deepak Chopra</p>
+> <p>Aristotle</p>
