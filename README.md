@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Back to Earth](https://www.nasa.gov/image-detail/gmt110_17_56_jonny-kim_1012_72s-soyuz-undocking/)
-- [Adding Dimension to Cassiopeia A](https://www.nasa.gov/image-detail/3dmodels-casa-2025-astro-2/)
-- [Saxophone in Space](https://www.nasa.gov/image-detail/s84-27211orig/)
-- [Hubble Spots a Squid in the Whale](https://www.nasa.gov/image-detail/the-squid-and-the-whale/)
-- [Seeing the Cygnus Loop in a New Way](https://www.nasa.gov/image-detail/3dmodels-cygnus-astro-74ffde/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Obstacles are those frightful things you see when you take your eyes off your goal.
+> You can never cross the ocean unless you have the courage to lose sight of the shore.
 >
-> <p>Henry Ford</p>
+> <p>Christopher Columbus</p>
