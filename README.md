@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Go confidently in the direction of your dreams! Live the life you've imagined.
+> No matter how tall the mountain is, it cannot block the sun.
 >
-> <p>Henry David Thoreau</p>
+> <p>Chinese Proverb</p>
