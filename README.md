@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Hubble Images a Peculiar Spiral](https://www.nasa.gov/image-detail/hubble-ngc1961-potw2517a/)
-- [Back to Earth](https://www.nasa.gov/image-detail/gmt110_17_56_jonny-kim_1012_72s-soyuz-undocking/)
-- [Adding Dimension to Cassiopeia A](https://www.nasa.gov/image-detail/3dmodels-casa-2025-astro-2/)
-- [Saxophone in Space](https://www.nasa.gov/image-detail/s84-27211orig/)
-- [Hubble Spots a Squid in the Whale](https://www.nasa.gov/image-detail/the-squid-and-the-whale/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> No need to hurry. No need to sparkle. No need to be anybody but oneself.
+> Actions are the seeds of fate. Deeds grow into destiny.
 >
-> <p>Virginia Woolf</p>
+> <p>Harry S. Truman</p>
