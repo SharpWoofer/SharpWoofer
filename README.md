@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [SPHEREx Starts Scanning Entire Sky](https://www.nasa.gov/image-detail/pia26352/)
-- [Hubble Images a Peculiar Spiral](https://www.nasa.gov/image-detail/hubble-ngc1961-potw2517a/)
-- [Back to Earth](https://www.nasa.gov/image-detail/gmt110_17_56_jonny-kim_1012_72s-soyuz-undocking/)
-- [Adding Dimension to Cassiopeia A](https://www.nasa.gov/image-detail/3dmodels-casa-2025-astro-2/)
-- [Saxophone in Space](https://www.nasa.gov/image-detail/s84-27211orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Don't look back - you're not going that way.
+> Act as if what you do makes a difference. It does.
 >
-> <p>Mary Engelbreit</p>
+> <p>William James</p>
