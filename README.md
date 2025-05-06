@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Hubble Images a Peculiar Spiral](https://www.nasa.gov/image-detail/hubble-ngc1961-potw2517a/)
-- [Back to Earth](https://www.nasa.gov/image-detail/gmt110_17_56_jonny-kim_1012_72s-soyuz-undocking/)
-- [Adding Dimension to Cassiopeia A](https://www.nasa.gov/image-detail/3dmodels-casa-2025-astro-2/)
-- [Saxophone in Space](https://www.nasa.gov/image-detail/s84-27211orig/)
-- [Hubble Spots a Squid in the Whale](https://www.nasa.gov/image-detail/the-squid-and-the-whale/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Life is a process. We are a process. The universe is a process.
+> The greatest of all mistakes is to do nothing because you think you can only do a little.  
 >
-> <p>Anne Wilson Schaef</p>
+> <p>Zig Ziglar</p>
