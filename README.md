@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA Astronaut Anne McClain Works on Space Station](https://www.nasa.gov/image-detail/gmt121_22_11_nichole-ayers_eva-crew-camera-2-2/)
-- [A Glimpse of a Meatball](https://www.nasa.gov/image-detail/grc-2015-c-06894orig/)
-- [SPHEREx Starts Scanning Entire Sky](https://www.nasa.gov/image-detail/pia26352/)
-- [Hubble Images a Peculiar Spiral](https://www.nasa.gov/image-detail/hubble-ngc1961-potw2517a/)
-- [Back to Earth](https://www.nasa.gov/image-detail/gmt110_17_56_jonny-kim_1012_72s-soyuz-undocking/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> None but ourselves can free our minds.
+> Cry. Forgive. Learn. Move on. Let your tears water the seeds of your future happiness.
 >
-> <p>Bob Marley</p>
+> <p>Steve Maraboli</p>
