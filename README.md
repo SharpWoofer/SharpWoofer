@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [25 Years of NASA Student Launch](https://www.nasa.gov/image-detail/ceb-0969orig/)
-- [NASA Astronaut Anne McClain Works on Space Station](https://www.nasa.gov/image-detail/gmt121_22_11_nichole-ayers_eva-crew-camera-2-2/)
-- [A Glimpse of a Meatball](https://www.nasa.gov/image-detail/grc-2015-c-06894orig/)
-- [SPHEREx Starts Scanning Entire Sky](https://www.nasa.gov/image-detail/pia26352/)
-- [Hubble Images a Peculiar Spiral](https://www.nasa.gov/image-detail/hubble-ngc1961-potw2517a/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> People who bite the hand that feeds them usually lick the boot that kicks them.
+> A good teacher opens the door for you, but you must enter the room by yourself.
 >
-> <p>Eric Hoffer</p>
+> <p>Zen Proverb</p>
