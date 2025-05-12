@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [25 Years of NASA Student Launch](https://www.nasa.gov/image-detail/ceb-0969orig/)
-- [NASA Astronaut Anne McClain Works on Space Station](https://www.nasa.gov/image-detail/gmt121_22_11_nichole-ayers_eva-crew-camera-2-2/)
-- [A Glimpse of a Meatball](https://www.nasa.gov/image-detail/grc-2015-c-06894orig/)
-- [SPHEREx Starts Scanning Entire Sky](https://www.nasa.gov/image-detail/pia26352/)
-- [Hubble Images a Peculiar Spiral](https://www.nasa.gov/image-detail/hubble-ngc1961-potw2517a/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them.
+> I have lived with several Zen masters -- all of them cats.
 >
-> <p>Denis Waitley</p>
+> <p>Eckhart Tolle</p>
