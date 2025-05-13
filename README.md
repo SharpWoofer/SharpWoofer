@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Jupiter’s Turbulent Atmosphere](https://www.nasa.gov/image-detail/pia26595orig/)
-- [25 Years of NASA Student Launch](https://www.nasa.gov/image-detail/ceb-0969orig/)
-- [NASA Astronaut Anne McClain Works on Space Station](https://www.nasa.gov/image-detail/gmt121_22_11_nichole-ayers_eva-crew-camera-2-2/)
-- [A Glimpse of a Meatball](https://www.nasa.gov/image-detail/grc-2015-c-06894orig/)
-- [SPHEREx Starts Scanning Entire Sky](https://www.nasa.gov/image-detail/pia26352/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Looking after my health today gives me a better hope for tomorrow. 
+> Live in each season as it passes; breathe the air, drink the drink, taste the fruit, and resign yourself to the influence of the earth.
 >
-> <p>Anne Wilson Schaef</p>
+> <p>Henry David Thoreau</p>
