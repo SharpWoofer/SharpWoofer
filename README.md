@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Lightning in Southeast Asia](https://www.nasa.gov/image-detail/gmt302_19_11_don-pettit_50mm-lightning/)
-- [Jupiter’s Turbulent Atmosphere](https://www.nasa.gov/image-detail/pia26595orig/)
-- [25 Years of NASA Student Launch](https://www.nasa.gov/image-detail/ceb-0969orig/)
-- [NASA Astronaut Anne McClain Works on Space Station](https://www.nasa.gov/image-detail/gmt121_22_11_nichole-ayers_eva-crew-camera-2-2/)
-- [A Glimpse of a Meatball](https://www.nasa.gov/image-detail/grc-2015-c-06894orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> If you see yourself as prosperous, you will be.
+> There is no limit to the amount of good you can do if you don't care who gets the credit.
 >
-> <p>Robert Collier</p>
+> <p>Ronald Reagan</p>
