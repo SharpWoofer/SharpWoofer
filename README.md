@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Deimos Before Dawn](https://www.nasa.gov/image-detail/pia26556orig/)
-- [Pretty in Pink](https://www.nasa.gov/image-detail/pia09579orig/)
-- [Lightning in Southeast Asia](https://www.nasa.gov/image-detail/gmt302_19_11_don-pettit_50mm-lightning/)
-- [Jupiter’s Turbulent Atmosphere](https://www.nasa.gov/image-detail/pia26595orig/)
-- [25 Years of NASA Student Launch](https://www.nasa.gov/image-detail/ceb-0969orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Absurdity is the ecstasy of intellectualism.
+> True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us.
 >
-> <p>Criss Jami</p>
+> <p>Socrates</p>
