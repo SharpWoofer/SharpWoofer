@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Webb Finds Icy Disk](https://www.nasa.gov/image-detail/54521739963-b58dc96fbb-o/)
-- [Deimos Before Dawn](https://www.nasa.gov/image-detail/pia26556orig/)
-- [Pretty in Pink](https://www.nasa.gov/image-detail/pia09579orig/)
-- [Lightning in Southeast Asia](https://www.nasa.gov/image-detail/gmt302_19_11_don-pettit_50mm-lightning/)
-- [Jupiter’s Turbulent Atmosphere](https://www.nasa.gov/image-detail/pia26595orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> If you can't explain it simply, you don't understand it well enough.
+> Confidence is like a dragon where, for every head cut off, two more heads grow back.
 >
-> <p>Albert Einstein</p>
+> <p>Criss Jami</p>
