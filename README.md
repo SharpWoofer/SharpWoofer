@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Deimos Before Dawn](https://www.nasa.gov/image-detail/pia26556orig/)
-- [Pretty in Pink](https://www.nasa.gov/image-detail/pia09579orig/)
-- [Lightning in Southeast Asia](https://www.nasa.gov/image-detail/gmt302_19_11_don-pettit_50mm-lightning/)
-- [Jupiter’s Turbulent Atmosphere](https://www.nasa.gov/image-detail/pia26595orig/)
-- [25 Years of NASA Student Launch](https://www.nasa.gov/image-detail/ceb-0969orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> It is secondary whether we choose belief or defiance. What is precious is that we are always able to choose.
+> To some degree, you control your life by controlling your time.
 >
-> <p>Ming-Dao Deng</p>
+> <p>Conrad Hilton</p>
