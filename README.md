@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Nancy Grace Roman’s 100th Birthday](https://www.nasa.gov/image-detail/41304996754-d135f524b1-o/)
-- [Deimos Before Dawn](https://www.nasa.gov/image-detail/pia26556orig/)
-- [Pretty in Pink](https://www.nasa.gov/image-detail/pia09579orig/)
-- [Lightning in Southeast Asia](https://www.nasa.gov/image-detail/gmt302_19_11_don-pettit_50mm-lightning/)
-- [Jupiter’s Turbulent Atmosphere](https://www.nasa.gov/image-detail/pia26595orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> I think self-awareness is probably the most important thing towards being a champion. 
+> The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.
 >
-> <p>Billie Jean King</p>
+> <p>Helen Keller</p>
