@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Sunset on Mars](https://www.nasa.gov/image-detail/pia07997/)
-- [Webb Finds Icy Disk](https://www.nasa.gov/image-detail/54521739963-b58dc96fbb-o/)
-- [Nancy Grace Roman’s 100th Birthday](https://www.nasa.gov/image-detail/41304996754-d135f524b1-o/)
-- [Deimos Before Dawn](https://www.nasa.gov/image-detail/pia26556orig/)
-- [Pretty in Pink](https://www.nasa.gov/image-detail/pia09579orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> When you are talented you do it whatever it is until your fingers bleed or your eyes are ready to fall out of your head.
+> What lies behind us and what lies before us are tiny matters compared to what lies within us.
 >
-> <p>Stephen King</p>
+> <p>Ralph Waldo Emerson</p>
