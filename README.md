@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Another Milestone for X-59](https://www.nasa.gov/image-detail/p25-037-35orig/)
-- [Sunset on Mars](https://www.nasa.gov/image-detail/pia07997/)
-- [Webb Finds Icy Disk](https://www.nasa.gov/image-detail/54521739963-b58dc96fbb-o/)
-- [Nancy Grace Roman’s 100th Birthday](https://www.nasa.gov/image-detail/41304996754-d135f524b1-o/)
-- [Deimos Before Dawn](https://www.nasa.gov/image-detail/pia26556orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The less you respond to negative people, the more positive your life will become.
+> Everything has its beauty, but not everyone sees it. 
 >
-> <p>Paulo Coelho</p>
+> <p>Confucius</p>
