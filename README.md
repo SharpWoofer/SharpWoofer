@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Preflight Flower](https://www.nasa.gov/image-detail/expedition-73-preflight-2/)
-- [Another Milestone for X-59](https://www.nasa.gov/image-detail/p25-037-35orig/)
-- [Sunset on Mars](https://www.nasa.gov/image-detail/pia07997/)
-- [Webb Finds Icy Disk](https://www.nasa.gov/image-detail/54521739963-b58dc96fbb-o/)
-- [Nancy Grace Roman’s 100th Birthday](https://www.nasa.gov/image-detail/41304996754-d135f524b1-o/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> I would rather be hated for who I am than loved for who I'm not.  
+> Life goes by very fast. And the worst thing in life that you can have is a job that you hate, and have no energy and creativity in.
 >
-> <p>Wayne Dyer</p>
+> <p>Robert Greene</p>
