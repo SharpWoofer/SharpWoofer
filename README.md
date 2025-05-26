@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Ideas do not reach perfection in a day, no matter how much study is put upon them.
+> Even if I knew that tomorrow the world would go to pieces, I would still plant my apple tree. 
 >
-> <p>Alexander Graham Bell</p>
+> <p>Martin Luther</p>
