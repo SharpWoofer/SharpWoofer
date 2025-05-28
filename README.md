@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Moon and Flag at NASA Michoud](https://www.nasa.gov/image-detail/waning-gibbous-moon-sets-behind-flag-at-maf/)
-- [Preflight Flower](https://www.nasa.gov/image-detail/expedition-73-preflight-2/)
-- [Another Milestone for X-59](https://www.nasa.gov/image-detail/p25-037-35orig/)
-- [Sunset on Mars](https://www.nasa.gov/image-detail/pia07997/)
-- [Webb Finds Icy Disk](https://www.nasa.gov/image-detail/54521739963-b58dc96fbb-o/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Doubt is an uncomfortable condition, but certainty is a ridiculous one.
+> If you don't like something change it; if you can't change it, change the way you think about it.
 >
-> <p>Voltaire</p>
+> <p>Mary Engelbreit</p>
