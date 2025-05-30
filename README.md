@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [45 Years Ago: NASA Announces Ninth Astronaut Group](https://www.nasa.gov/image-detail/9373816944-46443992f4-o/)
-- [Hubble Images Galaxies Near and Far](https://www.nasa.gov/image-detail/hubble-hers-020941-potw2401a/)
-- [Moon and Flag at NASA Michoud](https://www.nasa.gov/image-detail/waning-gibbous-moon-sets-behind-flag-at-maf/)
-- [Preflight Flower](https://www.nasa.gov/image-detail/expedition-73-preflight-2/)
-- [Another Milestone for X-59](https://www.nasa.gov/image-detail/p25-037-35orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Laziness may appear attractive, but work gives satisfaction.
+> You can never cross the ocean unless you have the courage to lose sight of the shore.
 >
-> <p>Anne Frank</p>
+> <p>Christopher Columbus</p>
