@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA’s SpaceX Demo-2 Launch Fifth Anniversary](https://www.nasa.gov/image-detail/nhq202005300075large/)
-- [45 Years Ago: NASA Announces Ninth Astronaut Group](https://www.nasa.gov/image-detail/9373816944-46443992f4-o/)
-- [Hubble Images Galaxies Near and Far](https://www.nasa.gov/image-detail/hubble-hers-020941-potw2401a/)
-- [Moon and Flag at NASA Michoud](https://www.nasa.gov/image-detail/waning-gibbous-moon-sets-behind-flag-at-maf/)
-- [Preflight Flower](https://www.nasa.gov/image-detail/expedition-73-preflight-2/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The prettiest eyes have cried the most.
+> Don't let what you cannot do interfere with what you can do.
 >
-> <p>Unknown</p>
+> <p>John Wooden</p>
