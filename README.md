@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [A Star Like No Other](https://www.nasa.gov/image-detail/lprt-lg/)
-- [NASA’s SpaceX Demo-2 Launch Fifth Anniversary](https://www.nasa.gov/image-detail/nhq202005300075large/)
-- [45 Years Ago: NASA Announces Ninth Astronaut Group](https://www.nasa.gov/image-detail/9373816944-46443992f4-o/)
-- [Hubble Images Galaxies Near and Far](https://www.nasa.gov/image-detail/hubble-hers-020941-potw2401a/)
-- [Moon and Flag at NASA Michoud](https://www.nasa.gov/image-detail/waning-gibbous-moon-sets-behind-flag-at-maf/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> This is the real secret of life - to be completely engaged with what you are doing in the here and now. And instead of calling it work, realize it is play.
+> To share your weakness is to make yourself vulnerable; to make yourself vulnerable is to show your strength.
 >
-> <p>Alan Watts</p>
+> <p>Criss Jami</p>
