@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [America’s First Spacewalk](https://www.nasa.gov/image-detail/s65-30432orig/)
-- [A Star Like No Other](https://www.nasa.gov/image-detail/lprt-lg/)
-- [NASA’s SpaceX Demo-2 Launch Fifth Anniversary](https://www.nasa.gov/image-detail/nhq202005300075large/)
-- [45 Years Ago: NASA Announces Ninth Astronaut Group](https://www.nasa.gov/image-detail/9373816944-46443992f4-o/)
-- [Hubble Images Galaxies Near and Far](https://www.nasa.gov/image-detail/hubble-hers-020941-potw2401a/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Whatever your heart clings to and confides in, that is really your God.
+> Before you can see the Light, you have to deal with the darkness.
 >
-> <p>Martin Luther</p>
+> <p>Dan Millman</p>
