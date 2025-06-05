@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Hubble Captures Cotton Candy Clouds](https://www.nasa.gov/image-detail/capturing-candyfloss-clouds/)
-- [America’s First Spacewalk](https://www.nasa.gov/image-detail/s65-30432orig/)
-- [A Star Like No Other](https://www.nasa.gov/image-detail/lprt-lg/)
-- [NASA’s SpaceX Demo-2 Launch Fifth Anniversary](https://www.nasa.gov/image-detail/nhq202005300075large/)
-- [45 Years Ago: NASA Announces Ninth Astronaut Group](https://www.nasa.gov/image-detail/9373816944-46443992f4-o/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Winners are not afraid of losing. But losers are. Failure is part of the process of success. People who avoid failure also avoid success.
+> If you want to be successful, find someone who has achieved the results you want and copy what they do and you'll achieve the same results.
 >
-> <p>Robert Kiyosaki</p>
+> <p>Tony Robbins</p>
