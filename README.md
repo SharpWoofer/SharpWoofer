@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Webb Sees Sombrero Galaxy in Near-Infrared](https://www.nasa.gov/image-detail/54565613170-7e8bef5479-o/)
-- [Hubble Captures Cotton Candy Clouds](https://www.nasa.gov/image-detail/capturing-candyfloss-clouds/)
-- [America’s First Spacewalk](https://www.nasa.gov/image-detail/s65-30432orig/)
-- [A Star Like No Other](https://www.nasa.gov/image-detail/lprt-lg/)
-- [NASA’s SpaceX Demo-2 Launch Fifth Anniversary](https://www.nasa.gov/image-detail/nhq202005300075large/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> It is the power of the mind to be unconquerable.
+> Happiness is pretty simple: someone to love, something to do, something to look forward to.
 >
-> <p>Seneca</p>
+> <p>Rita Mae Brown</p>
