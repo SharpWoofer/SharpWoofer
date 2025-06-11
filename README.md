@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [High Above the World](https://www.nasa.gov/image-detail/sts111-306-012orig/)
-- [Central Brazil Cerrado](https://www.nasa.gov/image-detail/caldasridge-oli2-20250519-lrg/)
-- [Webb Sees Sombrero Galaxy in Near-Infrared](https://www.nasa.gov/image-detail/54565613170-7e8bef5479-o/)
-- [Hubble Captures Cotton Candy Clouds](https://www.nasa.gov/image-detail/capturing-candyfloss-clouds/)
-- [America’s First Spacewalk](https://www.nasa.gov/image-detail/s65-30432orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The sun shines upon good and bad alike.
+> Happiness is a gift and the trick is not to expect it, but to delight in it when it comes.
 >
-> <p>Hans Christian Andersen</p>
+> <p>Charles Dickens</p>
