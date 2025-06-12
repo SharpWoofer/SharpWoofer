@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Portrait of a Bobcat](https://www.nasa.gov/image-detail/ksc-2013-3063orig/)
-- [High Above the World](https://www.nasa.gov/image-detail/sts111-306-012orig/)
-- [Central Brazil Cerrado](https://www.nasa.gov/image-detail/caldasridge-oli2-20250519-lrg/)
-- [Webb Sees Sombrero Galaxy in Near-Infrared](https://www.nasa.gov/image-detail/54565613170-7e8bef5479-o/)
-- [Hubble Captures Cotton Candy Clouds](https://www.nasa.gov/image-detail/capturing-candyfloss-clouds/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> When you judge others, you do not define them, you define yourself.
+> There is no failure except in no longer trying. There is no defeat except from within, no insurmountable barrier except our own inherent weakness of purpose.
 >
-> <p>Earl Nightingale</p>
+> <p>Elbert Hubbard</p>
