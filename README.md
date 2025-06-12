@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Portrait of a Bobcat](https://www.nasa.gov/image-detail/ksc-2013-3063orig/)
-- [High Above the World](https://www.nasa.gov/image-detail/sts111-306-012orig/)
-- [Central Brazil Cerrado](https://www.nasa.gov/image-detail/caldasridge-oli2-20250519-lrg/)
-- [Webb Sees Sombrero Galaxy in Near-Infrared](https://www.nasa.gov/image-detail/54565613170-7e8bef5479-o/)
-- [Hubble Captures Cotton Candy Clouds](https://www.nasa.gov/image-detail/capturing-candyfloss-clouds/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Just try to be the best you can be; never cease trying to be the best you can be. That's in your power.
+> The person who says something is impossible should not interrupt the person who is doing it.
 >
-> <p>John Wooden</p>
+> <p>Chinese Proverb</p>
