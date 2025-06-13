@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Far Out](https://www.nasa.gov/image-detail/pismis-24/)
-- [Portrait of a Bobcat](https://www.nasa.gov/image-detail/ksc-2013-3063orig/)
-- [High Above the World](https://www.nasa.gov/image-detail/sts111-306-012orig/)
-- [Central Brazil Cerrado](https://www.nasa.gov/image-detail/caldasridge-oli2-20250519-lrg/)
-- [Webb Sees Sombrero Galaxy in Near-Infrared](https://www.nasa.gov/image-detail/54565613170-7e8bef5479-o/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> A thing constructed can only be loved after it is constructed; but a thing created is loved before it exists.
+> Trust is the foundation of great leadership.
 >
-> <p>Charles Dickens</p>
+> <p>Lolly Daskal</p>
