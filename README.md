@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [“Cosmic Dawn” Screening at Greenbelt Cinema](https://www.nasa.gov/image-detail/cosmic-dawn-screening-at-greenbelt-cinema/)
-- [Far Out](https://www.nasa.gov/image-detail/pismis-24/)
-- [Portrait of a Bobcat](https://www.nasa.gov/image-detail/ksc-2013-3063orig/)
-- [High Above the World](https://www.nasa.gov/image-detail/sts111-306-012orig/)
-- [Central Brazil Cerrado](https://www.nasa.gov/image-detail/caldasridge-oli2-20250519-lrg/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> A man should never be ashamed to own that he has been in the wrong, which is but saying, that he is wiser today than yesterday.
+> Listen to the secret sound, the real sound, which is inside you.
 >
-> <p>Jonathan Swift</p>
+> <p>Kabir</p>
