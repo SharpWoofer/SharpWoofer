@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [“Cosmic Dawn” Screening at Greenbelt Cinema](https://www.nasa.gov/image-detail/cosmic-dawn-screening-at-greenbelt-cinema/)
-- [Far Out](https://www.nasa.gov/image-detail/pismis-24/)
-- [Portrait of a Bobcat](https://www.nasa.gov/image-detail/ksc-2013-3063orig/)
-- [High Above the World](https://www.nasa.gov/image-detail/sts111-306-012orig/)
-- [Central Brazil Cerrado](https://www.nasa.gov/image-detail/caldasridge-oli2-20250519-lrg/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The ability to observe without evaluating is the highest form of intelligence.
+> I think it's very important to have a feedback loop, where you're constantly thinking about what you've done and how you could be doing it better.
 >
-> <p>Jiddu Krishnamurti</p>
+> <p>Elon Musk</p>
