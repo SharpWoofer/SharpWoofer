@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Training for the Moo&lpar;n&rpar;](https://www.nasa.gov/image-detail/jsc2024e034404orig/)
-- [Hubble Studies a Spiral’s Supernova Scene](https://www.nasa.gov/image-detail/hubble-ic758-potw2523a/)
-- [“Cosmic Dawn” Screening at Greenbelt Cinema](https://www.nasa.gov/image-detail/cosmic-dawn-screening-at-greenbelt-cinema/)
-- [Far Out](https://www.nasa.gov/image-detail/pismis-24/)
-- [Portrait of a Bobcat](https://www.nasa.gov/image-detail/ksc-2013-3063orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Optimism, when applied to your life, develops strength and peace within you.
+> I alone cannot change the world, but I can cast a stone across the waters to create many ripples.
 >
-> <p>Norman Vincent Peale</p>
+> <p>Mother Teresa</p>
