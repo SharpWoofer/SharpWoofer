@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Training for the Moo&lpar;n&rpar;](https://www.nasa.gov/image-detail/jsc2024e034404orig/)
-- [Hubble Studies a Spiral’s Supernova Scene](https://www.nasa.gov/image-detail/hubble-ic758-potw2523a/)
-- [“Cosmic Dawn” Screening at Greenbelt Cinema](https://www.nasa.gov/image-detail/cosmic-dawn-screening-at-greenbelt-cinema/)
-- [Far Out](https://www.nasa.gov/image-detail/pismis-24/)
-- [Portrait of a Bobcat](https://www.nasa.gov/image-detail/ksc-2013-3063orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> You don't have to move mountains. You'll change the world simply by being a warm, kind-hearted human being.
+> It is only depth of character that determines the profundity with which we face life.
 >
-> <p>Anita Krizzan</p>
+> <p>Ming-Dao Deng</p>
