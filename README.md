@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA’s Human Exploration Rover Challenge](https://www.nasa.gov/image-detail/nasas-31st-annual-human-exploration-rover-challenge-herc-at-the-u-s-space-rocket-center-huntsville-al/)
-- [Training for the Moo&lpar;n&rpar;](https://www.nasa.gov/image-detail/jsc2024e034404orig/)
-- [Hubble Studies a Spiral’s Supernova Scene](https://www.nasa.gov/image-detail/hubble-ic758-potw2523a/)
-- [“Cosmic Dawn” Screening at Greenbelt Cinema](https://www.nasa.gov/image-detail/cosmic-dawn-screening-at-greenbelt-cinema/)
-- [Far Out](https://www.nasa.gov/image-detail/pismis-24/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Remember, hope is a good thing, maybe the best of things.
+> Always turn a negative situation into a positive situation.
 >
-> <p>Stephen King</p>
+> <p>Michael Jordan</p>
