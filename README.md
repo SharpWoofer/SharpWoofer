@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Summer Begins in Northern Hemisphere](https://www.nasa.gov/image-detail/gsfc-20171208-archive-e001436orig/)
-- [NASA’s Human Exploration Rover Challenge](https://www.nasa.gov/image-detail/nasas-31st-annual-human-exploration-rover-challenge-herc-at-the-u-s-space-rocket-center-huntsville-al/)
-- [Training for the Moo&lpar;n&rpar;](https://www.nasa.gov/image-detail/jsc2024e034404orig/)
-- [Hubble Studies a Spiral’s Supernova Scene](https://www.nasa.gov/image-detail/hubble-ic758-potw2523a/)
-- [“Cosmic Dawn” Screening at Greenbelt Cinema](https://www.nasa.gov/image-detail/cosmic-dawn-screening-at-greenbelt-cinema/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Do not try to be on the side of the majority, but live according to your inner laws.
+> Often we pass beside happiness without seeing it, without looking at it, or even if we have seen and looked at it, without recognizing it.
 >
-> <p>Marcus Aurelius</p>
+> <p>Alexandre Dumas</p>
