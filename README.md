@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA Astronaut Zena Cardman](https://www.nasa.gov/image-detail/jsc2024e022262-altorig/)
-- [A Martian Volcano in the Mist](https://www.nasa.gov/image-detail/1-themis-views-mars-arsia-mons-volcano-crop1-c27fa8/)
-- [Summer Begins in Northern Hemisphere](https://www.nasa.gov/image-detail/gsfc-20171208-archive-e001436orig/)
-- [NASA’s Human Exploration Rover Challenge](https://www.nasa.gov/image-detail/nasas-31st-annual-human-exploration-rover-challenge-herc-at-the-u-s-space-rocket-center-huntsville-al/)
-- [Training for the Moo&lpar;n&rpar;](https://www.nasa.gov/image-detail/jsc2024e034404orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Live and act within the limit of your knowledge and keep expanding it to the limit of your life.
+> We meet ourselves time and again in a thousand disguises on the path of life.
 >
-> <p>Ayn Rand</p>
+> <p>Carl Jung</p>
