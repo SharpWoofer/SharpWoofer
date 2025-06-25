@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA Astronaut Zena Cardman](https://www.nasa.gov/image-detail/jsc2024e022262-altorig/)
-- [A Martian Volcano in the Mist](https://www.nasa.gov/image-detail/1-themis-views-mars-arsia-mons-volcano-crop1-c27fa8/)
-- [Summer Begins in Northern Hemisphere](https://www.nasa.gov/image-detail/gsfc-20171208-archive-e001436orig/)
-- [NASA’s Human Exploration Rover Challenge](https://www.nasa.gov/image-detail/nasas-31st-annual-human-exploration-rover-challenge-herc-at-the-u-s-space-rocket-center-huntsville-al/)
-- [Training for the Moo&lpar;n&rpar;](https://www.nasa.gov/image-detail/jsc2024e034404orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Just try to be the best you can be; never cease trying to be the best you can be. That's in your power.
+> Very little is needed to make a happy life; it is all within yourself, in your way of thinking.
 >
-> <p>John Wooden</p>
+> <p>Marcus Aurelius</p>
