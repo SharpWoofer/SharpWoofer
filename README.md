@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Waning Crescent Moon](https://www.nasa.gov/image-detail/iss067e035826/)
-- [NASA Astronaut Zena Cardman](https://www.nasa.gov/image-detail/jsc2024e022262-altorig/)
-- [A Martian Volcano in the Mist](https://www.nasa.gov/image-detail/1-themis-views-mars-arsia-mons-volcano-crop1-c27fa8/)
-- [Summer Begins in Northern Hemisphere](https://www.nasa.gov/image-detail/gsfc-20171208-archive-e001436orig/)
-- [NASA’s Human Exploration Rover Challenge](https://www.nasa.gov/image-detail/nasas-31st-annual-human-exploration-rover-challenge-herc-at-the-u-s-space-rocket-center-huntsville-al/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Those who are easily shocked should be shocked more often.
+> All know the way; few actually walk it. 
 >
-> <p>Mae West</p>
+> <p>Bodhidharma</p>
