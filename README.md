@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Astronaut Joe Engle Flies X-15](https://www.nasa.gov/image-detail/engle-with-x-15a-212-2-65nasa-dfrc-3/)
-- [Sparkling Andromeda](https://www.nasa.gov/image-detail/54614323748-5967d5c0c5-o/)
-- [Waning Crescent Moon](https://www.nasa.gov/image-detail/iss067e035826/)
-- [NASA Astronaut Zena Cardman](https://www.nasa.gov/image-detail/jsc2024e022262-altorig/)
-- [A Martian Volcano in the Mist](https://www.nasa.gov/image-detail/1-themis-views-mars-arsia-mons-volcano-crop1-c27fa8/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Hope is important because it can make the present moment less difficult to bear. If we believe that tomorrow will be better, we can bear a hardship today.
+> If you can't fly, run. If you can't run, walk. If you can't walk, crawl, but by all means, keep moving.
 >
-> <p>Thich Nhat Hanh</p>
+> <p>Martin Luther King, Jr.</p>
