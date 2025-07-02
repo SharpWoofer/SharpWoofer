@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Hubble Captures an Active Galactic Center](https://www.nasa.gov/image-detail/centre-of-activity/)
-- [Astronaut Joe Engle Flies X-15](https://www.nasa.gov/image-detail/engle-with-x-15a-212-2-65nasa-dfrc-3/)
-- [Sparkling Andromeda](https://www.nasa.gov/image-detail/54614323748-5967d5c0c5-o/)
-- [Waning Crescent Moon](https://www.nasa.gov/image-detail/iss067e035826/)
-- [NASA Astronaut Zena Cardman](https://www.nasa.gov/image-detail/jsc2024e022262-altorig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> You are never too old to set another goal or to dream a new dream.
+> A man who dares to waste one hour of time has not discovered the value of life.
 >
-> <p>Les Brown</p>
+> <p>Charles Darwin</p>
