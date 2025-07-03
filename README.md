@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [To the Spacemobile!](https://www.nasa.gov/image-detail/53908497721-3de9cb90ee-o/)
-- [Hubble Captures an Active Galactic Center](https://www.nasa.gov/image-detail/centre-of-activity/)
-- [Astronaut Joe Engle Flies X-15](https://www.nasa.gov/image-detail/engle-with-x-15a-212-2-65nasa-dfrc-3/)
-- [Sparkling Andromeda](https://www.nasa.gov/image-detail/54614323748-5967d5c0c5-o/)
-- [Waning Crescent Moon](https://www.nasa.gov/image-detail/iss067e035826/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The man who moved the mountain was the one who began carrying away the smallest stones.
+> Most people achieved their greatest success one step beyond what looked like their greatest failure.
 >
-> <p>Zen Proverb</p>
+> <p>Brian Tracy</p>
