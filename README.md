@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Old Glory on the Red Planet](https://www.nasa.gov/image-detail/pia26579/)
-- [To the Spacemobile!](https://www.nasa.gov/image-detail/53908497721-3de9cb90ee-o/)
-- [Hubble Captures an Active Galactic Center](https://www.nasa.gov/image-detail/centre-of-activity/)
-- [Astronaut Joe Engle Flies X-15](https://www.nasa.gov/image-detail/engle-with-x-15a-212-2-65nasa-dfrc-3/)
-- [Sparkling Andromeda](https://www.nasa.gov/image-detail/54614323748-5967d5c0c5-o/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Life is what happens to you while you're busy making other plans.
+> Nearly every crisis seems to be the worst one, but after it's over, it isn't so bad.
 >
-> <p>John Lennon</p>
+> <p>Harry S. Truman</p>
