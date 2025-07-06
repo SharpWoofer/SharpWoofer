@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Old Glory on the Red Planet](https://www.nasa.gov/image-detail/pia26579/)
-- [To the Spacemobile!](https://www.nasa.gov/image-detail/53908497721-3de9cb90ee-o/)
-- [Hubble Captures an Active Galactic Center](https://www.nasa.gov/image-detail/centre-of-activity/)
-- [Astronaut Joe Engle Flies X-15](https://www.nasa.gov/image-detail/engle-with-x-15a-212-2-65nasa-dfrc-3/)
-- [Sparkling Andromeda](https://www.nasa.gov/image-detail/54614323748-5967d5c0c5-o/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Reflect upon your present blessings of which every man has many - not on your past misfortunes, of which all men have some.
+> A man who dares to waste one hour of time has not discovered the value of life.
 >
-> <p>Charles Dickens</p>
+> <p>Charles Darwin</p>
