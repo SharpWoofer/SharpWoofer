@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Working in Space](https://www.nasa.gov/image-detail/iss073e0078643/)
-- [Old Glory on the Red Planet](https://www.nasa.gov/image-detail/pia26579/)
-- [To the Spacemobile!](https://www.nasa.gov/image-detail/53908497721-3de9cb90ee-o/)
-- [Hubble Captures an Active Galactic Center](https://www.nasa.gov/image-detail/centre-of-activity/)
-- [Astronaut Joe Engle Flies X-15](https://www.nasa.gov/image-detail/engle-with-x-15a-212-2-65nasa-dfrc-3/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> If the plan doesn't work, change the plan, but never the goal.
+> When you stop questioning, you stop learning.
 >
-> <p>Unknown</p>
+> <p>Lolly Daskal</p>
