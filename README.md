@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Anatomy of a Space Shuttle](https://www.nasa.gov/image-detail/0102619orig/)
-- [Stellar Duo](https://www.nasa.gov/image-detail/tempestuous-young-stars-in-orion/)
-- [Working in Space](https://www.nasa.gov/image-detail/iss073e0078643/)
-- [Old Glory on the Red Planet](https://www.nasa.gov/image-detail/pia26579/)
-- [To the Spacemobile!](https://www.nasa.gov/image-detail/53908497721-3de9cb90ee-o/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The greatest value of a picture is when it forces us to notice what we never expected to see.
+> Freedom lies in being bold.
 >
-> <p>John Tukey</p>
+> <p>Robert Frost</p>
