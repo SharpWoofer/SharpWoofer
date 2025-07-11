@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA’s James Webb Space Telescope Inspects Cat’s Paw](https://www.nasa.gov/image-detail/54644815047-f6aaedf588-o/)
-- [Anatomy of a Space Shuttle](https://www.nasa.gov/image-detail/0102619orig/)
-- [Stellar Duo](https://www.nasa.gov/image-detail/tempestuous-young-stars-in-orion/)
-- [Working in Space](https://www.nasa.gov/image-detail/iss073e0078643/)
-- [Old Glory on the Red Planet](https://www.nasa.gov/image-detail/pia26579/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. 
+> Thoughts become things. If you see it in your mind, you will hold it in your hand.
 >
-> <p>Steve Jobs</p>
+> <p>Bob Proctor</p>
