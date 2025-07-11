@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA’s James Webb Space Telescope Inspects Cat’s Paw](https://www.nasa.gov/image-detail/54644815047-f6aaedf588-o/)
-- [Anatomy of a Space Shuttle](https://www.nasa.gov/image-detail/0102619orig/)
-- [Stellar Duo](https://www.nasa.gov/image-detail/tempestuous-young-stars-in-orion/)
-- [Working in Space](https://www.nasa.gov/image-detail/iss073e0078643/)
-- [Old Glory on the Red Planet](https://www.nasa.gov/image-detail/pia26579/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The first thing you learn in life is you're a fool. The last thing you learn in life is you're the same fool.  
+> A leader leads by example, not by force.
 >
-> <p>Ray Bradbury</p>
+> <p>Sun Tzu</p>
