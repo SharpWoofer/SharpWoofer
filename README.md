@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Putting the X-59 to the Test](https://www.nasa.gov/image-detail/dsc09386orig/)
-- [NASA’s James Webb Space Telescope Inspects Cat’s Paw](https://www.nasa.gov/image-detail/54644815047-f6aaedf588-o/)
-- [Anatomy of a Space Shuttle](https://www.nasa.gov/image-detail/0102619orig/)
-- [Stellar Duo](https://www.nasa.gov/image-detail/tempestuous-young-stars-in-orion/)
-- [Working in Space](https://www.nasa.gov/image-detail/iss073e0078643/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Happiness is a choice, not a result. Nothing will make you happy until you choose to be happy.
+> The man who does not value himself, cannot value anything or anyone.
 >
-> <p>Ralph Marston</p>
+> <p>Ayn Rand</p>
