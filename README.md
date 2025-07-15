@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Hubble Observations Give “Missing” Globular Cluster Time to Shine](https://www.nasa.gov/image-detail/54641783315-26ffa3e65d-o/)
-- [10 Years Ago: NASA’s New Horizons Captures Pluto’s Heart](https://www.nasa.gov/image-detail/big-p-color-2-true-color1/)
-- [Putting the X-59 to the Test](https://www.nasa.gov/image-detail/dsc09386orig/)
-- [NASA’s James Webb Space Telescope Inspects Cat’s Paw](https://www.nasa.gov/image-detail/54644815047-f6aaedf588-o/)
-- [Anatomy of a Space Shuttle](https://www.nasa.gov/image-detail/0102619orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> If you do not conquer self, you will be conquered by self.
+> You can have it all. You just can't have it all at once. 
 >
-> <p>Napoleon Hill</p>
+> <p>Oprah Winfrey</p>
