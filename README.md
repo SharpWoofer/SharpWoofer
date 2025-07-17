@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Aurora Australis](https://www.nasa.gov/image-detail/iss073e0247726/)
-- [Hubble Observations Give “Missing” Globular Cluster Time to Shine](https://www.nasa.gov/image-detail/54641783315-26ffa3e65d-o/)
-- [10 Years Ago: NASA’s New Horizons Captures Pluto’s Heart](https://www.nasa.gov/image-detail/big-p-color-2-true-color1/)
-- [Putting the X-59 to the Test](https://www.nasa.gov/image-detail/dsc09386orig/)
-- [NASA’s James Webb Space Telescope Inspects Cat’s Paw](https://www.nasa.gov/image-detail/54644815047-f6aaedf588-o/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to.
+> Life is too important to be taken seriously.
 >
-> <p>Kahlil Gibran</p>
+> <p>Oscar Wilde</p>
