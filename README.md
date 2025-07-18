@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Space Station Crew Celebrates Milestone](https://www.nasa.gov/image-detail/iss073e0248474/)
-- [Aurora Australis](https://www.nasa.gov/image-detail/iss073e0247726/)
-- [Hubble Observations Give “Missing” Globular Cluster Time to Shine](https://www.nasa.gov/image-detail/54641783315-26ffa3e65d-o/)
-- [10 Years Ago: NASA’s New Horizons Captures Pluto’s Heart](https://www.nasa.gov/image-detail/big-p-color-2-true-color1/)
-- [Putting the X-59 to the Test](https://www.nasa.gov/image-detail/dsc09386orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> There is little success where there is little laughter.
+> If you do not get the chills when you set your goal you're not setting big enough goals.
 >
-> <p>Andrew Carnegie</p>
+> <p>Bob Proctor</p>
