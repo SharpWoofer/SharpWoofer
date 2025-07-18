@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Hubble Snaps Galaxy Cluster’s Portrait](https://www.nasa.gov/image-detail/portrait-of-a-galaxy-cluster/)
-- [Space Station Crew Celebrates Milestone](https://www.nasa.gov/image-detail/iss073e0248474/)
-- [Aurora Australis](https://www.nasa.gov/image-detail/iss073e0247726/)
-- [Hubble Observations Give “Missing” Globular Cluster Time to Shine](https://www.nasa.gov/image-detail/54641783315-26ffa3e65d-o/)
-- [10 Years Ago: NASA’s New Horizons Captures Pluto’s Heart](https://www.nasa.gov/image-detail/big-p-color-2-true-color1/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> I learned that courage was not the absence of fear, but the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear.
+> Life is trying things to see if they work.
 >
-> <p>Nelson Mandela</p>
+> <p>Ray Bradbury</p>
