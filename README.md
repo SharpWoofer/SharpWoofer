@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [The Day Earth Smiled](https://www.nasa.gov/image-detail/pia17172orig/)
-- [Hubble Snaps Galaxy Cluster’s Portrait](https://www.nasa.gov/image-detail/portrait-of-a-galaxy-cluster/)
-- [Space Station Crew Celebrates Milestone](https://www.nasa.gov/image-detail/iss073e0248474/)
-- [Aurora Australis](https://www.nasa.gov/image-detail/iss073e0247726/)
-- [Hubble Observations Give “Missing” Globular Cluster Time to Shine](https://www.nasa.gov/image-detail/54641783315-26ffa3e65d-o/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The greatest miracle is to be alive.
+> Success does not consist in never making mistakes but in never making the same one a second time.
 >
-> <p>Thich Nhat Hanh</p>
+> <p>George Bernard Shaw</p>
