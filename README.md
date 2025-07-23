@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA Astronaut Jonny Kim, Axiom Mission 4 Commander Peggy Whitson Conduct Research in Space](https://www.nasa.gov/image-detail/iss073e0252485/)
-- [NASA’s X-59 Makes a Move](https://www.nasa.gov/image-detail/asas-x-59-begins-taxi-tests/)
-- [The Day Earth Smiled](https://www.nasa.gov/image-detail/pia17172orig/)
-- [Hubble Snaps Galaxy Cluster’s Portrait](https://www.nasa.gov/image-detail/portrait-of-a-galaxy-cluster/)
-- [Space Station Crew Celebrates Milestone](https://www.nasa.gov/image-detail/iss073e0248474/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> If you want to change how you see your problems, you have to change what you value and/or how you measure failure/success.
+> I live by letting things happen.
 >
-> <p>Mark Manson</p>
+> <p>Dogen</p>
