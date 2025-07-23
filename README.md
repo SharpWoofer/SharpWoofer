@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA’s X-59 Makes a Move](https://www.nasa.gov/image-detail/asas-x-59-begins-taxi-tests/)
-- [The Day Earth Smiled](https://www.nasa.gov/image-detail/pia17172orig/)
-- [Hubble Snaps Galaxy Cluster’s Portrait](https://www.nasa.gov/image-detail/portrait-of-a-galaxy-cluster/)
-- [Space Station Crew Celebrates Milestone](https://www.nasa.gov/image-detail/iss073e0248474/)
-- [Aurora Australis](https://www.nasa.gov/image-detail/iss073e0247726/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years.
+> Your only obligation in any lifetime is to be true to yourself.
 >
 > <p>Richard Bach</p>
