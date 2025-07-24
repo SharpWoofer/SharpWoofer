@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA Astronaut Jonny Kim, Axiom Mission 4 Commander Peggy Whitson Conduct Research in Space](https://www.nasa.gov/image-detail/iss073e0252485/)
-- [NASA’s X-59 Makes a Move](https://www.nasa.gov/image-detail/asas-x-59-begins-taxi-tests/)
-- [The Day Earth Smiled](https://www.nasa.gov/image-detail/pia17172orig/)
-- [Hubble Snaps Galaxy Cluster’s Portrait](https://www.nasa.gov/image-detail/portrait-of-a-galaxy-cluster/)
-- [Space Station Crew Celebrates Milestone](https://www.nasa.gov/image-detail/iss073e0248474/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The only reason to be alive is to enjoy it.
+> Excuses are the lies you convince yourself are true to avoid proving you are worthy of the gift you were given.
 >
-> <p>Rita Mae Brown</p>
+> <p>Steve Harvey</p>
