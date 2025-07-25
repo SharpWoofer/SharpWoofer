@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [First Rocket Launch from Cape Canaveral](https://www.nasa.gov/image-detail/66p-0631orig/)
-- [NASA Astronaut Jonny Kim, Axiom Mission 4 Commander Peggy Whitson Conduct Research in Space](https://www.nasa.gov/image-detail/iss073e0252485/)
-- [NASA’s X-59 Makes a Move](https://www.nasa.gov/image-detail/asas-x-59-begins-taxi-tests/)
-- [The Day Earth Smiled](https://www.nasa.gov/image-detail/pia17172orig/)
-- [Hubble Snaps Galaxy Cluster’s Portrait](https://www.nasa.gov/image-detail/portrait-of-a-galaxy-cluster/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The consequences of today are determined by the actions of the past. To change your future, alter your decisions today.
+> The first step is to establish that something is possible; then probability will occur.
 >
-> <p>Unknown</p>
+> <p>Elon Musk</p>
