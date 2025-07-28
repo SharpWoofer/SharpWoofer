@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [25th Anniversary Cupola Photo](https://www.nasa.gov/image-detail/iotd-picture/)
-- [First Rocket Launch from Cape Canaveral](https://www.nasa.gov/image-detail/66p-0631orig/)
-- [NASA Astronaut Jonny Kim, Axiom Mission 4 Commander Peggy Whitson Conduct Research in Space](https://www.nasa.gov/image-detail/iss073e0252485/)
-- [NASA’s X-59 Makes a Move](https://www.nasa.gov/image-detail/asas-x-59-begins-taxi-tests/)
-- [The Day Earth Smiled](https://www.nasa.gov/image-detail/pia17172orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Talk sense to a fool and he calls you foolish.
+> Outstanding people have one thing in common: an absolute sense of mission.  
 >
-> <p>Euripides</p>
+> <p>Zig Ziglar</p>
