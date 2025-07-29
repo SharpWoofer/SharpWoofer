@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Hubble Spies Swirling Spiral](https://www.nasa.gov/image-detail/swirling-spiral-in-hydra/)
-- [25th Anniversary Cupola Photo](https://www.nasa.gov/image-detail/iotd-picture/)
-- [First Rocket Launch from Cape Canaveral](https://www.nasa.gov/image-detail/66p-0631orig/)
-- [NASA Astronaut Jonny Kim, Axiom Mission 4 Commander Peggy Whitson Conduct Research in Space](https://www.nasa.gov/image-detail/iss073e0252485/)
-- [NASA’s X-59 Makes a Move](https://www.nasa.gov/image-detail/asas-x-59-begins-taxi-tests/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> A scientific man ought to have no wishes, no affections, - a mere heart of stone.
+> Don't learn to do, but learn in doing.
 >
-> <p>Charles Darwin</p>
+> <p>Samuel Butler</p>
