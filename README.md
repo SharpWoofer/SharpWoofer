@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA Drop Test Supports Safer Air Taxi Designs](https://www.nasa.gov/image-detail/lift-plus-cruise-2-evtol-swing-and-drop-test/)
-- [Hubble Spies Swirling Spiral](https://www.nasa.gov/image-detail/swirling-spiral-in-hydra/)
-- [25th Anniversary Cupola Photo](https://www.nasa.gov/image-detail/iotd-picture/)
-- [First Rocket Launch from Cape Canaveral](https://www.nasa.gov/image-detail/66p-0631orig/)
-- [NASA Astronaut Jonny Kim, Axiom Mission 4 Commander Peggy Whitson Conduct Research in Space](https://www.nasa.gov/image-detail/iss073e0252485/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> It is not what we get. But who we become, what we contribute... that gives meaning to our lives.
+> Do not fear failure but rather fear not trying.
 >
-> <p>Tony Robbins</p>
+> <p>Roy T. Bennett</p>
