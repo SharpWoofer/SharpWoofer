@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Sunrise on Crew-11 Launch Attempt](https://www.nasa.gov/image-detail/afs-8-101-1043/)
-- [Looking Forward to the Moon](https://www.nasa.gov/image-detail/afs-8-101-1041/)
-- [NASA Drop Test Supports Safer Air Taxi Designs](https://www.nasa.gov/image-detail/lift-plus-cruise-2-evtol-swing-and-drop-test/)
-- [Hubble Spies Swirling Spiral](https://www.nasa.gov/image-detail/swirling-spiral-in-hydra/)
-- [25th Anniversary Cupola Photo](https://www.nasa.gov/image-detail/iotd-picture/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Only to the extent that we expose ourselves over and over to annihilation can that which is indestructible in us be found.
+> You know you are on the road to success if you would do your job and not be paid for it.
 >
-> <p>Pema Chodron</p>
+> <p>Oprah Winfrey</p>
