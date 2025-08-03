@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Crew-11 Launches to International Space Station](https://www.nasa.gov/image-detail/nasas-spacex-crew-11-launch-3/)
-- [Sunrise on Crew-11 Launch Attempt](https://www.nasa.gov/image-detail/afs-8-101-1043/)
-- [Looking Forward to the Moon](https://www.nasa.gov/image-detail/afs-8-101-1041/)
-- [NASA Drop Test Supports Safer Air Taxi Designs](https://www.nasa.gov/image-detail/lift-plus-cruise-2-evtol-swing-and-drop-test/)
-- [Hubble Spies Swirling Spiral](https://www.nasa.gov/image-detail/swirling-spiral-in-hydra/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Thinking is difficult, that's why most people judge.
+> Let my soul smile through my heart and my heart smile through my eyes, that I may scatter rich smiles in sad hearts. 
 >
-> <p>Carl Jung</p>
+> <p>Paramahansa Yogananda</p>
