@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Perseids Meteor Shower](https://www.nasa.gov/image-detail/meteor-shower/)
-- [Crew-11 Launches to International Space Station](https://www.nasa.gov/image-detail/nasas-spacex-crew-11-launch-3/)
-- [Sunrise on Crew-11 Launch Attempt](https://www.nasa.gov/image-detail/afs-8-101-1043/)
-- [Looking Forward to the Moon](https://www.nasa.gov/image-detail/afs-8-101-1041/)
-- [NASA Drop Test Supports Safer Air Taxi Designs](https://www.nasa.gov/image-detail/lift-plus-cruise-2-evtol-swing-and-drop-test/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Those who seek the easy way do not seek the true way.
+> What do we live for, if it is not to make life less difficult for each other?
 >
-> <p>Dogen</p>
+> <p>George Eliot</p>
