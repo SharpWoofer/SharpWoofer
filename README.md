@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Second Lady Usha Vance, NASA Astronaut Suni Williams Celebrate Reading](https://www.nasa.gov/image-detail/second-lady-usha-vance-visits-nasas-johnson-space-center/)
-- [Perseids Meteor Shower](https://www.nasa.gov/image-detail/meteor-shower/)
-- [Crew-11 Launches to International Space Station](https://www.nasa.gov/image-detail/nasas-spacex-crew-11-launch-3/)
-- [Sunrise on Crew-11 Launch Attempt](https://www.nasa.gov/image-detail/afs-8-101-1043/)
-- [Looking Forward to the Moon](https://www.nasa.gov/image-detail/afs-8-101-1041/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The more perfect a person is on the outside, the more demons they have on the inside.
+> Your very silence shows you agree.
 >
-> <p>Sigmund Freud</p>
+> <p>Euripides</p>
