@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA’s Artemis II Crew Trains in Orion](https://www.nasa.gov/image-detail/afs-8-101-1045/)
-- [Curiosity Looks Back Toward Its Landing Site](https://www.nasa.gov/image-detail/1-pia26632-curiositys-views-its-power-source-while-talking-to-an-orbiter-da5a52/)
-- [Second Lady Usha Vance, NASA Astronaut Suni Williams Celebrate Reading](https://www.nasa.gov/image-detail/second-lady-usha-vance-visits-nasas-johnson-space-center/)
-- [Perseids Meteor Shower](https://www.nasa.gov/image-detail/meteor-shower/)
-- [Crew-11 Launches to International Space Station](https://www.nasa.gov/image-detail/nasas-spacex-crew-11-launch-3/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Nothing ever happened in the past that can prevent you from being present now; and if the past cannot prevent you from being present now, what power does it have?
+> If you get up one more time than you fall, you will make it through.
 >
-> <p>Eckhart Tolle</p>
+> <p>Chinese Proverb</p>
