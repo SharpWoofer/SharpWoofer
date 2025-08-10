@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Rare Type of Black Hole Snacks on Star](https://www.nasa.gov/image-detail/unannotated-full-res-for-display/)
-- [NASA’s Artemis II Crew Trains in Orion](https://www.nasa.gov/image-detail/afs-8-101-1045/)
-- [Curiosity Looks Back Toward Its Landing Site](https://www.nasa.gov/image-detail/1-pia26632-curiositys-views-its-power-source-while-talking-to-an-orbiter-da5a52/)
-- [Second Lady Usha Vance, NASA Astronaut Suni Williams Celebrate Reading](https://www.nasa.gov/image-detail/second-lady-usha-vance-visits-nasas-johnson-space-center/)
-- [Perseids Meteor Shower](https://www.nasa.gov/image-detail/meteor-shower/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Ask no questions, and you'll be told no lies.
+> The whole of life, from the moment you are born to the moment you die, is a process of learning.
 >
-> <p>Charles Dickens</p>
+> <p>Jiddu Krishnamurti</p>
