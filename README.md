@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Alligator Goes for a Swim](https://www.nasa.gov/image-detail/wildlife-photography-alligators/)
-- [Hubble Captures a Tarantula](https://www.nasa.gov/image-detail/hubble-30dor-potw2531a-2/)
-- [NASA’s SpaceX Crew-10 Splashes Down in Pacific Ocean](https://www.nasa.gov/image-detail/nasas-spacex-crew-10-splashdown-3/)
-- [Rare Type of Black Hole Snacks on Star](https://www.nasa.gov/image-detail/unannotated-full-res-for-display/)
-- [NASA’s Artemis II Crew Trains in Orion](https://www.nasa.gov/image-detail/afs-8-101-1045/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The friend is the man who knows all about you, and still likes you.
+> Never let the things you can't do stop you from doing what you can.
 >
-> <p>Elbert Hubbard</p>
+> <p>Ronald Reagan</p>
