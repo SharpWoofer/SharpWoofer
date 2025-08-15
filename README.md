@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Say Cheese!](https://www.nasa.gov/image-detail/iss073e0420899/)
-- [Alligator Goes for a Swim](https://www.nasa.gov/image-detail/wildlife-photography-alligators/)
-- [Hubble Captures a Tarantula](https://www.nasa.gov/image-detail/hubble-30dor-potw2531a-2/)
-- [NASA’s SpaceX Crew-10 Splashes Down in Pacific Ocean](https://www.nasa.gov/image-detail/nasas-spacex-crew-10-splashdown-3/)
-- [Rare Type of Black Hole Snacks on Star](https://www.nasa.gov/image-detail/unannotated-full-res-for-display/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Think of yourself as dead. you have lived your life. Now, take what's left, and live it properly.
+> A man who acquires the ability to take full possession of his own mind may take possession of anything else to which he is justly entitled.
 >
-> <p>Marcus Aurelius</p>
+> <p>Andrew Carnegie</p>
