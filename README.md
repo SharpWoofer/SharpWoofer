@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Give more than you think you can, trusting that you are richer than you think.
+> The measure of wisdom is how calm you are when facing any given situation.
 >
-> <p>Jon Kabat-Zinn</p>
+> <p>Naval Ravikant</p>
