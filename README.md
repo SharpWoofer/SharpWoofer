@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Artemis II Crew Practices Night Launch Scenario](https://www.nasa.gov/image-detail/afs-9-101/)
-- [Spacewalk Pop-Up](https://www.nasa.gov/image-detail/max/)
-- [Say Cheese!](https://www.nasa.gov/image-detail/iss073e0420899/)
-- [Alligator Goes for a Swim](https://www.nasa.gov/image-detail/wildlife-photography-alligators/)
-- [Hubble Captures a Tarantula](https://www.nasa.gov/image-detail/hubble-30dor-potw2531a-2/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> You can't tell big dreams to small minded people.
+> To become what you are not, behave as you do not.
 >
-> <p>Steve Harvey</p>
+> <p>T.S. Eliot</p>
