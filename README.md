@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Viking 1 Begins Journey to Mars](https://www.nasa.gov/image-detail/4940404265-47186ca7a3-o/)
-- [Moonlight and Our Atmosphere](https://www.nasa.gov/image-detail/iss072e978997/)
-- [Artemis II Crew Practices Night Launch Scenario](https://www.nasa.gov/image-detail/afs-9-101/)
-- [Spacewalk Pop-Up](https://www.nasa.gov/image-detail/max/)
-- [Say Cheese!](https://www.nasa.gov/image-detail/iss073e0420899/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Respect other people's feelings. It might mean nothing to you, but it could mean everything to them.
+> I want the fishing rod, not the fish.
 >
-> <p>Roy T. Bennett</p>
+> <p>Yanni</p>
