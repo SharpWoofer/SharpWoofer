@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Viking 1 Begins Journey to Mars](https://www.nasa.gov/image-detail/4940404265-47186ca7a3-o/)
-- [Moonlight and Our Atmosphere](https://www.nasa.gov/image-detail/iss072e978997/)
-- [Artemis II Crew Practices Night Launch Scenario](https://www.nasa.gov/image-detail/afs-9-101/)
-- [Spacewalk Pop-Up](https://www.nasa.gov/image-detail/max/)
-- [Say Cheese!](https://www.nasa.gov/image-detail/iss073e0420899/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Sad thing is, you can still love someone and be wrong for them.
+> Whatever happens always happens on time.
 >
-> <p>Elvis Presley</p>
+> <p>Zen Proverb</p>
