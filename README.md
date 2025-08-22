@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Cities by the Bay](https://www.nasa.gov/image-detail/iss073e0420568/)
-- [Viking 1 Begins Journey to Mars](https://www.nasa.gov/image-detail/4940404265-47186ca7a3-o/)
-- [Moonlight and Our Atmosphere](https://www.nasa.gov/image-detail/iss072e978997/)
-- [Artemis II Crew Practices Night Launch Scenario](https://www.nasa.gov/image-detail/afs-9-101/)
-- [Spacewalk Pop-Up](https://www.nasa.gov/image-detail/max/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> When you judge another, you do not define them, you define yourself
+> The more you take responsibility for your past and present, the more you are able to create the future you seek.
 >
-> <p>Wayne Dyer</p>
+> <p>Celestine Chua</p>
