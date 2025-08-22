@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Cities by the Bay](https://www.nasa.gov/image-detail/iss073e0420568/)
-- [Viking 1 Begins Journey to Mars](https://www.nasa.gov/image-detail/4940404265-47186ca7a3-o/)
-- [Moonlight and Our Atmosphere](https://www.nasa.gov/image-detail/iss072e978997/)
-- [Artemis II Crew Practices Night Launch Scenario](https://www.nasa.gov/image-detail/afs-9-101/)
-- [Spacewalk Pop-Up](https://www.nasa.gov/image-detail/max/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The quieter you become, the more you are able to hear.
+> In the beginner's mind there are many possibilities, but in the expert's mind there are few.
 >
-> <p>Rumi</p>
+> <p>Shunryu Suzuki</p>
