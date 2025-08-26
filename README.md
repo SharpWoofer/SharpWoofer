@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA’s X-59 at Sunrise](https://www.nasa.gov/image-detail/nasas-x-59-at-sunrise-during-ground-testing/)
-- [Epic Research Can Help Mars Missions](https://www.nasa.gov/image-detail/nasa-works-to-improve-supersonic-parachutes-for-mars-missions/)
-- [Cities by the Bay](https://www.nasa.gov/image-detail/iss073e0420568/)
-- [Viking 1 Begins Journey to Mars](https://www.nasa.gov/image-detail/4940404265-47186ca7a3-o/)
-- [Moonlight and Our Atmosphere](https://www.nasa.gov/image-detail/iss072e978997/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Leaders spend 5% of their time on the problem & 95% of their time on the solution. Get over it & crush it!
+> You'll get more from being a peacemaker than a warrior.
 >
-> <p>Tony Robbins</p>
+> <p>Arnold Schwarzenegger</p>
