@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA’s X-59 at Sunrise](https://www.nasa.gov/image-detail/nasas-x-59-at-sunrise-during-ground-testing/)
-- [Epic Research Can Help Mars Missions](https://www.nasa.gov/image-detail/nasa-works-to-improve-supersonic-parachutes-for-mars-missions/)
-- [Cities by the Bay](https://www.nasa.gov/image-detail/iss073e0420568/)
-- [Viking 1 Begins Journey to Mars](https://www.nasa.gov/image-detail/4940404265-47186ca7a3-o/)
-- [Moonlight and Our Atmosphere](https://www.nasa.gov/image-detail/iss072e978997/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Optimism, when applied to your life, develops strength and peace within you.
+> I learned that courage was not the absence of fear, but the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear.
 >
-> <p>Norman Vincent Peale</p>
+> <p>Nelson Mandela</p>
