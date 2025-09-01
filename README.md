@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Landsat 9 Sees Buccaneer Archipelago](https://www.nasa.gov/image-detail/auskingsound-oli2-20250611-lrg/)
-- [Portrait of an Astronaut](https://www.nasa.gov/image-detail/jsc2024e022261_alt/)
-- [NASA’s X-59 at Sunrise](https://www.nasa.gov/image-detail/nasas-x-59-at-sunrise-during-ground-testing/)
-- [Epic Research Can Help Mars Missions](https://www.nasa.gov/image-detail/nasa-works-to-improve-supersonic-parachutes-for-mars-missions/)
-- [Cities by the Bay](https://www.nasa.gov/image-detail/iss073e0420568/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The tragedy of life doesn't lie in not reaching your goal. The tragedy lies in having no goals to reach.
+> True prayer has no set form.
 >
-> <p>Benjamin Mays</p>
+> <p>Morihei Ueshiba</p>
