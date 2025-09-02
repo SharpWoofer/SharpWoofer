@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> When you are talented you do it whatever it is until your fingers bleed or your eyes are ready to fall out of your head.
+> What people say, what people do, and what they say they do are entirely different things. 
 >
-> <p>Stephen King</p>
+> <p>Margaret Mead</p>
