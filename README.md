@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Circular Star Trails](https://www.nasa.gov/image-detail/iss073e0427643/)
-- [Landsat 9 Sees Buccaneer Archipelago](https://www.nasa.gov/image-detail/auskingsound-oli2-20250611-lrg/)
-- [Portrait of an Astronaut](https://www.nasa.gov/image-detail/jsc2024e022261_alt/)
-- [NASA’s X-59 at Sunrise](https://www.nasa.gov/image-detail/nasas-x-59-at-sunrise-during-ground-testing/)
-- [Epic Research Can Help Mars Missions](https://www.nasa.gov/image-detail/nasa-works-to-improve-supersonic-parachutes-for-mars-missions/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> No matter how tall the mountain is, it cannot block the sun.
+> If you try to micromanage yourself all you're going to do is make yourself miserable.
 >
-> <p>Chinese Proverb</p>
+> <p>Naval Ravikant</p>
