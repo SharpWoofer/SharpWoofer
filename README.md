@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Thinning Arctic Sea Ice](https://www.nasa.gov/image-detail/nasa-september-2025-hd-1920x1080/)
-- [Circular Star Trails](https://www.nasa.gov/image-detail/iss073e0427643/)
-- [Landsat 9 Sees Buccaneer Archipelago](https://www.nasa.gov/image-detail/auskingsound-oli2-20250611-lrg/)
-- [Portrait of an Astronaut](https://www.nasa.gov/image-detail/jsc2024e022261_alt/)
-- [NASA’s X-59 at Sunrise](https://www.nasa.gov/image-detail/nasas-x-59-at-sunrise-during-ground-testing/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Mistake is a mistake only if you make it twice.
+> He who is not contented with what he has, would not be contented with what he would like to have.
 >
-> <p>Robin Sharma</p>
+> <p>Socrates</p>
