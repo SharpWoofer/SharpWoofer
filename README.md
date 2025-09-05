@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA astronauts Jonny Kim and Zena Cardman pose for a portrait in the Unity module](https://www.nasa.gov/image-detail/amf-iss073e0505687/)
-- [Thinning Arctic Sea Ice](https://www.nasa.gov/image-detail/nasa-september-2025-hd-1920x1080/)
-- [Circular Star Trails](https://www.nasa.gov/image-detail/iss073e0427643/)
-- [Landsat 9 Sees Buccaneer Archipelago](https://www.nasa.gov/image-detail/auskingsound-oli2-20250611-lrg/)
-- [Portrait of an Astronaut](https://www.nasa.gov/image-detail/jsc2024e022261_alt/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> If you are lucky enough to find love, remember it is there and don't throw it away.
+> The biggest and only critic lives in your perception of people's perception of you rather than people's perception of you.
 >
-> <p>Stephen Hawking</p>
+> <p>Criss Jami</p>
