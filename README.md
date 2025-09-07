@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Orion Mission Evaluation Room](https://www.nasa.gov/image-detail/jsc2025e070711large/)
-- [NASA astronauts Jonny Kim and Zena Cardman pose for a portrait in the Unity module](https://www.nasa.gov/image-detail/amf-iss073e0505687/)
-- [Thinning Arctic Sea Ice](https://www.nasa.gov/image-detail/nasa-september-2025-hd-1920x1080/)
-- [Circular Star Trails](https://www.nasa.gov/image-detail/iss073e0427643/)
-- [Landsat 9 Sees Buccaneer Archipelago](https://www.nasa.gov/image-detail/auskingsound-oli2-20250611-lrg/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> If you're afraid to die, you're afraid to live. You can't have one without the other.
+> Until you change how you get things done, you'll never know what works best.
 >
-> <p>Rita Mae Brown</p>
+> <p>Roy T. Bennett</p>
