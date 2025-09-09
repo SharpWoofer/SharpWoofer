@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA Astronaut Frank Rubio in Space Station Cupola](https://www.nasa.gov/image-detail/iss068e017867/)
-- [Orion Mission Evaluation Room](https://www.nasa.gov/image-detail/jsc2025e070711large/)
-- [NASA astronauts Jonny Kim and Zena Cardman pose for a portrait in the Unity module](https://www.nasa.gov/image-detail/amf-iss073e0505687/)
-- [Thinning Arctic Sea Ice](https://www.nasa.gov/image-detail/nasa-september-2025-hd-1920x1080/)
-- [Circular Star Trails](https://www.nasa.gov/image-detail/iss073e0427643/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> One is never afraid of the unknown; one is afraid of the known coming to an end.
+> I discovered a long time ago that if I helped enough people get what they wanted, I would always get what I wanted and I would never have to worry.
 >
-> <p>Jiddu Krishnamurti</p>
+> <p>Tony Robbins</p>
