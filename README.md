@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Artemis II Crew Walks Out for Practice Scenarios](https://www.nasa.gov/image-detail/afs-8-101-1072/)
-- [NASA Astronaut Frank Rubio in Space Station Cupola](https://www.nasa.gov/image-detail/iss068e017867/)
-- [Orion Mission Evaluation Room](https://www.nasa.gov/image-detail/jsc2025e070711large/)
-- [NASA astronauts Jonny Kim and Zena Cardman pose for a portrait in the Unity module](https://www.nasa.gov/image-detail/amf-iss073e0505687/)
-- [Thinning Arctic Sea Ice](https://www.nasa.gov/image-detail/nasa-september-2025-hd-1920x1080/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Art is the signature of civilizations. 
+> Success is achieved and maintained by those who try and keep trying. 
 >
-> <p>Beverly Sills</p>
+> <p>W. Clement Stone</p>
