@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Shining Pismis 24](https://www.nasa.gov/image-detail/54764951141-82cb69f2cd-o/)
-- [Dinner is Served!](https://www.nasa.gov/image-detail/gmt227_jonny-kim_73b-dinner/)
-- [Artemis II Crew Walks Out for Practice Scenarios](https://www.nasa.gov/image-detail/afs-8-101-1072/)
-- [NASA Astronaut Frank Rubio in Space Station Cupola](https://www.nasa.gov/image-detail/iss068e017867/)
-- [Orion Mission Evaluation Room](https://www.nasa.gov/image-detail/jsc2025e070711large/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Success is the child of drudgery and perseverance. It cannot be coaxed or bribed; pay the price and it is yours. 
+> There is nothing in the world so irresistibly contagious as laughter and good humor.
 >
-> <p>Orison Swett Marden</p>
+> <p>Charles Dickens</p>
