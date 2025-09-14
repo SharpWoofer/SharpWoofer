@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [A Brief Outburst](https://www.nasa.gov/image-detail/brief-outburst-16760026566-oorig/)
-- [Shining Pismis 24](https://www.nasa.gov/image-detail/54764951141-82cb69f2cd-o/)
-- [Dinner is Served!](https://www.nasa.gov/image-detail/gmt227_jonny-kim_73b-dinner/)
-- [Artemis II Crew Walks Out for Practice Scenarios](https://www.nasa.gov/image-detail/afs-8-101-1072/)
-- [NASA Astronaut Frank Rubio in Space Station Cupola](https://www.nasa.gov/image-detail/iss068e017867/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The temptation to give up is strongest just before victory.
+> To live fully is to be always in no-man's-land, to experience each moment as completely new and fresh.
 >
-> <p>Zen Proverb</p>
+> <p>Pema Chodron</p>
