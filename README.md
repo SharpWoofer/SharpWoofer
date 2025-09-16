@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Helicopter Training for Artemis Missions](https://www.nasa.gov/image-detail/blood-moon-lunar-eclipse-2025-7/)
-- [A Brief Outburst](https://www.nasa.gov/image-detail/brief-outburst-16760026566-oorig/)
-- [Shining Pismis 24](https://www.nasa.gov/image-detail/54764951141-82cb69f2cd-o/)
-- [Dinner is Served!](https://www.nasa.gov/image-detail/gmt227_jonny-kim_73b-dinner/)
-- [Artemis II Crew Walks Out for Practice Scenarios](https://www.nasa.gov/image-detail/afs-8-101-1072/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Mastering others is strength, mastering yourself is true power.
+> The energy of the mind is the essence of life.
 >
-> <p>Lao Tzu</p>
+> <p>Aristotle</p>
