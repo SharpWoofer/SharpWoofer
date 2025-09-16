@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [An Eye-catching Star Cluster](https://www.nasa.gov/image-detail/54735875999-125f41fdb7-o/)
-- [Helicopter Training for Artemis Missions](https://www.nasa.gov/image-detail/blood-moon-lunar-eclipse-2025-7/)
-- [A Brief Outburst](https://www.nasa.gov/image-detail/brief-outburst-16760026566-oorig/)
-- [Shining Pismis 24](https://www.nasa.gov/image-detail/54764951141-82cb69f2cd-o/)
-- [Dinner is Served!](https://www.nasa.gov/image-detail/gmt227_jonny-kim_73b-dinner/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Only when I fall do I get up again.
+> Our view of the world is truly shaped by what we decide to hear.
 >
-> <p>Vincent van Gogh</p>
+> <p>William James</p>
