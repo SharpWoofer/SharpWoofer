@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Space Station Science](https://www.nasa.gov/image-detail/iss073e0548846/)
-- [An Eye-catching Star Cluster](https://www.nasa.gov/image-detail/54735875999-125f41fdb7-o/)
-- [Helicopter Training for Artemis Missions](https://www.nasa.gov/image-detail/blood-moon-lunar-eclipse-2025-7/)
-- [A Brief Outburst](https://www.nasa.gov/image-detail/brief-outburst-16760026566-oorig/)
-- [Shining Pismis 24](https://www.nasa.gov/image-detail/54764951141-82cb69f2cd-o/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Growth is in a series of mistakes. That's the only way you learn.
+> Every second you have on this planet is very precious and it's your responsibility that you're happy.
 >
-> <p>Steve Harvey</p>
+> <p>Naval Ravikant</p>
