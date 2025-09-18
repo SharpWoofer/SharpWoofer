@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Milky Way Views](https://www.nasa.gov/image-detail/iss073e0516005/)
-- [Space Station Science](https://www.nasa.gov/image-detail/iss073e0548846/)
-- [An Eye-catching Star Cluster](https://www.nasa.gov/image-detail/54735875999-125f41fdb7-o/)
-- [Helicopter Training for Artemis Missions](https://www.nasa.gov/image-detail/blood-moon-lunar-eclipse-2025-7/)
-- [A Brief Outburst](https://www.nasa.gov/image-detail/brief-outburst-16760026566-oorig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> If you are not living each day with excitement, energy, and passion, then you are not living true to your life purpose.
+> Never give up on a dream just because of the time it will take to accomplish it. The time will pass anyway.
 >
-> <p>Celestine Chua</p>
+> <p>Earl Nightingale</p>
