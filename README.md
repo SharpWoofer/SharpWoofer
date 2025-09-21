@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [A Beacon to Space](https://www.nasa.gov/image-detail/1-pia26662-dsc4667-enhanced-nr-f100bb/)
-- [Milky Way Views](https://www.nasa.gov/image-detail/iss073e0516005/)
-- [Space Station Science](https://www.nasa.gov/image-detail/iss073e0548846/)
-- [An Eye-catching Star Cluster](https://www.nasa.gov/image-detail/54735875999-125f41fdb7-o/)
-- [Helicopter Training for Artemis Missions](https://www.nasa.gov/image-detail/blood-moon-lunar-eclipse-2025-7/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> You must either modify your dreams or magnify your skills.
+> Any fool can turn a blind eye but who knows what the ostrich sees in the sand.
 >
-> <p>Jim Rohn</p>
+> <p>Samuel Beckett</p>
