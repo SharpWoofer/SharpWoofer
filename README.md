@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [IC Stars](https://www.nasa.gov/image-detail/54735841713-aa9781d42e-o/)
-- [A Beacon to Space](https://www.nasa.gov/image-detail/1-pia26662-dsc4667-enhanced-nr-f100bb/)
-- [Milky Way Views](https://www.nasa.gov/image-detail/iss073e0516005/)
-- [Space Station Science](https://www.nasa.gov/image-detail/iss073e0548846/)
-- [An Eye-catching Star Cluster](https://www.nasa.gov/image-detail/54735875999-125f41fdb7-o/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Trying to define yourself is like trying to bite your own teeth.
+> Life reflects your own thoughts back to you.
 >
-> <p>Alan Watts</p>
+> <p>Napoleon Hill</p>
