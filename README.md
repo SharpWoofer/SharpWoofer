@@ -13,7 +13,11 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-
+- [NASA’s New Astronaut Candidates](https://www.nasa.gov/image-detail/54805897076-76f9cde759-o/)
+- [IC Stars](https://www.nasa.gov/image-detail/54735841713-aa9781d42e-o/)
+- [A Beacon to Space](https://www.nasa.gov/image-detail/1-pia26662-dsc4667-enhanced-nr-f100bb/)
+- [Milky Way Views](https://www.nasa.gov/image-detail/iss073e0516005/)
+- [Space Station Science](https://www.nasa.gov/image-detail/iss073e0548846/)
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
