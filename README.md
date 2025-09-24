@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA’s New Astronaut Candidates](https://www.nasa.gov/image-detail/54805897076-76f9cde759-o/)
-- [IC Stars](https://www.nasa.gov/image-detail/54735841713-aa9781d42e-o/)
-- [A Beacon to Space](https://www.nasa.gov/image-detail/1-pia26662-dsc4667-enhanced-nr-f100bb/)
-- [Milky Way Views](https://www.nasa.gov/image-detail/iss073e0516005/)
-- [Space Station Science](https://www.nasa.gov/image-detail/iss073e0548846/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Whatever your heart clings to and confides in, that is really your God.
+> In order for you to be the BEST you can be for others, first you must be BEST for yourself.
 >
-> <p>Martin Luther</p>
+> <p>Jeffrey Gitomer</p>
