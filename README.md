@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Airplane Aerobatics](https://www.nasa.gov/image-detail/astronaut-nick-hague-attends-joint-base-andrews-air-show/)
-- [NASA’s New Astronaut Candidates](https://www.nasa.gov/image-detail/54805897076-76f9cde759-o/)
-- [IC Stars](https://www.nasa.gov/image-detail/54735841713-aa9781d42e-o/)
-- [A Beacon to Space](https://www.nasa.gov/image-detail/1-pia26662-dsc4667-enhanced-nr-f100bb/)
-- [Milky Way Views](https://www.nasa.gov/image-detail/iss073e0516005/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Be like a postage stamp. Stick to it until you get there.
+> Be not glad at the misfortune of another, though he may be your enemy. 
 >
-> <p>Bob Proctor</p>
+> <p>George Washington</p>
