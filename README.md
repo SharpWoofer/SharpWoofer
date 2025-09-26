@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [3-in-1 Launch](https://www.nasa.gov/image-detail/afs-8-101-1132/)
-- [Airplane Aerobatics](https://www.nasa.gov/image-detail/astronaut-nick-hague-attends-joint-base-andrews-air-show/)
-- [NASA’s New Astronaut Candidates](https://www.nasa.gov/image-detail/54805897076-76f9cde759-o/)
-- [IC Stars](https://www.nasa.gov/image-detail/54735841713-aa9781d42e-o/)
-- [A Beacon to Space](https://www.nasa.gov/image-detail/1-pia26662-dsc4667-enhanced-nr-f100bb/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> You don't need anybody to tell you who you are or what you are. You are what you are!
+> Making money isn't hard in itself... What's hard is to earn it doing something worth devoting one's life to.
 >
-> <p>John Lennon</p>
+> <p>Carlos Ruiz Zafon</p>
