@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Golden Lake](https://www.nasa.gov/image-detail/nasa-2071133-77-6f/)
-- [3-in-1 Launch](https://www.nasa.gov/image-detail/afs-8-101-1132/)
-- [Airplane Aerobatics](https://www.nasa.gov/image-detail/astronaut-nick-hague-attends-joint-base-andrews-air-show/)
-- [NASA’s New Astronaut Candidates](https://www.nasa.gov/image-detail/54805897076-76f9cde759-o/)
-- [IC Stars](https://www.nasa.gov/image-detail/54735841713-aa9781d42e-o/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Everything that is done in the world is done by hope.
+> The whole problem with the world is the fools and fanatics are always so sure of themselves, and wiser people are full of doubts.
 >
-> <p>Martin Luther</p>
+> <p>George Bernard Shaw</p>
