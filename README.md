@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Golden Lake](https://www.nasa.gov/image-detail/nasa-2071133-77-6f/)
-- [3-in-1 Launch](https://www.nasa.gov/image-detail/afs-8-101-1132/)
-- [Airplane Aerobatics](https://www.nasa.gov/image-detail/astronaut-nick-hague-attends-joint-base-andrews-air-show/)
-- [NASA’s New Astronaut Candidates](https://www.nasa.gov/image-detail/54805897076-76f9cde759-o/)
-- [IC Stars](https://www.nasa.gov/image-detail/54735841713-aa9781d42e-o/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Sometimes it is harder to deprive oneself of a pain than of a pleasure.
+> Fear of death is fear of surrender to Infinity. Learn to surrender, to exist at Infinity while alive, and fear of death dissolves.
 >
-> <p>F. Scott Fitzgerald</p>
+> <p>Adi Da Samraj</p>
