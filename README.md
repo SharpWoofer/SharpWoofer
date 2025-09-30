@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Hubble Surveys Cloudy Cluster](https://www.nasa.gov/image-detail/hubble-lmc-n44c-potw2536a/)
-- [Golden Lake](https://www.nasa.gov/image-detail/nasa-2071133-77-6f/)
-- [3-in-1 Launch](https://www.nasa.gov/image-detail/afs-8-101-1132/)
-- [Airplane Aerobatics](https://www.nasa.gov/image-detail/astronaut-nick-hague-attends-joint-base-andrews-air-show/)
-- [NASA’s New Astronaut Candidates](https://www.nasa.gov/image-detail/54805897076-76f9cde759-o/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Each day your life grows a day shorter. Make every move count.
+> Life does not get better by chance, it gets better by change.
 >
-> <p>Ming-Dao Deng</p>
+> <p>Jim Rohn</p>
