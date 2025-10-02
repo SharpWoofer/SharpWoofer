@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Jupiter’s Volcanic Moon Io](https://www.nasa.gov/image-detail/nasa-october-2025-4k-3840x2160/)
-- [Hubble Surveys Cloudy Cluster](https://www.nasa.gov/image-detail/hubble-lmc-n44c-potw2536a/)
-- [Golden Lake](https://www.nasa.gov/image-detail/nasa-2071133-77-6f/)
-- [3-in-1 Launch](https://www.nasa.gov/image-detail/afs-8-101-1132/)
-- [Airplane Aerobatics](https://www.nasa.gov/image-detail/astronaut-nick-hague-attends-joint-base-andrews-air-show/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> You want to live but do you know how to live? You are scared of dying and tell me, is the kind of life you lead really any different from being dead?
+> A person without a sense of humor is like a wagon without springs, jolted by every pebble in the road.
 >
-> <p>Seneca</p>
+> <p>Henry Ward Beecher</p>
