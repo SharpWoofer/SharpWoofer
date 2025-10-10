@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Jupiter’s Volcanic Moon Io](https://www.nasa.gov/image-detail/nasa-october-2025-4k-3840x2160/)
-- [Hubble Surveys Cloudy Cluster](https://www.nasa.gov/image-detail/hubble-lmc-n44c-potw2536a/)
-- [Golden Lake](https://www.nasa.gov/image-detail/nasa-2071133-77-6f/)
-- [3-in-1 Launch](https://www.nasa.gov/image-detail/afs-8-101-1132/)
-- [Airplane Aerobatics](https://www.nasa.gov/image-detail/astronaut-nick-hague-attends-joint-base-andrews-air-show/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Just trust that everything is unfolding the way it is supposed to. Don't resist... Great things are waiting for you around the corner.
+> Be as simple as you can be; you will be astonished to see how uncomplicated and happy your life can become.
 >
-> <p>Sonia Ricotti</p>
+> <p>Paramahansa Yogananda</p>
