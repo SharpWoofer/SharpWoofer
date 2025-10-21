@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Jupiter’s Volcanic Moon Io](https://www.nasa.gov/image-detail/nasa-october-2025-4k-3840x2160/)
-- [Hubble Surveys Cloudy Cluster](https://www.nasa.gov/image-detail/hubble-lmc-n44c-potw2536a/)
-- [Golden Lake](https://www.nasa.gov/image-detail/nasa-2071133-77-6f/)
-- [3-in-1 Launch](https://www.nasa.gov/image-detail/afs-8-101-1132/)
-- [Airplane Aerobatics](https://www.nasa.gov/image-detail/astronaut-nick-hague-attends-joint-base-andrews-air-show/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> A man is great not because he hasn't failed; a man is great because failure hasn't stopped him.
+> There are more people who wish to be loved than there are who are willing to love. 
 >
-> <p>Confucius</p>
+> <p>Nicolas Chamfort</p>
