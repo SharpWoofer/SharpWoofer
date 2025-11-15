@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Mapping Dark Matter](https://www.nasa.gov/image-detail/54624223606-8a775fd547-o/)
-- [A Robotic Helping Hand](https://www.nasa.gov/image-detail/iss073e0575226/)
-- [Jupiter’s Volcanic Moon Io](https://www.nasa.gov/image-detail/nasa-october-2025-4k-3840x2160/)
-- [Hubble Surveys Cloudy Cluster](https://www.nasa.gov/image-detail/hubble-lmc-n44c-potw2536a/)
-- [Golden Lake](https://www.nasa.gov/image-detail/nasa-2071133-77-6f/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> One of the really tough things is figuring out what questions to ask. Once you figure out the question, then the answer is relatively easy.
+> Success is often achieved by those who don't know that failure is inevitable.
 >
-> <p>Elon Musk</p>
+> <p>Coco Chanel</p>
