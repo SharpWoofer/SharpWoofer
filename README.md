@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Suited Up for Science: NASA ER-2 Pilot Prepares for GEMx Flight](https://www.nasa.gov/image-detail/nasa-er-2-flies-geological-mapping-mission/)
-- [Mapping Dark Matter](https://www.nasa.gov/image-detail/54624223606-8a775fd547-o/)
-- [A Robotic Helping Hand](https://www.nasa.gov/image-detail/iss073e0575226/)
-- [Jupiter’s Volcanic Moon Io](https://www.nasa.gov/image-detail/nasa-october-2025-4k-3840x2160/)
-- [Hubble Surveys Cloudy Cluster](https://www.nasa.gov/image-detail/hubble-lmc-n44c-potw2536a/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Difficult roads often lead to beautiful destinations.
+> The only thing more frustrating than slanderers is those foolish enough to listen to them.
 >
-> <p>Unknown</p>
+> <p>Criss Jami</p>
