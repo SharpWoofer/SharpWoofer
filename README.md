@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA Telescopes View Spiral Galaxy](https://www.nasa.gov/image-detail/54735864299-978db6da0f-o/)
-- [Suited Up for Science: NASA ER-2 Pilot Prepares for GEMx Flight](https://www.nasa.gov/image-detail/nasa-er-2-flies-geological-mapping-mission/)
-- [Mapping Dark Matter](https://www.nasa.gov/image-detail/54624223606-8a775fd547-o/)
-- [A Robotic Helping Hand](https://www.nasa.gov/image-detail/iss073e0575226/)
-- [Jupiter’s Volcanic Moon Io](https://www.nasa.gov/image-detail/nasa-october-2025-4k-3840x2160/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Correct what you can. Learn from what you can't.
+> The meaning of life is just to be alive. It is so plain and so obvious and so simple.
 >
-> <p>Toni Morrison</p>
+> <p>Alan Watts</p>
