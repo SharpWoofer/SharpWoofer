@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Hubble Captures Puzzling Galaxy](https://www.nasa.gov/image-detail/hubble-ngc2775-potw2538a/)
-- [NASA’s Quesst Mission Marks X-59’s Historic First Flight](https://www.nasa.gov/image-detail/nasas-x-59-lifts-off-for-first-flight-2/)
-- [NASA Telescopes View Spiral Galaxy](https://www.nasa.gov/image-detail/54735864299-978db6da0f-o/)
-- [Suited Up for Science: NASA ER-2 Pilot Prepares for GEMx Flight](https://www.nasa.gov/image-detail/nasa-er-2-flies-geological-mapping-mission/)
-- [Mapping Dark Matter](https://www.nasa.gov/image-detail/54624223606-8a775fd547-o/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> When you consider things like the stars, our affairs don't seem to matter very much, do they?
+> Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward.
 >
-> <p>Virginia Woolf</p>
+> <p>Colin Powell</p>
