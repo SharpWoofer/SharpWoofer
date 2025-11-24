@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [City Lights and Atmospheric Glow](https://www.nasa.gov/image-detail/gmt242_23_56_for-jaxa_kimiya-yui_timelaps-europe/)
-- [Hubble Captures Puzzling Galaxy](https://www.nasa.gov/image-detail/hubble-ngc2775-potw2538a/)
-- [NASA’s Quesst Mission Marks X-59’s Historic First Flight](https://www.nasa.gov/image-detail/nasas-x-59-lifts-off-for-first-flight-2/)
-- [NASA Telescopes View Spiral Galaxy](https://www.nasa.gov/image-detail/54735864299-978db6da0f-o/)
-- [Suited Up for Science: NASA ER-2 Pilot Prepares for GEMx Flight](https://www.nasa.gov/image-detail/nasa-er-2-flies-geological-mapping-mission/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> I put my heart and soul into my work, and I have lost my mind in the process.
+> The more you are motivated by Love, The more Fearless & Free your action will be.
 >
-> <p>Vincent van Gogh</p>
+> <p>Dalai Lama</p>
