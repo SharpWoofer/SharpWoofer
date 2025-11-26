@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Red Spider Nebula](https://www.nasa.gov/image-detail/the-red-spider-nebula-caught-by-webb/)
-- [City Lights and Atmospheric Glow](https://www.nasa.gov/image-detail/gmt242_23_56_for-jaxa_kimiya-yui_timelaps-europe/)
-- [Hubble Captures Puzzling Galaxy](https://www.nasa.gov/image-detail/hubble-ngc2775-potw2538a/)
-- [NASA’s Quesst Mission Marks X-59’s Historic First Flight](https://www.nasa.gov/image-detail/nasas-x-59-lifts-off-for-first-flight-2/)
-- [NASA Telescopes View Spiral Galaxy](https://www.nasa.gov/image-detail/54735864299-978db6da0f-o/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> There is no limitations except those we create for ourselves.
+> When obstacles arise, you change your direction to reach your goal; you do not change your decision to get there.
 >
-> <p>Lolly Daskal</p>
+> <p>Zig Ziglar</p>
