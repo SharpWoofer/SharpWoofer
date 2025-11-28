@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Artemis II Orion Spacecraft Stacked](https://www.nasa.gov/image-detail/afs-8-101-1215/)
-- [Red Spider Nebula](https://www.nasa.gov/image-detail/the-red-spider-nebula-caught-by-webb/)
-- [City Lights and Atmospheric Glow](https://www.nasa.gov/image-detail/gmt242_23_56_for-jaxa_kimiya-yui_timelaps-europe/)
-- [Hubble Captures Puzzling Galaxy](https://www.nasa.gov/image-detail/hubble-ngc2775-potw2538a/)
-- [NASA’s Quesst Mission Marks X-59’s Historic First Flight](https://www.nasa.gov/image-detail/nasas-x-59-lifts-off-for-first-flight-2/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Grudges are for those who insist that they are owed something; forgiveness, however, is for those who are substantial enough to move on.
+> If you focus on success, you'll have stress. But if you pursue excellence, success will be guaranteed.
 >
-> <p>Criss Jami</p>
+> <p>Deepak Chopra</p>
