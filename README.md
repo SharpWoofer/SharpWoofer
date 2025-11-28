@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Artemis II Orion Spacecraft Stacked](https://www.nasa.gov/image-detail/afs-8-101-1215/)
-- [Red Spider Nebula](https://www.nasa.gov/image-detail/the-red-spider-nebula-caught-by-webb/)
-- [City Lights and Atmospheric Glow](https://www.nasa.gov/image-detail/gmt242_23_56_for-jaxa_kimiya-yui_timelaps-europe/)
-- [Hubble Captures Puzzling Galaxy](https://www.nasa.gov/image-detail/hubble-ngc2775-potw2538a/)
-- [NASA’s Quesst Mission Marks X-59’s Historic First Flight](https://www.nasa.gov/image-detail/nasas-x-59-lifts-off-for-first-flight-2/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> When you are talented you do it whatever it is until your fingers bleed or your eyes are ready to fall out of your head.
+> We learn to walk by falling down. If we never fell down, we would never walk.
 >
-> <p>Stephen King</p>
+> <p>Robert Kiyosaki</p>
