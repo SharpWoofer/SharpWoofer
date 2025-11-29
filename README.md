@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Newly Found Organics in Enceladus’ Plumes](https://www.nasa.gov/image-detail/pia11688orig/)
-- [Artemis II Orion Spacecraft Stacked](https://www.nasa.gov/image-detail/afs-8-101-1215/)
-- [Red Spider Nebula](https://www.nasa.gov/image-detail/the-red-spider-nebula-caught-by-webb/)
-- [City Lights and Atmospheric Glow](https://www.nasa.gov/image-detail/gmt242_23_56_for-jaxa_kimiya-yui_timelaps-europe/)
-- [Hubble Captures Puzzling Galaxy](https://www.nasa.gov/image-detail/hubble-ngc2775-potw2538a/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> You get paid in direct proportion to the difficulty of problems you solve.
+> Arise, slay thy enemies, enjoy a prosperous kingdom.
 >
-> <p>Elon Musk</p>
+> <p>Bhagavad Gita</p>
