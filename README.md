@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Hubble Seeks Clusters in ‘Lost Galaxy’](https://www.nasa.gov/image-detail/hubble-ngc4535-potw2546a/)
-- [Waxing Gibbous Moon](https://www.nasa.gov/image-detail/iss073e0819960/)
-- [Sagittarius B2 Molecular Cloud](https://www.nasa.gov/image-detail/sagittarius-b2-miri-image/)
-- [Newly Found Organics in Enceladus’ Plumes](https://www.nasa.gov/image-detail/pia11688orig/)
-- [Artemis II Orion Spacecraft Stacked](https://www.nasa.gov/image-detail/afs-8-101-1215/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> I would rather be hated for who I am than loved for who I'm not.  
+> Life is love and love is life.
 >
-> <p>Wayne Dyer</p>
+> <p>Elvis Presley</p>
