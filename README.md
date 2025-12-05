@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA’s Nancy Grace Roman Space Telescope Completed](https://www.nasa.gov/image-detail/54963276156-ab4f24f068-o/)
-- [Hubble Seeks Clusters in ‘Lost Galaxy’](https://www.nasa.gov/image-detail/hubble-ngc4535-potw2546a/)
-- [Waxing Gibbous Moon](https://www.nasa.gov/image-detail/iss073e0819960/)
-- [Sagittarius B2 Molecular Cloud](https://www.nasa.gov/image-detail/sagittarius-b2-miri-image/)
-- [Newly Found Organics in Enceladus’ Plumes](https://www.nasa.gov/image-detail/pia11688orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.
+> Time you enjoy wasting, was not wasted.
 >
-> <p>Barack Obama</p>
+> <p>John Lennon</p>
