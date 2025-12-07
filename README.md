@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Testing Drones for Mars in the Mojave Desert](https://www.nasa.gov/image-detail/pia26674orig/)
-- [NASA’s Nancy Grace Roman Space Telescope Completed](https://www.nasa.gov/image-detail/54963276156-ab4f24f068-o/)
-- [Hubble Seeks Clusters in ‘Lost Galaxy’](https://www.nasa.gov/image-detail/hubble-ngc4535-potw2546a/)
-- [Waxing Gibbous Moon](https://www.nasa.gov/image-detail/iss073e0819960/)
-- [Sagittarius B2 Molecular Cloud](https://www.nasa.gov/image-detail/sagittarius-b2-miri-image/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Conquer the devils with a little thing called love.
+> You are not only responsible for what you say, but also for what you do not say. 
 >
-> <p>Bob Marley</p>
+> <p>Martin Luther</p>
