@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Sprites Over Château de Beynac](https://www.nasa.gov/image-detail/nasa-december-2025-3456x2234/)
-- [XRISM Finds Chlorine, Potassium in Cas A](https://www.nasa.gov/image-detail/casa-lg/)
-- [Testing Drones for Mars in the Mojave Desert](https://www.nasa.gov/image-detail/pia26674orig/)
-- [NASA’s Nancy Grace Roman Space Telescope Completed](https://www.nasa.gov/image-detail/54963276156-ab4f24f068-o/)
-- [Hubble Seeks Clusters in ‘Lost Galaxy’](https://www.nasa.gov/image-detail/hubble-ngc4535-potw2546a/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The ladder of success is best climbed by stepping on the rungs of opportunity.
+> I am thankful to all those who said no. It's because of them, I did it myself.  
 >
-> <p>Ayn Rand</p>
+> <p>Wayne Dyer</p>
