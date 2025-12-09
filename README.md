@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [XRISM Finds Chlorine, Potassium in Cas A](https://www.nasa.gov/image-detail/casa-lg/)
-- [Testing Drones for Mars in the Mojave Desert](https://www.nasa.gov/image-detail/pia26674orig/)
-- [NASA’s Nancy Grace Roman Space Telescope Completed](https://www.nasa.gov/image-detail/54963276156-ab4f24f068-o/)
-- [Hubble Seeks Clusters in ‘Lost Galaxy’](https://www.nasa.gov/image-detail/hubble-ngc4535-potw2546a/)
-- [Waxing Gibbous Moon](https://www.nasa.gov/image-detail/iss073e0819960/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> If you believe you can, you can. If you believe you can't, then, well you can't.
+> It is easy to love your friend, but sometimes the hardest lesson to learn is to love your enemy.
 >
-> <p>Celestine Chua</p>
+> <p>Sun Tzu</p>
