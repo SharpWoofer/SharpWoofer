@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Stellar Jet](https://www.nasa.gov/image-detail/stellar-jet-in-sh2-284/)
-- [NASA Astronaut Jonny Kim Returns to Earth](https://www.nasa.gov/image-detail/expedition-73-soyuz-landing-4/)
-- [Sprites Over Château de Beynac](https://www.nasa.gov/image-detail/nasa-december-2025-3456x2234/)
-- [XRISM Finds Chlorine, Potassium in Cas A](https://www.nasa.gov/image-detail/casa-lg/)
-- [Testing Drones for Mars in the Mojave Desert](https://www.nasa.gov/image-detail/pia26674orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> My guiding principle is this: Guilt is never to be doubted. 
+> Everyone you meet is fighting a battle you know nothing about. Be kind. Always.
 >
-> <p>Franz Kafka</p>
+> <p>Robin Williams</p>
