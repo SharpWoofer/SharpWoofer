@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [The Calabash clash](https://www.nasa.gov/image-detail/the-calabash-clash-2/)
-- [Stellar Jet](https://www.nasa.gov/image-detail/stellar-jet-in-sh2-284/)
-- [NASA Astronaut Jonny Kim Returns to Earth](https://www.nasa.gov/image-detail/expedition-73-soyuz-landing-4/)
-- [Sprites Over Château de Beynac](https://www.nasa.gov/image-detail/nasa-december-2025-3456x2234/)
-- [XRISM Finds Chlorine, Potassium in Cas A](https://www.nasa.gov/image-detail/casa-lg/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Always be a first rate version of yourself and not a second rate version of someone else.
+> The deeper the truth in a creative work, the longer it will live.  
 >
-> <p>Judy Garland</p>
+> <p>Charlie Chaplin</p>
