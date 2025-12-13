@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [The Calabash clash](https://www.nasa.gov/image-detail/the-calabash-clash-2/)
-- [Stellar Jet](https://www.nasa.gov/image-detail/stellar-jet-in-sh2-284/)
-- [NASA Astronaut Jonny Kim Returns to Earth](https://www.nasa.gov/image-detail/expedition-73-soyuz-landing-4/)
-- [Sprites Over Château de Beynac](https://www.nasa.gov/image-detail/nasa-december-2025-3456x2234/)
-- [XRISM Finds Chlorine, Potassium in Cas A](https://www.nasa.gov/image-detail/casa-lg/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Just get out and do it. You will be very, very glad that you did.
+> Stop being a prisoner of your past. Become the architect of your future.
 >
-> <p>Christopher McCandless</p>
+> <p>Robin Sharma</p>
