@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Bassac River, Southern Vietnam](https://www.nasa.gov/image-detail/gmt275_ehdc2/)
-- [The Calabash clash](https://www.nasa.gov/image-detail/the-calabash-clash-2/)
-- [Stellar Jet](https://www.nasa.gov/image-detail/stellar-jet-in-sh2-284/)
-- [NASA Astronaut Jonny Kim Returns to Earth](https://www.nasa.gov/image-detail/expedition-73-soyuz-landing-4/)
-- [Sprites Over Château de Beynac](https://www.nasa.gov/image-detail/nasa-december-2025-3456x2234/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Intelligence, imagination, and knowledge are essential resources, but only effectiveness converts them into results.
+> Your goals are the road maps that guide you and show you what is possible for your life.
 >
-> <p>Peter Drucker</p>
+> <p>Les Brown</p>
