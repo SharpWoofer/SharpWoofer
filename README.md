@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Peekaboo!](https://www.nasa.gov/image-detail/iss073e0814504/)
-- [Bassac River, Southern Vietnam](https://www.nasa.gov/image-detail/gmt275_ehdc2/)
-- [The Calabash clash](https://www.nasa.gov/image-detail/the-calabash-clash-2/)
-- [Stellar Jet](https://www.nasa.gov/image-detail/stellar-jet-in-sh2-284/)
-- [NASA Astronaut Jonny Kim Returns to Earth](https://www.nasa.gov/image-detail/expedition-73-soyuz-landing-4/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Each problem has a positive side.
+> A man with outward courage dares to die: a man with inner courage dares to live.
 >
-> <p>Og Mandino</p>
+> <p>Lao Tzu</p>
