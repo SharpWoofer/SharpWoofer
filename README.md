@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Massive Stars Make Their Mark in Hubble Image](https://www.nasa.gov/image-detail/hubble-markarian178-potw2549a/)
-- [Peekaboo!](https://www.nasa.gov/image-detail/iss073e0814504/)
-- [Bassac River, Southern Vietnam](https://www.nasa.gov/image-detail/gmt275_ehdc2/)
-- [The Calabash clash](https://www.nasa.gov/image-detail/the-calabash-clash-2/)
-- [Stellar Jet](https://www.nasa.gov/image-detail/stellar-jet-in-sh2-284/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Any fool can turn a blind eye but who knows what the ostrich sees in the sand.
+> Science can flourish only in an atmosphere of free speech. 
 >
-> <p>Samuel Beckett</p>
+> <p>Albert Einstein</p>
