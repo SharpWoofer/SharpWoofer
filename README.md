@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Massive Stars Make Their Mark in Hubble Image](https://www.nasa.gov/image-detail/hubble-markarian178-potw2549a/)
-- [Peekaboo!](https://www.nasa.gov/image-detail/iss073e0814504/)
-- [Bassac River, Southern Vietnam](https://www.nasa.gov/image-detail/gmt275_ehdc2/)
-- [The Calabash clash](https://www.nasa.gov/image-detail/the-calabash-clash-2/)
-- [Stellar Jet](https://www.nasa.gov/image-detail/stellar-jet-in-sh2-284/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Walk towards the sunshine, and the shadows will fall behind you.
+> You are a function of what the whole universe is doing in the same way that a wave is a function of what the whole ocean is doing.
 >
-> <p>Mary Engelbreit</p>
+> <p>Alan Watts</p>
