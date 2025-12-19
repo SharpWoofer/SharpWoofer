@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA Lab Completes Engine Checks on New Aircraft](https://www.nasa.gov/image-detail/nasa-builds-replacement-subscale-research-aircraft/)
-- [Massive Stars Make Their Mark in Hubble Image](https://www.nasa.gov/image-detail/hubble-markarian178-potw2549a/)
-- [Peekaboo!](https://www.nasa.gov/image-detail/iss073e0814504/)
-- [Bassac River, Southern Vietnam](https://www.nasa.gov/image-detail/gmt275_ehdc2/)
-- [The Calabash clash](https://www.nasa.gov/image-detail/the-calabash-clash-2/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Dreams do come true, if we only wish hard enough, You can have anything in life if you will sacrifice everything else for it.
+> Excuses are the lies you convince yourself are true to avoid proving you are worthy of the gift you were given.
 >
-> <p>James Matthew Barrie</p>
+> <p>Steve Harvey</p>
