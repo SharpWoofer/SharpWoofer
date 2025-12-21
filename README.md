@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> It's always to soon to quit!
+> There is no self-discovery without pain and loss.
 >
-> <p>Norman Vincent Peale</p>
+> <p>Anita Krizzan</p>
