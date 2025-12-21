@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Water Droplet Science](https://www.nasa.gov/image-detail/science-of-opportunity-stacked-water-dropslarge/)
-- [NASA Lab Completes Engine Checks on New Aircraft](https://www.nasa.gov/image-detail/nasa-builds-replacement-subscale-research-aircraft/)
-- [Massive Stars Make Their Mark in Hubble Image](https://www.nasa.gov/image-detail/hubble-markarian178-potw2549a/)
-- [Peekaboo!](https://www.nasa.gov/image-detail/iss073e0814504/)
-- [Bassac River, Southern Vietnam](https://www.nasa.gov/image-detail/gmt275_ehdc2/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Give more than you think you can, trusting that you are richer than you think.
+> Be of good cheer about death, and know this of a truth, that no evil can happen to a good man, either in life or after death.
 >
-> <p>Jon Kabat-Zinn</p>
+> <p>Socrates</p>
