@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [A Dance of Galaxies](https://www.nasa.gov/image-detail/54960149350-2d46fe0a36-o/)
-- [Water Droplet Science](https://www.nasa.gov/image-detail/science-of-opportunity-stacked-water-dropslarge/)
-- [NASA Lab Completes Engine Checks on New Aircraft](https://www.nasa.gov/image-detail/nasa-builds-replacement-subscale-research-aircraft/)
-- [Massive Stars Make Their Mark in Hubble Image](https://www.nasa.gov/image-detail/hubble-markarian178-potw2549a/)
-- [Peekaboo!](https://www.nasa.gov/image-detail/iss073e0814504/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Whatever you decide to do, make sure it makes you happy.
+> What the caterpillar calls the end of the world, the master calls a butterfly.
 >
-> <p>Paulo Coelho</p>
+> <p>Richard Bach</p>
