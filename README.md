@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Santa Visits Artemis II Rocket](https://www.nasa.gov/image-detail/55000951847-ba3b2bf8e6-o/)
-- [Artemis II Crew Launch Day Rehearsal](https://www.nasa.gov/image-detail/artemis-ii-countdown-demonstration-test-2/)
-- [A Dance of Galaxies](https://www.nasa.gov/image-detail/54960149350-2d46fe0a36-o/)
-- [Water Droplet Science](https://www.nasa.gov/image-detail/science-of-opportunity-stacked-water-dropslarge/)
-- [NASA Lab Completes Engine Checks on New Aircraft](https://www.nasa.gov/image-detail/nasa-builds-replacement-subscale-research-aircraft/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Winning isn't everything, but wanting to win is.
+> Your purpose will be clear only when you listen to your heart.
 >
-> <p>Vince Lombardi</p>
+> <p>Lolly Daskal</p>
