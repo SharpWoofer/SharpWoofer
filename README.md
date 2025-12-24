@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Artemis II Crew Launch Day Rehearsal](https://www.nasa.gov/image-detail/artemis-ii-countdown-demonstration-test-2/)
-- [A Dance of Galaxies](https://www.nasa.gov/image-detail/54960149350-2d46fe0a36-o/)
-- [Water Droplet Science](https://www.nasa.gov/image-detail/science-of-opportunity-stacked-water-dropslarge/)
-- [NASA Lab Completes Engine Checks on New Aircraft](https://www.nasa.gov/image-detail/nasa-builds-replacement-subscale-research-aircraft/)
-- [Massive Stars Make Their Mark in Hubble Image](https://www.nasa.gov/image-detail/hubble-markarian178-potw2549a/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> What's obvious to you isn't obvious to most people. Operate from this perspective and you'll help more people.
+> Have a heart that never hardens, and a temper that never tires, and a touch that never hurts.
 >
-> <p>Jack Butcher</p>
+> <p>Charles Dickens</p>
