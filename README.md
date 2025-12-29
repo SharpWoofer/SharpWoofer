@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Great things happen to those who don't stop believing, trying, learning, and being grateful.
+> Your gift is something that you can do innately better than anything else.
 >
-> <p>Roy T. Bennett</p>
+> <p>Steve Harvey</p>
