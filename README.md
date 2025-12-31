@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Curiosity Sends Holiday Postcard from Mars](https://www.nasa.gov/image-detail/pia26680orig/)
-- [A Galactic Embrace](https://www.nasa.gov/image-detail/54957843876-a1382275cd-o/)
-- [Studying Physics in Microgravity](https://www.nasa.gov/image-detail/gmt294_13_13_for-poic_zena-cardman_fluid-particles/)
-- [Santa Visits Artemis II Rocket](https://www.nasa.gov/image-detail/55000951847-ba3b2bf8e6-o/)
-- [Artemis II Crew Launch Day Rehearsal](https://www.nasa.gov/image-detail/artemis-ii-countdown-demonstration-test-2/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Go confidently in the direction of your dreams! Live the life you've imagined.
+> The smallest of actions is always better than the noblest of intentions.
 >
-> <p>Henry David Thoreau</p>
+> <p>Robin Sharma</p>
