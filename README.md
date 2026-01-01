@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Curiosity Sends Holiday Postcard from Mars](https://www.nasa.gov/image-detail/pia26680orig/)
-- [A Galactic Embrace](https://www.nasa.gov/image-detail/54957843876-a1382275cd-o/)
-- [Studying Physics in Microgravity](https://www.nasa.gov/image-detail/gmt294_13_13_for-poic_zena-cardman_fluid-particles/)
-- [Santa Visits Artemis II Rocket](https://www.nasa.gov/image-detail/55000951847-ba3b2bf8e6-o/)
-- [Artemis II Crew Launch Day Rehearsal](https://www.nasa.gov/image-detail/artemis-ii-countdown-demonstration-test-2/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Focus is a matter of deciding what things you're not going to do.
+> The mind can calculate, but the spirit yearns, and the heart wants what the heart wants.
 >
-> <p>John Carmack</p>
+> <p>Stephen King</p>
