@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Hubble Glimpses Galactic Gas Making a Getaway](https://www.nasa.gov/image-detail/hubble-ngc4388-potw2550a/)
-- [Curiosity Sends Holiday Postcard from Mars](https://www.nasa.gov/image-detail/pia26680orig/)
-- [A Galactic Embrace](https://www.nasa.gov/image-detail/54957843876-a1382275cd-o/)
-- [Studying Physics in Microgravity](https://www.nasa.gov/image-detail/gmt294_13_13_for-poic_zena-cardman_fluid-particles/)
-- [Santa Visits Artemis II Rocket](https://www.nasa.gov/image-detail/55000951847-ba3b2bf8e6-o/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> If you could kick the person in the pants responsible for most of your trouble, you wouldn't sit for a month.
+> We can spend our whole lives escaping from the monsters of our minds.
 >
-> <p>Theodore Roosevelt</p>
+> <p>Pema Chodron</p>
