@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Scientific Balloon Begins Antarctic Ascent](https://www.nasa.gov/image-detail/55001873790-ca56450153-o/)
-- [Hubble Glimpses Galactic Gas Making a Getaway](https://www.nasa.gov/image-detail/hubble-ngc4388-potw2550a/)
-- [Curiosity Sends Holiday Postcard from Mars](https://www.nasa.gov/image-detail/pia26680orig/)
-- [A Galactic Embrace](https://www.nasa.gov/image-detail/54957843876-a1382275cd-o/)
-- [Studying Physics in Microgravity](https://www.nasa.gov/image-detail/gmt294_13_13_for-poic_zena-cardman_fluid-particles/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> As soon as you trust yourself, you will know how to live.
+> The road to success is always under construction..
 >
-> <p>Johann Wolfgang von Goethe</p>
+> <p>Lily Tomlin</p>
