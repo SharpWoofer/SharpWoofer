@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [First Sky Map from NASA’s SPHEREx Observatory](https://www.nasa.gov/image-detail/e1a-spherex-all-sky-stars-and-gas-dust-2/)
-- [Scientific Balloon Begins Antarctic Ascent](https://www.nasa.gov/image-detail/55001873790-ca56450153-o/)
-- [Hubble Glimpses Galactic Gas Making a Getaway](https://www.nasa.gov/image-detail/hubble-ngc4388-potw2550a/)
-- [Curiosity Sends Holiday Postcard from Mars](https://www.nasa.gov/image-detail/pia26680orig/)
-- [A Galactic Embrace](https://www.nasa.gov/image-detail/54957843876-a1382275cd-o/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> A simple rule in dealing with those who are hard to get along with is to remember that this person is striving to assert his superiority; and you must deal with him from that point of view.
+> We have to live life with a sense of urgency so not a minute is wasted.
 >
-> <p>Alfred Adler</p>
+> <p>Les Brown</p>
