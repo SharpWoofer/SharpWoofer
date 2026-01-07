@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Lightning from Above](https://www.nasa.gov/image-detail/earth-observation-2/)
-- [First Sky Map from NASA’s SPHEREx Observatory](https://www.nasa.gov/image-detail/e1a-spherex-all-sky-stars-and-gas-dust-2/)
-- [Scientific Balloon Begins Antarctic Ascent](https://www.nasa.gov/image-detail/55001873790-ca56450153-o/)
-- [Hubble Glimpses Galactic Gas Making a Getaway](https://www.nasa.gov/image-detail/hubble-ngc4388-potw2550a/)
-- [Curiosity Sends Holiday Postcard from Mars](https://www.nasa.gov/image-detail/pia26680orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a lifetime.
+> I know of only one duty, and that is to love.
 >
-> <p>Lao Tzu</p>
+> <p>George Bernard Shaw</p>
