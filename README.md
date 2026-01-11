@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Best of 2025: Artemis II SLS &lpar;Space Launch System&rpar; Projected on Washington Monument](https://www.nasa.gov/image-detail/washington-monument-lighting-and-new-years-eve-show-2/)
-- [Best of 2025: Artemis II Countdown Demonstration Test](https://www.nasa.gov/image-detail/artemis-ii-countdown-demonstration-test-6/)
-- [Lightning from Above](https://www.nasa.gov/image-detail/earth-observation-2/)
-- [First Sky Map from NASA’s SPHEREx Observatory](https://www.nasa.gov/image-detail/e1a-spherex-all-sky-stars-and-gas-dust-2/)
-- [Scientific Balloon Begins Antarctic Ascent](https://www.nasa.gov/image-detail/55001873790-ca56450153-o/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> If you read a lot of books, you're considered well-read. But if you watch a lot of TV, you're not considered well-viewed.
+> Everything around us is made up of energy. To attract positive things in your life, start by giving off positive energy.
 >
-> <p>Lily Tomlin</p>
+> <p>Celestine Chua</p>
