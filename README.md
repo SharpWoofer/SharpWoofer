@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Best of 2025: Artemis II SLS &lpar;Space Launch System&rpar; Projected on Washington Monument](https://www.nasa.gov/image-detail/washington-monument-lighting-and-new-years-eve-show-2/)
-- [Best of 2025: Artemis II Countdown Demonstration Test](https://www.nasa.gov/image-detail/artemis-ii-countdown-demonstration-test-6/)
-- [Lightning from Above](https://www.nasa.gov/image-detail/earth-observation-2/)
-- [First Sky Map from NASA’s SPHEREx Observatory](https://www.nasa.gov/image-detail/e1a-spherex-all-sky-stars-and-gas-dust-2/)
-- [Scientific Balloon Begins Antarctic Ascent](https://www.nasa.gov/image-detail/55001873790-ca56450153-o/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Always dream and shoot higher than you know you can do. Do not bother just to be better than your contemporaries or predecessors. Try to be better than yourself.
+> I do not exist to impress the world. I exist to live my life in a way that will make me happy.
 >
-> <p>William Faulkner</p>
+> <p>Richard Bach</p>
