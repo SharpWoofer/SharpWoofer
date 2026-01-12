@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [White Dwarf Star &lpar;Artist’s Concept&rpar;](https://www.nasa.gov/image-detail/mit-polarized-dwarf-01-press-0-2/)
-- [Best of 2025: Artemis II SLS &lpar;Space Launch System&rpar; Projected on Washington Monument](https://www.nasa.gov/image-detail/washington-monument-lighting-and-new-years-eve-show-2/)
-- [Best of 2025: Artemis II Countdown Demonstration Test](https://www.nasa.gov/image-detail/artemis-ii-countdown-demonstration-test-6/)
-- [Lightning from Above](https://www.nasa.gov/image-detail/earth-observation-2/)
-- [First Sky Map from NASA’s SPHEREx Observatory](https://www.nasa.gov/image-detail/e1a-spherex-all-sky-stars-and-gas-dust-2/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Letting go means to come to the realization that some people are a part of your history, but not a part of your destiny.
+> As you think, so shall you become. 
 >
-> <p>Steve Maraboli</p>
+> <p>Bruce Lee</p>
