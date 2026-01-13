@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The first rule of handling conflict is don't hang around people who are constantly engaging in conflict.
+> Procrastination is one of the most common and deadliest of diseases and its toll on success and happiness is heavy.
 >
-> <p>Naval Ravikant</p>
+> <p>Wayne Gretzky</p>
