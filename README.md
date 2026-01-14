@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA’s Pandora Small Satellite Launched](https://www.nasa.gov/image-detail/afs-8-101-1228/)
-- [White Dwarf Star &lpar;Artist’s Concept&rpar;](https://www.nasa.gov/image-detail/mit-polarized-dwarf-01-press-0-2/)
-- [Best of 2025: Artemis II SLS &lpar;Space Launch System&rpar; Projected on Washington Monument](https://www.nasa.gov/image-detail/washington-monument-lighting-and-new-years-eve-show-2/)
-- [Best of 2025: Artemis II Countdown Demonstration Test](https://www.nasa.gov/image-detail/artemis-ii-countdown-demonstration-test-6/)
-- [Lightning from Above](https://www.nasa.gov/image-detail/earth-observation-2/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Life is like a wheel. Sooner or later, it always comes around to where you started again.
+> Instead of worrying about what you cannot control, shift your energy to what you can create.
 >
-> <p>Stephen King</p>
+> <p>Roy T. Bennett</p>
