@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [New York–Newark–Jersey City Metropolitan Area](https://www.nasa.gov/image-detail/iss074e0003055/)
-- [NASA’s Pandora Small Satellite Launched](https://www.nasa.gov/image-detail/afs-8-101-1228/)
-- [White Dwarf Star &lpar;Artist’s Concept&rpar;](https://www.nasa.gov/image-detail/mit-polarized-dwarf-01-press-0-2/)
-- [Best of 2025: Artemis II SLS &lpar;Space Launch System&rpar; Projected on Washington Monument](https://www.nasa.gov/image-detail/washington-monument-lighting-and-new-years-eve-show-2/)
-- [Best of 2025: Artemis II Countdown Demonstration Test](https://www.nasa.gov/image-detail/artemis-ii-countdown-demonstration-test-6/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> There are no contests in the Art of Peace. A true warrior is invincible because he or she contests with nothing.
+> Everything you can imagine is real.
 >
-> <p>Morihei Ueshiba</p>
+> <p>Pablo Picasso</p>
