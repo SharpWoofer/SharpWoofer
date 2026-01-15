@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Hubble Spies Stellar Blast Setting Clouds Ablaze](https://www.nasa.gov/image-detail/hubble-hh80-new-4filters-v7-finalcrop/)
-- [New York–Newark–Jersey City Metropolitan Area](https://www.nasa.gov/image-detail/iss074e0003055/)
-- [NASA’s Pandora Small Satellite Launched](https://www.nasa.gov/image-detail/afs-8-101-1228/)
-- [White Dwarf Star &lpar;Artist’s Concept&rpar;](https://www.nasa.gov/image-detail/mit-polarized-dwarf-01-press-0-2/)
-- [Best of 2025: Artemis II SLS &lpar;Space Launch System&rpar; Projected on Washington Monument](https://www.nasa.gov/image-detail/washington-monument-lighting-and-new-years-eve-show-2/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Information changes your mind. Action changes your circumstances.
+> Be not afraid of growing slowly, be afraid only of standing still. 
 >
-> <p>Jack Butcher</p>
+> <p>Chinese Proverb</p>
