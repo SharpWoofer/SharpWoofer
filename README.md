@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Those who can make you believe absurdities can make you commit atrocities. 
+> You can calculate the worth of a man by the number of his enemies.
 >
-> <p>Voltaire</p>
+> <p>Gustave Flaubert</p>
