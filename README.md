@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA’s Crawler Preps for Artemis II Rollout](https://www.nasa.gov/image-detail/afs-8-101-1235/)
-- [Hubble Spies Stellar Blast Setting Clouds Ablaze](https://www.nasa.gov/image-detail/hubble-hh80-new-4filters-v7-finalcrop/)
-- [New York–Newark–Jersey City Metropolitan Area](https://www.nasa.gov/image-detail/iss074e0003055/)
-- [NASA’s Pandora Small Satellite Launched](https://www.nasa.gov/image-detail/afs-8-101-1228/)
-- [White Dwarf Star &lpar;Artist’s Concept&rpar;](https://www.nasa.gov/image-detail/mit-polarized-dwarf-01-press-0-2/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> You can calculate the worth of a man by the number of his enemies.
+> If I have seen further than others, it is by standing upon the shoulders of giants.
 >
-> <p>Gustave Flaubert</p>
+> <p>Isaac Newton</p>
