@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The spirit is beyond destruction. No one can bring an end to spirit which is everlasting.
+> Knowledge is a treasure, but practice is the key to it.
 >
-> <p>Bhagavad Gita</p>
+> <p>Lao Tzu</p>
