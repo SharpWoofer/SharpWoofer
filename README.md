@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA’s Artemis II Rocket and Spacecraft Make Their Way to Launch Pad](https://www.nasa.gov/image-detail/sls-ksc-artemis-ii-rollout-1172026-33orig/)
-- [Hubble Nets Menagerie of Young Stellar Objects](https://www.nasa.gov/image-detail/hubble-ngc-1333-j521025-3117-2flat-cont-final/)
-- [NASA’s Crawler Preps for Artemis II Rollout](https://www.nasa.gov/image-detail/afs-8-101-1235/)
-- [Hubble Spies Stellar Blast Setting Clouds Ablaze](https://www.nasa.gov/image-detail/hubble-hh80-new-4filters-v7-finalcrop/)
-- [New York–Newark–Jersey City Metropolitan Area](https://www.nasa.gov/image-detail/iss074e0003055/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Everyone faces challenges in life. It's a matter of how you learn to overcome them and using them to your advantage.
+> To be prepared is half the victory. 
 >
-> <p>Celestine Chua</p>
+> <p>Miguel de Cervantes</p>
