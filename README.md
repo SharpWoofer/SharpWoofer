@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Red, Green Light Show](https://www.nasa.gov/image-detail/iss074e0150285/)
-- [NASA&#39;s Day of Remembrance 2026](https://www.nasa.gov/image-detail/day-of-remembrance-20/)
-- [NASA’s Artemis II Rocket and Spacecraft Make Their Way to Launch Pad](https://www.nasa.gov/image-detail/sls-ksc-artemis-ii-rollout-1172026-33orig/)
-- [Hubble Nets Menagerie of Young Stellar Objects](https://www.nasa.gov/image-detail/hubble-ngc-1333-j521025-3117-2flat-cont-final/)
-- [NASA’s Crawler Preps for Artemis II Rollout](https://www.nasa.gov/image-detail/afs-8-101-1235/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> To the world you may be one person; but to one person you may be the world.
+> Someone who points out your flaws to you is not necessarily your enemy. Someone who speaks of your virtues is not necessarily your friend.
 >
-> <p>Dr. Seuss</p>
+> <p>Zen Proverb</p>
