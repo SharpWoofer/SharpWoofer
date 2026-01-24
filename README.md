@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Red, Green Light Show](https://www.nasa.gov/image-detail/iss074e0150285/)
-- [NASA&#39;s Day of Remembrance 2026](https://www.nasa.gov/image-detail/day-of-remembrance-20/)
-- [NASA’s Artemis II Rocket and Spacecraft Make Their Way to Launch Pad](https://www.nasa.gov/image-detail/sls-ksc-artemis-ii-rollout-1172026-33orig/)
-- [Hubble Nets Menagerie of Young Stellar Objects](https://www.nasa.gov/image-detail/hubble-ngc-1333-j521025-3117-2flat-cont-final/)
-- [NASA’s Crawler Preps for Artemis II Rollout](https://www.nasa.gov/image-detail/afs-8-101-1235/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Living life in style also means living a life of balance.
+> Have a heart that never hardens, and a temper that never tires, and a touch that never hurts.
 >
-> <p>Jim Rohn</p>
+> <p>Charles Dickens</p>
