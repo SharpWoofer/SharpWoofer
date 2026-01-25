@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The most important single ingredient in the formula of success is knowing how to get along with people.
+> Always turn a negative situation into a positive situation.
 >
-> <p>Theodore Roosevelt</p>
+> <p>Michael Jordan</p>
