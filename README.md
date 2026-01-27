@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> It is in changing that we find purpose.
+> Keep others in suspense, cultivate an air of unpredictability.
 >
-> <p>Heraclitus</p>
+> <p>Robert Greene</p>
