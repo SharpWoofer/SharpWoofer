@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA’s James Webb Space Telescope Finds Crystal-Spewing Protostar](https://www.nasa.gov/image-detail/stsci-01keswn3g28kzcqpz2ghhdkac3-e1f0ce/)
-- [Hubble Observes Ghostly Cloud Alive with Star Formation](https://www.nasa.gov/image-detail/hubble-lupus3-48-tt-new-cont-final/)
-- [Red, Green Light Show](https://www.nasa.gov/image-detail/iss074e0150285/)
-- [NASA&#39;s Day of Remembrance 2026](https://www.nasa.gov/image-detail/day-of-remembrance-20/)
-- [NASA’s Artemis II Rocket and Spacecraft Make Their Way to Launch Pad](https://www.nasa.gov/image-detail/sls-ksc-artemis-ii-rollout-1172026-33orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> You can discover what your enemy fears most by observing the means he uses to frighten you.
+> Some of the greater things in life are unseen; that's why you close your eyes when you kiss, cry, or dream.
 >
-> <p>Eric Hoffer</p>
+> <p>Unknown</p>
