@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Hubble Observes Ghostly Cloud Alive with Star Formation](https://www.nasa.gov/image-detail/hubble-lupus3-48-tt-new-cont-final/)
-- [Red, Green Light Show](https://www.nasa.gov/image-detail/iss074e0150285/)
-- [NASA&#39;s Day of Remembrance 2026](https://www.nasa.gov/image-detail/day-of-remembrance-20/)
-- [NASA’s Artemis II Rocket and Spacecraft Make Their Way to Launch Pad](https://www.nasa.gov/image-detail/sls-ksc-artemis-ii-rollout-1172026-33orig/)
-- [Hubble Nets Menagerie of Young Stellar Objects](https://www.nasa.gov/image-detail/hubble-ngc-1333-j521025-3117-2flat-cont-final/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Either you choose to stay in the shallow end of the pool or you go out into the ocean.
+> Absurdity is the ecstasy of intellectualism.
 >
-> <p>Christopher Reeve</p>
+> <p>Criss Jami</p>
