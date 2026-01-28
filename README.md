@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA’s James Webb Space Telescope Finds Crystal-Spewing Protostar](https://www.nasa.gov/image-detail/stsci-01keswn3g28kzcqpz2ghhdkac3-e1f0ce/)
-- [Hubble Observes Ghostly Cloud Alive with Star Formation](https://www.nasa.gov/image-detail/hubble-lupus3-48-tt-new-cont-final/)
-- [Red, Green Light Show](https://www.nasa.gov/image-detail/iss074e0150285/)
-- [NASA&#39;s Day of Remembrance 2026](https://www.nasa.gov/image-detail/day-of-remembrance-20/)
-- [NASA’s Artemis II Rocket and Spacecraft Make Their Way to Launch Pad](https://www.nasa.gov/image-detail/sls-ksc-artemis-ii-rollout-1172026-33orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Everything around us is made up of energy. To attract positive things in your life, start by giving off positive energy.
+> Your business is not to 'get somewhere' - it is to be here.
 >
-> <p>Celestine Chua</p>
+> <p>Dan Millman</p>
