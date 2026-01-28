@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Chandra, Webb Catch Twinkling Lights](https://www.nasa.gov/image-detail/55001995170-87ea2dfa0b-otw/)
-- [NASA’s James Webb Space Telescope Finds Crystal-Spewing Protostar](https://www.nasa.gov/image-detail/stsci-01keswn3g28kzcqpz2ghhdkac3-e1f0ce/)
-- [Hubble Observes Ghostly Cloud Alive with Star Formation](https://www.nasa.gov/image-detail/hubble-lupus3-48-tt-new-cont-final/)
-- [Red, Green Light Show](https://www.nasa.gov/image-detail/iss074e0150285/)
-- [NASA&#39;s Day of Remembrance 2026](https://www.nasa.gov/image-detail/day-of-remembrance-20/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Everything you look at can become a fairy tale and you can get a story from everything you touch.
+> Be confident, not certain.
 >
-> <p>Hans Christian Andersen</p>
+> <p>Eleanor Roosevelt</p>
