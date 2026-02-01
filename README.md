@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Goldstone’s DSS-15 Antenna and the Milky Way](https://www.nasa.gov/image-detail/pia26718orig/)
-- [Webb Zooms into Helix Nebula](https://www.nasa.gov/image-detail/stsci-01kcmamz8zsmrtr9kkd8y6emrj/)
-- [Chandra, Webb Catch Twinkling Lights](https://www.nasa.gov/image-detail/55001995170-87ea2dfa0b-otw/)
-- [NASA’s James Webb Space Telescope Finds Crystal-Spewing Protostar](https://www.nasa.gov/image-detail/stsci-01keswn3g28kzcqpz2ghhdkac3-e1f0ce/)
-- [Hubble Observes Ghostly Cloud Alive with Star Formation](https://www.nasa.gov/image-detail/hubble-lupus3-48-tt-new-cont-final/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Fashion fades, only style remains the same.
+> True knowledge exists in knowing that you know nothing.
 >
-> <p>Coco Chanel</p>
+> <p>Socrates</p>
