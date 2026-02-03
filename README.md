@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s Orion Spacecraft at Launch Pad](https://www.nasa.gov/image-detail/ksc-01172026-artemis-ii-rollout-20orig/)
-- [Goldstone’s DSS-15 Antenna and the Milky Way](https://www.nasa.gov/image-detail/pia26718orig/)
-- [Webb Zooms into Helix Nebula](https://www.nasa.gov/image-detail/stsci-01kcmamz8zsmrtr9kkd8y6emrj/)
-- [Chandra, Webb Catch Twinkling Lights](https://www.nasa.gov/image-detail/55001995170-87ea2dfa0b-otw/)
-- [NASA’s James Webb Space Telescope Finds Crystal-Spewing Protostar](https://www.nasa.gov/image-detail/stsci-01keswn3g28kzcqpz2ghhdkac3-e1f0ce/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The question isn't who is going to let me; it's who is going to stop me.
+> The sweetest pleasure arises from difficulties overcome.
 >
-> <p>Ayn Rand</p>
+> <p>Publilius Syrus</p>
