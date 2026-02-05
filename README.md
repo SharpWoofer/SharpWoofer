@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Hubble Spots Lens-Shaped Galaxy](https://www.nasa.gov/image-detail/hubble-ngc7722-potm2601b/)
-- [NASA Heat Shield Tech Contributes to America’s Space Industry](https://www.nasa.gov/image-detail/heatshield-w5-2/)
-- [Full Moon over Artemis II](https://www.nasa.gov/image-detail/artemis-ii-at-the-pad-full-snow-moon-02012026-2orig/)
-- [NASA&#39;s Orion Spacecraft at Launch Pad](https://www.nasa.gov/image-detail/ksc-01172026-artemis-ii-rollout-20orig/)
-- [Goldstone’s DSS-15 Antenna and the Milky Way](https://www.nasa.gov/image-detail/pia26718orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> It is hard to fail, but it is worse never to have tried to succeed.
+> Circumstances rule men; men do not rule circumstances. 
 >
-> <p>Theodore Roosevelt</p>
+> <p>Herodotus</p>
