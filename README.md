@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Strong Solar Flare](https://www.nasa.gov/image-detail/sdo-02-04-26-1216ut-x4-131-171-v3/)
-- [Hubble Spots Lens-Shaped Galaxy](https://www.nasa.gov/image-detail/hubble-ngc7722-potm2601b/)
-- [NASA Heat Shield Tech Contributes to America’s Space Industry](https://www.nasa.gov/image-detail/heatshield-w5-2/)
-- [Full Moon over Artemis II](https://www.nasa.gov/image-detail/artemis-ii-at-the-pad-full-snow-moon-02012026-2orig/)
-- [NASA&#39;s Orion Spacecraft at Launch Pad](https://www.nasa.gov/image-detail/ksc-01172026-artemis-ii-rollout-20orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The greatest of all mistakes is to do nothing because you think you can only do a little.  
+> The price of inaction is far greater than the cost of making a mistake.
 >
-> <p>Zig Ziglar</p>
+> <p>Meister Eckhart</p>
