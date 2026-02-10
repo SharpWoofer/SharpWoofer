@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [CubeSats’ Missions Begin](https://www.nasa.gov/image-detail/iss074e0301064/)
-- [Icy Hudson River](https://www.nasa.gov/image-detail/nycicy-oli-20260128-lrg/)
-- [Strong Solar Flare](https://www.nasa.gov/image-detail/sdo-02-04-26-1216ut-x4-131-171-v3/)
-- [Hubble Spots Lens-Shaped Galaxy](https://www.nasa.gov/image-detail/hubble-ngc7722-potm2601b/)
-- [NASA Heat Shield Tech Contributes to America’s Space Industry](https://www.nasa.gov/image-detail/heatshield-w5-2/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The future belongs to those who learn more skills and combine them in creative ways.
+> The only limits in your life are those that you set yourself.
 >
-> <p>Robert Greene</p>
+> <p>Celestine Chua</p>
