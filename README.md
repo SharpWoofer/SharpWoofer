@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Crew-12 Members and Insignia](https://www.nasa.gov/image-detail/afs-8-101-1244/)
-- [CubeSats’ Missions Begin](https://www.nasa.gov/image-detail/iss074e0301064/)
-- [Icy Hudson River](https://www.nasa.gov/image-detail/nycicy-oli-20260128-lrg/)
-- [Strong Solar Flare](https://www.nasa.gov/image-detail/sdo-02-04-26-1216ut-x4-131-171-v3/)
-- [Hubble Spots Lens-Shaped Galaxy](https://www.nasa.gov/image-detail/hubble-ngc7722-potm2601b/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Don't wait for the right opportunity: create it.
+> Don't be afraid to give up the good to go for the great.
 >
-> <p>George Bernard Shaw</p>
+> <p>John D. Rockefeller</p>
