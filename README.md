@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Shimmering Light in Egg Nebula](https://www.nasa.gov/image-detail/full-res-for-display-1/)
-- [Crew-12 Members and Insignia](https://www.nasa.gov/image-detail/afs-8-101-1244/)
-- [CubeSats’ Missions Begin](https://www.nasa.gov/image-detail/iss074e0301064/)
-- [Icy Hudson River](https://www.nasa.gov/image-detail/nycicy-oli-20260128-lrg/)
-- [Strong Solar Flare](https://www.nasa.gov/image-detail/sdo-02-04-26-1216ut-x4-131-171-v3/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Life is a challenge, meet it! Life is a dream, realize it! Life is a game, play it! Life is love, enjoy it!
+> Everybody needs a passion. That's what keeps life interesting.
 >
-> <p>Sathya Sai Baba</p>
+> <p>Betty White</p>
