@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Shimmering Light in Egg Nebula](https://www.nasa.gov/image-detail/full-res-for-display-1/)
-- [Crew-12 Members and Insignia](https://www.nasa.gov/image-detail/afs-8-101-1244/)
-- [CubeSats’ Missions Begin](https://www.nasa.gov/image-detail/iss074e0301064/)
-- [Icy Hudson River](https://www.nasa.gov/image-detail/nycicy-oli-20260128-lrg/)
-- [Strong Solar Flare](https://www.nasa.gov/image-detail/sdo-02-04-26-1216ut-x4-131-171-v3/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> If he cannot stop the mind that seeks after fame and profit, he will spend his life without finding peace.
+> Excellence is not an exception, it is a prevailing attitude.
 >
-> <p>Dogen</p>
+> <p>Colin Powell</p>
