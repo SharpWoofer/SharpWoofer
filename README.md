@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Don't want anything. Then you get everything.
+> We may not be responsible for the world that created our minds, but we can take responsibility for the mind with which we create our world.
 >
-> <p>Seungsahn</p>
+> <p>Gabor Mate</p>
