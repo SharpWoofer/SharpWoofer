@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Stormy, Snowy Winter for Hokkaido](https://www.nasa.gov/image-detail/japansnow-tmo-20260205-lrg/)
-- [NASA’s SpaceX Crew-12 Launch](https://www.nasa.gov/image-detail/nasas-spacex-crew-12-launch-2/)
-- [Shimmering Light in Egg Nebula](https://www.nasa.gov/image-detail/full-res-for-display-1/)
-- [Crew-12 Members and Insignia](https://www.nasa.gov/image-detail/afs-8-101-1244/)
-- [CubeSats’ Missions Begin](https://www.nasa.gov/image-detail/iss074e0301064/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Big people don't make people feel small.
+> If you only knew the magnificence of the 3, 6, and 9, then you would have a key to the universe.
 >
-> <p>Robin Sharma</p>
+> <p>Nikola Tesla</p>
