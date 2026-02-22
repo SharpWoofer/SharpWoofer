@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Artemis II Crew Trains on T-38](https://www.nasa.gov/image-detail/jsc2026e007422/)
-- [Crystals Grown in Space](https://www.nasa.gov/image-detail/jsc2024e038397-2/)
-- [Fishing Boats and City Lights](https://www.nasa.gov/image-detail/gmt364_12_12_zena-cardman_southeast-asia-fishing-fleets/)
-- [Stormy, Snowy Winter for Hokkaido](https://www.nasa.gov/image-detail/japansnow-tmo-20260205-lrg/)
-- [NASA’s SpaceX Crew-12 Launch](https://www.nasa.gov/image-detail/nasas-spacex-crew-12-launch-2/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Perseverance and spirit have done wonders in all ages. 
+> The road to success is always under construction..
 >
-> <p>George Washington</p>
+> <p>Lily Tomlin</p>
