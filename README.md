@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Artemis II Crew Trains on T-38](https://www.nasa.gov/image-detail/jsc2026e007422/)
-- [Crystals Grown in Space](https://www.nasa.gov/image-detail/jsc2024e038397-2/)
-- [Fishing Boats and City Lights](https://www.nasa.gov/image-detail/gmt364_12_12_zena-cardman_southeast-asia-fishing-fleets/)
-- [Stormy, Snowy Winter for Hokkaido](https://www.nasa.gov/image-detail/japansnow-tmo-20260205-lrg/)
-- [NASA’s SpaceX Crew-12 Launch](https://www.nasa.gov/image-detail/nasas-spacex-crew-12-launch-2/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The present moment dies every moment to become the past , is reborn every moment into the future. All experience is now. Now never ends.
+> My instinct is always to seek out challenges as opposed to avoiding them.
 >
-> <p>Deepak Chopra</p>
+> <p>Josh Waitzkin</p>
