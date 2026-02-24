@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Perseverance’s Landing](https://www.nasa.gov/image-detail/54335896349-3df0fb63b6-o/)
-- [Artemis II Crew Trains on T-38](https://www.nasa.gov/image-detail/jsc2026e007422/)
-- [Crystals Grown in Space](https://www.nasa.gov/image-detail/jsc2024e038397-2/)
-- [Fishing Boats and City Lights](https://www.nasa.gov/image-detail/gmt364_12_12_zena-cardman_southeast-asia-fishing-fleets/)
-- [Stormy, Snowy Winter for Hokkaido](https://www.nasa.gov/image-detail/japansnow-tmo-20260205-lrg/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Never argue with ignorance. It only leads to frustration.
+> Dreams do come true, if we only wish hard enough, You can have anything in life if you will sacrifice everything else for it.
 >
-> <p>Unknown</p>
+> <p>James Matthew Barrie</p>
