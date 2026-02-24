@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Perseverance’s Landing](https://www.nasa.gov/image-detail/54335896349-3df0fb63b6-o/)
-- [Artemis II Crew Trains on T-38](https://www.nasa.gov/image-detail/jsc2026e007422/)
-- [Crystals Grown in Space](https://www.nasa.gov/image-detail/jsc2024e038397-2/)
-- [Fishing Boats and City Lights](https://www.nasa.gov/image-detail/gmt364_12_12_zena-cardman_southeast-asia-fishing-fleets/)
-- [Stormy, Snowy Winter for Hokkaido](https://www.nasa.gov/image-detail/japansnow-tmo-20260205-lrg/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Fortunate are those who take the first steps.
+> To share your weakness is to make yourself vulnerable; to make yourself vulnerable is to show your strength.
 >
-> <p>Paulo Coelho</p>
+> <p>Criss Jami</p>
