@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Webb Maps Uranus’ Upper Atmosphere](https://www.nasa.gov/image-detail/uranus-january-2025/)
-- [Perseverance’s Landing](https://www.nasa.gov/image-detail/54335896349-3df0fb63b6-o/)
-- [Artemis II Crew Trains on T-38](https://www.nasa.gov/image-detail/jsc2026e007422/)
-- [Crystals Grown in Space](https://www.nasa.gov/image-detail/jsc2024e038397-2/)
-- [Fishing Boats and City Lights](https://www.nasa.gov/image-detail/gmt364_12_12_zena-cardman_southeast-asia-fishing-fleets/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> He is not a lover who does not love forever.
+> Time is a game played beautifully by children.
 >
-> <p>Euripides</p>
+> <p>Heraclitus</p>
