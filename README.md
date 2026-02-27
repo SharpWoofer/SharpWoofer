@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Inside Project Hail Mary](https://www.nasa.gov/image-detail/06-dg01304/)
-- [Making an Entrance](https://www.nasa.gov/image-detail/gmt046_00_04_chris-williams_dragon-arrival-and-emer-lite-config/)
-- [Webb Maps Uranus’ Upper Atmosphere](https://www.nasa.gov/image-detail/uranus-january-2025/)
-- [Perseverance’s Landing](https://www.nasa.gov/image-detail/54335896349-3df0fb63b6-o/)
-- [Artemis II Crew Trains on T-38](https://www.nasa.gov/image-detail/jsc2026e007422/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> It matters not who you love, where you love, why you love, when you love or how you love, it matters only that you love.
+> Great loves too must be endured.
 >
-> <p>John Lennon</p>
+> <p>Coco Chanel</p>
