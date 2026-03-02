@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Harnessing the Sun to Extract Oxygen on the Moon](https://www.nasa.gov/image-detail/carbothermal-reduction-demonstration-card-project-testing-2/)
-- [Inside Project Hail Mary](https://www.nasa.gov/image-detail/06-dg01304/)
-- [Making an Entrance](https://www.nasa.gov/image-detail/gmt046_00_04_chris-williams_dragon-arrival-and-emer-lite-config/)
-- [Webb Maps Uranus’ Upper Atmosphere](https://www.nasa.gov/image-detail/uranus-january-2025/)
-- [Perseverance’s Landing](https://www.nasa.gov/image-detail/54335896349-3df0fb63b6-o/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Life is not just the passing of time. Life is the collection of experiences and their intensity.
+> Leave the beaten track behind occasionally and dive into the woods. Every time you do you will be certain to find something you have never seen before.
 >
-> <p>Jim Rohn</p>
+> <p>Alexander Graham Bell</p>
