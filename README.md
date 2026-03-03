@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Sunglint on Atlantic Ocean](https://www.nasa.gov/image-detail/gmt064_ehdc1-2/)
-- [Harnessing the Sun to Extract Oxygen on the Moon](https://www.nasa.gov/image-detail/carbothermal-reduction-demonstration-card-project-testing-2/)
-- [Inside Project Hail Mary](https://www.nasa.gov/image-detail/06-dg01304/)
-- [Making an Entrance](https://www.nasa.gov/image-detail/gmt046_00_04_chris-williams_dragon-arrival-and-emer-lite-config/)
-- [Webb Maps Uranus’ Upper Atmosphere](https://www.nasa.gov/image-detail/uranus-january-2025/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Associate yourself with men of good quality, if you esteem your own reputation; for 'tis better to be alone than in bad company. 
+> No one can confidently say that he will still be living tomorrow.
 >
-> <p>George Washington</p>
+> <p>Euripides</p>
