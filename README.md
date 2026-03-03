@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Sunglint on Atlantic Ocean](https://www.nasa.gov/image-detail/gmt064_ehdc1-2/)
-- [Harnessing the Sun to Extract Oxygen on the Moon](https://www.nasa.gov/image-detail/carbothermal-reduction-demonstration-card-project-testing-2/)
-- [Inside Project Hail Mary](https://www.nasa.gov/image-detail/06-dg01304/)
-- [Making an Entrance](https://www.nasa.gov/image-detail/gmt046_00_04_chris-williams_dragon-arrival-and-emer-lite-config/)
-- [Webb Maps Uranus’ Upper Atmosphere](https://www.nasa.gov/image-detail/uranus-january-2025/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The single biggest problem in communication is the illusion that it has taken place.
+> Death is not an ending. It is a transformation.
 >
-> <p>George Bernard Shaw</p>
+> <p>Ming-Dao Deng</p>
