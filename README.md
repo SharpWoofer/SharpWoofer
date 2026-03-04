@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Artemis II Recovery Training](https://www.nasa.gov/image-detail/amf-ksc-20260127-ph_kaa01-0070/)
-- [Sunglint on Atlantic Ocean](https://www.nasa.gov/image-detail/gmt064_ehdc1-2/)
-- [Harnessing the Sun to Extract Oxygen on the Moon](https://www.nasa.gov/image-detail/carbothermal-reduction-demonstration-card-project-testing-2/)
-- [Inside Project Hail Mary](https://www.nasa.gov/image-detail/06-dg01304/)
-- [Making an Entrance](https://www.nasa.gov/image-detail/gmt046_00_04_chris-williams_dragon-arrival-and-emer-lite-config/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Never take your position for granted and never let any favors you receive go to your head.
+> Winners are not afraid of losing. But losers are. Failure is part of the process of success. People who avoid failure also avoid success.
 >
-> <p>Robert Greene</p>
+> <p>Robert Kiyosaki</p>
