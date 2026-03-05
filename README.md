@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Blowing Stellar Bubbles](https://www.nasa.gov/image-detail/astrosphere-xray-infrared-2/)
-- [Artemis II Recovery Training](https://www.nasa.gov/image-detail/amf-ksc-20260127-ph_kaa01-0070/)
-- [Sunglint on Atlantic Ocean](https://www.nasa.gov/image-detail/gmt064_ehdc1-2/)
-- [Harnessing the Sun to Extract Oxygen on the Moon](https://www.nasa.gov/image-detail/carbothermal-reduction-demonstration-card-project-testing-2/)
-- [Inside Project Hail Mary](https://www.nasa.gov/image-detail/06-dg01304/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> A man with outward courage dares to die: a man with inner courage dares to live.
+> Continuous effort - not strength or intelligence - is the key to unlocking our potential.
 >
-> <p>Lao Tzu</p>
+> <p>Winston Churchill</p>
