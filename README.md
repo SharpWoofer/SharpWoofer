@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Total Lunar Eclipse](https://www.nasa.gov/image-detail/total-lunar-eclipse-2026-new-orleans/)
-- [Blowing Stellar Bubbles](https://www.nasa.gov/image-detail/astrosphere-xray-infrared-2/)
-- [Artemis II Recovery Training](https://www.nasa.gov/image-detail/amf-ksc-20260127-ph_kaa01-0070/)
-- [Sunglint on Atlantic Ocean](https://www.nasa.gov/image-detail/gmt064_ehdc1-2/)
-- [Harnessing the Sun to Extract Oxygen on the Moon](https://www.nasa.gov/image-detail/carbothermal-reduction-demonstration-card-project-testing-2/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Every adversity, every failure, every heartbreak, carries with it the seed of an equal or greater benefit.
+> Think how really precious is the time you have to spend, whether it's at work or with your family. Every minute should be enjoyed and savored.
 >
-> <p>Napoleon Hill</p>
+> <p>Earl Nightingale</p>
