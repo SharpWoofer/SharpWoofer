@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Total Lunar Eclipse](https://www.nasa.gov/image-detail/total-lunar-eclipse-2026-new-orleans/)
-- [Blowing Stellar Bubbles](https://www.nasa.gov/image-detail/astrosphere-xray-infrared-2/)
-- [Artemis II Recovery Training](https://www.nasa.gov/image-detail/amf-ksc-20260127-ph_kaa01-0070/)
-- [Sunglint on Atlantic Ocean](https://www.nasa.gov/image-detail/gmt064_ehdc1-2/)
-- [Harnessing the Sun to Extract Oxygen on the Moon](https://www.nasa.gov/image-detail/carbothermal-reduction-demonstration-card-project-testing-2/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Whatever you think the world is withholding from you, you are withholding from the world.
+> True life is lived when tiny changes occur.
 >
-> <p>Eckhart Tolle</p>
+> <p>Leo Tolstoy</p>
