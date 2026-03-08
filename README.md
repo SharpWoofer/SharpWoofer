@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Weekends on the Space Station](https://www.nasa.gov/image-detail/iss074e0335606/)
-- [Total Lunar Eclipse](https://www.nasa.gov/image-detail/total-lunar-eclipse-2026-new-orleans/)
-- [Blowing Stellar Bubbles](https://www.nasa.gov/image-detail/astrosphere-xray-infrared-2/)
-- [Artemis II Recovery Training](https://www.nasa.gov/image-detail/amf-ksc-20260127-ph_kaa01-0070/)
-- [Sunglint on Atlantic Ocean](https://www.nasa.gov/image-detail/gmt064_ehdc1-2/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Mistakes are painful when they happen, but years later a collection of mistakes is what is called experience.
+> Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.
 >
-> <p>Denis Waitley</p>
+> <p>Helen Keller</p>
