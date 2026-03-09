@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Weekends on the Space Station](https://www.nasa.gov/image-detail/iss074e0335606/)
-- [Total Lunar Eclipse](https://www.nasa.gov/image-detail/total-lunar-eclipse-2026-new-orleans/)
-- [Blowing Stellar Bubbles](https://www.nasa.gov/image-detail/astrosphere-xray-infrared-2/)
-- [Artemis II Recovery Training](https://www.nasa.gov/image-detail/amf-ksc-20260127-ph_kaa01-0070/)
-- [Sunglint on Atlantic Ocean](https://www.nasa.gov/image-detail/gmt064_ehdc1-2/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> A person without a sense of humor is like a wagon without springs, jolted by every pebble in the road.
+> Nothing has any power over me other than that which I give it through my conscious thoughts.
 >
-> <p>Henry Ward Beecher</p>
+> <p>Tony Robbins</p>
