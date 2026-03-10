@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Webb Studies Cranium Nebula](https://www.nasa.gov/image-detail/55119277748-0ef8ca558f-o/)
-- [Weekends on the Space Station](https://www.nasa.gov/image-detail/iss074e0335606/)
-- [Total Lunar Eclipse](https://www.nasa.gov/image-detail/total-lunar-eclipse-2026-new-orleans/)
-- [Blowing Stellar Bubbles](https://www.nasa.gov/image-detail/astrosphere-xray-infrared-2/)
-- [Artemis II Recovery Training](https://www.nasa.gov/image-detail/amf-ksc-20260127-ph_kaa01-0070/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Only when one allows themself the right to die, do they then give yourself the permission to live.
+> A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty.
 >
-> <p>C. Sean McGee</p>
+> <p>Winston Churchill</p>
