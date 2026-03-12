@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Webb Spots Details in Nearby Spiral Galaxy](https://www.nasa.gov/image-detail/the-stellar-lifecycle-in-a-nearby-spiral/)
-- [Telescopes Team Up for New View of Cat&#39;s Eye Nebula](https://www.nasa.gov/image-detail/hubble-euclid-catseye-2026-pubtiff-4k-potm2602c/)
-- [Celebrating NASA&#39;s Mars Reconnaissance Orbiter&#39;s 20th Anniversary: Crater Near Sirenum Fossae](https://www.nasa.gov/image-detail/pia11777orig/)
-- [Webb Studies Cranium Nebula](https://www.nasa.gov/image-detail/55119277748-0ef8ca558f-o/)
-- [Weekends on the Space Station](https://www.nasa.gov/image-detail/iss074e0335606/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Life must be a constant education; one must learn everything, from speaking to dying.
+> Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day.
 >
-> <p>Gustave Flaubert</p>
+> <p>Paulo Coelho</p>
