@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Telescopes Team Up for New View of Cat&#39;s Eye Nebula](https://www.nasa.gov/image-detail/hubble-euclid-catseye-2026-pubtiff-4k-potm2602c/)
-- [Celebrating NASA&#39;s Mars Reconnaissance Orbiter&#39;s 20th Anniversary: Crater Near Sirenum Fossae](https://www.nasa.gov/image-detail/pia11777orig/)
-- [Webb Studies Cranium Nebula](https://www.nasa.gov/image-detail/55119277748-0ef8ca558f-o/)
-- [Weekends on the Space Station](https://www.nasa.gov/image-detail/iss074e0335606/)
-- [Total Lunar Eclipse](https://www.nasa.gov/image-detail/total-lunar-eclipse-2026-new-orleans/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> You don't earn loyalty in a day. You earn loyalty day-by-day.
+> Fools talk, cowards are silent, wise men listen.
 >
-> <p>Jeffrey Gitomer</p>
+> <p>Carlos Ruiz Zafon</p>
