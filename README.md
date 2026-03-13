@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Where violence reigns, reason is weak.
+> Some changes look negative on the surface but you will soon realize that space is being created in your life for something new to emerge.
 >
-> <p>Nicolas Chamfort</p>
+> <p>Eckhart Tolle</p>
