@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Celebrating 100 Years Since Goddard’s Breakthrough Moment in Modern Rocketry](https://www.nasa.gov/image-detail/goddardphotop9-1/)
-- [Good Morning, Moon](https://www.nasa.gov/image-detail/nasa-2026-science-calendar-march/)
-- [Webb Spots Details in Nearby Spiral Galaxy](https://www.nasa.gov/image-detail/the-stellar-lifecycle-in-a-nearby-spiral/)
-- [Telescopes Team Up for New View of Cat&#39;s Eye Nebula](https://www.nasa.gov/image-detail/hubble-euclid-catseye-2026-pubtiff-4k-potm2602c/)
-- [Celebrating NASA&#39;s Mars Reconnaissance Orbiter&#39;s 20th Anniversary: Crater Near Sirenum Fossae](https://www.nasa.gov/image-detail/pia11777orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> There are only encounters in history. There are no accidents.
+> We must learn to live together as brothers or perish together as fools.
 >
-> <p>Pablo Picasso</p>
+> <p>Martin Luther King, Jr.</p>
