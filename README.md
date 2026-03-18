@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Solving Asteroid Bennu&#39;s Mysteries](https://www.nasa.gov/image-detail/osiris-rex-top-bottom/)
-- [Celebrating 100 Years Since Goddard’s Breakthrough Moment in Modern Rocketry](https://www.nasa.gov/image-detail/goddardphotop9-1/)
-- [Good Morning, Moon](https://www.nasa.gov/image-detail/nasa-2026-science-calendar-march/)
-- [Webb Spots Details in Nearby Spiral Galaxy](https://www.nasa.gov/image-detail/the-stellar-lifecycle-in-a-nearby-spiral/)
-- [Telescopes Team Up for New View of Cat&#39;s Eye Nebula](https://www.nasa.gov/image-detail/hubble-euclid-catseye-2026-pubtiff-4k-potm2602c/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Values are like fingerprints. Nobody's are the same, but you leave 'em all over everything you do.
+> If we have no peace, it is because we have forgotten that we belong to each other.
 >
-> <p>Elvis Presley</p>
+> <p>Mother Teresa</p>
