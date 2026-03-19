@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [American Bald Eagle at NASA&#39;s Kennedy Space Center](https://www.nasa.gov/image-detail/afs-8-101-1245/)
-- [Lava Flows Down Mayon](https://www.nasa.gov/image-detail/mayonvolcano-oli-20260226-lrg/)
-- [Solving Asteroid Bennu&#39;s Mysteries](https://www.nasa.gov/image-detail/osiris-rex-top-bottom/)
-- [Celebrating 100 Years Since Goddard’s Breakthrough Moment in Modern Rocketry](https://www.nasa.gov/image-detail/goddardphotop9-1/)
-- [Good Morning, Moon](https://www.nasa.gov/image-detail/nasa-2026-science-calendar-march/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> If you want to be successful, find someone who has achieved the results you want and copy what they do and you'll achieve the same results.
+> Every experience is a lesson. Every loss is a gain.
 >
-> <p>Tony Robbins</p>
+> <p>Sathya Sai Baba</p>
