@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Lava Flows Down Mayon](https://www.nasa.gov/image-detail/mayonvolcano-oli-20260226-lrg/)
-- [Solving Asteroid Bennu&#39;s Mysteries](https://www.nasa.gov/image-detail/osiris-rex-top-bottom/)
-- [Celebrating 100 Years Since Goddard’s Breakthrough Moment in Modern Rocketry](https://www.nasa.gov/image-detail/goddardphotop9-1/)
-- [Good Morning, Moon](https://www.nasa.gov/image-detail/nasa-2026-science-calendar-march/)
-- [Webb Spots Details in Nearby Spiral Galaxy](https://www.nasa.gov/image-detail/the-stellar-lifecycle-in-a-nearby-spiral/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> If you have to be in a soap opera try not to be cast in the worst role.
+> A single act of kindness throws out roots in all directions, and the roots spring up and make new trees.
 >
-> <p>Judy Garland</p>
+> <p>Amelia Earhart</p>
