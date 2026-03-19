@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Lava Flows Down Mayon](https://www.nasa.gov/image-detail/mayonvolcano-oli-20260226-lrg/)
-- [Solving Asteroid Bennu&#39;s Mysteries](https://www.nasa.gov/image-detail/osiris-rex-top-bottom/)
-- [Celebrating 100 Years Since Goddard’s Breakthrough Moment in Modern Rocketry](https://www.nasa.gov/image-detail/goddardphotop9-1/)
-- [Good Morning, Moon](https://www.nasa.gov/image-detail/nasa-2026-science-calendar-march/)
-- [Webb Spots Details in Nearby Spiral Galaxy](https://www.nasa.gov/image-detail/the-stellar-lifecycle-in-a-nearby-spiral/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Until you make the unconscious conscious, it will direct your life and you will call it fate.
+> When we think about our strengths, we are strong. When we think about our weaknesses, we are weak.
 >
-> <p>Carl Jung</p>
+> <p>Peter A. Cohen</p>
