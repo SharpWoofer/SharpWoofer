@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Smiles and Spacesuits](https://www.nasa.gov/image-detail/iss074e0009033/)
-- [American Bald Eagle at NASA&#39;s Kennedy Space Center](https://www.nasa.gov/image-detail/afs-8-101-1245/)
-- [Lava Flows Down Mayon](https://www.nasa.gov/image-detail/mayonvolcano-oli-20260226-lrg/)
-- [Solving Asteroid Bennu&#39;s Mysteries](https://www.nasa.gov/image-detail/osiris-rex-top-bottom/)
-- [Celebrating 100 Years Since Goddard’s Breakthrough Moment in Modern Rocketry](https://www.nasa.gov/image-detail/goddardphotop9-1/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> It takes a minute to have a crush on someone, an hour to like someone, and a day to love someone... but it takes a lifetime to forget someone.
+> The more you take responsibility for your past and present, the more you are able to create the future you seek.
 >
-> <p>Kahlil Gibran</p>
+> <p>Celestine Chua</p>
