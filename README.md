@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s Hubble, Webb Telescopes Survey Pinwheel Galaxy](https://www.nasa.gov/image-detail/55150964901-45196b40b6-o/)
-- [Smiles and Spacesuits](https://www.nasa.gov/image-detail/iss074e0009033/)
-- [American Bald Eagle at NASA&#39;s Kennedy Space Center](https://www.nasa.gov/image-detail/afs-8-101-1245/)
-- [Lava Flows Down Mayon](https://www.nasa.gov/image-detail/mayonvolcano-oli-20260226-lrg/)
-- [Solving Asteroid Bennu&#39;s Mysteries](https://www.nasa.gov/image-detail/osiris-rex-top-bottom/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Your time is limited, so don't waste it living someone elses. life. Don't be trapped by dogma - which is living with the results of other people's thinking.
+> You live by what you thrill to, and there's the end of it.
 >
-> <p>Steve Jobs</p>
+> <p>D. H. Lawrence</p>
