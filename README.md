@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Reminders of Where We&#39;ve Been, Where We&#39;re Going](https://www.nasa.gov/image-detail/nasa-update-on-implementation-of-national-space-policy/)
-- [NASA&#39;s Hubble, Webb Telescopes Survey Pinwheel Galaxy](https://www.nasa.gov/image-detail/55150964901-45196b40b6-o/)
-- [Smiles and Spacesuits](https://www.nasa.gov/image-detail/iss074e0009033/)
-- [American Bald Eagle at NASA&#39;s Kennedy Space Center](https://www.nasa.gov/image-detail/afs-8-101-1245/)
-- [Lava Flows Down Mayon](https://www.nasa.gov/image-detail/mayonvolcano-oli-20260226-lrg/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Go confidently in the direction of your dreams! Live the life you've imagined.
+> It does not do to dwell on dreams and forget to live, remember that.
 >
-> <p>Henry David Thoreau</p>
+> <p>Albus Dumbledore</p>
