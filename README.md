@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Reminders of Where We&#39;ve Been, Where We&#39;re Going](https://www.nasa.gov/image-detail/nasa-update-on-implementation-of-national-space-policy/)
-- [NASA&#39;s Hubble, Webb Telescopes Survey Pinwheel Galaxy](https://www.nasa.gov/image-detail/55150964901-45196b40b6-o/)
-- [Smiles and Spacesuits](https://www.nasa.gov/image-detail/iss074e0009033/)
-- [American Bald Eagle at NASA&#39;s Kennedy Space Center](https://www.nasa.gov/image-detail/afs-8-101-1245/)
-- [Lava Flows Down Mayon](https://www.nasa.gov/image-detail/mayonvolcano-oli-20260226-lrg/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Every strike brings me closer to the next home run. 
+> Let each man exercise the art he knows.
 >
-> <p>Babe Ruth</p>
+> <p>Aristophanes</p>
