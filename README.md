@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Webb Captures Saturn in Infrared](https://www.nasa.gov/image-detail/full-res-for-display-2-2/)
-- [Reminders of Where We&#39;ve Been, Where We&#39;re Going](https://www.nasa.gov/image-detail/nasa-update-on-implementation-of-national-space-policy/)
-- [NASA&#39;s Hubble, Webb Telescopes Survey Pinwheel Galaxy](https://www.nasa.gov/image-detail/55150964901-45196b40b6-o/)
-- [Smiles and Spacesuits](https://www.nasa.gov/image-detail/iss074e0009033/)
-- [American Bald Eagle at NASA&#39;s Kennedy Space Center](https://www.nasa.gov/image-detail/afs-8-101-1245/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Happiness is only real when shared.
+> Mind is the creator of everything. You should therefore guide it to create only good.
 >
-> <p>Christopher McCandless</p>
+> <p>Paramahansa Yogananda</p>
