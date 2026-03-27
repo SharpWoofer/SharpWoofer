@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s IXPE Gets Fresh Look at Supernova](https://www.nasa.gov/image-detail/rcw86-xray-ixpe-optical-f2bd3a/)
-- [Webb Captures Saturn in Infrared](https://www.nasa.gov/image-detail/full-res-for-display-2-2/)
-- [Reminders of Where We&#39;ve Been, Where We&#39;re Going](https://www.nasa.gov/image-detail/nasa-update-on-implementation-of-national-space-policy/)
-- [NASA&#39;s Hubble, Webb Telescopes Survey Pinwheel Galaxy](https://www.nasa.gov/image-detail/55150964901-45196b40b6-o/)
-- [Smiles and Spacesuits](https://www.nasa.gov/image-detail/iss074e0009033/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Nothing is hopeless; we must hope for everything.
+> Failure means you've now learned another valuable lesson that pushes you one step closer to success.
 >
-> <p>Euripides</p>
+> <p>Steve Harvey</p>
