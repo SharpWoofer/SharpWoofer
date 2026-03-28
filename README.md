@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Artemis II Crew’s Suits](https://www.nasa.gov/image-detail/artemis-ii-preflight-5/)
-- [NASA&#39;s IXPE Gets Fresh Look at Supernova](https://www.nasa.gov/image-detail/rcw86-xray-ixpe-optical-f2bd3a/)
-- [Webb Captures Saturn in Infrared](https://www.nasa.gov/image-detail/full-res-for-display-2-2/)
-- [Reminders of Where We&#39;ve Been, Where We&#39;re Going](https://www.nasa.gov/image-detail/nasa-update-on-implementation-of-national-space-policy/)
-- [NASA&#39;s Hubble, Webb Telescopes Survey Pinwheel Galaxy](https://www.nasa.gov/image-detail/55150964901-45196b40b6-o/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> If you pick up a starving dog and make him prosperous he will not bite you. This is the principal difference between a dog and man.
+> It ain't where you start in life, it's where you end up, and what you did along the way.
 >
-> <p>Mark Twain</p>
+> <p>Colin Powell</p>
