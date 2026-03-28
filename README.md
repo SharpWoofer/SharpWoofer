@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Artemis II Crew’s Suits](https://www.nasa.gov/image-detail/artemis-ii-preflight-5/)
-- [NASA&#39;s IXPE Gets Fresh Look at Supernova](https://www.nasa.gov/image-detail/rcw86-xray-ixpe-optical-f2bd3a/)
-- [Webb Captures Saturn in Infrared](https://www.nasa.gov/image-detail/full-res-for-display-2-2/)
-- [Reminders of Where We&#39;ve Been, Where We&#39;re Going](https://www.nasa.gov/image-detail/nasa-update-on-implementation-of-national-space-policy/)
-- [NASA&#39;s Hubble, Webb Telescopes Survey Pinwheel Galaxy](https://www.nasa.gov/image-detail/55150964901-45196b40b6-o/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Never give up on a dream just because of the time it will take to accomplish it. The time will pass anyway.
+> Ancient Rule of Twenty-one: if you do anything for twenty-one days in a row, it will be installed as a habit.
 >
-> <p>Earl Nightingale</p>
+> <p>Robin Sharma</p>
