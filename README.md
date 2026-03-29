@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Love is the expression of one's values.
+> Just do what must be done. This may not be happiness but it is greatness.
 >
-> <p>Ayn Rand</p>
+> <p>George Bernard Shaw</p>
