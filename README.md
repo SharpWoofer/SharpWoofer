@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Just living is not enough... one must have sunshine, freedom, and a little flower. 
+> Many a man has failed because he had his wishbone where his backbone should have been.
 >
-> <p>Hans Christian Andersen</p>
+> <p>Ronald Reagan</p>
