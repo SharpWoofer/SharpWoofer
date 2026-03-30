@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Work harder on yourself than you do on your job.
+> It is those who concentrate on but one thing at a time who advance in this world.
 >
-> <p>Jim Rohn</p>
+> <p>Gary Keller</p>
