@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Dreams are the touchstones of our characters.
+> Anyone who dreams of an uncommon life eventually discovers there is no choice but to seek an uncommon approach to living it.
 >
-> <p>Henry David Thoreau</p>
+> <p>Gary Keller</p>
