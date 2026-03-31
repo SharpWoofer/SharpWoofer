@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Sendoff for Artemis II Crew](https://www.nasa.gov/image-detail/jsc2026e017251/)
-- [Artemis II Crew’s Suits](https://www.nasa.gov/image-detail/artemis-ii-preflight-5/)
-- [NASA&#39;s IXPE Gets Fresh Look at Supernova](https://www.nasa.gov/image-detail/rcw86-xray-ixpe-optical-f2bd3a/)
-- [Webb Captures Saturn in Infrared](https://www.nasa.gov/image-detail/full-res-for-display-2-2/)
-- [Reminders of Where We&#39;ve Been, Where We&#39;re Going](https://www.nasa.gov/image-detail/nasa-update-on-implementation-of-national-space-policy/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Be truthful about your emotions, and use your mind and emotions in your favor, not against yourself.
+> Everything you look at can become a fairy tale and you can get a story from everything you touch.
 >
-> <p>Robert Kiyosaki</p>
+> <p>Hans Christian Andersen</p>
