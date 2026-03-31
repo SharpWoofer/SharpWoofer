@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The biggest challenge after success is shutting up about it.
+> I can never decide whether my dreams are the result of my thoughts or my thoughts the result of my dreams.
 >
-> <p>Criss Jami</p>
+> <p>D. H. Lawrence</p>
