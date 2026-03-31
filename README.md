@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> By the practice of meditation, you will find that you are carrying within your heart a portable paradise.
+> You do not read a book for the book's sake, but for your own.
 >
-> <p>Paramahansa Yogananda</p>
+> <p>Earl Nightingale</p>
