@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Be a good animal, true to your instincts.
+> Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it.
 >
-> <p>D. H. Lawrence</p>
+> <p>Celestine Chua</p>
