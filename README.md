@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> If you do the work you get rewarded. There are no shortcuts in life.
+> Turn your wounds into wisdom. 
 >
-> <p>Michael Jordan</p>
+> <p>Oprah Winfrey</p>
