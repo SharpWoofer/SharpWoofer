@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> There are no limitations to the mind except those we acknowledge...
+> Remember, today is the tomorrow you worried about yesterday.
 >
-> <p>Napoleon Hill</p>
+> <p>Dale Carnegie</p>
