@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Listen to what you know instead of what you fear.
+> With the new day comes new strength and new thoughts.
 >
-> <p>Richard Bach</p>
+> <p>Eleanor Roosevelt</p>
