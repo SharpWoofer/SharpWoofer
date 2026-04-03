@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> To injure an opponent is to injure yourself. To control aggression without inflicting injury is the Art of Peace.
+> Some people find fault like there is a reward for it.  
 >
-> <p>Morihei Ueshiba</p>
+> <p>Zig Ziglar</p>
