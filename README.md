@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Numbing the pain for a while will make it worse when you finally feel it.
+> If you can't fly, run. If you can't run, walk. If you can't walk, crawl, but by all means, keep moving.
 >
-> <p>Albus Dumbledore</p>
+> <p>Martin Luther King, Jr.</p>
