@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Hello, World](https://www.nasa.gov/image-detail/fd02_for-pao/)
-- [Artemis II Astronauts Launch to Moon](https://www.nasa.gov/image-detail/artemis-ii-launch-17/)
-- [Godspeed, Artemis II!](https://www.nasa.gov/image-detail/her1pqpbeaazfzl/)
-- [Sendoff for Artemis II Crew](https://www.nasa.gov/image-detail/jsc2026e017251/)
-- [Artemis II Crew’s Suits](https://www.nasa.gov/image-detail/artemis-ii-preflight-5/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Do not look for a sanctuary in anyone except your self.
+> Words are clothes that thoughts wear
 >
-> <p>Buddha</p>
+> <p>Samuel Butler</p>
