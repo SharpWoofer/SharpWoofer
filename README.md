@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Some people find fault like there is a reward for it.  
+> Every great change is preceded by chaos.
 >
-> <p>Zig Ziglar</p>
+> <p>Deepak Chopra</p>
