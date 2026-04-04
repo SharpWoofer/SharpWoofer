@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> If everyone is moving forward together, then success takes care of itself.
+> Life goes by fast. Enjoy it. Calm down. It's all funny.
 >
-> <p>Henry Ford</p>
+> <p>Joan Rivers</p>
