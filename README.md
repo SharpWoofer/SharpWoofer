@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> When it is dark enough, you can see the stars.
+> Do not look for a sanctuary in anyone except your self.
 >
-> <p>Ralph Waldo Emerson</p>
+> <p>Buddha</p>
