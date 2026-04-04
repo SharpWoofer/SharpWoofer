@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Decide what your truth is. Then live it.
+> You never know when a moment and a few sincere words can have an impact on a life.  
 >
-> <p>Kamal Ravikant</p>
+> <p>Zig Ziglar</p>
