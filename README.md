@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Hello, World](https://www.nasa.gov/image-detail/fd02_for-pao/)
-- [Artemis II Astronauts Launch to Moon](https://www.nasa.gov/image-detail/artemis-ii-launch-17/)
-- [Godspeed, Artemis II!](https://www.nasa.gov/image-detail/her1pqpbeaazfzl/)
-- [Sendoff for Artemis II Crew](https://www.nasa.gov/image-detail/jsc2026e017251/)
-- [Artemis II Crew’s Suits](https://www.nasa.gov/image-detail/artemis-ii-preflight-5/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Every great change is preceded by chaos.
+> The only way to make sense out of change is to plunge into it, move with it, and join the dance.
 >
-> <p>Deepak Chopra</p>
+> <p>Alan Watts</p>
