@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> To live fully is to be always in no-man's-land, to experience each moment as completely new and fresh.
+> Whatever you think the world is withholding from you, you are withholding from the world.
 >
-> <p>Pema Chodron</p>
+> <p>Eckhart Tolle</p>
