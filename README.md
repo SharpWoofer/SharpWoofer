@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> You may delay, but time will not.
+> The only man who never makes mistakes is the man who never does anything.
 >
-> <p>Benjamin Franklin</p>
+> <p>Theodore Roosevelt</p>
