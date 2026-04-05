@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Good entrepreneurs don't fail because they stay at it.
+> Confidence comes from crossing thresholds.
 >
-> <p>Naval Ravikant</p>
+> <p>Kamal Ravikant</p>
