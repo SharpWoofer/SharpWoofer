@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> He who knows, does not speak. He who speaks, does not know.
+> The mind can calculate, but the spirit yearns, and the heart wants what the heart wants.
 >
-> <p>Lao Tzu</p>
+> <p>Stephen King</p>
