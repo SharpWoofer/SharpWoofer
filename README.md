@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Illuminated in Orion](https://www.nasa.gov/image-detail/fd03_for-pao/)
-- [Hello, World](https://www.nasa.gov/image-detail/fd02_for-pao/)
-- [Artemis II Astronauts Launch to Moon](https://www.nasa.gov/image-detail/artemis-ii-launch-17/)
-- [Godspeed, Artemis II!](https://www.nasa.gov/image-detail/her1pqpbeaazfzl/)
-- [Sendoff for Artemis II Crew](https://www.nasa.gov/image-detail/jsc2026e017251/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Never was anything great achieved without danger.
+> Your time is limited, so don't waste it living someone elses. life. Don't be trapped by dogma - which is living with the results of other people's thinking.
 >
-> <p>Niccolo Machiavelli</p>
+> <p>Steve Jobs</p>
