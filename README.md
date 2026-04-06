@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Thinking of You, Earth](https://www.nasa.gov/image-detail/art002e008486/)
-- [Illuminated in Orion](https://www.nasa.gov/image-detail/fd03_for-pao/)
-- [Hello, World](https://www.nasa.gov/image-detail/fd02_for-pao/)
-- [Artemis II Astronauts Launch to Moon](https://www.nasa.gov/image-detail/artemis-ii-launch-17/)
-- [Godspeed, Artemis II!](https://www.nasa.gov/image-detail/her1pqpbeaazfzl/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The question isn't who is going to let me; it's who is going to stop me.
+> Better the cottage where one is merry than the palace where one weeps.
 >
-> <p>Ayn Rand</p>
+> <p>Chinese Proverb</p>
