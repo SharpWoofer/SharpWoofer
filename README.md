@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> It all depends on what you choose to believe.
+> The search for happiness is one of the chief sources of unhappiness.
 >
-> <p>Spencer Johnson</p>
+> <p>Eric Hoffer</p>
