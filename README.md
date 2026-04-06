@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Do it with passion, or not at all.
+> To travel is to be alive, but to get somewhere is to be dead.
 >
-> <p>Rosa Nouchette Carey</p>
+> <p>Alan Watts</p>
