@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> We're kept from our goal not by obstacles, but by a clear path to a lesser goal.
+> Why change? Everyone has his own style. When you have found it, you should stick to it.
 >
-> <p>Bhagavad Gita</p>
+> <p>Audrey Hepburn</p>
