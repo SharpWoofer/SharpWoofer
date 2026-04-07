@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Earthset](https://www.nasa.gov/image-detail/art002e009288-2/)
-- [The Near Side of the Moon](https://www.nasa.gov/image-detail/art002e009057/)
-- [Thinking of You, Earth](https://www.nasa.gov/image-detail/art002e008486/)
-- [Illuminated in Orion](https://www.nasa.gov/image-detail/fd03_for-pao/)
-- [Hello, World](https://www.nasa.gov/image-detail/fd02_for-pao/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Use your smile to change the world but don't let the world change your smile.
+> People inspire you, or they drain you. Pick them wisely.
 >
-> <p>Unknown</p>
+> <p>Les Brown</p>
