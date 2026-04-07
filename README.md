@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The real measure of your wealth is how much you'd be worth if you lost all your money.
+> Make peace within, and there will be no one who can overcome you. And no one you will wish to overcome.
 >
-> <p>Unknown</p>
+> <p>Dan Millman</p>
