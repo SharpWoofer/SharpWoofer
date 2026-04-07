@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Loyalty and friendship are the most precious possessions a man can have.
+> Be kind, for everyone you meet is fighting a harder battle.
 >
-> <p>Herbert Hoover</p>
+> <p>Plato</p>
