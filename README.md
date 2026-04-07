@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Catch, then, O catch the transient hour; Improve each moment as it flies! 
+> To live is the rarest thing in the world. Most people exist, that is all. 
 >
-> <p>St. Jerome</p>
+> <p>Oscar Wilde</p>
