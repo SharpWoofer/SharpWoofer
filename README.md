@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Earthset](https://www.nasa.gov/image-detail/art002e009288-2/)
-- [The Near Side of the Moon](https://www.nasa.gov/image-detail/art002e009057/)
-- [Thinking of You, Earth](https://www.nasa.gov/image-detail/art002e008486/)
-- [Illuminated in Orion](https://www.nasa.gov/image-detail/fd03_for-pao/)
-- [Hello, World](https://www.nasa.gov/image-detail/fd02_for-pao/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Only in the agony of parting do we look into the depths of love.
+> Loving thoughts and actions are clearly beneficial for our physical and mental health.
 >
-> <p>George Eliot</p>
+> <p>Dalai Lama</p>
