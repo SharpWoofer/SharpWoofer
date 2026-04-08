@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Do Something. If it works, do more of it. If it doesn't, do something else.
+> Giving is the secret of a healthy life. Not necessarily money, but whatever a person has of encouragement, sympathy and understanding.
 >
-> <p>Franklin D. Roosevelt</p>
+> <p>John D. Rockefeller</p>
