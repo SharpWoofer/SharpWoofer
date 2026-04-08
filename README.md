@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> People inspire you, or they drain you. Pick them wisely.
+> Be truthful about your emotions, and use your mind and emotions in your favor, not against yourself.
 >
-> <p>Les Brown</p>
+> <p>Robert Kiyosaki</p>
