@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Life is like stepping onto a boat which is about to sail out to sea and sink.
+> There is no absolute success in the world, only constant progress.
 >
-> <p>Shunryu Suzuki</p>
+> <p>Jonathan Swift</p>
