@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The world is a puzzle; no need to make sense out of it.
+> We can have more than we've got because we can become more than we are.
 >
-> <p>Socrates</p>
+> <p>Jim Rohn</p>
