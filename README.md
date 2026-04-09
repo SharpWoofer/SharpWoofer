@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> There are no shortcuts to any place worth going. 
+> Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it.
 >
-> <p>Beverly Sills</p>
+> <p>Rumi</p>
