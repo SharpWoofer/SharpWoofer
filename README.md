@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Solar Eclipse of the Heart](https://www.nasa.gov/image-detail/art002e009573/)
-- [Earthset](https://www.nasa.gov/image-detail/art002e009288-2/)
-- [The Near Side of the Moon](https://www.nasa.gov/image-detail/art002e009057/)
-- [Thinking of You, Earth](https://www.nasa.gov/image-detail/art002e008486/)
-- [Illuminated in Orion](https://www.nasa.gov/image-detail/fd03_for-pao/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> There is no absolute success in the world, only constant progress.
+> The world is a puzzle; no need to make sense out of it.
 >
-> <p>Jonathan Swift</p>
+> <p>Socrates</p>
