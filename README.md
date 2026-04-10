@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Success on the outside means nothing unless you also have success within.
+> The hard path is often the right one. The river teaches more than the shore.
 >
-> <p>Robin Sharma</p>
+> <p>Maxime Lagace</p>
