@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [New Perspective of Home](https://www.nasa.gov/image-detail/art002e015228/)
-- [Starstruck](https://www.nasa.gov/image-detail/art002e012588/)
-- [Solar Eclipse of the Heart](https://www.nasa.gov/image-detail/art002e009573/)
-- [Earthset](https://www.nasa.gov/image-detail/art002e009288-2/)
-- [The Near Side of the Moon](https://www.nasa.gov/image-detail/art002e009057/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The hard path is often the right one. The river teaches more than the shore.
+> The single biggest problem in communication is the illusion that it has taken place.
 >
-> <p>Maxime Lagace</p>
+> <p>George Bernard Shaw</p>
