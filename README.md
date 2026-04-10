@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Starstruck](https://www.nasa.gov/image-detail/art002e012588/)
-- [Solar Eclipse of the Heart](https://www.nasa.gov/image-detail/art002e009573/)
-- [Earthset](https://www.nasa.gov/image-detail/art002e009288-2/)
-- [The Near Side of the Moon](https://www.nasa.gov/image-detail/art002e009057/)
-- [Thinking of You, Earth](https://www.nasa.gov/image-detail/art002e008486/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> If you do not get the chills when you set your goal you're not setting big enough goals.
+> All our dreams can come true, if we have the courage to pursue them.
 >
-> <p>Bob Proctor</p>
+> <p>Walt Disney</p>
