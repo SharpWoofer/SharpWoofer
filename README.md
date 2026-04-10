@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Nothing ever happened in the past that can prevent you from being present now; and if the past cannot prevent you from being present now, what power does it have?
+> I like the dreams of the future better than the history of the past.
 >
-> <p>Eckhart Tolle</p>
+> <p>Thomas Jefferson</p>
