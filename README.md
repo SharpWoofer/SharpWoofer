@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Loving thoughts and actions are clearly beneficial for our physical and mental health.
+> Success on the outside means nothing unless you also have success within.
 >
-> <p>Dalai Lama</p>
+> <p>Robin Sharma</p>
