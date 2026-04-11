@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [New Perspective of Home](https://www.nasa.gov/image-detail/art002e015228/)
-- [Starstruck](https://www.nasa.gov/image-detail/art002e012588/)
-- [Solar Eclipse of the Heart](https://www.nasa.gov/image-detail/art002e009573/)
-- [Earthset](https://www.nasa.gov/image-detail/art002e009288-2/)
-- [The Near Side of the Moon](https://www.nasa.gov/image-detail/art002e009057/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Before you can see the Light, you have to deal with the darkness.
+> A friend to all is a friend to none.
 >
-> <p>Dan Millman</p>
+> <p>Aristotle</p>
