@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> A friend to all is a friend to none.
+> Through selfless service, you will always be fruitful and find the fulfillment of your desires.
 >
-> <p>Aristotle</p>
+> <p>Bhagavad Gita</p>
