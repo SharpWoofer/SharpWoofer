@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> It's not whether you get knocked down, its whether you get back up.
+> You are the only problem you will ever have and you are the only solution.
 >
-> <p>Vince Lombardi</p>
+> <p>Bob Proctor</p>
