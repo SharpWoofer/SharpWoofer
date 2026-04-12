@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Artemis II Recovery](https://www.nasa.gov/image-detail/artemis-ii-recovery-2/)
-- [New Perspective of Home](https://www.nasa.gov/image-detail/art002e015228/)
-- [Starstruck](https://www.nasa.gov/image-detail/art002e012588/)
-- [Solar Eclipse of the Heart](https://www.nasa.gov/image-detail/art002e009573/)
-- [Earthset](https://www.nasa.gov/image-detail/art002e009288-2/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> If you build the guts to do something, anything, then you better save enough to face the consequences.
+> Nothing like a health problem to turn up the contrast dial for the rest of life.
 >
-> <p>Criss Jami</p>
+> <p>Naval Ravikant</p>
