@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The truth is not for all men, but for those who seek it.
+> If you build the guts to do something, anything, then you better save enough to face the consequences.
 >
-> <p>Ayn Rand</p>
+> <p>Criss Jami</p>
