@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Knowing your own darkness is the best method for dealing with the darknesses of other people.
+> There are three classes of people: those who see. Those who see when they are shown. Those who do not see.
 >
-> <p>Carl Jung</p>
+> <p>Leonardo da Vinci</p>
