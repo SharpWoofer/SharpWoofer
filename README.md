@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Give a girl the right shoes, and she can conquer the world.
+> He who violates another's honor loses his own.
 >
-> <p>Bette Midler</p>
+> <p>Publilius Syrus</p>
