@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Artemis II Recovery](https://www.nasa.gov/image-detail/artemis-ii-recovery-2/)
-- [New Perspective of Home](https://www.nasa.gov/image-detail/art002e015228/)
-- [Starstruck](https://www.nasa.gov/image-detail/art002e012588/)
-- [Solar Eclipse of the Heart](https://www.nasa.gov/image-detail/art002e009573/)
-- [Earthset](https://www.nasa.gov/image-detail/art002e009288-2/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Find your Light; They can't love you if they can't see you.
+> It is better to disappoint people with the truth than to appease them with a lie.
 >
-> <p>Bette Midler</p>
+> <p>Simon Sinek</p>
