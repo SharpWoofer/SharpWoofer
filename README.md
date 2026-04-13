@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> A woman unsatisfied must have luxuries. But a woman who loves a man would sleep on a board.
+> The people who are crazy enough to think they can change the world are the ones who do.
 >
-> <p>D. H. Lawrence</p>
+> <p>Steve Jobs</p>
