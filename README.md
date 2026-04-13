@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Artemis II Astronauts Aboard USS John P. Murtha](https://www.nasa.gov/image-detail/artemis-ii-recovery-59/)
-- [Artemis II Recovery](https://www.nasa.gov/image-detail/artemis-ii-recovery-2/)
-- [New Perspective of Home](https://www.nasa.gov/image-detail/art002e015228/)
-- [Starstruck](https://www.nasa.gov/image-detail/art002e012588/)
-- [Solar Eclipse of the Heart](https://www.nasa.gov/image-detail/art002e009573/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Heal the past, live the present, dream the future.
+> The secret of getting started is breaking your complex, overwhelming tasks into small manageable tasks, and then starting on the first one.
 >
-> <p>Mary Engelbreit</p>
+> <p>Mark Twain</p>
