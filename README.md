@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Artemis II Astronauts Aboard USS John P. Murtha](https://www.nasa.gov/image-detail/artemis-ii-recovery-59/)
-- [Artemis II Recovery](https://www.nasa.gov/image-detail/artemis-ii-recovery-2/)
-- [New Perspective of Home](https://www.nasa.gov/image-detail/art002e015228/)
-- [Starstruck](https://www.nasa.gov/image-detail/art002e012588/)
-- [Solar Eclipse of the Heart](https://www.nasa.gov/image-detail/art002e009573/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The people who are crazy enough to think they can change the world are the ones who do.
+> You want to live but do you know how to live? You are scared of dying and tell me, is the kind of life you lead really any different from being dead?
 >
-> <p>Steve Jobs</p>
+> <p>Seneca</p>
