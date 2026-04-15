@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Our deeds determine us, as much as we determine our deeds.
+> Life is love and love is life.
 >
-> <p>George Eliot</p>
+> <p>Elvis Presley</p>
