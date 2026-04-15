@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [A Hug for Home Away from Home](https://www.nasa.gov/image-detail/artemis-ii-recovery-61/)
-- [Artemis II Astronauts Aboard USS John P. Murtha](https://www.nasa.gov/image-detail/artemis-ii-recovery-59/)
-- [Artemis II Recovery](https://www.nasa.gov/image-detail/artemis-ii-recovery-2/)
-- [New Perspective of Home](https://www.nasa.gov/image-detail/art002e015228/)
-- [Starstruck](https://www.nasa.gov/image-detail/art002e012588/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Growth is in a series of mistakes. That's the only way you learn.
+> Conflict cannot survive without your participation. 
 >
-> <p>Steve Harvey</p>
+> <p>Wayne Dyer</p>
