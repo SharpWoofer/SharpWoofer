@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Artemis II Crew Returns to Houston](https://www.nasa.gov/image-detail/jsc2026e022311/)
-- [A Hug for Home Away from Home](https://www.nasa.gov/image-detail/artemis-ii-recovery-61/)
-- [Artemis II Astronauts Aboard USS John P. Murtha](https://www.nasa.gov/image-detail/artemis-ii-recovery-59/)
-- [Artemis II Recovery](https://www.nasa.gov/image-detail/artemis-ii-recovery-2/)
-- [New Perspective of Home](https://www.nasa.gov/image-detail/art002e015228/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> At every moment where language can't go, that's your mind.
+> I can think of nothing less pleasurable than a life devoted to pleasure.
 >
-> <p>Bodhidharma</p>
+> <p>John D. Rockefeller</p>
