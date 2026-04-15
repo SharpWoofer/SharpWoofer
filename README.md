@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Start the day with love, spend the day with love, fill the day with love and end the day with love.
+> At every moment where language can't go, that's your mind.
 >
-> <p>Sathya Sai Baba</p>
+> <p>Bodhidharma</p>
