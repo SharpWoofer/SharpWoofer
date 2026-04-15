@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The eyes of others our prisons; their thoughts our cages.
+> Judgments prevent us from seeing the good that lies beyond appearances.  
 >
-> <p>Virginia Woolf</p>
+> <p>Wayne Dyer</p>
