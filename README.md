@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Would you rather live your life according to the approval of others or aligned with your truth and your dreams?
+> Preoccupied with a single leaf you won't see the tree.
 >
-> <p>Robin Sharma</p>
+> <p>Unknown</p>
