@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [At the Edge of Light](https://www.nasa.gov/image-detail/fd10_lunar-flyby-koch-sn-1015-long-lens/)
-- [Artemis II Crew Returns to Houston](https://www.nasa.gov/image-detail/jsc2026e022311/)
-- [A Hug for Home Away from Home](https://www.nasa.gov/image-detail/artemis-ii-recovery-61/)
-- [Artemis II Astronauts Aboard USS John P. Murtha](https://www.nasa.gov/image-detail/artemis-ii-recovery-59/)
-- [Artemis II Recovery](https://www.nasa.gov/image-detail/artemis-ii-recovery-2/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Forgive yourself for your faults and your mistakes and move on.
+> I am always doing that which I can not do, in order that I may learn how to do it.
 >
-> <p>Les Brown</p>
+> <p>Pablo Picasso</p>
