@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Rest in reason; move in passion.
+> It's the possibility of having a dream come true that makes life interesting.
 >
-> <p>Kahlil Gibran</p>
+> <p>Paulo Coelho</p>
