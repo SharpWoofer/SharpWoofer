@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Better to light a candle than to curse the darkness. 
+> Change begets change. Nothing propagates so fast.
 >
-> <p>Chinese Proverb</p>
+> <p>Charles Dickens</p>
