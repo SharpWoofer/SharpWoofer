@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Faith means believing the unbelievable.
+> A man who dares to waste one hour of time has not discovered the value of life.
 >
-> <p>Gilbert Chesterton</p>
+> <p>Charles Darwin</p>
