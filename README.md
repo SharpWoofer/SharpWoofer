@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s SPHEREx Observatory Maps Interstellar Ice in Milky Way](https://www.nasa.gov/image-detail/shape-2999-2999-2/)
-- [At the Edge of Light](https://www.nasa.gov/image-detail/fd10_lunar-flyby-koch-sn-1015-long-lens/)
-- [Artemis II Crew Returns to Houston](https://www.nasa.gov/image-detail/jsc2026e022311/)
-- [A Hug for Home Away from Home](https://www.nasa.gov/image-detail/artemis-ii-recovery-61/)
-- [Artemis II Astronauts Aboard USS John P. Murtha](https://www.nasa.gov/image-detail/artemis-ii-recovery-59/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> It's not the men in your life that matters, it's the life in your men.
+> Confidence comes not from always being right but not fearing to be wrong.
 >
-> <p>Mae West</p>
+> <p>Unknown</p>
