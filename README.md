@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> There are no mistakes in life, only lessons.
+> Don't learn to do, but learn in doing.
 >
-> <p>Robin Sharma</p>
+> <p>Samuel Butler</p>
