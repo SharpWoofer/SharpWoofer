@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Don't learn to do, but learn in doing.
+> You make your own luck if you stay at it long enough.
 >
-> <p>Samuel Butler</p>
+> <p>Naval Ravikant</p>
