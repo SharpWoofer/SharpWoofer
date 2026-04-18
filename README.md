@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> I think self-awareness is probably the most important thing towards being a champion. 
+> You drown not by falling into a river, but by staying submerged in it.
 >
-> <p>Billie Jean King</p>
+> <p>Paulo Coelho</p>
