@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> A real decision is measured by the fact that you've taken a new action. If there's no action, you haven't truly decided.
+> The two most important days in your life are the day you are born and the day you find out why.
 >
-> <p>Tony Robbins</p>
+> <p>Mark Twain</p>
