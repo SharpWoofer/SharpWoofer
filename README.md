@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Extraordinary results happen only when you give the best you have to become the best you can be at your most important work.
+> I have lived with several Zen masters -- all of them cats.
 >
-> <p>Gary Keller</p>
+> <p>Eckhart Tolle</p>
