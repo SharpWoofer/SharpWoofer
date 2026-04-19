@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> A mentor is someone who sees more talent and ability within you, than you see in yourself, and helps bring it out of you.
+> Sometimes you have to shut your eyes, so you can see the real beauty.
 >
-> <p>Bob Proctor</p>
+> <p>Kilian Jornet</p>
