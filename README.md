@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Success is within the reach of just about everyone.
+> Greatness comes from living with purpose and passion.
 >
-> <p>Lolly Daskal</p>
+> <p>Ralph Marston</p>
