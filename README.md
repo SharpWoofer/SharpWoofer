@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Hope is not a strategy. Luck is not a factor. Fear is not an option.
+> Success is within the reach of just about everyone.
 >
-> <p>James Cameron</p>
+> <p>Lolly Daskal</p>
