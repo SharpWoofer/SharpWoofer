@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Greatness comes from living with purpose and passion.
+> We forge the chains we wear in life.
 >
-> <p>Ralph Marston</p>
+> <p>Charles Dickens</p>
