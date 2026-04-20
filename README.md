@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Even when a friend does something you do not like, he continues to be your friend. 
+> Don't just sit there. Do something. The answers will follow.
 >
-> <p>Genghis Khan</p>
+> <p>Mark Manson</p>
