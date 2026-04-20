@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The heart wants what it wants - or else it does not care.
+> To be of use to the world is the only way to be happy.
 >
-> <p>Emily Dickinson</p>
+> <p>Hans Christian Andersen</p>
