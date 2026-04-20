@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> You may think I'm small, but I have a universe inside my mind.
+> Everything eaten is killed. Every meal is a sacrifice.
 >
-> <p>Yoko Ono</p>
+> <p>Adi Da Samraj</p>
