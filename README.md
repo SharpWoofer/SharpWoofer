@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [A Fresh Look at the Crab Nebula](https://www.nasa.gov/image-detail/full-res-for-display-3/)
-- [Wheels Up for X-59](https://www.nasa.gov/image-detail/x-59-flight-9-screen-grab-2/)
-- [NASA&#39;s SPHEREx Observatory Maps Interstellar Ice in Milky Way](https://www.nasa.gov/image-detail/shape-2999-2999-2/)
-- [At the Edge of Light](https://www.nasa.gov/image-detail/fd10_lunar-flyby-koch-sn-1015-long-lens/)
-- [Artemis II Crew Returns to Houston](https://www.nasa.gov/image-detail/jsc2026e022311/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> A random act of kindness, no matter how small, can make a tremendous impact on someone else's life.
+> Success is like reaching an important birthday and finding you're exactly the same.
 >
-> <p>Roy T. Bennett</p>
+> <p>Audrey Hepburn</p>
