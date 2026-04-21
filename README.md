@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Wheels Up for X-59](https://www.nasa.gov/image-detail/x-59-flight-9-screen-grab-2/)
-- [NASA&#39;s SPHEREx Observatory Maps Interstellar Ice in Milky Way](https://www.nasa.gov/image-detail/shape-2999-2999-2/)
-- [At the Edge of Light](https://www.nasa.gov/image-detail/fd10_lunar-flyby-koch-sn-1015-long-lens/)
-- [Artemis II Crew Returns to Houston](https://www.nasa.gov/image-detail/jsc2026e022311/)
-- [A Hug for Home Away from Home](https://www.nasa.gov/image-detail/artemis-ii-recovery-61/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The first principle of success is desire.
+> Successful people are always looking for opportunities to help others. Unsuccessful people are always asking, 'What's in it for me?'
 >
-> <p>Robert Collier</p>
+> <p>Brian Tracy</p>
