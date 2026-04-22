@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Success is within the reach of just about everyone.
+> When the world pushes you to your knees, you're in the perfect position to pray.
 >
-> <p>Lolly Daskal</p>
+> <p>Rumi</p>
