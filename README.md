@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Some people are old at 18 and some are young at 90. Time is a concept that humans created.
+> Words are like Leaves; and where they most abound, Much Fruit of Sense beneath is rarely found.
 >
-> <p>Yoko Ono</p>
+> <p>Alexander Pope</p>
