@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> To every action there is always opposed an equal reaction.
+> To seek is to suffer. To seek nothing is bliss.
 >
-> <p>Isaac Newton</p>
+> <p>Bodhidharma</p>
