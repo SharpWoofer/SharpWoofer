@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> There is no significance in life without struggle.
+> If you're not making mistakes, then you're not doing anything.
 >
-> <p>Lolly Daskal</p>
+> <p>John Wooden</p>
