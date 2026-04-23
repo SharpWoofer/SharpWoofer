@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Night and &lpar;Earth&rpar; Day](https://www.nasa.gov/image-detail/fd02_returned_1003_d5_015_glover/)
-- [A Fresh Look at the Crab Nebula](https://www.nasa.gov/image-detail/full-res-for-display-3/)
-- [Wheels Up for X-59](https://www.nasa.gov/image-detail/x-59-flight-9-screen-grab-2/)
-- [NASA&#39;s SPHEREx Observatory Maps Interstellar Ice in Milky Way](https://www.nasa.gov/image-detail/shape-2999-2999-2/)
-- [At the Edge of Light](https://www.nasa.gov/image-detail/fd10_lunar-flyby-koch-sn-1015-long-lens/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> No one can confidently say that he will still be living tomorrow.
+> Life is either a daring adventure, or it is nothing.
 >
-> <p>Euripides</p>
+> <p>Helen Keller</p>
