@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> As you grow older you will discover that you have two hands. One for helping yourself, the other for helping others.
+> The only real security that a man can have in this world is a reserve of knowledge, experience and ability. 
 >
-> <p>Audrey Hepburn</p>
+> <p>Henry Ford</p>
