@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has.
+> It always seems impossible until it's done.
 >
-> <p>Margaret Mead</p>
+> <p>Nelson Mandela</p>
