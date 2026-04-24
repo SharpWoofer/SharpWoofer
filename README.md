@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> He who can, does.
+> If you could kick the person in the pants responsible for most of your trouble, you wouldn't sit for a month.
 >
-> <p>George Bernard Shaw</p>
+> <p>Theodore Roosevelt</p>
