@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> It always seems impossible until it's done.
+> As you grow older you will discover that you have two hands. One for helping yourself, the other for helping others.
 >
-> <p>Nelson Mandela</p>
+> <p>Audrey Hepburn</p>
