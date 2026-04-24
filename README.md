@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The only real security that a man can have in this world is a reserve of knowledge, experience and ability. 
+> Obstacles don't block the path, they are the path.
 >
-> <p>Henry Ford</p>
+> <p>Zen Proverb</p>
