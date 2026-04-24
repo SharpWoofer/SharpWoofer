@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Believe in one thing too much and you have no room for new ideas.  
+> Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has.
 >
-> <p>Ray Bradbury</p>
+> <p>Margaret Mead</p>
