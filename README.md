@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Change is inevitable but personal growth is a choice.
+> What we call the beginning is often the end. And to make an end is to make a beginning. The end is where we start from.
 >
-> <p>Bob Proctor</p>
+> <p>T.S. Eliot</p>
