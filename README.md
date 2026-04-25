@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> What you resist, persists.
+> What a liberation to realize that 'the voice in my head' is not who I am. Who am I then? The one who sees that.
 >
-> <p>Carl Jung</p>
+> <p>Eckhart Tolle</p>
