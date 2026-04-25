@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Time doesn't heal emotional pain, you need to learn how to let go.
+> What you resist, persists.
 >
-> <p>Roy T. Bennett</p>
+> <p>Carl Jung</p>
