@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [The Day of the Trifid Nebula](https://www.nasa.gov/image-detail/full-res-for-display-4/)
-- [NASA&#39;s Chandra Finds Young Stars Dim Quickly](https://www.nasa.gov/image-detail/dimming-lg/)
-- [Night and &lpar;Earth&rpar; Day](https://www.nasa.gov/image-detail/fd02_returned_1003_d5_015_glover/)
-- [A Fresh Look at the Crab Nebula](https://www.nasa.gov/image-detail/full-res-for-display-3/)
-- [Wheels Up for X-59](https://www.nasa.gov/image-detail/x-59-flight-9-screen-grab-2/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> An ounce of performance is worth pounds of promises.
+> No grand idea was ever born in a conference, but a lot of foolish ideas have died there.
 >
-> <p>Mae West</p>
+> <p>F. Scott Fitzgerald</p>
