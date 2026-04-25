@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Courage Is a Love Affair with the Unknown
+> Success is not what you do when you are on top.  Success is how high you bounce when you hit the bottom.
 >
-> <p>Osho</p>
+> <p>Sonia Ricotti</p>
