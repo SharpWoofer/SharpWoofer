@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> We will outstretch the hand if you unclench your fist.
+> Courage is almost a contradiction in terms. It means a strong desire to live taking the form of a readiness to die.
 >
-> <p>Barack Obama</p>
+> <p>Gilbert Chesterton</p>
