@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [The Day of the Trifid Nebula](https://www.nasa.gov/image-detail/full-res-for-display-4/)
-- [NASA&#39;s Chandra Finds Young Stars Dim Quickly](https://www.nasa.gov/image-detail/dimming-lg/)
-- [Night and &lpar;Earth&rpar; Day](https://www.nasa.gov/image-detail/fd02_returned_1003_d5_015_glover/)
-- [A Fresh Look at the Crab Nebula](https://www.nasa.gov/image-detail/full-res-for-display-3/)
-- [Wheels Up for X-59](https://www.nasa.gov/image-detail/x-59-flight-9-screen-grab-2/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> What we call the beginning is often the end. And to make an end is to make a beginning. The end is where we start from.
+> Time doesn't heal emotional pain, you need to learn how to let go.
 >
-> <p>T.S. Eliot</p>
+> <p>Roy T. Bennett</p>
