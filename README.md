@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Courage is almost a contradiction in terms. It means a strong desire to live taking the form of a readiness to die.
+> Always render more and better service than is expected of you, no matter what your task may be.
 >
-> <p>Gilbert Chesterton</p>
+> <p>Og Mandino</p>
