@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Change begets change. Nothing propagates so fast.
+> The constant assertion of belief is an indication of fear.
 >
-> <p>Charles Dickens</p>
+> <p>Jiddu Krishnamurti</p>
