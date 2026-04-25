@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Simplicity is a difficult thing to achieve.  
+> We will outstretch the hand if you unclench your fist.
 >
-> <p>Charlie Chaplin</p>
+> <p>Barack Obama</p>
