@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Deliberately seek the company of people who influence you to think and act on building the life you desire.
+> If you don't like something change it; if you can't change it, change the way you think about it.
 >
-> <p>Napoleon Hill</p>
+> <p>Mary Engelbreit</p>
