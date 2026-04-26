@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Be as fluid as water, do not give your enemies anything solid to attack.
+> A dream doesn't become reality through magic it takes sweat, determination and hard work.
 >
-> <p>Robert Greene</p>
+> <p>Colin Powell</p>
