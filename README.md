@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [The Day of the Trifid Nebula](https://www.nasa.gov/image-detail/full-res-for-display-4/)
-- [NASA&#39;s Chandra Finds Young Stars Dim Quickly](https://www.nasa.gov/image-detail/dimming-lg/)
-- [Night and &lpar;Earth&rpar; Day](https://www.nasa.gov/image-detail/fd02_returned_1003_d5_015_glover/)
-- [A Fresh Look at the Crab Nebula](https://www.nasa.gov/image-detail/full-res-for-display-3/)
-- [Wheels Up for X-59](https://www.nasa.gov/image-detail/x-59-flight-9-screen-grab-2/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Let my soul smile through my heart and my heart smile through my eyes, that I may scatter rich smiles in sad hearts. 
+> Don't bother people for help without first trying to solve the problem yourself.
 >
-> <p>Paramahansa Yogananda</p>
+> <p>Colin Powell</p>
