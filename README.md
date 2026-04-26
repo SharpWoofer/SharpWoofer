@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> If the plan doesn't work, change the plan, but never the goal.
+> Be as fluid as water, do not give your enemies anything solid to attack.
 >
-> <p>Unknown</p>
+> <p>Robert Greene</p>
