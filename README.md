@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Always turn a negative situation into a positive situation.
+> The art of being wise is knowing what to overlook.
 >
-> <p>Michael Jordan</p>
+> <p>William James</p>
