@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The biggest adventure you can ever take is to live the life of your dreams. 
+> A scientific man ought to have no wishes, no affections, - a mere heart of stone.
 >
-> <p>Oprah Winfrey</p>
+> <p>Charles Darwin</p>
