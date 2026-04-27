@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The person who cannot control his words shows that he cannot control himself.
+> Be Brave and Take Risks: You need to have faith in yourself. Be brave and take risks. You don't have to have it all figured out to move forward.
 >
-> <p>Robert Greene</p>
+> <p>Roy T. Bennett</p>
