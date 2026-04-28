@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s X-59 Gets Freedom 250 Logo](https://www.nasa.gov/image-detail/afrc2026-0077-01/)
-- [The Day of the Trifid Nebula](https://www.nasa.gov/image-detail/full-res-for-display-4/)
-- [NASA&#39;s Chandra Finds Young Stars Dim Quickly](https://www.nasa.gov/image-detail/dimming-lg/)
-- [Night and &lpar;Earth&rpar; Day](https://www.nasa.gov/image-detail/fd02_returned_1003_d5_015_glover/)
-- [A Fresh Look at the Crab Nebula](https://www.nasa.gov/image-detail/full-res-for-display-3/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Be Brave and Take Risks: You need to have faith in yourself. Be brave and take risks. You don't have to have it all figured out to move forward.
+> So long as we are being remembered, we remain alive.
 >
-> <p>Roy T. Bennett</p>
+> <p>Carlos Ruiz Zafon</p>
