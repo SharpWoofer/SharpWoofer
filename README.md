@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> It's wise to tell the truth. It's even wiser to tell it kindly.
+> Genius is one percent inspiration and ninety-nine percent perspiration.
 >
-> <p>Maxime Lagace</p>
+> <p>Thomas Edison</p>
