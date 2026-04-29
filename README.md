@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Science in Space](https://www.nasa.gov/image-detail/gmt112_09_21_jessica-meir_chris-and-sophie-dna-therapeutics-lsg/)
-- [NASA&#39;s X-59 Gets Freedom 250 Logo](https://www.nasa.gov/image-detail/afrc2026-0077-01/)
-- [The Day of the Trifid Nebula](https://www.nasa.gov/image-detail/full-res-for-display-4/)
-- [NASA&#39;s Chandra Finds Young Stars Dim Quickly](https://www.nasa.gov/image-detail/dimming-lg/)
-- [Night and &lpar;Earth&rpar; Day](https://www.nasa.gov/image-detail/fd02_returned_1003_d5_015_glover/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Smile, breathe and go slowly.
+> On the other side of the clouds is a bright blue sky.
 >
-> <p>Thich Nhat Hanh</p>
+> <p>Unknown</p>
