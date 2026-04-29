@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> As a man thinketh in his heart, so shall he be.
+> Smile, breathe and go slowly.
 >
-> <p>James Allen</p>
+> <p>Thich Nhat Hanh</p>
