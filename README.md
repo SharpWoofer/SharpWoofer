@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> All problems are interpersonal relationship problems.
+> Always focus on the front windshield and not the rear view mirror.
 >
-> <p>Alfred Adler</p>
+> <p>Colin Powell</p>
