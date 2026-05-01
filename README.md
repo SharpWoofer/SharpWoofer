@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Do good by stealth, and blush to find it fame.
+> Meanings are not determined by situations, but we determine ourselves by the meanings we give to situations.
 >
-> <p>Alexander Pope</p>
+> <p>Alfred Adler</p>
