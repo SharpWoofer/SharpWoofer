@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Believe that life is worth living and your belief will help create the fact.
+> Do the hard jobs first. The easy jobs will take care of themselves.
 >
-> <p>William James</p>
+> <p>Dale Carnegie</p>
