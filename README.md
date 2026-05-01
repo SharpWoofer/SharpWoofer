@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Artemis III Rocket Core Stage Moves to NASA Kennedy](https://www.nasa.gov/image-detail/afs-8-101-1262/)
-- [A Gently Glowing Galaxy](https://www.nasa.gov/image-detail/55205768700-7d3f580146-o/)
-- [Science in Space](https://www.nasa.gov/image-detail/gmt112_09_21_jessica-meir_chris-and-sophie-dna-therapeutics-lsg/)
-- [NASA&#39;s X-59 Gets Freedom 250 Logo](https://www.nasa.gov/image-detail/afrc2026-0077-01/)
-- [The Day of the Trifid Nebula](https://www.nasa.gov/image-detail/full-res-for-display-4/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The moment you stop to think about whether you love someone, you've already stopped loving that person forever.
+> An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question.
 >
-> <p>Carlos Ruiz Zafon</p>
+> <p>John Tukey</p>
