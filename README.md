@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> When we allow negative messages to fester in our head, they take on a life of their own.
+> Never argue with stupid people, they will drag you down to their level and then beat you with experience.
 >
-> <p>Lolly Daskal</p>
+> <p>Mark Twain</p>
