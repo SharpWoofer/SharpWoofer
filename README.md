@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Meanings are not determined by situations, but we determine ourselves by the meanings we give to situations.
+> Happiness is not something ready made. It comes from your own actions.
 >
-> <p>Alfred Adler</p>
+> <p>Dalai Lama</p>
