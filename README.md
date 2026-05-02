@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> My actions are my only true belongings. I cannot escape the consequences of my actions. My actions are the ground upon which I stand.
+> A clever person turns great troubles into little ones, and little ones into none at all. 
 >
-> <p>Thich Nhat Hanh</p>
+> <p>Chinese Proverb</p>
