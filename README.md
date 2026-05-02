@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Death smiles at us all. All we can do is smile back.
+> Happiness is the absence of the striving for happiness.
 >
-> <p>Marcus Aurelius</p>
+> <p>Zhuangzi</p>
