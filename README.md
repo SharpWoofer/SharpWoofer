@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> A clever person turns great troubles into little ones, and little ones into none at all. 
+> Many have died; you also will die. The drum of death is being beaten. The world has fallen in love with a dream. Only sayings of the wise will remain.
 >
-> <p>Chinese Proverb</p>
+> <p>Kabir</p>
