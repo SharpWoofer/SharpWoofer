@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Integrity is the ability to stand by an idea.
+> Life is a gift. Never forget to enjoy and bask in every moment you are in.
 >
-> <p>Ayn Rand</p>
+> <p>Celestine Chua</p>
