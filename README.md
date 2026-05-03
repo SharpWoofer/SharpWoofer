@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The essence of the Way is detachment.
+> If we are honest with ourselves, most of us will have to admit that we live out our lives in an ocean of fear.
 >
-> <p>Bodhidharma</p>
+> <p>Jon Kabat-Zinn</p>
