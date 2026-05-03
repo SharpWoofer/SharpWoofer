@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Resilience is not what happens to you. It's how you react to, respond to, and recover from what happens to you.
+> Life is a question and how we live it is our answer.
 >
-> <p>Jeffrey Gitomer</p>
+> <p>Gary Keller</p>
