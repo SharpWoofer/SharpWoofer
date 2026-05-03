@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> A golden cage is still just a cage.
+> The face is the mirror of the mind, and eyes without speaking confess the secrets of the heart. 
 >
-> <p>Anita Krizzan</p>
+> <p>St. Jerome</p>
