@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Success is not what you do when you are on top.  Success is how high you bounce when you hit the bottom.
+> If you want to know what God thinks about money just look at the people He gives it to.
 >
-> <p>Sonia Ricotti</p>
+> <p>Alexander Pope</p>
