@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Life is a gift. Never forget to enjoy and bask in every moment you are in.
+> The heart wants what it wants. There's no logic. 
 >
-> <p>Celestine Chua</p>
+> <p>Woody Allen</p>
