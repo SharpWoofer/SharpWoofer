@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> It does not do to dwell on dreams and forget to live, remember that.
+> Show me a hero, and I'll write you a tragedy.
 >
-> <p>Albus Dumbledore</p>
+> <p>F. Scott Fitzgerald</p>
