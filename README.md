@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Success is about doing the right thing, not about doing everything right.
+> Have the fearless attitude of a hero and the loving heart of a child.
 >
-> <p>Gary Keller</p>
+> <p>Soyen Shaku</p>
