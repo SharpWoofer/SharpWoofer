@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA Artemis II Crew Rings Nasdaq Closing Bell](https://www.nasa.gov/image-detail/nasa-artemis-ii-crew-rings-nasdaq-closing-bell/)
-- [Artemis III Rocket Core Stage Moves to NASA Kennedy](https://www.nasa.gov/image-detail/afs-8-101-1262/)
-- [A Gently Glowing Galaxy](https://www.nasa.gov/image-detail/55205768700-7d3f580146-o/)
-- [Science in Space](https://www.nasa.gov/image-detail/gmt112_09_21_jessica-meir_chris-and-sophie-dna-therapeutics-lsg/)
-- [NASA&#39;s X-59 Gets Freedom 250 Logo](https://www.nasa.gov/image-detail/afrc2026-0077-01/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> We are all here for some special reason.
+> We are what we repeatedly do. Excellence, then, is not an act, but a habit.
 >
-> <p>Robin Sharma</p>
+> <p>Aristotle</p>
