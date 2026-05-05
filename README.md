@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Whatever is begun in anger, ends in shame.
+> Death walks faster than the wind and never returns what he has taken.
 >
-> <p>Benjamin Franklin</p>
+> <p>Hans Christian Andersen</p>
