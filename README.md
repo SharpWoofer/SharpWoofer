@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Life is either a daring adventure, or nothing.
+> Life is and will ever remain an equation incapable of solution, but it contains certain known factors. 
 >
-> <p>Helen Keller</p>
+> <p>Nikola Tesla</p>
