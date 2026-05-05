@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> A good teacher opens the door for you, but you must enter the room by yourself.
+> A gentleman accepts the responsibility of his actions and bears the burden of their consequences.
 >
-> <p>Zen Proverb</p>
+> <p>William Faulkner</p>
