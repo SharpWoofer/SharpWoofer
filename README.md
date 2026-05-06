@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Duty makes us do things well, but love makes us do them beautifully.  
+> Not all of us can do great things. But we can do small things with great love.
 >
-> <p>Zig Ziglar</p>
+> <p>Mother Teresa</p>
