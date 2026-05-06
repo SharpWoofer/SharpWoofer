@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> This is the real secret of life - to be completely engaged with what you are doing in the here and now. And instead of calling it work, realize it is play.
+> Each problem has a positive side.
 >
-> <p>Alan Watts</p>
+> <p>Og Mandino</p>
