@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Building on America’s 65-Year Legacy of Human Spaceflight](https://www.nasa.gov/image-detail/s61-01908orig/)
-- [Hubble Spots a Starry Spiral](https://www.nasa.gov/image-detail/hubble-ngc3137-potm2604a/)
-- [NASA Artemis II Crew Rings Nasdaq Closing Bell](https://www.nasa.gov/image-detail/nasa-artemis-ii-crew-rings-nasdaq-closing-bell/)
-- [Artemis III Rocket Core Stage Moves to NASA Kennedy](https://www.nasa.gov/image-detail/afs-8-101-1262/)
-- [A Gently Glowing Galaxy](https://www.nasa.gov/image-detail/55205768700-7d3f580146-o/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> When you have vision it affects your attitude. Your attitude is optimistic rather than pessimistic. 
+> An ounce of performance is worth pounds of promises.
 >
-> <p>Charles Swindoll</p>
+> <p>Mae West</p>
