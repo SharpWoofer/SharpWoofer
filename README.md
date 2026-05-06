@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> In peace, sons bury their fathers. In war, fathers bury their sons. 
+> When you have vision it affects your attitude. Your attitude is optimistic rather than pessimistic. 
 >
-> <p>Herodotus</p>
+> <p>Charles Swindoll</p>
