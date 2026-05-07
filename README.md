@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Be yourself; everyone else is already taken.
+> Investing in yourself is the best investment you will ever make.
 >
-> <p>Oscar Wilde</p>
+> <p>Robin Sharma</p>
