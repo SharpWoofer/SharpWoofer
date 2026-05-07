@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Life is a process. We are a process. The universe is a process.
+> Living life in style also means living a life of balance.
 >
-> <p>Anne Wilson Schaef</p>
+> <p>Jim Rohn</p>
