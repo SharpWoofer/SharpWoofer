@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Wise men speak because they have something to say; Fools because they have to say something.
+> You can't climb the ladder of success with your hands in your pockets.
 >
-> <p>Plato</p>
+> <p>Arnold Schwarzenegger</p>
