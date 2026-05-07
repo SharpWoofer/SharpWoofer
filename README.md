@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> I try more and more to be myself, caring relatively little whether people approve or disapprove.
+> The world is changed by your example, not by your opinion.
 >
-> <p>Vincent van Gogh</p>
+> <p>Paulo Coelho</p>
