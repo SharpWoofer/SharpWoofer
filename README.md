@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Not all of us can do great things. But we can do small things with great love.
+> Life is a process. We are a process. The universe is a process.
 >
-> <p>Mother Teresa</p>
+> <p>Anne Wilson Schaef</p>
