@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> He who possesses most must be most afraid of loss.
+> People rarely succeed unless they have fun in what they are doing.
 >
-> <p>Leonardo da Vinci</p>
+> <p>Dale Carnegie</p>
