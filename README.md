@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> It is impossible for a man to learn what he thinks he already knows.
+> Our life is what our thoughts make it. A man will find that as he alters his thoughts toward things and other people, things and other people will alter towards him.
 >
-> <p>Epictetus</p>
+> <p>James Allen</p>
