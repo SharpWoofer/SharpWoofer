@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> You are what you do, not what you say you'll do.
+> Life has no limitations except the ones you make.
 >
-> <p>Carl Jung</p>
+> <p>Les Brown</p>
