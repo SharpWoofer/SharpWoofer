@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Ponder and deliberate before you make a move.
+> The price of inaction is far greater than the cost of making a mistake.
 >
-> <p>Sun Tzu</p>
+> <p>Meister Eckhart</p>
