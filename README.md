@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA Astronaut Jessica Meir](https://www.nasa.gov/image-detail/jsc2025e078652-altorig/)
-- [Glowing Views from the Space Station](https://www.nasa.gov/image-detail/iss074e0521637/)
-- [A Light in the Dark](https://www.nasa.gov/image-detail/art002e023710/)
-- [Unlocking the Mystery of X-ray Dots](https://www.nasa.gov/image-detail/xraydot-illus-2/)
-- [Building on America’s 65-Year Legacy of Human Spaceflight](https://www.nasa.gov/image-detail/s61-01908orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> We must not cease from exploration. And the end of all our exploring will be to arrive where we began and to know the place for the first time.
+> Go for it now. The future is promised to no one. 
 >
-> <p>T.S. Eliot</p>
+> <p>Wayne Dyer</p>
