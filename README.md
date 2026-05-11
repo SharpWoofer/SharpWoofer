@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Glowing Views from the Space Station](https://www.nasa.gov/image-detail/iss074e0521637/)
-- [A Light in the Dark](https://www.nasa.gov/image-detail/art002e023710/)
-- [Unlocking the Mystery of X-ray Dots](https://www.nasa.gov/image-detail/xraydot-illus-2/)
-- [Building on America’s 65-Year Legacy of Human Spaceflight](https://www.nasa.gov/image-detail/s61-01908orig/)
-- [Hubble Spots a Starry Spiral](https://www.nasa.gov/image-detail/hubble-ngc3137-potm2604a/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Make your mind your own business.
+> Observe things as they are and don't pay attention to other people.
 >
-> <p>Jack Butcher</p>
+> <p>Huang Po</p>
