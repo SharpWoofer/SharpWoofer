@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Go for it now. The future is promised to no one. 
+> Patience expands your options. If you insist on immediate gratification, your choices are severely limited.
 >
-> <p>Wayne Dyer</p>
+> <p>Ralph Marston</p>
