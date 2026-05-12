@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA Astronaut Jessica Meir](https://www.nasa.gov/image-detail/jsc2025e078652-altorig/)
-- [Glowing Views from the Space Station](https://www.nasa.gov/image-detail/iss074e0521637/)
-- [A Light in the Dark](https://www.nasa.gov/image-detail/art002e023710/)
-- [Unlocking the Mystery of X-ray Dots](https://www.nasa.gov/image-detail/xraydot-illus-2/)
-- [Building on America’s 65-Year Legacy of Human Spaceflight](https://www.nasa.gov/image-detail/s61-01908orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Not all those who wander are lost.
+> Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has.
 >
-> <p>J.R.R. Tolkien</p>
+> <p>Margaret Mead</p>
