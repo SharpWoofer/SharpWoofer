@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> He who cheats the earth will be cheated by the earth.
+> The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for.
 >
-> <p>Chinese Proverb</p>
+> <p>Bob Marley</p>
