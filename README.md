@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Being ignorant is not so much a shame, as being unwilling to learn.
+> Worry is a waste of emotional reserve.
 >
-> <p>Benjamin Franklin</p>
+> <p>Ayn Rand</p>
