@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Rise Goes to Washington](https://www.nasa.gov/image-detail/artemis-ii-crew-on-capitol-hill/)
-- [Perseverance Stuns in New Selfie](https://www.nasa.gov/image-detail/pia26650-watson-take-6-up-small/)
-- [NASA Astronaut Jessica Meir](https://www.nasa.gov/image-detail/jsc2025e078652-altorig/)
-- [Glowing Views from the Space Station](https://www.nasa.gov/image-detail/iss074e0521637/)
-- [A Light in the Dark](https://www.nasa.gov/image-detail/art002e023710/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day.
+> Not all those who wander are lost.
 >
-> <p>Paulo Coelho</p>
+> <p>J.R.R. Tolkien</p>
