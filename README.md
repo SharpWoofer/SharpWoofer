@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for.
+> Do not bite at the bait of pleasure, till you know there is no hook beneath it.
 >
-> <p>Bob Marley</p>
+> <p>Thomas Jefferson</p>
