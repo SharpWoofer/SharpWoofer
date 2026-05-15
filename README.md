@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Why live an ordinary life, when you can live an extraordinary one.
+> Life comes at us in waves. We can't predict or control those waves, but we can learn to surf.
 >
-> <p>Tony Robbins</p>
+> <p>Dan Millman</p>
