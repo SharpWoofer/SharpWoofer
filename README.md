@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Life is a long lesson in humility. 
+> Engage in those actions and thoughts that nurture the good qualities you want to have.
 >
-> <p>James Matthew Barrie</p>
+> <p>Paramahansa Yogananda</p>
