@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Fresh Food Delivery for Space Station](https://www.nasa.gov/image-detail/gmt109_22_49_chris-williams_-freshfood/)
-- [Rise Goes to Washington](https://www.nasa.gov/image-detail/artemis-ii-crew-on-capitol-hill/)
-- [Perseverance Stuns in New Selfie](https://www.nasa.gov/image-detail/pia26650-watson-take-6-up-small/)
-- [NASA Astronaut Jessica Meir](https://www.nasa.gov/image-detail/jsc2025e078652-altorig/)
-- [Glowing Views from the Space Station](https://www.nasa.gov/image-detail/iss074e0521637/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Perhaps the most tragic thing about mankind is that we are all dreaming about some magical garden over the horizon, instead of enjoying the roses that are right outside today.
+> Life is a long lesson in humility. 
 >
-> <p>Andrew Carnegie</p>
+> <p>James Matthew Barrie</p>
