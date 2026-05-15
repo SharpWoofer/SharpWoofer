@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Fresh Food Delivery for Space Station](https://www.nasa.gov/image-detail/gmt109_22_49_chris-williams_-freshfood/)
-- [Rise Goes to Washington](https://www.nasa.gov/image-detail/artemis-ii-crew-on-capitol-hill/)
-- [Perseverance Stuns in New Selfie](https://www.nasa.gov/image-detail/pia26650-watson-take-6-up-small/)
-- [NASA Astronaut Jessica Meir](https://www.nasa.gov/image-detail/jsc2025e078652-altorig/)
-- [Glowing Views from the Space Station](https://www.nasa.gov/image-detail/iss074e0521637/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> If you want to see things just as they are, then you yourself must practice just as you are.
+> Engage in those actions and thoughts that nurture the good qualities you want to have.
 >
-> <p>Dogen</p>
+> <p>Paramahansa Yogananda</p>
