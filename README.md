@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> If I cannot do great things. I can do small things in a great way.
+> Animals don't hate, and we're supposed to be better than them.
 >
-> <p>Martin Luther King, Jr.</p>
+> <p>Elvis Presley</p>
