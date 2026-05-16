@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day.
+> A zen master's life is one continuous mistake.
 >
-> <p>Paulo Coelho</p>
+> <p>Dogen</p>
