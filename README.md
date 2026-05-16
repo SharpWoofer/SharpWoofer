@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> A zen master's life is one continuous mistake.
+> Go confidently in the direction of your dreams! Live the life you've imagined.
 >
-> <p>Dogen</p>
+> <p>Henry David Thoreau</p>
