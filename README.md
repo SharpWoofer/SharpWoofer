@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Curiosity Shakes Loose a Pesky Rock](https://www.nasa.gov/image-detail/pia26724/)
-- [Fresh Food Delivery for Space Station](https://www.nasa.gov/image-detail/gmt109_22_49_chris-williams_-freshfood/)
-- [Rise Goes to Washington](https://www.nasa.gov/image-detail/artemis-ii-crew-on-capitol-hill/)
-- [Perseverance Stuns in New Selfie](https://www.nasa.gov/image-detail/pia26650-watson-take-6-up-small/)
-- [NASA Astronaut Jessica Meir](https://www.nasa.gov/image-detail/jsc2025e078652-altorig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Animals don't hate, and we're supposed to be better than them.
+> Learn from the rejection and turn it into an opportunity!
 >
-> <p>Elvis Presley</p>
+> <p>Mary Engelbreit</p>
