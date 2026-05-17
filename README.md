@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> There is no failure except in no longer trying. There is no defeat except from within, no insurmountable barrier except our own inherent weakness of purpose.
+> The world is a puzzle; no need to make sense out of it.
 >
-> <p>Elbert Hubbard</p>
+> <p>Socrates</p>
