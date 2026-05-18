@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Where violence reigns, reason is weak.
+> Why live an ordinary life, when you can live an extraordinary one.
 >
-> <p>Nicolas Chamfort</p>
+> <p>Tony Robbins</p>
