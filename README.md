@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The day is for honest men, the night for thieves.
+> Whatever is begun in anger, ends in shame.
 >
-> <p>Euripides</p>
+> <p>Benjamin Franklin</p>
