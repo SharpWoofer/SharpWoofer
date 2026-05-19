@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Beacon of Light](https://www.nasa.gov/image-detail/55255325881-69941927eb-o/)
-- [Curiosity Shakes Loose a Pesky Rock](https://www.nasa.gov/image-detail/pia26724/)
-- [Fresh Food Delivery for Space Station](https://www.nasa.gov/image-detail/gmt109_22_49_chris-williams_-freshfood/)
-- [Rise Goes to Washington](https://www.nasa.gov/image-detail/artemis-ii-crew-on-capitol-hill/)
-- [Perseverance Stuns in New Selfie](https://www.nasa.gov/image-detail/pia26650-watson-take-6-up-small/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The older you get, the better you get. Unless you're a banana.
+> Success on the outside means nothing unless you also have success within.
 >
-> <p>Betty White</p>
+> <p>Robin Sharma</p>
