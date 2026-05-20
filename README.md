@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Being wrong brings the opportunity for growth.
+> Extraordinary results happen only when you give the best you have to become the best you can be at your most important work.
 >
-> <p>Mark Manson</p>
+> <p>Gary Keller</p>
