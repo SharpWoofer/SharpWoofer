@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Only the educated are free.
+> When you realize you've made a mistake, take immediate steps to correct it.
 >
-> <p>Epictetus</p>
+> <p>Dalai Lama</p>
