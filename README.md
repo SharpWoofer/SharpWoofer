@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> You may be disappointed if you fail, but you are doomed if you don't try. 
+> Nothing is impossible. The word itself says 'I'm possible!'
 >
-> <p>Beverly Sills</p>
+> <p>Audrey Hepburn</p>
