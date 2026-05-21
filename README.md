@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> I defeat my enemies when I make them my friends.
+> Our greatest glory is not in never falling but in rising every time we fall.
 >
-> <p>Dalai Lama</p>
+> <p>Confucius</p>
