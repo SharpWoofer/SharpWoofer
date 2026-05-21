@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Moon-Venus Conjunction](https://www.nasa.gov/image-detail/moon-venus-conjunction/)
-- [Beacon of Light](https://www.nasa.gov/image-detail/55255325881-69941927eb-o/)
-- [Curiosity Shakes Loose a Pesky Rock](https://www.nasa.gov/image-detail/pia26724/)
-- [Fresh Food Delivery for Space Station](https://www.nasa.gov/image-detail/gmt109_22_49_chris-williams_-freshfood/)
-- [Rise Goes to Washington](https://www.nasa.gov/image-detail/artemis-ii-crew-on-capitol-hill/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Extraordinary results happen only when you give the best you have to become the best you can be at your most important work.
+> The secret of getting ahead is getting started.
 >
-> <p>Gary Keller</p>
+> <p>Mark Twain</p>
