@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Moon-Venus Conjunction](https://www.nasa.gov/image-detail/moon-venus-conjunction/)
-- [Beacon of Light](https://www.nasa.gov/image-detail/55255325881-69941927eb-o/)
-- [Curiosity Shakes Loose a Pesky Rock](https://www.nasa.gov/image-detail/pia26724/)
-- [Fresh Food Delivery for Space Station](https://www.nasa.gov/image-detail/gmt109_22_49_chris-williams_-freshfood/)
-- [Rise Goes to Washington](https://www.nasa.gov/image-detail/artemis-ii-crew-on-capitol-hill/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> You must live in the present, launch yourself on every wave, find your eternity in each moment. Fools stand on their island of opportunities and look toward another land. There is no other land; there is no other life but this.
+> You may be disappointed if you fail, but you are doomed if you don't try. 
 >
-> <p>Henry David Thoreau</p>
+> <p>Beverly Sills</p>
