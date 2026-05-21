@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The way to get started is to quit talking and begin doing.
+> I defeat my enemies when I make them my friends.
 >
-> <p>Walt Disney</p>
+> <p>Dalai Lama</p>
