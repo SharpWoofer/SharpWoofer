@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Nothing is impossible. The word itself says 'I'm possible!'
+> Everyone must choose one of two pains: The pain of discipline or the pain of regret.
 >
-> <p>Audrey Hepburn</p>
+> <p>Jim Rohn</p>
