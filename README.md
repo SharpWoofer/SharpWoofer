@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Work harder on yourself than you do on your job.
+> Life is much more successfully looked at from a single window.
 >
-> <p>Jim Rohn</p>
+> <p>F. Scott Fitzgerald</p>
