@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Hubble Sights Galaxy in Transition](https://www.nasa.gov/image-detail/hubble-ngc1266-2-4f-flat-final-crop2-2/)
-- [Psyche Spacecraft Completes Mars Flyby](https://www.nasa.gov/image-detail/e2b-pia26775-surface-color-m4kzus7e-2/)
-- [Moon-Venus Conjunction](https://www.nasa.gov/image-detail/moon-venus-conjunction/)
-- [Beacon of Light](https://www.nasa.gov/image-detail/55255325881-69941927eb-o/)
-- [Curiosity Shakes Loose a Pesky Rock](https://www.nasa.gov/image-detail/pia26724/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> All wealth is the product of labor.
+> Work harder on yourself than you do on your job.
 >
-> <p>John Locke</p>
+> <p>Jim Rohn</p>
