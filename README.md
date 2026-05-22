@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> It is better to disappoint people with the truth than to appease them with a lie.
+> If there were no God, there would be no atheists.
 >
-> <p>Simon Sinek</p>
+> <p>Gilbert Chesterton</p>
