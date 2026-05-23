@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> To be calm is the highest achievement of the self.
+> You are not only responsible for what you say, but also for what you do not say. 
 >
-> <p>Zen Proverb</p>
+> <p>Martin Luther</p>
