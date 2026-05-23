@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> For every minute you are angry you lose sixty seconds of happiness.
+> However difficult life may seem, there is always something you can do and succeed at.
 >
-> <p>Ralph Waldo Emerson</p>
+> <p>Stephen Hawking</p>
