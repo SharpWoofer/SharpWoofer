@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Perfection is not attainable, but if we chase perfection we can catch excellence.
+> For every minute you are angry you lose sixty seconds of happiness.
 >
-> <p>Vince Lombardi</p>
+> <p>Ralph Waldo Emerson</p>
