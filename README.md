@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> You are not only responsible for what you say, but also for what you do not say. 
+> I am thankful to all those who said no. It's because of them, I did it myself.  
 >
-> <p>Martin Luther</p>
+> <p>Wayne Dyer</p>
