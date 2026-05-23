@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> I am thankful to all those who said no. It's because of them, I did it myself.  
+> Great things happen to those who don't stop believing, trying, learning, and being grateful.
 >
-> <p>Wayne Dyer</p>
+> <p>Roy T. Bennett</p>
