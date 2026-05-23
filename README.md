@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The first rule of business; treat others like they want to treat you.
+> To be calm is the highest achievement of the self.
 >
-> <p>Charles Dickens</p>
+> <p>Zen Proverb</p>
