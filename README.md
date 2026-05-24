@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Webb Studies Star Clusters](https://www.nasa.gov/image-detail/star-forming-regions-in-m51/)
-- [Hubble Sights Galaxy in Transition](https://www.nasa.gov/image-detail/hubble-ngc1266-2-4f-flat-final-crop2-2/)
-- [Psyche Spacecraft Completes Mars Flyby](https://www.nasa.gov/image-detail/e2b-pia26775-surface-color-m4kzus7e-2/)
-- [Moon-Venus Conjunction](https://www.nasa.gov/image-detail/moon-venus-conjunction/)
-- [Beacon of Light](https://www.nasa.gov/image-detail/55255325881-69941927eb-o/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Even though you are on the right track - you will get run over if you just sit there.
+> People will forget what you said, people will forget what you did, but people will never forget how you made them feel.
 >
-> <p>Will Rogers</p>
+> <p>Maya Angelou</p>
