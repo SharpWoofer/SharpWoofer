@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> To travel is to be alive, but to get somewhere is to be dead.
+> Even though you are on the right track - you will get run over if you just sit there.
 >
-> <p>Alan Watts</p>
+> <p>Will Rogers</p>
