@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> To be persuasive we must be believable; to be believable we must be credible; to be credible we must be truthful.
+> To travel is to be alive, but to get somewhere is to be dead.
 >
-> <p>David Brinkley</p>
+> <p>Alan Watts</p>
