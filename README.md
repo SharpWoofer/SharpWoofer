@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> A fear-oriented man is always calculating, planning, arranging, safeguarding. His whole life is lost in this way.
+> Difficulties strengthen the mind, as labor does the body.
 >
-> <p>Osho</p>
+> <p>Seneca</p>
