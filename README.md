@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The first man gets the oyster, the second man gets the shell.
+> A fear-oriented man is always calculating, planning, arranging, safeguarding. His whole life is lost in this way.
 >
-> <p>Andrew Carnegie</p>
+> <p>Osho</p>
