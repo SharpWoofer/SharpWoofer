@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Life is not always a matter of holding good cards, but sometimes, playing a poor hand well.
+> Friendship takes time and energy if it's going to work.
 >
-> <p>Jack London</p>
+> <p>Betty White</p>
