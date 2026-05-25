@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Difficulties strengthen the mind, as labor does the body.
+> A simple rule in dealing with those who are hard to get along with is to remember that this person is striving to assert his superiority; and you must deal with him from that point of view.
 >
-> <p>Seneca</p>
+> <p>Alfred Adler</p>
