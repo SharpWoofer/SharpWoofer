@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Failure is a great teacher. If you're open to it every mistake has a lesson to offer.
+> There's no next time. It's now or never.
 >
-> <p>Oprah Winfrey</p>
+> <p>Celestine Chua</p>
