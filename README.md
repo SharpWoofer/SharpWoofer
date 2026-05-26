@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Nothing in this universe occurs by accident.
+> Don't measure yourself by what you have accomplished, but by what you should have accomplished with your ability.
 >
-> <p>Neale Donald Walsch</p>
+> <p>John Wooden</p>
