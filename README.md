@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The season of failure is the best time for sowing the seeds of success.
+> Nothing in this universe occurs by accident.
 >
-> <p>Paramahansa Yogananda</p>
+> <p>Neale Donald Walsch</p>
