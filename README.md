@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Don't let your mind stop you.
+> Life happens in the river, not the shore.
 >
-> <p>Steve Harvey</p>
+> <p>Maxime Lagace</p>
