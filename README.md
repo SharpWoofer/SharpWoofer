@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Don't measure yourself by what you have accomplished, but by what you should have accomplished with your ability.
+> Don't let your mind stop you.
 >
-> <p>John Wooden</p>
+> <p>Steve Harvey</p>
