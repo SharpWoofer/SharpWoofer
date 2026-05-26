@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Chennai City Lights](https://www.nasa.gov/image-detail/iss074e0543247/)
-- [Webb Studies Star Clusters](https://www.nasa.gov/image-detail/star-forming-regions-in-m51/)
-- [Hubble Sights Galaxy in Transition](https://www.nasa.gov/image-detail/hubble-ngc1266-2-4f-flat-final-crop2-2/)
-- [Psyche Spacecraft Completes Mars Flyby](https://www.nasa.gov/image-detail/e2b-pia26775-surface-color-m4kzus7e-2/)
-- [Moon-Venus Conjunction](https://www.nasa.gov/image-detail/moon-venus-conjunction/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Man should fear never beginning to live.
+> Good, better, best. Never let it rest. 'Til your good is better and your better is best.
 >
-> <p>Marcus Aurelius</p>
+> <p>St. Jerome</p>
