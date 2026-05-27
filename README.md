@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> We must learn to live together as brothers or perish together as fools.
+> Everyone thinks of changing the world, but no one thinks of changing himself.
 >
-> <p>Martin Luther King, Jr.</p>
+> <p>Leo Tolstoy</p>
