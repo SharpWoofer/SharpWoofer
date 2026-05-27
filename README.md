@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Do one thing every day that scares you.
+> Never test the depth of river with both the feet.
 >
-> <p>Eleanor Roosevelt</p>
+> <p>Warren Buffett</p>
