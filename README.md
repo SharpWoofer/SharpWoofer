@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Never test the depth of river with both the feet.
+> We must learn to live together as brothers or perish together as fools.
 >
-> <p>Warren Buffett</p>
+> <p>Martin Luther King, Jr.</p>
