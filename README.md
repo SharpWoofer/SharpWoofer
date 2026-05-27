@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Students Build Moon Robots for NASA’s 2026 Lunabotics Challenge](https://www.nasa.gov/image-detail/afs-8-101-1273/)
-- [Chennai City Lights](https://www.nasa.gov/image-detail/iss074e0543247/)
-- [Webb Studies Star Clusters](https://www.nasa.gov/image-detail/star-forming-regions-in-m51/)
-- [Hubble Sights Galaxy in Transition](https://www.nasa.gov/image-detail/hubble-ngc1266-2-4f-flat-final-crop2-2/)
-- [Psyche Spacecraft Completes Mars Flyby](https://www.nasa.gov/image-detail/e2b-pia26775-surface-color-m4kzus7e-2/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> I never dwell on what happened. You can't change it. Move forward.
+> If you change the way you look at things, the things you look at change.
 >
-> <p>Joan Rivers</p>
+> <p>Wayne Dyer</p>
