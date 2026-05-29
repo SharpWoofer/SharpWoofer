@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Going Low and Slow in Testing](https://www.nasa.gov/image-detail/x-59-lbfd-flight-10-2/)
-- [Students Build Moon Robots for NASA’s 2026 Lunabotics Challenge](https://www.nasa.gov/image-detail/afs-8-101-1273/)
-- [Chennai City Lights](https://www.nasa.gov/image-detail/iss074e0543247/)
-- [Webb Studies Star Clusters](https://www.nasa.gov/image-detail/star-forming-regions-in-m51/)
-- [Hubble Sights Galaxy in Transition](https://www.nasa.gov/image-detail/hubble-ngc1266-2-4f-flat-final-crop2-2/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The harder you work, the harder it is to surrender.
+> The secret of perfect health lies in keeping the mind always cheerful - never worried, never hurried, never borne down by any fear, thought or anxiety.
 >
-> <p>Vince Lombardi</p>
+> <p>Sathya Sai Baba</p>
