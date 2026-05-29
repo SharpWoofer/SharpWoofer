@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The secret of perfect health lies in keeping the mind always cheerful - never worried, never hurried, never borne down by any fear, thought or anxiety.
+> Only those who will risk going too far can possibly find out how far one can go.
 >
-> <p>Sathya Sai Baba</p>
+> <p>T.S. Eliot</p>
