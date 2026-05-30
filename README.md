@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> I am thankful to all those who said no. It's because of them, I did it myself.
+> The source of a true smile is an awakened mind.
 >
-> <p>Wayne Dyer</p>
+> <p>Thich Nhat Hanh</p>
