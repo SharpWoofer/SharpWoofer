@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Life is but one dream flowing into another.
+> If you are lucky enough to find love, remember it is there and don't throw it away.
 >
-> <p>Ming-Dao Deng</p>
+> <p>Stephen Hawking</p>
