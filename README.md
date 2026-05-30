@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The most important thing is to enjoy your life, to be happy, it's all that matters.
+> Trying to define yourself is like trying to bite your own teeth.
 >
-> <p>Audrey Hepburn</p>
+> <p>Alan Watts</p>
