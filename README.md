@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> If you take responsibility for yourself you will develop a hunger to accomplish your dream.
+> The most important thing is to enjoy your life, to be happy, it's all that matters.
 >
-> <p>Les Brown</p>
+> <p>Audrey Hepburn</p>
