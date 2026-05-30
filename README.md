@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Death walks faster than the wind and never returns what he has taken.
+> A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty.
 >
-> <p>Hans Christian Andersen</p>
+> <p>Winston Churchill</p>
