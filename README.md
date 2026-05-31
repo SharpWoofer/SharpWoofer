@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> He who can no longer pause to wonder and stand rapt in awe, is as good as dead; his eyes are closed.
+> It isn't that they can't see the solution. It is that they can't see the problem.
 >
-> <p>Albert Einstein</p>
+> <p>Gilbert Chesterton</p>
