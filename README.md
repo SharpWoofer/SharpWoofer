@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The things I carry are my thoughts. That's it. They are the only weight. My thoughts determine whether I am free and light or burdened.
+> Be gentle with yourself. Think less and feel more. Be as happy as you can. You only have this moment.
 >
-> <p>Kamal Ravikant</p>
+> <p>Dan Millman</p>
