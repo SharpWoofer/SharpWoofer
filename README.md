@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Arise, slay thy enemies, enjoy a prosperous kingdom.
+> He who can no longer pause to wonder and stand rapt in awe, is as good as dead; his eyes are closed.
 >
-> <p>Bhagavad Gita</p>
+> <p>Albert Einstein</p>
