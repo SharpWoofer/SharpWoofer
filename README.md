@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Hubble Spies Faint Irregular Galaxy](https://www.nasa.gov/image-detail/eso490-017-1-flat-final-crop/)
-- [Going Low and Slow in Testing](https://www.nasa.gov/image-detail/x-59-lbfd-flight-10-2/)
-- [Students Build Moon Robots for NASA’s 2026 Lunabotics Challenge](https://www.nasa.gov/image-detail/afs-8-101-1273/)
-- [Chennai City Lights](https://www.nasa.gov/image-detail/iss074e0543247/)
-- [Webb Studies Star Clusters](https://www.nasa.gov/image-detail/star-forming-regions-in-m51/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> In three words I can sum up everything I've learned about life: it goes on.
+> The soul should always stand ajar, ready to welcome the ecstatic experience.
 >
-> <p>Robert Frost</p>
+> <p>Emily Dickinson</p>
