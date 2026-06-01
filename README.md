@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.
+> It is never too late to be what you might have been.
 >
-> <p>Helen Keller</p>
+> <p>George Eliot</p>
