@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Pretty in Pink](https://www.nasa.gov/image-detail/55270825152-a1118117db-o/)
-- [Hubble Spies Faint Irregular Galaxy](https://www.nasa.gov/image-detail/eso490-017-1-flat-final-crop/)
-- [Going Low and Slow in Testing](https://www.nasa.gov/image-detail/x-59-lbfd-flight-10-2/)
-- [Students Build Moon Robots for NASA’s 2026 Lunabotics Challenge](https://www.nasa.gov/image-detail/afs-8-101-1273/)
-- [Chennai City Lights](https://www.nasa.gov/image-detail/iss074e0543247/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> It is never too late to be what you might have been.
+> Each problem has a positive side.
 >
-> <p>George Eliot</p>
+> <p>Og Mandino</p>
