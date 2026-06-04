@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Don't watch the clock; do what it does. Keep going.
+> Write to help yourself, publish to help others.
 >
-> <p>Colin R. Davis</p>
+> <p>Jack Butcher</p>
