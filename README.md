@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> You can live a whole life time never being awake.
+> Do not go where the path may lead, go instead where there is no path and leave a trail.
 >
-> <p>Dan Millman</p>
+> <p>Ralph Waldo Emerson</p>
