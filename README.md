@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Journey to the Center of the Virgo Cluster](https://www.nasa.gov/image-detail/hubble-m88-potm2605a/)
-- [Look Up!](https://www.nasa.gov/image-detail/gmt137_12_00_cc-esa_sophie-adenot_dragon_docking-complete_i/)
-- [Pretty in Pink](https://www.nasa.gov/image-detail/55270825152-a1118117db-o/)
-- [Hubble Spies Faint Irregular Galaxy](https://www.nasa.gov/image-detail/eso490-017-1-flat-final-crop/)
-- [Going Low and Slow in Testing](https://www.nasa.gov/image-detail/x-59-lbfd-flight-10-2/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way.
+> What we call the beginning is often the end. And to make an end is to make a beginning. The end is where we start from.
 >
-> <p>Robert Kiyosaki</p>
+> <p>T.S. Eliot</p>
