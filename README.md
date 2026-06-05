@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> People spend too much time doing and not enough time thinking about what they should be doing.
+> Admire as much as you can. Most people do not admire enough.
 >
-> <p>Naval Ravikant</p>
+> <p>Vincent van Gogh</p>
