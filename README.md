@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> In the practice of tolerance, one's enemy is the best teacher.
+> It matters not what someone is born, but what they grow to be.
 >
-> <p>Dalai Lama</p>
+> <p>Albus Dumbledore</p>
