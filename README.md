@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [First Steps: America’s Grueling Second Spacewalk](https://www.nasa.gov/image-detail/s66-38515orig/)
-- [Colorful, Chaotic Jupiter](https://www.nasa.gov/image-detail/pia25729orig/)
-- [Journey to the Center of the Virgo Cluster](https://www.nasa.gov/image-detail/hubble-m88-potm2605a/)
-- [Look Up!](https://www.nasa.gov/image-detail/gmt137_12_00_cc-esa_sophie-adenot_dragon_docking-complete_i/)
-- [Pretty in Pink](https://www.nasa.gov/image-detail/55270825152-a1118117db-o/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> It matters not what someone is born, but what they grow to be.
+> The spirit is beyond destruction. No one can bring an end to spirit which is everlasting.
 >
-> <p>Albus Dumbledore</p>
+> <p>Bhagavad Gita</p>
