@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Every limit is a beginning as well as an ending.
+> Troubles are often the tools by which God fashions us for better things.
 >
-> <p>George Eliot</p>
+> <p>Henry Ward Beecher</p>
