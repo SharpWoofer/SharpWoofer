@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Admire as much as you can. Most people do not admire enough.
+> A fool sees himself as another, but a wise man sees others as himself.
 >
-> <p>Vincent van Gogh</p>
+> <p>Dogen</p>
