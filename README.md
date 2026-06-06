@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> A fool sees himself as another, but a wise man sees others as himself.
+> There are only encounters in history. There are no accidents.
 >
-> <p>Dogen</p>
+> <p>Pablo Picasso</p>
