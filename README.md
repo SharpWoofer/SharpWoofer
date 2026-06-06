@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> It is easy to discover what another has discovered before.
+> It is impossible for a man to learn what he thinks he already knows.
 >
-> <p>Christopher Columbus</p>
+> <p>Epictetus</p>
