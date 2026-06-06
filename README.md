@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [First Steps: America’s Grueling Second Spacewalk](https://www.nasa.gov/image-detail/s66-38515orig/)
-- [Colorful, Chaotic Jupiter](https://www.nasa.gov/image-detail/pia25729orig/)
-- [Journey to the Center of the Virgo Cluster](https://www.nasa.gov/image-detail/hubble-m88-potm2605a/)
-- [Look Up!](https://www.nasa.gov/image-detail/gmt137_12_00_cc-esa_sophie-adenot_dragon_docking-complete_i/)
-- [Pretty in Pink](https://www.nasa.gov/image-detail/55270825152-a1118117db-o/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> When one door closes another door opens.
+> Heaven is right where you are standing.
 >
-> <p>Alexander Graham Bell</p>
+> <p>Morihei Ueshiba</p>
