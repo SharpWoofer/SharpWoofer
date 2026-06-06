@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Society is composed of two great classes those who have more dinners than appetite, and those who have more appetite than dinners.
+> It is easy to discover what another has discovered before.
 >
-> <p>Nicolas Chamfort</p>
+> <p>Christopher Columbus</p>
