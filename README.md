@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Friendship is one of the most tangible things in a world which offers fewer and fewer supports.
+> Life is a succession of lessons, which must be lived to be understood.
 >
-> <p>Kenneth Branagh</p>
+> <p>Ralph Waldo Emerson</p>
