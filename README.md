@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> If you want things to be different, perhaps the answer is to become different yourself.
+> Friendship is one of the most tangible things in a world which offers fewer and fewer supports.
 >
-> <p>Norman Vincent Peale</p>
+> <p>Kenneth Branagh</p>
