@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> I alone cannot change the world, but I can cast a stone across the waters to create many ripples.
+> The friend is the man who knows all about you, and still likes you.
 >
-> <p>Mother Teresa</p>
+> <p>Elbert Hubbard</p>
