@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> A Penny Saved is a Penny Earned
+> People acting together as a group can accomplish things which no individual acting alone could ever hope to bring about.
 >
-> <p>Benjamin Franklin</p>
+> <p>Franklin D. Roosevelt</p>
