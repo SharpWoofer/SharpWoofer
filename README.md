@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Supersonic!](https://www.nasa.gov/image-detail/x59-first-supersonic-ata-02/)
-- [First Steps: America’s Grueling Second Spacewalk](https://www.nasa.gov/image-detail/s66-38515orig/)
-- [Colorful, Chaotic Jupiter](https://www.nasa.gov/image-detail/pia25729orig/)
-- [Journey to the Center of the Virgo Cluster](https://www.nasa.gov/image-detail/hubble-m88-potm2605a/)
-- [Look Up!](https://www.nasa.gov/image-detail/gmt137_12_00_cc-esa_sophie-adenot_dragon_docking-complete_i/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Trust your instincts: my first reaction is almost invariably the right one.
+> If you go out looking for friends, you're going to find they are very scarce. If you go out to be a friend, you'll find them everywhere.
 >
-> <p>Estee Lauder</p>
+> <p>Zig Ziglar</p>
