@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> There is no one giant step that does it. It's a lot of little steps.
+> Love never keeps a man from pursuing his destiny.
 >
-> <p>Peter A. Cohen</p>
+> <p>Paulo Coelho</p>
