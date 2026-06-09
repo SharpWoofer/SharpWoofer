@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Thinking is a habit, and like any other habit, it can be changed; it just takes effort and repetition.
+> Trust your instincts: my first reaction is almost invariably the right one.
 >
-> <p>John Eliot</p>
+> <p>Estee Lauder</p>
