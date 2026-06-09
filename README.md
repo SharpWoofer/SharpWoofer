@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Supersonic!](https://www.nasa.gov/image-detail/x59-first-supersonic-ata-02/)
-- [First Steps: America’s Grueling Second Spacewalk](https://www.nasa.gov/image-detail/s66-38515orig/)
-- [Colorful, Chaotic Jupiter](https://www.nasa.gov/image-detail/pia25729orig/)
-- [Journey to the Center of the Virgo Cluster](https://www.nasa.gov/image-detail/hubble-m88-potm2605a/)
-- [Look Up!](https://www.nasa.gov/image-detail/gmt137_12_00_cc-esa_sophie-adenot_dragon_docking-complete_i/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> If you go out looking for friends, you're going to find they are very scarce. If you go out to be a friend, you'll find them everywhere.
+> There is no one giant step that does it. It's a lot of little steps.
 >
-> <p>Zig Ziglar</p>
+> <p>Peter A. Cohen</p>
