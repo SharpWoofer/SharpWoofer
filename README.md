@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> I was angered, for I had no shoes. Then I met a man who had no feet.
+> Success is getting what you want, happiness is wanting what you get.
 >
-> <p>Chinese Proverb</p>
+> <p>W.P. Kinsella</p>
