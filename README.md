@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Would you rather live your life according to the approval of others or aligned with your truth and your dreams?
+> When you realize you've made a mistake, take immediate steps to correct it.
 >
-> <p>Robin Sharma</p>
+> <p>Dalai Lama</p>
