@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Artemis III Crew Announced](https://www.nasa.gov/image-detail/jsc2026e392659/)
-- [Supersonic!](https://www.nasa.gov/image-detail/x59-first-supersonic-ata-02/)
-- [First Steps: America’s Grueling Second Spacewalk](https://www.nasa.gov/image-detail/s66-38515orig/)
-- [Colorful, Chaotic Jupiter](https://www.nasa.gov/image-detail/pia25729orig/)
-- [Journey to the Center of the Virgo Cluster](https://www.nasa.gov/image-detail/hubble-m88-potm2605a/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Follow your heart, listen to your inner voice, stop caring about what others think.
+> I was angered, for I had no shoes. Then I met a man who had no feet.
 >
-> <p>Roy T. Bennett</p>
+> <p>Chinese Proverb</p>
