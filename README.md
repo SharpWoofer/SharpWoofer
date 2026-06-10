@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Choose a job you love, and you will never have to work a day in your life.
+> Follow your heart, listen to your inner voice, stop caring about what others think.
 >
-> <p>Confucius</p>
+> <p>Roy T. Bennett</p>
