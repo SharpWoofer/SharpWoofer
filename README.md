@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Soccer Meets Space Science](https://www.nasa.gov/image-detail/iss074e0349331/)
-- [Train Ride to NASA Kennedy for Artemis III Booster Segments](https://www.nasa.gov/image-detail/ng-06022026-artemis-iii-booster-segment-shipment-to-ksc-1-31large/)
-- [Artemis III Crew Announced](https://www.nasa.gov/image-detail/jsc2026e392659/)
-- [Supersonic!](https://www.nasa.gov/image-detail/x59-first-supersonic-ata-02/)
-- [First Steps: America’s Grueling Second Spacewalk](https://www.nasa.gov/image-detail/s66-38515orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> When you lose your desire for things that do not matter, you will be free.
+> The future will be shaped by those willing to commit their minds and their bodies to the task.
 >
-> <p>Morihei Ueshiba</p>
+> <p>Robert F. Kennedy</p>
