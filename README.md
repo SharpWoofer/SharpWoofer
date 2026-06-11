@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Train Ride to NASA Kennedy for Artemis III Booster Segments](https://www.nasa.gov/image-detail/ng-06022026-artemis-iii-booster-segment-shipment-to-ksc-1-31large/)
-- [Artemis III Crew Announced](https://www.nasa.gov/image-detail/jsc2026e392659/)
-- [Supersonic!](https://www.nasa.gov/image-detail/x59-first-supersonic-ata-02/)
-- [First Steps: America’s Grueling Second Spacewalk](https://www.nasa.gov/image-detail/s66-38515orig/)
-- [Colorful, Chaotic Jupiter](https://www.nasa.gov/image-detail/pia25729orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The more something scares you, the more you should do it.
+> It is in changing that we find purpose.
 >
-> <p>Mark Manson</p>
+> <p>Heraclitus</p>
