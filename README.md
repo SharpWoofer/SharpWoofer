@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Don't criticize what you can't understand.
+> When you lose your desire for things that do not matter, you will be free.
 >
-> <p>Bob Dylan</p>
+> <p>Morihei Ueshiba</p>
