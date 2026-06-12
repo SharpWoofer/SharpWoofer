@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The unthankful heart discovers no mercies; but the thankful heart will find, in every hour, some heavenly blessings.
+> If I cannot do great things. I can do small things in a great way.
 >
-> <p>Henry Ward Beecher</p>
+> <p>Martin Luther King, Jr.</p>
