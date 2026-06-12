@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Soccer Meets Space Science](https://www.nasa.gov/image-detail/iss074e0349331/)
-- [Train Ride to NASA Kennedy for Artemis III Booster Segments](https://www.nasa.gov/image-detail/ng-06022026-artemis-iii-booster-segment-shipment-to-ksc-1-31large/)
-- [Artemis III Crew Announced](https://www.nasa.gov/image-detail/jsc2026e392659/)
-- [Supersonic!](https://www.nasa.gov/image-detail/x59-first-supersonic-ata-02/)
-- [First Steps: America’s Grueling Second Spacewalk](https://www.nasa.gov/image-detail/s66-38515orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> There is nothing quite so tragic as a young cynic.
+> As a matter of fact is an expression that precedes many an expression that isn't.
 >
-> <p>Maya Angelou</p>
+> <p>Laurence J. Peter</p>
