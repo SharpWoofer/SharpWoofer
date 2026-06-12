@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> If you need inspiration, don't do it.
+> Everyday is a second chance.
 >
-> <p>Elon Musk</p>
+> <p>Unknown</p>
