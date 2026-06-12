@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The future will be shaped by those willing to commit their minds and their bodies to the task.
+> The road to success is always under construction.
 >
-> <p>Robert F. Kennedy</p>
+> <p>Steve Harvey</p>
