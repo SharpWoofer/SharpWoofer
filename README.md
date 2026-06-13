@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Whatever you think the world is withholding from you, you are withholding from the world.
+> Appear weak when you are strong, and strong when you are weak.
 >
-> <p>Eckhart Tolle</p>
+> <p>Sun Tzu</p>
