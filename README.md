@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The busy man is never wise and the wise man is never busy.
+> Obstacles can't stop you. Problems can't stop you. Most of all, other people can't stop you. Only you can stop you.
 >
-> <p>Lin Yutang</p>
+> <p>Jeffrey Gitomer</p>
