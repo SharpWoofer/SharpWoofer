@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Time is more valuable than money. You can get more money, but you cannot get more time.
+> Faith is taking the first step even when you don't see the whole staircase.
 >
-> <p>Jim Rohn</p>
+> <p>Martin Luther King, Jr.</p>
