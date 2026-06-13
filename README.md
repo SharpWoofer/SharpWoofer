@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Obstacles can't stop you. Problems can't stop you. Most of all, other people can't stop you. Only you can stop you.
+> There is an essence of when you are fearless, you become more creative.
 >
-> <p>Jeffrey Gitomer</p>
+> <p>Gurbaksh Chahal</p>
