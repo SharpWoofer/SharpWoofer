@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> No matter what happens, always be yourself.
+> Even if you're sure you can win, be careful that you can live with what you lose.
 >
-> <p>Dale Carnegie</p>
+> <p>Gary Keller</p>
