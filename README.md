@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Take the high road; it's far less crowded.
+> Every day passes whether you participate or not.
 >
-> <p>Warren Buffett</p>
+> <p>Ming-Dao Deng</p>
