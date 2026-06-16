@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Every day passes whether you participate or not.
+> Men go to far greater lengths to avoid what they fear than to obtain what they desire.
 >
-> <p>Ming-Dao Deng</p>
+> <p>Dan Brown</p>
