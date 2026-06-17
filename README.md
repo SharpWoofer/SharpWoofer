@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The power of human thought grows exponentially with the number of minds that share that thought.
+> Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.
 >
-> <p>Dan Brown</p>
+> <p>Lao Tzu</p>
