@@ -13,7 +13,11 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Aurora Australis](https://www.nasa.gov/image-detail/iss074e0672727/)
+- [San Francisco&#39;s Patchwork Streets](https://www.nasa.gov/image-detail/iss074-e-619284-lrg/)
+- [Black Eye Galaxy](https://www.nasa.gov/image-detail/55158722798-9bb0f41f19-o/)
+- [Soccer Meets Space Science](https://www.nasa.gov/image-detail/iss074e0349331/)
+- [Train Ride to NASA Kennedy for Artemis III Booster Segments](https://www.nasa.gov/image-detail/ng-06022026-artemis-iii-booster-segment-shipment-to-ksc-1-31large/)
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
