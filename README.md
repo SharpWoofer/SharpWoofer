@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The trouble with the rat race is that even if you win, you're still a rat.
+> The more you are motivated by Love, The more Fearless & Free your action will be.
 >
-> <p>Lily Tomlin</p>
+> <p>Dalai Lama</p>
