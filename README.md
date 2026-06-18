@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Manifest plainness, embrace simplicity, reduce selfishness, have few desires.
+> You don't have to move mountains. You'll change the world simply by being a warm, kind-hearted human being.
 >
-> <p>Lao Tzu</p>
+> <p>Anita Krizzan</p>
