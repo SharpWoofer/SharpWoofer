@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Some people don't like change, but you need to embrace change if the alternative is disaster.
+> I know not all that may be coming, but be it what it will, I'll go to it laughing.
 >
-> <p>Elon Musk</p>
+> <p>Herman Melville</p>
