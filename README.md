@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Hubble Sees Swarm of Galaxies](https://www.nasa.gov/image-detail/macs0329-0211-sky-sreg-flat-final/)
-- [Aurora Australis](https://www.nasa.gov/image-detail/iss074e0672727/)
-- [San Francisco&#39;s Patchwork Streets](https://www.nasa.gov/image-detail/iss074-e-619284-lrg/)
-- [Black Eye Galaxy](https://www.nasa.gov/image-detail/55158722798-9bb0f41f19-o/)
-- [Soccer Meets Space Science](https://www.nasa.gov/image-detail/iss074e0349331/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> You don't have to move mountains. You'll change the world simply by being a warm, kind-hearted human being.
+> The trouble with the rat race is that even if you win, you're still a rat.
 >
-> <p>Anita Krizzan</p>
+> <p>Lily Tomlin</p>
