@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> There is a big difference between being centered and being self-centered.
+> The measure of wisdom is how calm you are when facing any given situation.
 >
-> <p>Lolly Daskal</p>
+> <p>Naval Ravikant</p>
