@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> It is in the darkness that one finds the light.
+> Better to die fighting for freedom than be a prisoner all the days of your life.
 >
-> <p>Meister Eckhart</p>
+> <p>Bob Marley</p>
