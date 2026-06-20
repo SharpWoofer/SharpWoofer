@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> One of the really tough things is figuring out what questions to ask. Once you figure out the question, then the answer is relatively easy.
+> Let my soul smile through my heart and my heart smile through my eyes, that I may scatter rich smiles in sad hearts.
 >
-> <p>Elon Musk</p>
+> <p>Paramahansa Yogananda</p>
