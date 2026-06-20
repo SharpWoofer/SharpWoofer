@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The only thing worse than being blind is having sight but no vision.
+> Integrity is the ability to stand by an idea.
 >
-> <p>Helen Keller</p>
+> <p>Ayn Rand</p>
