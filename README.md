@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Let my soul smile through my heart and my heart smile through my eyes, that I may scatter rich smiles in sad hearts.
+> Life is the art of drawing sufficient conclusions from insufficient premises.
 >
-> <p>Paramahansa Yogananda</p>
+> <p>Samuel Butler</p>
