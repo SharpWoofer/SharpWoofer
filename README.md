@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> There is no such thing as a great talent without great willpower.
+> The power of man has grown in every sphere, except over himself.
 >
-> <p>Honore de Balzac</p>
+> <p>Winston Churchill</p>
