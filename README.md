@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Projecting your mind into a successful situation is the most powerful means to achieve goals.
+> Happiness is the meaning and the purpose of life, the whole aim and end of human existence.
 >
-> <p>Estee Lauder</p>
+> <p>Aristotle</p>
