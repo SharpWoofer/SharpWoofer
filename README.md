@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Life is the art of drawing sufficient conclusions from insufficient premises.
+> Every man desires to live long, but no man wishes to be old.
 >
-> <p>Samuel Butler</p>
+> <p>Jonathan Swift</p>
