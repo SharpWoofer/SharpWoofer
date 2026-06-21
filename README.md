@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Every man desires to live long, but no man wishes to be old.
+> Just because something isn't a lie does not mean that it isn't deceptive.
 >
-> <p>Jonathan Swift</p>
+> <p>Criss Jami</p>
