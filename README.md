@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Leadership is solving problems
+> Quiet people have the loudest minds.
 >
-> <p>Colin Powell</p>
+> <p>Stephen Hawking</p>
