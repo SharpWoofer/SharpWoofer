@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Riches don't make a man rich, they only make him busier.
+> The only limits in your life are those that you set yourself.
 >
-> <p>Christopher Columbus</p>
+> <p>Celestine Chua</p>
