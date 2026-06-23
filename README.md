@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Hanging in the Balance](https://www.nasa.gov/image-detail/art002e024603/)
-- [NASA&#39;s Chandra Finds Possible Supernova Remnant](https://www.nasa.gov/image-detail/sgrc-lg/)
-- [Stages of Star Formation](https://www.nasa.gov/image-detail/webb-unveils-young-stars-across-every-stage-of-formation/)
-- [Hubble Sees Swarm of Galaxies](https://www.nasa.gov/image-detail/macs0329-0211-sky-sreg-flat-final/)
-- [Aurora Australis](https://www.nasa.gov/image-detail/iss074e0672727/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> We cannot expect to be happy always... by experiencing evil as well as good we become wise.
+> If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher.
 >
-> <p>Hans Christian Andersen</p>
+> <p>Pema Chodron</p>
