@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> A minute's success pays the failure of years.
+> If you have only one smile in you give it to the people you love.
 >
-> <p>Robert Browning</p>
+> <p>Maya Angelou</p>
