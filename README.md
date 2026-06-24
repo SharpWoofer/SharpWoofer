@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> From a certain point onward there is no longer any turning back. That is the point that must be reached.
+> The clock indicates the moment...but what does eternity indicate?
 >
-> <p>Franz Kafka</p>
+> <p>Walt Whitman</p>
