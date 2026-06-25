@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Do you have the patience to wait until your mud settles and the water is clear?
+> A random act of kindness, no matter how small, can make a tremendous impact on someone else's life.
 >
-> <p>Lao Tzu</p>
+> <p>Roy T. Bennett</p>
