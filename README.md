@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Roman Telescope Comes to Kennedy](https://www.nasa.gov/image-detail/afs-8-101-1289/)
-- [Hanging in the Balance](https://www.nasa.gov/image-detail/art002e024603/)
-- [NASA&#39;s Chandra Finds Possible Supernova Remnant](https://www.nasa.gov/image-detail/sgrc-lg/)
-- [Stages of Star Formation](https://www.nasa.gov/image-detail/webb-unveils-young-stars-across-every-stage-of-formation/)
-- [Hubble Sees Swarm of Galaxies](https://www.nasa.gov/image-detail/macs0329-0211-sky-sreg-flat-final/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it.
+> Magic is believing in yourself, if you can do that, you can make anything happen.
 >
-> <p>George Eliot</p>
+> <p>Johann Wolfgang von Goethe</p>
