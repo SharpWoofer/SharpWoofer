@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Millions of Stars in Cigar Galaxy](https://www.nasa.gov/image-detail/starburst-galaxy-m82-webb-and-hubble-image/)
-- [Roman Telescope Comes to Kennedy](https://www.nasa.gov/image-detail/afs-8-101-1289/)
-- [Hanging in the Balance](https://www.nasa.gov/image-detail/art002e024603/)
-- [NASA&#39;s Chandra Finds Possible Supernova Remnant](https://www.nasa.gov/image-detail/sgrc-lg/)
-- [Stages of Star Formation](https://www.nasa.gov/image-detail/webb-unveils-young-stars-across-every-stage-of-formation/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Fear of death is fear of surrender to Infinity. Learn to surrender, to exist at Infinity while alive, and fear of death dissolves.
+> We have a choice everyday regarding the attitude we will embrace for that day.
 >
-> <p>Adi Da Samraj</p>
+> <p>Charles Swindoll</p>
