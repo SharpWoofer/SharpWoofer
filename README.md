@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Learn the rules like a pro, so you can break them like an artist.
+> Normal is the average of deviance.
 >
-> <p>Pablo Picasso</p>
+> <p>Rita Mae Brown</p>
