@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails.
+> Learn the rules like a pro, so you can break them like an artist.
 >
-> <p>Colin R. Davis</p>
+> <p>Pablo Picasso</p>
