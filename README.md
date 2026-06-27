@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Even the smallest person can change the course of the future.
+> Experience is simply the name we give our mistakes.
 >
-> <p>J.R.R. Tolkien</p>
+> <p>Oscar Wilde</p>
