@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Euclid Sees Heart of Milky Way](https://www.nasa.gov/image-detail/euclid-s-view-of-our-galaxy-s-bulge/)
-- [Millions of Stars in Cigar Galaxy](https://www.nasa.gov/image-detail/starburst-galaxy-m82-webb-and-hubble-image/)
-- [Roman Telescope Comes to Kennedy](https://www.nasa.gov/image-detail/afs-8-101-1289/)
-- [Hanging in the Balance](https://www.nasa.gov/image-detail/art002e024603/)
-- [NASA&#39;s Chandra Finds Possible Supernova Remnant](https://www.nasa.gov/image-detail/sgrc-lg/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Words without actions are the assassins of idealism.
+> Society is composed of two great classes those who have more dinners than appetite, and those who have more appetite than dinners.
 >
-> <p>Herbert Hoover</p>
+> <p>Nicolas Chamfort</p>
