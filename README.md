@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Society is composed of two great classes those who have more dinners than appetite, and those who have more appetite than dinners.
+> A man with outward courage dares to die: a man with inner courage dares to live.
 >
-> <p>Nicolas Chamfort</p>
+> <p>Lao Tzu</p>
