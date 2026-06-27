@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Euclid Sees Heart of Milky Way](https://www.nasa.gov/image-detail/euclid-s-view-of-our-galaxy-s-bulge/)
-- [Millions of Stars in Cigar Galaxy](https://www.nasa.gov/image-detail/starburst-galaxy-m82-webb-and-hubble-image/)
-- [Roman Telescope Comes to Kennedy](https://www.nasa.gov/image-detail/afs-8-101-1289/)
-- [Hanging in the Balance](https://www.nasa.gov/image-detail/art002e024603/)
-- [NASA&#39;s Chandra Finds Possible Supernova Remnant](https://www.nasa.gov/image-detail/sgrc-lg/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Experience is simply the name we give our mistakes.
+> It is not what we get. But who we become, what we contribute... that gives meaning to our lives.
 >
-> <p>Oscar Wilde</p>
+> <p>Tony Robbins</p>
