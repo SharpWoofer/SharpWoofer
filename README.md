@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> There are three classes of people: those who see. Those who see when they are shown. Those who do not see.
+> Waste not fresh tears over old griefs.
 >
-> <p>Leonardo da Vinci</p>
+> <p>Euripides</p>
