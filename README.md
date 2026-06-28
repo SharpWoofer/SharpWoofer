@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> We should not look back unless it is to derive useful lessons from past errors.
+> Successful people do what unsuccessful people are not willing to do.
 >
-> <p>George Washington</p>
+> <p>Jim Rohn</p>
