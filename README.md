@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> It is not what we get. But who we become, what we contribute... that gives meaning to our lives.
+> The secret of change is to focus all your energy not on fighting the old, but on building the new.
 >
-> <p>Tony Robbins</p>
+> <p>Colin R. Davis</p>
