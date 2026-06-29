@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA Astronaut Chris Williams Preps for Spacewalk](https://www.nasa.gov/image-detail/iss074e0760514/)
-- [Euclid Sees Heart of Milky Way](https://www.nasa.gov/image-detail/euclid-s-view-of-our-galaxy-s-bulge/)
-- [Millions of Stars in Cigar Galaxy](https://www.nasa.gov/image-detail/starburst-galaxy-m82-webb-and-hubble-image/)
-- [Roman Telescope Comes to Kennedy](https://www.nasa.gov/image-detail/afs-8-101-1289/)
-- [Hanging in the Balance](https://www.nasa.gov/image-detail/art002e024603/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Fallacies do not cease to be fallacies because they become fashions.
+> Animals don't hate, and we're supposed to be better than them.
 >
-> <p>Gilbert Chesterton</p>
+> <p>Elvis Presley</p>
