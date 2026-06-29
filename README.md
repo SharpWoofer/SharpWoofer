@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> There are two things a person should never be angry at, what they can help, and what they cannot.
+> What a liberation to realize that 'the voice in my head' is not who I am. Who am I then? The one who sees that.
 >
-> <p>Plato</p>
+> <p>Eckhart Tolle</p>
