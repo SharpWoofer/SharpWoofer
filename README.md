@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Take away love and our earth is a tomb.
+> Fallacies do not cease to be fallacies because they become fashions.
 >
-> <p>Robert Browning</p>
+> <p>Gilbert Chesterton</p>
