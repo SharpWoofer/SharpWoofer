@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> When you are totally at peace with yourself, nothing can shake you.
+> It ain't where you start in life, it's where you end up, and what you did along the way.
 >
-> <p>Deepam Chaterjee</p>
+> <p>Colin Powell</p>
