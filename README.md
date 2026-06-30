@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Giving is living. If you stop wanting to give, there's nothing more to live for.
+> It's the little things done consistently over time, straight from your heart, that have the greatest impact.
 >
-> <p>Audrey Hepburn</p>
+> <p>Unknown</p>
