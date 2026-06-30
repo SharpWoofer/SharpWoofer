@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA Astronaut Chris Williams Preps for Spacewalk](https://www.nasa.gov/image-detail/iss074e0760514/)
-- [Euclid Sees Heart of Milky Way](https://www.nasa.gov/image-detail/euclid-s-view-of-our-galaxy-s-bulge/)
-- [Millions of Stars in Cigar Galaxy](https://www.nasa.gov/image-detail/starburst-galaxy-m82-webb-and-hubble-image/)
-- [Roman Telescope Comes to Kennedy](https://www.nasa.gov/image-detail/afs-8-101-1289/)
-- [Hanging in the Balance](https://www.nasa.gov/image-detail/art002e024603/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> It ain't where you start in life, it's where you end up, and what you did along the way.
+> Among the things you can give and still keep are your word, a smile, and a grateful heart.
 >
-> <p>Colin Powell</p>
+> <p>Zig Ziglar</p>
