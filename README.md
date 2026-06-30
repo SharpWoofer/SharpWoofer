@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> We are all self-made, but only the successful will admit it.
+> Giving is living. If you stop wanting to give, there's nothing more to live for.
 >
-> <p>Earl Nightingale</p>
+> <p>Audrey Hepburn</p>
