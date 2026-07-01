@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> We learn by pushing ourselves and finding what really lies at the outer reaches of our abilities.
+> Obstacles don't block the path, they are the path.
 >
-> <p>Josh Waitzkin</p>
+> <p>Zen Proverb</p>
