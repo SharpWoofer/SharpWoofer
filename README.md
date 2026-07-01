@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Obstacles don't block the path, they are the path.
+> Peace is not absence of conflict, it is the ability to handle conflict by peaceful means.
 >
-> <p>Zen Proverb</p>
+> <p>Ronald Reagan</p>
