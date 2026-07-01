@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Peace is not absence of conflict, it is the ability to handle conflict by peaceful means.
+> If you want peace, accept. If you want suffering, expect.
 >
-> <p>Ronald Reagan</p>
+> <p>Maxime Lagace</p>
