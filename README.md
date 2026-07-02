@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Many people will walk in and out of your life, but only true friends will leave footprints in your heart.
+> Words used to attract the dull of wit are not to be relied on.
 >
-> <p>Eleanor Roosevelt</p>
+> <p>Huang Po</p>
