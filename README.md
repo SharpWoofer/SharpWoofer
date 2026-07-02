@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> We lie the loudest when we lie to ourselves.
+> Living a life that has a greater purpose and living up to it is the ultimate degree that we should strive for.
 >
-> <p>Eric Hoffer</p>
+> <p>Gurbaksh Chahal</p>
