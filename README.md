@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> There is an essence of when you are fearless, you become more creative.
+> It's easy to wish for health when you're sick.  When you're doing well, you need just as much vigilance.
 >
-> <p>Gurbaksh Chahal</p>
+> <p>Kamal Ravikant</p>
