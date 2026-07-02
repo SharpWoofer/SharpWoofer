@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Care about what other people think and you will always be their prisoner.
+> There is an essence of when you are fearless, you become more creative.
 >
-> <p>Lao Tzu</p>
+> <p>Gurbaksh Chahal</p>
