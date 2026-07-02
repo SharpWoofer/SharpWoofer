@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> 20 percent of your activities will account for 80 percent of your results.
+> We lie the loudest when we lie to ourselves.
 >
-> <p>Brian Tracy</p>
+> <p>Eric Hoffer</p>
