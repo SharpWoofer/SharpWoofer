@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> It's the job that's never started that takes the longest to finish.
+> You live by what you thrill to, and there's the end of it.
 >
-> <p>J.R.R. Tolkien</p>
+> <p>D. H. Lawrence</p>
