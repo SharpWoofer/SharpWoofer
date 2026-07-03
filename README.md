@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> A heart is not judged by how much you love, but by how much you are loved by others.
+> A wise man can learn more from a foolish question than a fool can learn from a wise answer.
 >
-> <p>Judy Garland</p>
+> <p>Bruce Lee</p>
