@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Good Morning, Earth!](https://www.nasa.gov/image-detail/iss074e0779393/)
-- [LINK Spacecraft Set for Mission to Boost NASA&#39;s Swift Observatory](https://www.nasa.gov/image-detail/stargazer-aircraft-with-link-spacecraft-at-nasa-wallops/)
-- [Starry Chandelier Cluster](https://www.nasa.gov/image-detail/55357496142-295d2a4b87-o/)
-- [NASA Astronaut Chris Williams Preps for Spacewalk](https://www.nasa.gov/image-detail/iss074e0760514/)
-- [Euclid Sees Heart of Milky Way](https://www.nasa.gov/image-detail/euclid-s-view-of-our-galaxy-s-bulge/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> A wise man can learn more from a foolish question than a fool can learn from a wise answer.
+> An inch of time is an inch of gold but you can't buy that inch of time with an inch of gold.
 >
-> <p>Bruce Lee</p>
+> <p>Chinese Proverb</p>
