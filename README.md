@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> It's easy to wish for health when you're sick.  When you're doing well, you need just as much vigilance.
+> A person without a sense of humor is like a wagon without springs, jolted by every pebble in the road.
 >
-> <p>Kamal Ravikant</p>
+> <p>Henry Ward Beecher</p>
