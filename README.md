@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> A real friend is one who walks in when the rest of the world walks out.
+> There's no next time. It's now or never.
 >
-> <p>Unknown</p>
+> <p>Celestine Chua</p>
