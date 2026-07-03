@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> You live by what you thrill to, and there's the end of it.
+> A man with outward courage dares to die: a man with inner courage dares to live.
 >
-> <p>D. H. Lawrence</p>
+> <p>Lao Tzu</p>
