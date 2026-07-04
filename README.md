@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> It takes 20 years to build a reputation and five minutes to ruin it.
+> If it entertains you now but will bore you someday, it's a distraction. Keep looking.
 >
-> <p>Warren Buffett</p>
+> <p>Naval Ravikant</p>
