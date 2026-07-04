@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> There is no fear for one whose mind is not filled with desires.
+> Make your mind your own business.
 >
-> <p>Buddha</p>
+> <p>Jack Butcher</p>
