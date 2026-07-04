@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Tomorrow is only found in the calendar of fools.
+> Be mindful. Be grateful. Be positive. Be true. Be kind.
 >
-> <p>Og Mandino</p>
+> <p>Roy T. Bennett</p>
