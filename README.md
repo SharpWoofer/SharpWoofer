@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Any fool can turn a blind eye but who knows what the ostrich sees in the sand.
+> Tomorrow is only found in the calendar of fools.
 >
-> <p>Samuel Beckett</p>
+> <p>Og Mandino</p>
