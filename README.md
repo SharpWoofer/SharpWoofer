@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The people who are most successful are those who are doing what they love.
+> Any fool can turn a blind eye but who knows what the ostrich sees in the sand.
 >
-> <p>Warren Buffett</p>
+> <p>Samuel Beckett</p>
