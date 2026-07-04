@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Everything you've ever wanted is on the other side of fear.
+> Fear is what stops you. Courage is what keeps you going.
 >
-> <p>Brian Tracy</p>
+> <p>Unknown</p>
