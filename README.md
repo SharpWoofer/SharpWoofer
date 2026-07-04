@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Good Morning, Earth!](https://www.nasa.gov/image-detail/iss074e0779393/)
-- [LINK Spacecraft Set for Mission to Boost NASA&#39;s Swift Observatory](https://www.nasa.gov/image-detail/stargazer-aircraft-with-link-spacecraft-at-nasa-wallops/)
-- [Starry Chandelier Cluster](https://www.nasa.gov/image-detail/55357496142-295d2a4b87-o/)
-- [NASA Astronaut Chris Williams Preps for Spacewalk](https://www.nasa.gov/image-detail/iss074e0760514/)
-- [Euclid Sees Heart of Milky Way](https://www.nasa.gov/image-detail/euclid-s-view-of-our-galaxy-s-bulge/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> If you run you stand a chance of losing, but if you don't run you've already lost.
+> There is no fear for one whose mind is not filled with desires.
 >
-> <p>Barack Obama</p>
+> <p>Buddha</p>
