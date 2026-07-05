@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The measure of who we are is what we do with what we have.
+> The future belongs to those who learn more skills and combine them in creative ways.
 >
-> <p>Vince Lombardi</p>
+> <p>Robert Greene</p>
