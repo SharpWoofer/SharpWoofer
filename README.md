@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The future belongs to those who learn more skills and combine them in creative ways.
+> Do not fear failure but rather fear not trying.
 >
-> <p>Robert Greene</p>
+> <p>Roy T. Bennett</p>
