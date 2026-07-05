@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> You'll never find rainbows if you're looking down.
+> Surround yourself with people who take their work seriously, but not themselves, those who work hard and play hard.
 >
-> <p>Charlie Chaplin</p>
+> <p>Colin Powell</p>
