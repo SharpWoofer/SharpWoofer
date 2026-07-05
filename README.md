@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> You cannot find peace by avoiding life.
+> The most effective way to do it, is to do it.
 >
-> <p>Virginia Woolf</p>
+> <p>Amelia Earhart</p>
