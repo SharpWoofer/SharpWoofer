@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> When you are able to employ your will always for constructive purposes, you become the controller of your destiny.
+> The temptation to give up is strongest just before victory.
 >
-> <p>Paramahansa Yogananda</p>
+> <p>Zen Proverb</p>
