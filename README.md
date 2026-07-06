@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Life needs to be more than just solving problems every day. You need to wake up and be excited about the future.
+> Rich people have small TVs and big libraries, and poor people have small libraries and big TVs.
 >
-> <p>Elon Musk</p>
+> <p>Zig Ziglar</p>
