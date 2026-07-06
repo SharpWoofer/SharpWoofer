@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> There is no absolute success in the world, only constant progress.
+> Power is not what we do but what we do not - hasty and unwise actions that we repeat every day and which ultimately bring us into trouble.
 >
-> <p>Jonathan Swift</p>
+> <p>Robert Greene</p>
