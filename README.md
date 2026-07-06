@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The only difference between success and failure is the ability to take action.
+> You've got to get up every morning with determination if you're going to go to bed with satisfaction.
 >
-> <p>Alexander Graham Bell</p>
+> <p>George Lorimer</p>
