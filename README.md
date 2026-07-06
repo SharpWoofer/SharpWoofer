@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> You've got to get up every morning with determination if you're going to go to bed with satisfaction.
+> Life needs to be more than just solving problems every day. You need to wake up and be excited about the future.
 >
-> <p>George Lorimer</p>
+> <p>Elon Musk</p>
