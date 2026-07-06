@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Although the world is full of suffering, it is also full of the overcoming of it.
+> Be not glad at the misfortune of another, though he may be your enemy.
 >
-> <p>Helen Keller</p>
+> <p>George Washington</p>
