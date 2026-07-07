@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Who you are is defined by what you're willing to struggle for.
+> Action may not always bring happiness, but there is no happiness without action.
 >
-> <p>Mark Manson</p>
+> <p>William James</p>
