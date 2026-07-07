@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA Takes Flight For America&#39;s 250th](https://www.nasa.gov/image-detail/nasa-at-the-great-american-state-fair/)
-- [Good Morning, Earth!](https://www.nasa.gov/image-detail/iss074e0779393/)
-- [LINK Spacecraft Set for Mission to Boost NASA&#39;s Swift Observatory](https://www.nasa.gov/image-detail/stargazer-aircraft-with-link-spacecraft-at-nasa-wallops/)
-- [Starry Chandelier Cluster](https://www.nasa.gov/image-detail/55357496142-295d2a4b87-o/)
-- [NASA Astronaut Chris Williams Preps for Spacewalk](https://www.nasa.gov/image-detail/iss074e0760514/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Power is not what we do but what we do not - hasty and unwise actions that we repeat every day and which ultimately bring us into trouble.
+> Today I begin a new life. I will greet this day with love in my heart.
 >
-> <p>Robert Greene</p>
+> <p>Og Mandino</p>
