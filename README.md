@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Action may not always bring happiness, but there is no happiness without action.
+> Life is about not knowing and then doing something anyway.
 >
-> <p>William James</p>
+> <p>Mark Manson</p>
