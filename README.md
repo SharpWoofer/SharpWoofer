@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Resentment or grudges do no harm to the person against whom you hold these feelings but every day and every night of your life, they are eating at you.
+> The only way it gets better for you is when you get better. Better is not something you wish, it's something you become.
 >
-> <p>Norman Vincent Peale</p>
+> <p>Jim Rohn</p>
