@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Today I begin a new life. I will greet this day with love in my heart.
+> Resentment or grudges do no harm to the person against whom you hold these feelings but every day and every night of your life, they are eating at you.
 >
-> <p>Og Mandino</p>
+> <p>Norman Vincent Peale</p>
