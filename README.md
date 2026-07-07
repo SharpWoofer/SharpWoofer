@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Life is about not knowing and then doing something anyway.
+> We need a backbone, not a wishbone.
 >
-> <p>Mark Manson</p>
+> <p>Joyce Meyer</p>
