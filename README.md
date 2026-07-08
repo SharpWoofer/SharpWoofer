@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The way to move out of judgement is to move into gratitude.
+> There are two ways of seeing: with the body and with the soul. The body's sight can sometimes forget, but the soul remembers forever.
 >
-> <p>Neale Donald Walsch</p>
+> <p>Alexandre Dumas</p>
