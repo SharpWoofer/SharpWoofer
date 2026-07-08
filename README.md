@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Remember to look up at the stars and not down at your feet.
+> Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.
 >
-> <p>Stephen Hawking</p>
+> <p>Samuel Beckett</p>
