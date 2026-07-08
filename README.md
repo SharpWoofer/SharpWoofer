@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> If you pick up a starving dog and make him prosperous he will not bite you. This is the principal difference between a dog and man.
+> Remember to look up at the stars and not down at your feet.
 >
-> <p>Mark Twain</p>
+> <p>Stephen Hawking</p>
