@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> I am not what happened to me, I am what I choose to become.
+> Never be bored, and you will never be boring.
 >
-> <p>Carl Jung</p>
+> <p>Eleanor Roosevelt</p>
