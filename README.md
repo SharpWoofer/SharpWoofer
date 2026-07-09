@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Integrity is the ability to stand by an idea.
+> Little by little, one travels far.
 >
-> <p>Ayn Rand</p>
+> <p>J.R.R. Tolkien</p>
