@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> We become brave by doing brave acts.
+> I know not all that may be coming, but be it what it will, I'll go to it laughing.
 >
-> <p>Aristotle</p>
+> <p>Herman Melville</p>
