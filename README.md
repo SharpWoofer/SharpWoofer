@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers.
+> Integrity is the ability to stand by an idea.
 >
-> <p>Amelia Earhart</p>
+> <p>Ayn Rand</p>
