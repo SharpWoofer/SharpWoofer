@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Curiosity Sees Martian Sulfur Up Close](https://www.nasa.gov/image-detail/nasa-iotd-curiosity-takes-a-close-look-at-martian-sulfur-crystals/)
-- [Hubble Captures Star-Studded Cluster](https://www.nasa.gov/image-detail/hubble-m3-july4-final/)
-- [Artemis II Crew and Apollo 14 Moon Tree](https://www.nasa.gov/image-detail/jsc2026e396761/)
-- [NASA Takes Flight For America&#39;s 250th](https://www.nasa.gov/image-detail/nasa-at-the-great-american-state-fair/)
-- [Good Morning, Earth!](https://www.nasa.gov/image-detail/iss074e0779393/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Formal education will make you a living, self-education will make you a fortune.
+> To accomplish big things, I am convinced you must first dream big dreams.
 >
-> <p>Jim Rohn</p>
+> <p>Conrad Hilton</p>
