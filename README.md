@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The only thing we have to fear is fear itself.
+> Each day your life grows a day shorter. Make every move count.
 >
-> <p>Franklin D. Roosevelt</p>
+> <p>Ming-Dao Deng</p>
