@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The only way it gets better for you is when you get better. Better is not something you wish, it's something you become.
+> Knowing yourself is the beginning of all wisdom.
 >
-> <p>Jim Rohn</p>
+> <p>Aristotle</p>
