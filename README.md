@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> It is our experiences that mold us into who we are...during times of adversity our true character will show.
+> Life is about accepting the challenges along the way, choosing to keep moving forward, and savoring the journey.
 >
-> <p>Unknown</p>
+> <p>Roy T. Bennett</p>
