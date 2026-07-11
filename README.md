@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> People have the illusion that all over the world, all the time, all kinds of fantastic things are happening.
+> The primary point of this existence is to live, and all living things move and grow.
 >
-> <p>David Brinkley</p>
+> <p>Ming-Dao Deng</p>
