@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The primary point of this existence is to live, and all living things move and grow.
+> Enthusiasm makes up for a host of deficiencies.
 >
-> <p>Ming-Dao Deng</p>
+> <p>Barack Obama</p>
