@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Waxing Gibbous Moon](https://www.nasa.gov/image-detail/gmt177_ehdc1/)
-- [Curiosity Sees Martian Sulfur Up Close](https://www.nasa.gov/image-detail/nasa-iotd-curiosity-takes-a-close-look-at-martian-sulfur-crystals/)
-- [Hubble Captures Star-Studded Cluster](https://www.nasa.gov/image-detail/hubble-m3-july4-final/)
-- [Artemis II Crew and Apollo 14 Moon Tree](https://www.nasa.gov/image-detail/jsc2026e396761/)
-- [NASA Takes Flight For America&#39;s 250th](https://www.nasa.gov/image-detail/nasa-at-the-great-american-state-fair/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The primary point of this existence is to live, and all living things move and grow.
+> Your conscience is the measure of the honesty of your selfishness. Listen to it carefully.
 >
-> <p>Ming-Dao Deng</p>
+> <p>Richard Bach</p>
