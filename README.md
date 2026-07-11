@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> You can have it all. You just can't have it all at once.
+> People have the illusion that all over the world, all the time, all kinds of fantastic things are happening.
 >
-> <p>Oprah Winfrey</p>
+> <p>David Brinkley</p>
