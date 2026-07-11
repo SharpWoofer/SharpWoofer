@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Each day your life grows a day shorter. Make every move count.
+> The only way it gets better for you is when you get better. Better is not something you wish, it's something you become.
 >
-> <p>Ming-Dao Deng</p>
+> <p>Jim Rohn</p>
