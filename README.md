@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Life is about accepting the challenges along the way, choosing to keep moving forward, and savoring the journey.
+> You can have it all. You just can't have it all at once.
 >
-> <p>Roy T. Bennett</p>
+> <p>Oprah Winfrey</p>
