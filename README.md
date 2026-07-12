@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Success is not what you do when you are on top.  Success is how high you bounce when you hit the bottom.
+> The biggest and only critic lives in your perception of people's perception of you rather than people's perception of you.
 >
-> <p>Sonia Ricotti</p>
+> <p>Criss Jami</p>
