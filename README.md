@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The secret of change is to focus all your energy not on fighting the old, but on building the new.
+> Life is a balance of holding on and letting go.
 >
-> <p>Dan Millman</p>
+> <p>Rumi</p>
