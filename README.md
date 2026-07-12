@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> But better die than live mechanically a life that is a repetition of repetitions.
+> If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.
 >
-> <p>D. H. Lawrence</p>
+> <p>Barack Obama</p>
