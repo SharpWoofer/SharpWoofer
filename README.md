@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Inspire yourself to be great. Being good isn't good enough.
+> Success is not what you do when you are on top.  Success is how high you bounce when you hit the bottom.
 >
-> <p>Gurbaksh Chahal</p>
+> <p>Sonia Ricotti</p>
