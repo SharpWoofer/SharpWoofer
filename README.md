@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Creative people are often found either disagreeable or intimidating by mediocrities.
+> Exceptional thinkers ignore their critics and go about their business making history.
 >
-> <p>Criss Jami</p>
+> <p>John Eliot</p>
