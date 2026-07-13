@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The real meditation is how you live your life.
+> A journey of a thousand miles must begin with a single step.
 >
-> <p>Jon Kabat-Zinn</p>
+> <p>Lao Tzu</p>
