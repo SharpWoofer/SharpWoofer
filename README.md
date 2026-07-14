@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Where violence reigns, reason is weak.
+> Do not save what is left after spending, but spend what is left after saving.
 >
-> <p>Nicolas Chamfort</p>
+> <p>Warren Buffett</p>
