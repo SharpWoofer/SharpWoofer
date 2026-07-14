@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Do not save what is left after spending, but spend what is left after saving.
+> Knowledge has to be improved, challenged, and increased constantly, or it vanishes.
 >
-> <p>Warren Buffett</p>
+> <p>Peter Drucker</p>
