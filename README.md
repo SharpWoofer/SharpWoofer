@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Elegance does not consist in putting on a new dress.
+> When you rise in the morning, form a resolution to make the day a happy one for a fellow creature.
 >
-> <p>Coco Chanel</p>
+> <p>Sydney Smith</p>
