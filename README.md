@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA Astronaut Anil Menon](https://www.nasa.gov/image-detail/jsc2026e000758/)
-- [Waxing Gibbous Moon](https://www.nasa.gov/image-detail/gmt177_ehdc1/)
-- [Curiosity Sees Martian Sulfur Up Close](https://www.nasa.gov/image-detail/nasa-iotd-curiosity-takes-a-close-look-at-martian-sulfur-crystals/)
-- [Hubble Captures Star-Studded Cluster](https://www.nasa.gov/image-detail/hubble-m3-july4-final/)
-- [Artemis II Crew and Apollo 14 Moon Tree](https://www.nasa.gov/image-detail/jsc2026e396761/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> If you want things to be different, perhaps the answer is to become different yourself.
+> When you are talented you do it whatever it is until your fingers bleed or your eyes are ready to fall out of your head.
 >
-> <p>Norman Vincent Peale</p>
+> <p>Stephen King</p>
