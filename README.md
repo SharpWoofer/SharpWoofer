@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Don't be afraid to stand for what you believe in, even if that means standing alone.
+> Nothing in this universe occurs by accident.
 >
-> <p>Unknown</p>
+> <p>Neale Donald Walsch</p>
