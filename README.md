@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Nothing in this universe occurs by accident.
+> There are three classes of people: those who see. Those who see when they are shown. Those who do not see.
 >
-> <p>Neale Donald Walsch</p>
+> <p>Leonardo da Vinci</p>
