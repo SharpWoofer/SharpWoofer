@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Hubble Sees Crimson Cloud and Stars](https://www.nasa.gov/image-detail/55382014220-1dd17df9c0-o/)
-- [NASA Astronaut Anil Menon](https://www.nasa.gov/image-detail/jsc2026e000758/)
-- [Waxing Gibbous Moon](https://www.nasa.gov/image-detail/gmt177_ehdc1/)
-- [Curiosity Sees Martian Sulfur Up Close](https://www.nasa.gov/image-detail/nasa-iotd-curiosity-takes-a-close-look-at-martian-sulfur-crystals/)
-- [Hubble Captures Star-Studded Cluster](https://www.nasa.gov/image-detail/hubble-m3-july4-final/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> What is a friend? A single soul dwelling in two bodies.
+> Some people want it to happen, some wish it would happen, others make it happen.
 >
-> <p>Aristotle</p>
+> <p>Michael Jordan</p>
