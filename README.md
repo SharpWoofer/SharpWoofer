@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> To find yourself, think for yourself.
+> Closing your eyes and listening to silence is self-care.
 >
-> <p>Socrates</p>
+> <p>Maxime Lagace</p>
