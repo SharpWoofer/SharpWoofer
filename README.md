@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> There are three classes of people: those who see. Those who see when they are shown. Those who do not see.
+> It is not what we get. But who we become, what we contribute... that gives meaning to our lives.
 >
-> <p>Leonardo da Vinci</p>
+> <p>Tony Robbins</p>
