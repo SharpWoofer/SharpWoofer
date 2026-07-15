@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> It is not what we get. But who we become, what we contribute... that gives meaning to our lives.
+> What is a friend? A single soul dwelling in two bodies.
 >
-> <p>Tony Robbins</p>
+> <p>Aristotle</p>
