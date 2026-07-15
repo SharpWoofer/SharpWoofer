@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The only reason to be alive is to enjoy it.
+> To find yourself, think for yourself.
 >
-> <p>Rita Mae Brown</p>
+> <p>Socrates</p>
