@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Cultivate the merry heart, develop the happiness habit, and life will become a continual feast.
+> In order to control myself I must first accept myself by going with and not against my nature.
 >
-> <p>Norman Vincent Peale</p>
+> <p>Bruce Lee</p>
