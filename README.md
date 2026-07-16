@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Peace if possible, truth at all costs.
+> Circumstances do not make the man, they reveal him.
 >
-> <p>Martin Luther</p>
+> <p>James Allen</p>
