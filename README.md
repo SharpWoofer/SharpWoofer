@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Force has no place where there is need of skill.
+> Failure is an option, fear is not.
 >
-> <p>Herodotus</p>
+> <p>James Cameron</p>
