@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Circumstances do not make the man, they reveal him.
+> Don't be afraid of missing opportunities. Behind every failure is an opportunity somebody wishes they had missed.
 >
-> <p>James Allen</p>
+> <p>Lily Tomlin</p>
