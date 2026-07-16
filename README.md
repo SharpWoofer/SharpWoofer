@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Learning is a weightless treasure you can always carry easily.
+> Force has no place where there is need of skill.
 >
-> <p>Chinese Proverb</p>
+> <p>Herodotus</p>
