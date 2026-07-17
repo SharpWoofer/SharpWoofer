@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> To find yourself, think for yourself.
+> If you need inspiration, don't do it.
 >
-> <p>Socrates</p>
+> <p>Elon Musk</p>
