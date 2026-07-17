@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Young Galaxy Cluster](https://www.nasa.gov/image-detail/55380623885-a00df544bb-o/)
-- [Anil Menon Launches to Space Station](https://www.nasa.gov/image-detail/expedition-75-launch-3/)
-- [Hubble Sees Crimson Cloud and Stars](https://www.nasa.gov/image-detail/55382014220-1dd17df9c0-o/)
-- [NASA Astronaut Anil Menon](https://www.nasa.gov/image-detail/jsc2026e000758/)
-- [Waxing Gibbous Moon](https://www.nasa.gov/image-detail/gmt177_ehdc1/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Unless a man is master of his soul, all other kinds of mastery amount to little.
+> If what you're doing is not your passion, you have nothing to lose.
 >
-> <p>Theodore Roosevelt</p>
+> <p>Celestine Chua</p>
