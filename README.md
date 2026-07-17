@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> If what you're doing is not your passion, you have nothing to lose.
+> The time is now, the place is here. Stay in the present.
 >
-> <p>Celestine Chua</p>
+> <p>Dan Millman</p>
