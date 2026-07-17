@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Public opinion is the worst of all opinions.
+> Tis not too late to seek a newer world.
 >
-> <p>Nicolas Chamfort</p>
+> <p>Heraclitus</p>
