@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Tis not too late to seek a newer world.
+> Blessed is he who expects nothing, for he shall never be disappointed.
 >
-> <p>Heraclitus</p>
+> <p>Alexander Pope</p>
