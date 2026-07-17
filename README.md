@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Having lots of money while not having inner peace is like dying of thirst while bathing in the ocean.
+> He who possesses most must be most afraid of loss.
 >
-> <p>Paramahansa Yogananda</p>
+> <p>Leonardo da Vinci</p>
