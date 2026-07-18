@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s Chandra and IXPE Study Pulsar in Lighthouse Nebula](https://www.nasa.gov/image-detail/lighthouse-lg/)
-- [Young Galaxy Cluster](https://www.nasa.gov/image-detail/55380623885-a00df544bb-o/)
-- [Anil Menon Launches to Space Station](https://www.nasa.gov/image-detail/expedition-75-launch-3/)
-- [Hubble Sees Crimson Cloud and Stars](https://www.nasa.gov/image-detail/55382014220-1dd17df9c0-o/)
-- [NASA Astronaut Anil Menon](https://www.nasa.gov/image-detail/jsc2026e000758/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Fears are nothing more than a state of mind.
+> Meditate. It won't be fun but it will surface what you need to deal with.
 >
-> <p>Napoleon Hill</p>
+> <p>Naval Ravikant</p>
