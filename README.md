@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Give credit where credit is due: simply said, if you want loyalty and best effort, you must be thoughtful.
+> If you practiced for the day, then you have won. If you were lazy for the day, then you have lost.
 >
-> <p>Estee Lauder</p>
+> <p>Ming-Dao Deng</p>
