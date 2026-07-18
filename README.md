@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> He who possesses most must be most afraid of loss.
+> Growth comes at the point of resistance.
 >
-> <p>Leonardo da Vinci</p>
+> <p>Josh Waitzkin</p>
