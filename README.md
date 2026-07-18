@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> As you grow older you will discover that you have two hands. One for helping yourself, the other for helping others.
+> Be not glad at the misfortune of another, though he may be your enemy.
 >
-> <p>Audrey Hepburn</p>
+> <p>George Washington</p>
