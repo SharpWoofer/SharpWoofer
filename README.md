@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> No tree, it is said, can grow to heaven unless its roots reach down to hell.
+> As you grow older you will discover that you have two hands. One for helping yourself, the other for helping others.
 >
-> <p>Carl Jung</p>
+> <p>Audrey Hepburn</p>
