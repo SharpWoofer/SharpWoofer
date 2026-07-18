@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> If you practiced for the day, then you have won. If you were lazy for the day, then you have lost.
+> Don't just sit there. Do something. The answers will follow.
 >
-> <p>Ming-Dao Deng</p>
+> <p>Mark Manson</p>
