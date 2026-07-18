@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Be not glad at the misfortune of another, though he may be your enemy.
+> Give credit where credit is due: simply said, if you want loyalty and best effort, you must be thoughtful.
 >
-> <p>George Washington</p>
+> <p>Estee Lauder</p>
