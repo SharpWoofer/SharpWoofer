@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Why live an ordinary life, when you can live an extraordinary one.
+> You are today where your thoughts have brought you.
 >
-> <p>Tony Robbins</p>
+> <p>James Allen</p>
