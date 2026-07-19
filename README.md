@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The pursuit of mastery bears gifts.
+> No matter how great the talent or efforts, some things just take time.
 >
-> <p>Gary Keller</p>
+> <p>Warren Buffett</p>
