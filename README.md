@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> No one returns from a long journey the same person they were before.
+> Why live an ordinary life, when you can live an extraordinary one.
 >
-> <p>Zen Proverb</p>
+> <p>Tony Robbins</p>
