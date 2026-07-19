@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Forever is composed of now's.
+> The man who asks a question is a fool for a minute, the man who does not ask is a fool for life.
 >
-> <p>Emily Dickinson</p>
+> <p>Confucius</p>
