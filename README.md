@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> To be in harmony with the wholeness of things is not to have anxiety over imperfections.
+> Cultivate the merry heart, develop the happiness habit, and life will become a continual feast.
 >
-> <p>Dogen</p>
+> <p>Norman Vincent Peale</p>
