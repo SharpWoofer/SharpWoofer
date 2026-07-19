@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a lifetime.
+> Either you choose to stay in the shallow end of the pool or you go out into the ocean.
 >
-> <p>Lao Tzu</p>
+> <p>Christopher Reeve</p>
