@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Do not pray for an easy life, pray for the strength to endure a difficult one.
+> The pursuit of mastery bears gifts.
 >
-> <p>Bruce Lee</p>
+> <p>Gary Keller</p>
