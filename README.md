@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Whatever you are, be a good one.
+> To be in harmony with the wholeness of things is not to have anxiety over imperfections.
 >
-> <p>Abraham Lincoln</p>
+> <p>Dogen</p>
