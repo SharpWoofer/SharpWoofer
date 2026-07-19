@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Even when a friend does something you do not like, he continues to be your friend.
+> From morning till night, we should never rely on a single thing.
 >
-> <p>Genghis Khan</p>
+> <p>Huang Po</p>
