@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Change yourself - you are in control.
+> Do not pray for an easy life, pray for the strength to endure a difficult one.
 >
-> <p>Mahatma Gandhi</p>
+> <p>Bruce Lee</p>
