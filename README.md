@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The best way to predict the future is to create it.
+> The more you trust yourself, the less you compare yourself to others.
 >
-> <p>Abraham Lincoln</p>
+> <p>Roy T. Bennett</p>
