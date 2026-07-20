@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Live in the sunshine, swim the sea, drink the wild air.
+> A dream you dream alone is only a dream. A dream you dream together is reality.
 >
-> <p>Ralph Waldo Emerson</p>
+> <p>Yoko Ono</p>
