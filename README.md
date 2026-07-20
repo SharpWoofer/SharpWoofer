@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> You don't earn loyalty in a day. You earn loyalty day-by-day.
+> The best way to predict the future is to create it.
 >
-> <p>Jeffrey Gitomer</p>
+> <p>Abraham Lincoln</p>
