@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Do not look for approval except for the consciousness of doing your best.
+> Goodness is the only investment that never fails.
 >
-> <p>Andrew Carnegie</p>
+> <p>Henry David Thoreau</p>
