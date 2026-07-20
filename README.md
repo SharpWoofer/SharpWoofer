@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> A dream you dream alone is only a dream. A dream you dream together is reality.
+> Do not look for approval except for the consciousness of doing your best.
 >
-> <p>Yoko Ono</p>
+> <p>Andrew Carnegie</p>
