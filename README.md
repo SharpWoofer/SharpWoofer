@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> From morning till night, we should never rely on a single thing.
+> Live in the sunshine, swim the sea, drink the wild air.
 >
-> <p>Huang Po</p>
+> <p>Ralph Waldo Emerson</p>
