@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Goodness is the only investment that never fails.
+> The strength of a wall is neither greater nor less than the courage of the men who defend it.
 >
-> <p>Henry David Thoreau</p>
+> <p>Genghis Khan</p>
