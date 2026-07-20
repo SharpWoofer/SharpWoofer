@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The strength of a wall is neither greater nor less than the courage of the men who defend it.
+> The measure of who we are is what we do with what we have.
 >
-> <p>Genghis Khan</p>
+> <p>Vince Lombardi</p>
