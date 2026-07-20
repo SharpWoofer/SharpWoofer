@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> You gain strength, courage and confidence by every experience in which you really stop to look fear in the face.
+> Whether you have a problem in your life or not depends upon your own attitude, your own understanding.
 >
-> <p>Eleanor Roosevelt</p>
+> <p>Shunryu Suzuki</p>
