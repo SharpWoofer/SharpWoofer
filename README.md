@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> You don't have to control your thoughts; you just have to stop letting them control you.
+> If you're really truthful with yourself, it's a wonderful guidance.
 >
-> <p>Dan Millman</p>
+> <p>Charlie Chaplin</p>
