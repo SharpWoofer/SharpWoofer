@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> If you're really truthful with yourself, it's a wonderful guidance.
+> Blessings and burdens are not mutually exclusive.
 >
-> <p>Charlie Chaplin</p>
+> <p>Ryan Holiday</p>
