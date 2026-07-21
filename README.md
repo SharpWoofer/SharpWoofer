@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The fear of death is more to be feared, than death itself.
+> Be mindful. Be grateful. Be positive. Be true. Be kind.
 >
-> <p>Publilius Syrus</p>
+> <p>Roy T. Bennett</p>
