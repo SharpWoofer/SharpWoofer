@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> What you seek is seeking you.
+> The fear of death is more to be feared, than death itself.
 >
-> <p>Rumi</p>
+> <p>Publilius Syrus</p>
