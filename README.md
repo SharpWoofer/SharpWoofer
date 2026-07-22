@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Great acts are made up of small deeds.
+> Peace is letting it be. Letting life flow, letting emotions flow through you.
 >
-> <p>Lao Tzu</p>
+> <p>Kamal Ravikant</p>
