@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Most people fail in life not because they aim too high and miss, but because they aim too low and hit.
+> Beware of false knowledge, it is more dangerous than ignorance.
 >
-> <p>Les Brown</p>
+> <p>George Bernard Shaw</p>
