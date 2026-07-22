@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Success is achieved and maintained by those who try and keep trying.
+> Most people fail in life not because they aim too high and miss, but because they aim too low and hit.
 >
-> <p>W. Clement Stone</p>
+> <p>Les Brown</p>
