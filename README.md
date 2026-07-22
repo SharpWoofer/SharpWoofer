@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to.
+> If you can't explain it simply, you don't understand it well enough.
 >
-> <p>Kahlil Gibran</p>
+> <p>Albert Einstein</p>
