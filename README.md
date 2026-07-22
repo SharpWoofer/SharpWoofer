@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [A New Look – and Sound – for Messier 94](https://www.nasa.gov/image-detail/250th-ngc4736/)
-- [Psyche Approaches Mars](https://www.nasa.gov/image-detail/pia26586/)
-- [Our First View of the Surface of Mars](https://www.nasa.gov/image-detail/34280-mars-viking1-lander-1st-image-pia00381/)
-- [NASA&#39;s Chandra and IXPE Study Pulsar in Lighthouse Nebula](https://www.nasa.gov/image-detail/lighthouse-lg/)
-- [Young Galaxy Cluster](https://www.nasa.gov/image-detail/55380623885-a00df544bb-o/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The world is changed by your example, not by your opinion.
+> The dream is free, but the hustle is sold separately.
 >
-> <p>Paulo Coelho</p>
+> <p>Steve Harvey</p>
