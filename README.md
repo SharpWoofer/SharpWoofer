@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Peace is letting it be. Letting life flow, letting emotions flow through you.
+> Winners never quit and quitters never win.
 >
-> <p>Kamal Ravikant</p>
+> <p>Vince Lombardi</p>
