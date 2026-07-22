@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Psyche Approaches Mars](https://www.nasa.gov/image-detail/pia26586/)
-- [Our First View of the Surface of Mars](https://www.nasa.gov/image-detail/34280-mars-viking1-lander-1st-image-pia00381/)
-- [NASA&#39;s Chandra and IXPE Study Pulsar in Lighthouse Nebula](https://www.nasa.gov/image-detail/lighthouse-lg/)
-- [Young Galaxy Cluster](https://www.nasa.gov/image-detail/55380623885-a00df544bb-o/)
-- [Anil Menon Launches to Space Station](https://www.nasa.gov/image-detail/expedition-75-launch-3/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The golden opportunity you are seeking is within yourself.
+> We have more possibilities available in each moment than we realize.
 >
-> <p>Mary Engelbreit</p>
+> <p>Thich Nhat Hanh</p>
