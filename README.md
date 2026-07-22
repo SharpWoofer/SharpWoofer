@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> There is an essence of when you are fearless, you become more creative.
+> The golden opportunity you are seeking is within yourself.
 >
-> <p>Gurbaksh Chahal</p>
+> <p>Mary Engelbreit</p>
