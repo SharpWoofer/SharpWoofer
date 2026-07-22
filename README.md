@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Beware of false knowledge, it is more dangerous than ignorance.
+> Great acts are made up of small deeds.
 >
-> <p>George Bernard Shaw</p>
+> <p>Lao Tzu</p>
