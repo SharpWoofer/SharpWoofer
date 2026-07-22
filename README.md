@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> We have more possibilities available in each moment than we realize.
+> To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to.
 >
-> <p>Thich Nhat Hanh</p>
+> <p>Kahlil Gibran</p>
