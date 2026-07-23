@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Let not your mind run on what you lack as much as on what you have already.
+> We have a choice everyday regarding the attitude we will embrace for that day.
 >
-> <p>Marcus Aurelius</p>
+> <p>Charles Swindoll</p>
