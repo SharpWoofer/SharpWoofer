@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> A self that goes on changing is a self that goes on living.
+> You don't need to be better than anyone else, you just need to be better than you used to be.
 >
-> <p>Virginia Woolf</p>
+> <p>Wayne Dyer</p>
