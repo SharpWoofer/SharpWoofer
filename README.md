@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The dream is free, but the hustle is sold separately.
+> You have to accept whatever comes, and the only important thing is that you meet it with the best you have to give.
 >
-> <p>Steve Harvey</p>
+> <p>Eleanor Roosevelt</p>
