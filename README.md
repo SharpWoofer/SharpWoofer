@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> You don't need to be better than anyone else, you just need to be better than you used to be.
+> Knowing your own darkness is the best method for dealing with the darknesses of other people.
 >
-> <p>Wayne Dyer</p>
+> <p>Carl Jung</p>
