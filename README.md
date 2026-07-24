@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> By words the mind is winged.
+> Because a thing seems difficult for you, do not think it impossible.
 >
-> <p>Aristophanes</p>
+> <p>Marcus Aurelius</p>
