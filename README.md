@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Crews Move Artemis IV Liquid Hydrogen Tank](https://www.nasa.gov/image-detail/crews-move-artemis-iv-liquid-hydrogen-tank-for-proof-testing/)
-- [A New Look – and Sound – for Messier 94](https://www.nasa.gov/image-detail/250th-ngc4736/)
-- [Psyche Approaches Mars](https://www.nasa.gov/image-detail/pia26586/)
-- [Our First View of the Surface of Mars](https://www.nasa.gov/image-detail/34280-mars-viking1-lander-1st-image-pia00381/)
-- [NASA&#39;s Chandra and IXPE Study Pulsar in Lighthouse Nebula](https://www.nasa.gov/image-detail/lighthouse-lg/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Speak when you are angry - and you'll make the best speech you'll ever regret.
+> It's beautiful to be alone. To be alone does not mean to be lonely. It means the mind is not influenced and contaminated by society.
 >
-> <p>Laurence J. Peter</p>
+> <p>Jiddu Krishnamurti</p>
