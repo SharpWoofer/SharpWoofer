@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Stop being tormented by everyone else's reaction to you.
+> You win more from losing than winning.
 >
-> <p>Joyce Meyer</p>
+> <p>Morgan Wootten</p>
