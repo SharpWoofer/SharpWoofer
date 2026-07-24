@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Live calmly. The time will come when the flowers bloom by themselves.
+> By words the mind is winged.
 >
-> <p>Zen Proverb</p>
+> <p>Aristophanes</p>
