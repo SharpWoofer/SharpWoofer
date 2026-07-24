@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Every second you have on this planet is very precious and it's your responsibility that you're happy.
+> Speak when you are angry - and you'll make the best speech you'll ever regret.
 >
-> <p>Naval Ravikant</p>
+> <p>Laurence J. Peter</p>
