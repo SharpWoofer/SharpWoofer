@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Every day is an opportunity to a make a new happy ending.
+> Live calmly. The time will come when the flowers bloom by themselves.
 >
-> <p>Jonathan Swift</p>
+> <p>Zen Proverb</p>
