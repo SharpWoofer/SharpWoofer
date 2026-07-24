@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The wise man reads both books and life itself.
+> Remember that the best relationship is one in which your love for each other exceeds your need for each other.
 >
-> <p>Lin Yutang</p>
+> <p>Dalai Lama</p>
