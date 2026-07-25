@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Understanding that rests in what it does not understand is the finest.
+> Change is hardest at the beginning, messiest in the middle and best at the end.
 >
-> <p>Zhuangzi</p>
+> <p>Robin Sharma</p>
