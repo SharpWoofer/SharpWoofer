@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Fools read fast. Geniuses reread.
+> Look for 3 things in a person. Intelligence, Energy, & Integrity. If they don't have the last one, don't even bother with the first two.
 >
-> <p>Maxime Lagace</p>
+> <p>Warren Buffett</p>
