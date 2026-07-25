@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The only way round is through.
+> Words can only have a positive effect on others if and when they are ready to listen.
 >
-> <p>Robert Frost</p>
+> <p>Christopher Reeve</p>
