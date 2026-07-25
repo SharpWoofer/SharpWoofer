@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [New Crew Members Welcomed to International Space Station](https://www.nasa.gov/image-detail/iss074e0814792/)
-- [Crews Move Artemis IV Liquid Hydrogen Tank](https://www.nasa.gov/image-detail/crews-move-artemis-iv-liquid-hydrogen-tank-for-proof-testing/)
-- [A New Look – and Sound – for Messier 94](https://www.nasa.gov/image-detail/250th-ngc4736/)
-- [Psyche Approaches Mars](https://www.nasa.gov/image-detail/pia26586/)
-- [Our First View of the Surface of Mars](https://www.nasa.gov/image-detail/34280-mars-viking1-lander-1st-image-pia00381/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Look for 3 things in a person. Intelligence, Energy, & Integrity. If they don't have the last one, don't even bother with the first two.
+> If you want to be happy, do not dwell in the past, do not worry about the future, focus on living fully in the present.
 >
-> <p>Warren Buffett</p>
+> <p>Roy T. Bennett</p>
