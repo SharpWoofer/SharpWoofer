@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Words can only have a positive effect on others if and when they are ready to listen.
+> Nothing endures but change.
 >
-> <p>Christopher Reeve</p>
+> <p>Heraclitus</p>
