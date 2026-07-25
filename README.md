@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Truth is like the sun. You can shut it out for a time, but it ain't going away.
+> Life is a question and how we live it is our answer.
 >
-> <p>Elvis Presley</p>
+> <p>Gary Keller</p>
