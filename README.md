@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Nothing endures but change.
+> Fools read fast. Geniuses reread.
 >
-> <p>Heraclitus</p>
+> <p>Maxime Lagace</p>
