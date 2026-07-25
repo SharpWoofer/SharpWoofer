@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Hope means hoping when everything seems hopeless.
+> The only way round is through.
 >
-> <p>Gilbert Chesterton</p>
+> <p>Robert Frost</p>
