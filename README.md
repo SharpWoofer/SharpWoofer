@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> If you want to be happy, do not dwell in the past, do not worry about the future, focus on living fully in the present.
+> Life is too short to waste your time on people who don't respect, appreciate, and value you.
 >
 > <p>Roy T. Bennett</p>
