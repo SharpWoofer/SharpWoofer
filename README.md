@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Whatever you like to do, make it a hobby and whatever the world likes to do, make it a business.
+> Learning is a weightless treasure you can always carry easily.
 >
-> <p>Warren Buffett</p>
+> <p>Chinese Proverb</p>
