@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Believe you can and you're halfway there.
+> It is what we make out of what we have, not what we are given, that separates one person from another.
 >
-> <p>Theodore Roosevelt</p>
+> <p>Nelson Mandela</p>
