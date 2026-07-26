@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Every experience is a lesson. Every loss is a gain.
+> Passion creates, addiction consumes.
 >
-> <p>Sathya Sai Baba</p>
+> <p>Gabor Mate</p>
