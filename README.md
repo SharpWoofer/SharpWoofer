@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> If you are unable to find the truth right where you are, where else do you expect to find it?
+> Believe you can and you're halfway there.
 >
-> <p>Dogen</p>
+> <p>Theodore Roosevelt</p>
