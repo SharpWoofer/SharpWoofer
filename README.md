@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> There's no coming to consciousness without pain
+> What we learn from history is that people don't learn from history.
 >
-> <p>Carl Jung</p>
+> <p>Warren Buffett</p>
