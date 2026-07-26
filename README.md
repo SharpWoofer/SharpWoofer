@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> What we learn from history is that people don't learn from history.
+> Every experience is a lesson. Every loss is a gain.
 >
-> <p>Warren Buffett</p>
+> <p>Sathya Sai Baba</p>
