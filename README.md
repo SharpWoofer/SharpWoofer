@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Everything has beauty but not everyone sees it.
+> Greatness comes from living with purpose and passion.
 >
-> <p>Confucius</p>
+> <p>Ralph Marston</p>
