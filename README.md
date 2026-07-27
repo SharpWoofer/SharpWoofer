@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The degree of responsibility you take for your life determines how much change you can create in it.
+> The obstacle in the path becomes the path.
 >
-> <p>Celestine Chua</p>
+> <p>Ryan Holiday</p>
