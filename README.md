@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The obstacle in the path becomes the path.
+> It's the little things done consistently over time, straight from your heart, that have the greatest impact.
 >
-> <p>Ryan Holiday</p>
+> <p>Unknown</p>
