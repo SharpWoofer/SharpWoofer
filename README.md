@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Everything begins with an idea.
+> It is important to fight and fight again, and keep fighting, for only then can evil be kept at bay though never quite eradicated.
 >
-> <p>Earl Nightingale</p>
+> <p>Albus Dumbledore</p>
