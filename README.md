@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Greatness comes from living with purpose and passion.
+> Learn from the rejection and turn it into an opportunity!
 >
-> <p>Ralph Marston</p>
+> <p>Mary Engelbreit</p>
