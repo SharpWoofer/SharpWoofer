@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The birth of the mind is the death of the senses.
+> Use your smile to change the world but don't let the world change your smile.
 >
-> <p>Dan Millman</p>
+> <p>Unknown</p>
