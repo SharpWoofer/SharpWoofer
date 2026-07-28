@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Greatness comes from living with purpose and passion.
+> There are more people who wish to be loved than there are who are willing to love.
 >
-> <p>Ralph Marston</p>
+> <p>Nicolas Chamfort</p>
