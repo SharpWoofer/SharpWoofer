@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> There are more people who wish to be loved than there are who are willing to love.
+> Youth is happy because it has the ability to see beauty. Anyone who keeps the ability to see beauty never grows old.
 >
-> <p>Nicolas Chamfort</p>
+> <p>Franz Kafka</p>
