@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Use your smile to change the world but don't let the world change your smile.
+> The more you take responsibility for your past and present, the more you are able to create the future you seek.
 >
-> <p>Unknown</p>
+> <p>Celestine Chua</p>
