@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> A mountain never yields to the wind no matter how strong it is.
+> I wasn't brave, I just didn't have time to be scared.
 >
-> <p>Zen Proverb</p>
+> <p>Amelia Earhart</p>
