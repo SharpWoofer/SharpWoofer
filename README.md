@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The more you take responsibility for your past and present, the more you are able to create the future you seek.
+> Where violence reigns, reason is weak.
 >
-> <p>Celestine Chua</p>
+> <p>Nicolas Chamfort</p>
