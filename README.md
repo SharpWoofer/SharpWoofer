@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Do not ignore the passion that burns in you. Spend time to discover your gift.
+> The secret of perfect health lies in keeping the mind always cheerful - never worried, never hurried, never borne down by any fear, thought or anxiety.
 >
-> <p>Steve Harvey</p>
+> <p>Sathya Sai Baba</p>
