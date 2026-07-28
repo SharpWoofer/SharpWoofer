@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The secret of perfect health lies in keeping the mind always cheerful - never worried, never hurried, never borne down by any fear, thought or anxiety.
+> The birth of the mind is the death of the senses.
 >
-> <p>Sathya Sai Baba</p>
+> <p>Dan Millman</p>
