@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA Astronaut Chris Williams Returns to Earth](https://www.nasa.gov/image-detail/expedition-74-soyuz-landing/)
-- [New Crew Members Welcomed to International Space Station](https://www.nasa.gov/image-detail/iss074e0814792/)
-- [Crews Move Artemis IV Liquid Hydrogen Tank](https://www.nasa.gov/image-detail/crews-move-artemis-iv-liquid-hydrogen-tank-for-proof-testing/)
-- [A New Look – and Sound – for Messier 94](https://www.nasa.gov/image-detail/250th-ngc4736/)
-- [Psyche Approaches Mars](https://www.nasa.gov/image-detail/pia26586/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Where violence reigns, reason is weak.
+> A mountain never yields to the wind no matter how strong it is.
 >
-> <p>Nicolas Chamfort</p>
+> <p>Zen Proverb</p>
