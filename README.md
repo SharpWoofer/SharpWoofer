@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Success is a poor teacher.
+> The only lost cause is one we give up on before we enter the struggle.
 >
-> <p>Robert Kiyosaki</p>
+> <p>Vaclav Havel</p>
