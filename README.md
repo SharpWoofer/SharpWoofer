@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The only lost cause is one we give up on before we enter the struggle.
+> Work out your own salvation. Do not depend on others.
 >
-> <p>Vaclav Havel</p>
+> <p>Buddha</p>
