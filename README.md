@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Courage is not having the strength to go on; it is going on when you don't have the strength.
+> It is under the greatest adversity that there exists the greatest potential for doing good, both for oneself and others.
 >
-> <p>Theodore Roosevelt</p>
+> <p>Dalai Lama</p>
