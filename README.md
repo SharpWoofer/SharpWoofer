@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> I wasn't brave, I just didn't have time to be scared.
+> Anxiety is the dizziness of freedom.
 >
-> <p>Amelia Earhart</p>
+> <p>Soren Kierkegaard</p>
