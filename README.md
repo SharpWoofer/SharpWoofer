@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Work out your own salvation. Do not depend on others.
+> Impressing people is utterly different from being truly impressive.
 >
-> <p>Buddha</p>
+> <p>Ryan Holiday</p>
