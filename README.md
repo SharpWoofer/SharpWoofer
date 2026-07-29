@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> It is under the greatest adversity that there exists the greatest potential for doing good, both for oneself and others.
+> Success is a poor teacher.
 >
-> <p>Dalai Lama</p>
+> <p>Robert Kiyosaki</p>
