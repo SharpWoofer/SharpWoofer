@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> It's beautiful to be alone. To be alone does not mean to be lonely. It means the mind is not influenced and contaminated by society.
+> Presents are made for the pleasure of who gives them, not the merits of who receives them.
 >
-> <p>Jiddu Krishnamurti</p>
+> <p>Carlos Ruiz Zafon</p>
