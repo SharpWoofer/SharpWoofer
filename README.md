@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> It is far easier to start something than it is to finish it.
+> The most important thing is to enjoy your life, to be happy, it's all that matters.
 >
-> <p>Amelia Earhart</p>
+> <p>Audrey Hepburn</p>
