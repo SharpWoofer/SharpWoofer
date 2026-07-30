@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The ability to hold two competing thoughts in one's mind and still be able to function is the mark of a superior mind.
+> Without the confidence, nothing can be accomplished.
 >
-> <p>F. Scott Fitzgerald</p>
+> <p>Sathya Sai Baba</p>
