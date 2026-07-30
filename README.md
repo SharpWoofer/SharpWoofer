@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Don't let what you cannot do interfere with what you can do.
+> The Law of Concentration states that whatever you dwell upon grows. The more you think about something, the more it becomes part of your reality.
 >
-> <p>John Wooden</p>
+> <p>Brian Tracy</p>
