@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Starburst Galaxy Centaurus A](https://www.nasa.gov/image-detail/stsci-01kvt4gqmq5mxv6xdpfpzmxg65-30d932/)
-- [Understanding How Martian Auroras Are Made](https://www.nasa.gov/image-detail/pia22076-2/)
-- [NASA Astronaut Chris Williams Returns to Earth](https://www.nasa.gov/image-detail/expedition-74-soyuz-landing/)
-- [New Crew Members Welcomed to International Space Station](https://www.nasa.gov/image-detail/iss074e0814792/)
-- [Crews Move Artemis IV Liquid Hydrogen Tank](https://www.nasa.gov/image-detail/crews-move-artemis-iv-liquid-hydrogen-tank-for-proof-testing/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> It is those who concentrate on but one thing at a time who advance in this world.
+> It's beautiful to be alone. To be alone does not mean to be lonely. It means the mind is not influenced and contaminated by society.
 >
-> <p>Gary Keller</p>
+> <p>Jiddu Krishnamurti</p>
