@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Nothing is hopeless; we must hope for everything.
+> It is far easier to start something than it is to finish it.
 >
-> <p>Euripides</p>
+> <p>Amelia Earhart</p>
