@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Presents are made for the pleasure of who gives them, not the merits of who receives them.
+> We never know how high we are till we are called to rise. Then if we are true to form our statures touch the skies.
 >
-> <p>Carlos Ruiz Zafon</p>
+> <p>Emily Dickinson</p>
