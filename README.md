@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The most important thing is to enjoy your life, to be happy, it's all that matters.
+> Enlightenment is intimacy with all things.
 >
-> <p>Audrey Hepburn</p>
+> <p>Dogen</p>
