@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> When you view failure as feedback, you get more done. When you view failure as a finality, you get nothing done.
+> Change happens when the pain of holding on becomes greater than the fear of letting go.
 >
-> <p>Jack Butcher</p>
+> <p>Spencer Johnson</p>
