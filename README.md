@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Starburst Galaxy Centaurus A](https://www.nasa.gov/image-detail/stsci-01kvt4gqmq5mxv6xdpfpzmxg65-30d932/)
-- [Understanding How Martian Auroras Are Made](https://www.nasa.gov/image-detail/pia22076-2/)
-- [NASA Astronaut Chris Williams Returns to Earth](https://www.nasa.gov/image-detail/expedition-74-soyuz-landing/)
-- [New Crew Members Welcomed to International Space Station](https://www.nasa.gov/image-detail/iss074e0814792/)
-- [Crews Move Artemis IV Liquid Hydrogen Tank](https://www.nasa.gov/image-detail/crews-move-artemis-iv-liquid-hydrogen-tank-for-proof-testing/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Don't give up the fight, Stand up for your rights.
+> The more often a stupidity is repeated, the more it gets the appearance of wisdom.
 >
-> <p>Bob Marley</p>
+> <p>Voltaire</p>
