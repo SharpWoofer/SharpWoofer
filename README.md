@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> To belittle, you have to be little.
+> Life is too important to be taken seriously.
 >
-> <p>Kahlil Gibran</p>
+> <p>Oscar Wilde</p>
