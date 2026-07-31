@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The more often a stupidity is repeated, the more it gets the appearance of wisdom.
+> Poetry is written with tears, fiction with blood, and history with invisible ink.
 >
-> <p>Voltaire</p>
+> <p>Carlos Ruiz Zafon</p>
