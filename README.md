@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Life is too important to be taken seriously.
+> Happiness is a choice, not a result. Nothing will make you happy until you choose to be happy.
 >
-> <p>Oscar Wilde</p>
+> <p>Ralph Marston</p>
