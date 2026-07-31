@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> People think you're crazy if you talk about things they don't understand.
+> No matter how great the talent or efforts, some things just take time.
 >
-> <p>Elvis Presley</p>
+> <p>Warren Buffett</p>
