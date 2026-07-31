@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Poetry is written with tears, fiction with blood, and history with invisible ink.
+> If you want things to be different, perhaps the answer is to become different yourself.
 >
-> <p>Carlos Ruiz Zafon</p>
+> <p>Norman Vincent Peale</p>
