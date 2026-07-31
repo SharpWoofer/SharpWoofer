@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> No matter how great the talent or efforts, some things just take time.
+> Nothing is particularly hard if you divide it into small jobs.
 >
-> <p>Warren Buffett</p>
+> <p>Henry Ford</p>
