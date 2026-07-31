@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Nothing is particularly hard if you divide it into small jobs.
+> Don't give up the fight, Stand up for your rights.
 >
-> <p>Henry Ford</p>
+> <p>Bob Marley</p>
