@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> We never know how high we are till we are called to rise. Then if we are true to form our statures touch the skies.
+> When you view failure as feedback, you get more done. When you view failure as a finality, you get nothing done.
 >
-> <p>Emily Dickinson</p>
+> <p>Jack Butcher</p>
