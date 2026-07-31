@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> If you want things to be different, perhaps the answer is to become different yourself.
+> To belittle, you have to be little.
 >
-> <p>Norman Vincent Peale</p>
+> <p>Kahlil Gibran</p>
