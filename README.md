@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Today is the oldest you've ever been, and the youngest you'll ever be again.
+> Go as far as you can see and you will see further.
 >
-> <p>Eleanor Roosevelt</p>
+> <p>Zig Ziglar</p>
