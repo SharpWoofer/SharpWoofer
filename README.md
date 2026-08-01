@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> There is always risk, so learn to manage risk instead of avoiding it.
+> Things do not have meaning. We assign meaning to everything.
 >
-> <p>Robert Kiyosaki</p>
+> <p>Tony Robbins</p>
