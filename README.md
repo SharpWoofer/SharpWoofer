@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Things do not have meaning. We assign meaning to everything.
+> The secret of life isn't what happens to you, but what you do with what happens to you.
 >
-> <p>Tony Robbins</p>
+> <p>Norman Vincent Peale</p>
