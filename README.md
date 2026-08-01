@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> If you focus on results and finding shortcuts, you'll get impatient. If you focus on the process and doing the right thing, you'll be unstoppable.
+> In the end, it's not the years in your life that count. It's the life in your years.
 >
-> <p>Maxime Lagace</p>
+> <p>Abraham Lincoln</p>
