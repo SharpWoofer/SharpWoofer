@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Happiness must be grown in one's own garden.
+> Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.
 >
-> <p>Mary Engelbreit</p>
+> <p>Colin R. Davis</p>
