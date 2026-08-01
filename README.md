@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Go as far as you can see and you will see further.
+> Happiness must be grown in one's own garden.
 >
-> <p>Zig Ziglar</p>
+> <p>Mary Engelbreit</p>
