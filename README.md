@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Life is ours to be spent, not to be saved.
+> By words the mind is winged.
 >
-> <p>D. H. Lawrence</p>
+> <p>Aristophanes</p>
