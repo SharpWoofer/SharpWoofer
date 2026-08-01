@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Take the high road; it's far less crowded.
+> Today is the oldest you've ever been, and the youngest you'll ever be again.
 >
-> <p>Warren Buffett</p>
+> <p>Eleanor Roosevelt</p>
