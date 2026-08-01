@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Happiness is a choice, not a result. Nothing will make you happy until you choose to be happy.
+> You can do nothing to change the past, and the future will never come exactly as you plan or hope for.
 >
-> <p>Ralph Marston</p>
+> <p>Dan Millman</p>
