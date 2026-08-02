@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Nothing you do is going to matter that much in the long run. Don't take yourself so seriously.
+> Whatever you like to do, make it a hobby and whatever the world likes to do, make it a business.
 >
-> <p>Naval Ravikant</p>
+> <p>Warren Buffett</p>
