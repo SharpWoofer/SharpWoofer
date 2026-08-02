@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The quality of your life is determined by the quality of questions you ask.
+> A leader leads by example, not by force.
 >
-> <p>Tony Robbins</p>
+> <p>Sun Tzu</p>
