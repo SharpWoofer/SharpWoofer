@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The most efficient way of rendering the poor harmless is to teach them to want to imitate the rich.
+> The pursuit of mastery bears gifts.
 >
-> <p>Carlos Ruiz Zafon</p>
+> <p>Gary Keller</p>
