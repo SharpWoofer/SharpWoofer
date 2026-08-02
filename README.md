@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s Newest Wind Tunnel Opens at NASA Langley](https://www.nasa.gov/image-detail/fdrf-ribbon-cutting-ceremony-at-nasa-langley/)
-- [Starburst Galaxy Centaurus A](https://www.nasa.gov/image-detail/stsci-01kvt4gqmq5mxv6xdpfpzmxg65-30d932/)
-- [Understanding How Martian Auroras Are Made](https://www.nasa.gov/image-detail/pia22076-2/)
-- [NASA Astronaut Chris Williams Returns to Earth](https://www.nasa.gov/image-detail/expedition-74-soyuz-landing/)
-- [New Crew Members Welcomed to International Space Station](https://www.nasa.gov/image-detail/iss074e0814792/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> You are the only problem you will ever have and you are the only solution.
+> A dream you dream alone is only a dream. A dream you dream together is reality.
 >
-> <p>Bob Proctor</p>
+> <p>Yoko Ono</p>
