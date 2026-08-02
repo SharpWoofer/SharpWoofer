@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s Newest Wind Tunnel Opens at NASA Langley](https://www.nasa.gov/image-detail/fdrf-ribbon-cutting-ceremony-at-nasa-langley/)
-- [Starburst Galaxy Centaurus A](https://www.nasa.gov/image-detail/stsci-01kvt4gqmq5mxv6xdpfpzmxg65-30d932/)
-- [Understanding How Martian Auroras Are Made](https://www.nasa.gov/image-detail/pia22076-2/)
-- [NASA Astronaut Chris Williams Returns to Earth](https://www.nasa.gov/image-detail/expedition-74-soyuz-landing/)
-- [New Crew Members Welcomed to International Space Station](https://www.nasa.gov/image-detail/iss074e0814792/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The greatest gift that you can give to others is the gift of unconditional love and acceptance.
+> We must accept finite disappointment, but never lose infinite hope.
 >
-> <p>Brian Tracy</p>
+> <p>Martin Luther King, Jr.</p>
