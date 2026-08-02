@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The pursuit of mastery bears gifts.
+> The quality of your life is determined by the quality of questions you ask.
 >
-> <p>Gary Keller</p>
+> <p>Tony Robbins</p>
