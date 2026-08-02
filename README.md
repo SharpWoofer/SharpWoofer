@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> A leader leads by example, not by force.
+> When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.
 >
-> <p>Sun Tzu</p>
+> <p>Wayne Dyer</p>
