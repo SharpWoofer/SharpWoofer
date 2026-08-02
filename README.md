@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The moment you doubt whether you can fly, you cease for ever to be able to do it.
+> Out of suffering have emerged the strongest souls; the most massive characters are seared with scars.
 >
-> <p>James Matthew Barrie</p>
+> <p>Kahlil Gibran</p>
