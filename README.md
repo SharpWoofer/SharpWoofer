@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Out of suffering have emerged the strongest souls; the most massive characters are seared with scars.
+> Live and act within the limit of your knowledge and keep expanding it to the limit of your life.
 >
-> <p>Kahlil Gibran</p>
+> <p>Ayn Rand</p>
