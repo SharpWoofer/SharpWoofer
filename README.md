@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Live and act within the limit of your knowledge and keep expanding it to the limit of your life.
+> You are the only problem you will ever have and you are the only solution.
 >
-> <p>Ayn Rand</p>
+> <p>Bob Proctor</p>
