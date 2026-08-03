@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> To some degree, you control your life by controlling your time.
+> Trust in dreams, for in them is the hidden gate to eternity.
 >
-> <p>Conrad Hilton</p>
+> <p>Kahlil Gibran</p>
