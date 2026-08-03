@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Remember, hope is a good thing, maybe the best of things.
+> If you do not conquer self, you will be conquered by self.
 >
-> <p>Stephen King</p>
+> <p>Napoleon Hill</p>
