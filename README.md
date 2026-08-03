@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Guinea-Bissau Tidal Waters](https://www.nasa.gov/image-detail/bijagosarchipelago-oli-20251128-lrg/)
-- [NASA&#39;s Newest Wind Tunnel Opens at NASA Langley](https://www.nasa.gov/image-detail/fdrf-ribbon-cutting-ceremony-at-nasa-langley/)
-- [Starburst Galaxy Centaurus A](https://www.nasa.gov/image-detail/stsci-01kvt4gqmq5mxv6xdpfpzmxg65-30d932/)
-- [Understanding How Martian Auroras Are Made](https://www.nasa.gov/image-detail/pia22076-2/)
-- [NASA Astronaut Chris Williams Returns to Earth](https://www.nasa.gov/image-detail/expedition-74-soyuz-landing/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> When you consider things like the stars, our affairs don't seem to matter very much, do they?
+> To some degree, you control your life by controlling your time.
 >
-> <p>Virginia Woolf</p>
+> <p>Conrad Hilton</p>
