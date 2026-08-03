@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Trust in dreams, for in them is the hidden gate to eternity.
+> Each problem has a positive side.
 >
-> <p>Kahlil Gibran</p>
+> <p>Og Mandino</p>
