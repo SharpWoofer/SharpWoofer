@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Even a hare will bite when it is cornered.
+> The truth is heavy, therefore few care to carry it.
 >
-> <p>Chinese Proverb</p>
+> <p>Winston Churchill</p>
