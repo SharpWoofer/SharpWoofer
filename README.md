@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The truth is heavy, therefore few care to carry it.
+> When you consider things like the stars, our affairs don't seem to matter very much, do they?
 >
-> <p>Winston Churchill</p>
+> <p>Virginia Woolf</p>
