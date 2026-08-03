@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Convinced myself, I seek not to convince.
+> The more knowledge you have, the more you're free to rely on your instincts.
 >
-> <p>Edgar Allan Poe</p>
+> <p>Arnold Schwarzenegger</p>
