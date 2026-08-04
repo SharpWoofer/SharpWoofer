@@ -13,7 +13,11 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Roman Space Telescope Plaque Install](https://www.nasa.gov/image-detail/afs-8-101-1303/)
+- [Guinea-Bissau Tidal Waters](https://www.nasa.gov/image-detail/bijagosarchipelago-oli-20251128-lrg/)
+- [NASA&#39;s Newest Wind Tunnel Opens at NASA Langley](https://www.nasa.gov/image-detail/fdrf-ribbon-cutting-ceremony-at-nasa-langley/)
+- [Starburst Galaxy Centaurus A](https://www.nasa.gov/image-detail/stsci-01kvt4gqmq5mxv6xdpfpzmxg65-30d932/)
+- [Understanding How Martian Auroras Are Made](https://www.nasa.gov/image-detail/pia22076-2/)
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
