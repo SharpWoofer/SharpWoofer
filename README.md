@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Success is going from failure to failure without losing your enthusiasm
+> Never buy a thing you do not want, because it is cheap, it will be dear to you.
 >
-> <p>Winston Churchill</p>
+> <p>Thomas Jefferson</p>
