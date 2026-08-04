@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Guinea-Bissau Tidal Waters](https://www.nasa.gov/image-detail/bijagosarchipelago-oli-20251128-lrg/)
-- [NASA&#39;s Newest Wind Tunnel Opens at NASA Langley](https://www.nasa.gov/image-detail/fdrf-ribbon-cutting-ceremony-at-nasa-langley/)
-- [Starburst Galaxy Centaurus A](https://www.nasa.gov/image-detail/stsci-01kvt4gqmq5mxv6xdpfpzmxg65-30d932/)
-- [Understanding How Martian Auroras Are Made](https://www.nasa.gov/image-detail/pia22076-2/)
-- [NASA Astronaut Chris Williams Returns to Earth](https://www.nasa.gov/image-detail/expedition-74-soyuz-landing/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Don't be pushed around by the fears in your mind. Be led by the dreams in your heart.
+> Actions are the seeds of fate. Deeds grow into destiny.
 >
-> <p>Colin R. Davis</p>
+> <p>Harry S. Truman</p>
