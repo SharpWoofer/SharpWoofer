@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Actions are the seeds of fate. Deeds grow into destiny.
+> When reading, only read. When eating, only eat. When thinking, only think.
 >
-> <p>Harry S. Truman</p>
+> <p>Seungsahn</p>
