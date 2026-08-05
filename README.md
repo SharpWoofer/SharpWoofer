@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> A Rolling Stone Gathers No Moss.
+> The only limit to our realization of tomorrow will be our doubts of today.
 >
-> <p>Publilius Syrus</p>
+> <p>Colin R. Davis</p>
