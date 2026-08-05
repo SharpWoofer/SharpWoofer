@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> We win by helping each other win.
+> I never dwell on what happened. You can't change it. Move forward.
 >
-> <p>Jack Butcher</p>
+> <p>Joan Rivers</p>
