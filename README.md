@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The present moment is filled with joy and happiness. If you are attentive, you will see it.
+> Simple words, repeated daily, can change your life.
 >
-> <p>Thich Nhat Hanh</p>
+> <p>Maxime Lagace</p>
