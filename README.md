@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The ability to observe without evaluating is the highest form of intelligence.
+> A Rolling Stone Gathers No Moss.
 >
-> <p>Jiddu Krishnamurti</p>
+> <p>Publilius Syrus</p>
