@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> A dream you dream alone is only a dream. A dream you dream together is reality.
+> We win by helping each other win.
 >
-> <p>Yoko Ono</p>
+> <p>Jack Butcher</p>
