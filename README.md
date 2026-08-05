@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> When people are free to do as they please, they usually imitate each other.
+> The present moment is filled with joy and happiness. If you are attentive, you will see it.
 >
-> <p>Eric Hoffer</p>
+> <p>Thich Nhat Hanh</p>
