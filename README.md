@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Simple words, repeated daily, can change your life.
+> The day is for honest men, the night for thieves.
 >
-> <p>Maxime Lagace</p>
+> <p>Euripides</p>
