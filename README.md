@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> I never dwell on what happened. You can't change it. Move forward.
+> All that a man achieves and all that he fails to achieve is the direct result of his own thoughts.
 >
-> <p>Joan Rivers</p>
+> <p>James Allen</p>
