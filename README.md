@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The future doesn't belong to the faint-hearted; it belongs to the brave.
+> A dream you dream alone is only a dream. A dream you dream together is reality.
 >
-> <p>Ronald Reagan</p>
+> <p>Yoko Ono</p>
