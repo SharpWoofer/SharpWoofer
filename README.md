@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The only limit to our realization of tomorrow will be our doubts of today.
+> A lot of people have gone further than they thought they could because someone else thought they could.
 >
-> <p>Colin R. Davis</p>
+> <p>Zig Ziglar</p>
