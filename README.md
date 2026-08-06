@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Peaceful is the one who expects nothing.
+> Decide whether or not the goal is worth the risks involved. If it is, stop worrying.
 >
-> <p>Maxime Lagace</p>
+> <p>Amelia Earhart</p>
