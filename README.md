@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Be not glad at the misfortune of another, though he may be your enemy.
+> We must not sit down and wait for miracles. Up and be going!
 >
-> <p>George Washington</p>
+> <p>John Eliot</p>
