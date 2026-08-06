@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> We must not sit down and wait for miracles. Up and be going!
+> Try not to become a man of success, but rather try to become a man of value.
 >
-> <p>John Eliot</p>
+> <p>Albert Einstein</p>
