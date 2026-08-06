@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Try not to become a man of success, but rather try to become a man of value.
+> All problems are interpersonal relationship problems.
 >
-> <p>Albert Einstein</p>
+> <p>Alfred Adler</p>
