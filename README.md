@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Artemis III Orion Crew and Service Models Joined](https://www.nasa.gov/image-detail/ksc-20260730-ph-as01-6583-2/)
-- [Roman Space Telescope Plaque Install](https://www.nasa.gov/image-detail/afs-8-101-1303/)
-- [Guinea-Bissau Tidal Waters](https://www.nasa.gov/image-detail/bijagosarchipelago-oli-20251128-lrg/)
-- [NASA&#39;s Newest Wind Tunnel Opens at NASA Langley](https://www.nasa.gov/image-detail/fdrf-ribbon-cutting-ceremony-at-nasa-langley/)
-- [Starburst Galaxy Centaurus A](https://www.nasa.gov/image-detail/stsci-01kvt4gqmq5mxv6xdpfpzmxg65-30d932/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Decide whether or not the goal is worth the risks involved. If it is, stop worrying.
+> Be not glad at the misfortune of another, though he may be your enemy.
 >
-> <p>Amelia Earhart</p>
+> <p>George Washington</p>
