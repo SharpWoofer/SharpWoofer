@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> A lot of people have gone further than they thought they could because someone else thought they could.
+> Peaceful is the one who expects nothing.
 >
-> <p>Zig Ziglar</p>
+> <p>Maxime Lagace</p>
