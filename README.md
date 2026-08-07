@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Giving back involves a certain amount of giving up.
+> Respect was invented to cover the empty place where love should be.
 >
-> <p>Colin Powell</p>
+> <p>Leo Tolstoy</p>
