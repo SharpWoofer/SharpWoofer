@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Listen to what you know instead of what you fear.
+> It doesn't matter how slow you go, as long as you don't stop.
 >
-> <p>Richard Bach</p>
+> <p>Confucius</p>
