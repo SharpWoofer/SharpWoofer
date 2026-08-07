@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> I never dwell on what happened. You can't change it. Move forward.
+> Listen to what you know instead of what you fear.
 >
-> <p>Joan Rivers</p>
+> <p>Richard Bach</p>
