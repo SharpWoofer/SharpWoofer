@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s IXPE Studies Magnetar](https://www.nasa.gov/image-detail/ixpemagnetarartistsconcept-web/)
-- [Taking Flight to Prepare for Space](https://www.nasa.gov/image-detail/55412014375-711b8f02f7-o/)
-- [Artemis III Orion Crew and Service Models Joined](https://www.nasa.gov/image-detail/ksc-20260730-ph-as01-6583-2/)
-- [Roman Space Telescope Plaque Install](https://www.nasa.gov/image-detail/afs-8-101-1303/)
-- [Guinea-Bissau Tidal Waters](https://www.nasa.gov/image-detail/bijagosarchipelago-oli-20251128-lrg/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Where the willingness is great, the difficulties cannot be great.
+> Just try to be the best you can be; never cease trying to be the best you can be. That's in your power.
 >
-> <p>Niccolo Machiavelli</p>
+> <p>John Wooden</p>
