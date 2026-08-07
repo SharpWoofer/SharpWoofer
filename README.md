@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> If you only knew the magnificence of the 3, 6, and 9, then you would have a key to the universe.
+> I never dwell on what happened. You can't change it. Move forward.
 >
-> <p>Nikola Tesla</p>
+> <p>Joan Rivers</p>
