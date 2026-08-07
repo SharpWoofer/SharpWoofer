@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> All problems are interpersonal relationship problems.
+> If you only knew the magnificence of the 3, 6, and 9, then you would have a key to the universe.
 >
-> <p>Alfred Adler</p>
+> <p>Nikola Tesla</p>
