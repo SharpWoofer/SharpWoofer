@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Taking Flight to Prepare for Space](https://www.nasa.gov/image-detail/55412014375-711b8f02f7-o/)
-- [Artemis III Orion Crew and Service Models Joined](https://www.nasa.gov/image-detail/ksc-20260730-ph-as01-6583-2/)
-- [Roman Space Telescope Plaque Install](https://www.nasa.gov/image-detail/afs-8-101-1303/)
-- [Guinea-Bissau Tidal Waters](https://www.nasa.gov/image-detail/bijagosarchipelago-oli-20251128-lrg/)
-- [NASA&#39;s Newest Wind Tunnel Opens at NASA Langley](https://www.nasa.gov/image-detail/fdrf-ribbon-cutting-ceremony-at-nasa-langley/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> It doesn't matter how slow you go, as long as you don't stop.
+> Our life isn't how much we can take out, but how much we can put in.
 >
-> <p>Confucius</p>
+> <p>Estee Lauder</p>
