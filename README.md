@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Wisdom consists not so much in knowing what to do in the ultimate as knowing what to do next.
+> If you can see it in your mind, you can hold it in your mind.
 >
-> <p>Herbert Hoover</p>
+> <p>Steve Harvey</p>
