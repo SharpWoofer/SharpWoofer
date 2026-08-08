@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> You are always your own best guru, your own best teacher, the answers are always inside you.
+> In all chaos there is a cosmos, in all disorder a secret order.
 >
-> <p>Sathya Sai Baba</p>
+> <p>Carl Jung</p>
