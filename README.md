@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> In all chaos there is a cosmos, in all disorder a secret order.
+> Fear of death is fear of the Unknown.
 >
-> <p>Carl Jung</p>
+> <p>Adi Da Samraj</p>
