@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Still your waters.
+> A man with outward courage dares to die: a man with inner courage dares to live.
 >
-> <p>Josh Waitzkin</p>
+> <p>Lao Tzu</p>
