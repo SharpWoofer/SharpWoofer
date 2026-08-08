@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> If you are going to achieve excellence in big things, you develop the habit in little matters.
+> We cannot change anything unless we accept it.
 >
-> <p>Colin Powell</p>
+> <p>Carl Jung</p>
