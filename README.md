@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Shoot for the moon, because even if you miss, you'll land among the stars.
+> Still your waters.
 >
-> <p>Les Brown</p>
+> <p>Josh Waitzkin</p>
