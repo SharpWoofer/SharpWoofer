@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Success is not what you do when you are on top.  Success is how high you bounce when you hit the bottom.
+> Stop wasting time looking at someone else's reality while doing nothing about yours.
 >
-> <p>Sonia Ricotti</p>
+> <p>Steve Harvey</p>
