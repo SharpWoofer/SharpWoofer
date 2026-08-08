@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Observe things as they are and don't pay attention to other people.
+> If you are going to achieve excellence in big things, you develop the habit in little matters.
 >
-> <p>Huang Po</p>
+> <p>Colin Powell</p>
