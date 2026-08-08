@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> If you do not change direction, you may end up where you are heading.
+> Observe things as they are and don't pay attention to other people.
 >
-> <p>Lao Tzu</p>
+> <p>Huang Po</p>
