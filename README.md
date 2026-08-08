@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Be mindful. Be grateful. Be positive. Be true. Be kind.
+> Don't hate the player. Change the game.
 >
-> <p>Roy T. Bennett</p>
+> <p>Steve Harvey</p>
