@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Fear of death is fear of the Unknown.
+> You have to make time, even for something as universal as staring at the stars.
 >
-> <p>Adi Da Samraj</p>
+> <p>W.P. Kinsella</p>
