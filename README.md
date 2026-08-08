@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> You have to make time, even for something as universal as staring at the stars.
+> Shoot for the moon, because even if you miss, you'll land among the stars.
 >
-> <p>W.P. Kinsella</p>
+> <p>Les Brown</p>
