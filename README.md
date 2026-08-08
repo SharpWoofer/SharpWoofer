@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new.
+> Success is not what you do when you are on top.  Success is how high you bounce when you hit the bottom.
 >
-> <p>Brian Tracy</p>
+> <p>Sonia Ricotti</p>
