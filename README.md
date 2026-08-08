@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The truly rich men are the ones who have health, loved ones and a work they love.
+> If your happiness depends on what somebody else does, I guess you do have a problem.
 >
-> <p>Maxime Lagace</p>
+> <p>Richard Bach</p>
