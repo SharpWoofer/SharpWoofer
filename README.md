@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Don't hate the player. Change the game.
+> Freedom lies in being bold.
 >
-> <p>Steve Harvey</p>
+> <p>Robert Frost</p>
