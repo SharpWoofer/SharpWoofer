@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> A man with outward courage dares to die: a man with inner courage dares to live.
+> It is easier to put leather on the soles of one's feet than cover the world with leather.
 >
-> <p>Lao Tzu</p>
+> <p>Tibetan Proverb</p>
