@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The first man gets the oyster, the second man gets the shell.
+> A loving heart is the truest wisdom.
 >
-> <p>Andrew Carnegie</p>
+> <p>Charles Dickens</p>
