@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> There is no path to Peace. Peace is the path.
+> Mistake is a mistake only if you make it twice.
 >
-> <p>Dan Millman</p>
+> <p>Robin Sharma</p>
