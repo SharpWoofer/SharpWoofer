@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The biggest room in the world is the room for improvement.
+> When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.
 >
-> <p>Unknown</p>
+> <p>Henry Ford</p>
