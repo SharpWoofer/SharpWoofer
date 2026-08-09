@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Be - don't try to become
+> A diamond is a piece of charcoal that handled stress exceptionally well.
 >
-> <p>Osho</p>
+> <p>Unknown</p>
