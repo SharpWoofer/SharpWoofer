@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Nothing we see or hear is perfect. But right there in the imperfection is perfect reality.
+> Trust is built and maintained by many small actions over time.
 >
-> <p>Shunryu Suzuki</p>
+> <p>Lolly Daskal</p>
