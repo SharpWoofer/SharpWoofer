@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Coming together is a beginning, staying together is progress, and working together is success.
+> Do not ignore the passion that burns in you. Spend time to discover your gift.
 >
-> <p>Henry Ford</p>
+> <p>Steve Harvey</p>
