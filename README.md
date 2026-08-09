@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.
+> The first man gets the oyster, the second man gets the shell.
 >
-> <p>Henry Ford</p>
+> <p>Andrew Carnegie</p>
