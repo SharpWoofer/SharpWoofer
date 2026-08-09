@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> You can't get to a place that you don't believe exists.
+> Coming together is a beginning, staying together is progress, and working together is success.
 >
-> <p>Unknown</p>
+> <p>Henry Ford</p>
