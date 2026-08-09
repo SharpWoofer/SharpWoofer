@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Reversing your treatment of the man you have wronged is better than asking his forgiveness.
+> The greatest step towards a life of simplicity is to learn to let go.
 >
-> <p>Elbert Hubbard</p>
+> <p>Steve Maraboli</p>
