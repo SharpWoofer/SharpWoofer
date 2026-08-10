@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Time flies whether you are having fun or not.
+> If you have only one smile in you give it to the people you love.
 >
-> <p>Mary Engelbreit</p>
+> <p>Maya Angelou</p>
