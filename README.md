@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Take care of your body. It's the only place you have to live.
+> When I let go of what I am, I become what I might be.
 >
-> <p>Jim Rohn</p>
+> <p>Lao Tzu</p>
