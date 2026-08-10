@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Grudges are for those who insist that they are owed something; forgiveness, however, is for those who are substantial enough to move on.
+> We cannot change anything unless we accept it.
 >
-> <p>Criss Jami</p>
+> <p>Carl Jung</p>
