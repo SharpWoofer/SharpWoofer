@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> We cannot change anything unless we accept it.
+> There are no ordinary moments.
 >
-> <p>Carl Jung</p>
+> <p>Dan Millman</p>
