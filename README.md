@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA Astronaut Jessica Meir Uses VR Goggles](https://www.nasa.gov/image-detail/iss075e0000191/)
-- [NASA&#39;s IXPE Studies Magnetar](https://www.nasa.gov/image-detail/ixpemagnetarartistsconcept-web/)
-- [Taking Flight to Prepare for Space](https://www.nasa.gov/image-detail/55412014375-711b8f02f7-o/)
-- [Artemis III Orion Crew and Service Modules Joined](https://www.nasa.gov/image-detail/ksc-20260730-ph-as01-6583-2/)
-- [Roman Space Telescope Plaque Install](https://www.nasa.gov/image-detail/afs-8-101-1303/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> If you have only one smile in you give it to the people you love.
+> The most efficient way of rendering the poor harmless is to teach them to want to imitate the rich.
 >
-> <p>Maya Angelou</p>
+> <p>Carlos Ruiz Zafon</p>
