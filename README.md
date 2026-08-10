@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Welcome every morning with a smile. Look on the new day as another gift from your Creator, another golden opportunity.
+> Grudges are for those who insist that they are owed something; forgiveness, however, is for those who are substantial enough to move on.
 >
-> <p>Og Mandino</p>
+> <p>Criss Jami</p>
