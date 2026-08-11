@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The desire for more positive experience is itself a negative experience.
+> Most people spend more time and energy going around problems than in trying to solve them.
 >
-> <p>Mark Manson</p>
+> <p>Henry Ford</p>
