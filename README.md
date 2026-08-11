@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> If it is here, it is everywhere. If it is not here, it is nowhere.
+> People rarely succeed unless they have fun in what they are doing.
 >
-> <p>Tibetan Proverb</p>
+> <p>Dale Carnegie</p>
