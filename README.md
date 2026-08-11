@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Do what is right, not what is easy, nor what is popular.
+> Within every obstacle is an opportunity to improve our condition.
 >
-> <p>Roy T. Bennett</p>
+> <p>Ryan Holiday</p>
