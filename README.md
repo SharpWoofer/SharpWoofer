@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> For fast-acting relief try slowing down.
+> No matter how qualified or deserving we are, we will never reach a better life until we can imagine it for ourselves and allow ourselves to have it.
 >
-> <p>Lily Tomlin</p>
+> <p>Richard Bach</p>
