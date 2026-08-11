@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> I've always lived in the moment.
+> Sometimes it is more important to discover what one cannot do, than what one can do.
 >
-> <p>Yanni</p>
+> <p>Lin Yutang</p>
