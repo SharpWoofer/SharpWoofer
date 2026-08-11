@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Life becomes easier and more beautiful when we can see the good in other people.
+> Every day passes whether you participate or not.
 >
-> <p>Roy T. Bennett</p>
+> <p>Ming-Dao Deng</p>
