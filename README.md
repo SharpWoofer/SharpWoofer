@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Optimism is the one quality more associated with success and happiness than any other.
+> An empty head is not really empty; it is stuffed with rubbish. Hence the difficulty of forcing anything into an empty head.
 >
-> <p>Brian Tracy</p>
+> <p>Eric Hoffer</p>
