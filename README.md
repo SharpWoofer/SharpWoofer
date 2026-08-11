@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Within every obstacle is an opportunity to improve our condition.
+> Impressing people is utterly different from being truly impressive.
 >
 > <p>Ryan Holiday</p>
