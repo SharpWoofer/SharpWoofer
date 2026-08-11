@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> We are all born ignorant, but one must work hard to remain stupid.
+> Progress is impossible without change, and those who cannot change their minds cannot change anything.
 >
-> <p>Benjamin Franklin</p>
+> <p>George Bernard Shaw</p>
