@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> An empty head is not really empty; it is stuffed with rubbish. Hence the difficulty of forcing anything into an empty head.
+> The desire for more positive experience is itself a negative experience.
 >
-> <p>Eric Hoffer</p>
+> <p>Mark Manson</p>
