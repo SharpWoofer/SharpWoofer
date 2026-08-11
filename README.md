@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Most people spend more time and energy going around problems than in trying to solve them.
+> Storms don't last forever.
 >
-> <p>Henry Ford</p>
+> <p>Unknown</p>
