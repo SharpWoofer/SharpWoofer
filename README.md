@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Sometimes it is more important to discover what one cannot do, than what one can do.
+> For fast-acting relief try slowing down.
 >
-> <p>Lin Yutang</p>
+> <p>Lily Tomlin</p>
