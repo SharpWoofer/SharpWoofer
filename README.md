@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> People rarely succeed unless they have fun in what they are doing.
+> Honor is the foundation of courage.
 >
-> <p>Dale Carnegie</p>
+> <p>Amelia Earhart</p>
