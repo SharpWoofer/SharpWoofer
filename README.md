@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Every day passes whether you participate or not.
+> If it is here, it is everywhere. If it is not here, it is nowhere.
 >
-> <p>Ming-Dao Deng</p>
+> <p>Tibetan Proverb</p>
