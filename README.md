@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Dreams are for dreamers. Goals are for achievers.
+> Life becomes easier and more beautiful when we can see the good in other people.
 >
-> <p>Arnold Schwarzenegger</p>
+> <p>Roy T. Bennett</p>
