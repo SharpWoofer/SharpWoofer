@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Honor is the foundation of courage.
+> We are all born ignorant, but one must work hard to remain stupid.
 >
-> <p>Amelia Earhart</p>
+> <p>Benjamin Franklin</p>
