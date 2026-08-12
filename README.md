@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Thinking is difficult, that's why most people judge.
+> The pain of parting is nothing to the joy of meeting again.
 >
-> <p>Carl Jung</p>
+> <p>Charles Dickens</p>
