@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Unexpressed emotions will never die. They are buried alive and will come forth later in uglier ways.
+> Thinking is difficult, that's why most people judge.
 >
-> <p>Sigmund Freud</p>
+> <p>Carl Jung</p>
