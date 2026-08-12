@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> A path is made by walking on it.
+> Giving is the secret of a healthy life. Not necessarily money, but whatever a person has of encouragement, sympathy and understanding.
 >
-> <p>Zhuangzi</p>
+> <p>John D. Rockefeller</p>
