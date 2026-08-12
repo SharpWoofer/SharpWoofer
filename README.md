@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Greatness comes from living with purpose and passion.
+> Rivers know this: there is no hurry. We shall get there some day.
 >
-> <p>Ralph Marston</p>
+> <p>A.A. Milne</p>
