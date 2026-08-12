@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Giving is the secret of a healthy life. Not necessarily money, but whatever a person has of encouragement, sympathy and understanding.
+> We forge the chains we wear in life.
 >
-> <p>John D. Rockefeller</p>
+> <p>Charles Dickens</p>
