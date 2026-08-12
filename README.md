@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Lion Nebula Roars in Webb&#39;s Sights](https://www.nasa.gov/image-detail/stsci-01kx6d0xbhsyp7q1em5qtc43rp/)
-- [NASA Astronaut Jessica Meir Uses VR Goggles](https://www.nasa.gov/image-detail/iss075e0000191/)
-- [NASA&#39;s IXPE Studies Magnetar](https://www.nasa.gov/image-detail/ixpemagnetarartistsconcept-web/)
-- [Taking Flight to Prepare for Space](https://www.nasa.gov/image-detail/55412014375-711b8f02f7-o/)
-- [Artemis III Orion Crew and Service Modules Joined](https://www.nasa.gov/image-detail/ksc-20260730-ph-as01-6583-2/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> If your mind is empty, it is always ready for anything, it is open to everything.
+> Unexpressed emotions will never die. They are buried alive and will come forth later in uglier ways.
 >
-> <p>Shunryu Suzuki</p>
+> <p>Sigmund Freud</p>
