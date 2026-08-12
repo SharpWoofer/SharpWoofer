@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Happiness is the absence of the striving for happiness.
+> No snowflake ever falls in the wrong place.
 >
-> <p>Zhuangzi</p>
+> <p>Zen Proverb</p>
