@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> All life is a manifestation of the spirit, the manifestation of love.
+> The first principle of success is desire.
 >
-> <p>Morihei Ueshiba</p>
+> <p>Robert Collier</p>
