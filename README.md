@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Words can only have a positive effect on others if and when they are ready to listen.
+> A path is made by walking on it.
 >
-> <p>Christopher Reeve</p>
+> <p>Zhuangzi</p>
