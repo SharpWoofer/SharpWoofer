@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> We forge the chains we wear in life.
+> Happiness is the absence of the striving for happiness.
 >
-> <p>Charles Dickens</p>
+> <p>Zhuangzi</p>
