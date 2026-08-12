@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> It is important that we forgive ourselves for making mistakes. We need to learn from our errors and move on.
+> Death is not sad; the sad thing is that most people don't really live at all.
 >
-> <p>Steve Maraboli</p>
+> <p>Dan Millman</p>
