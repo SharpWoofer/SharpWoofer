@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Death smiles at us all. All we can do is smile back.
+> Most people get ahead during the time that others waste.
 >
-> <p>Marcus Aurelius</p>
+> <p>Henry Ford</p>
