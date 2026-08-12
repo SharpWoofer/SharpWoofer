@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Talent is luck. The important thing in life is courage.
+> Words can only have a positive effect on others if and when they are ready to listen.
 >
-> <p>Woody Allen</p>
+> <p>Christopher Reeve</p>
