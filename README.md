@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> You just can't beat the person who never gives up.
+> See what you're doing wrong, laugh at it, change and do better.
 >
-> <p>Babe Ruth</p>
+> <p>Spencer Johnson</p>
