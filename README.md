@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Yesterday is the past, tomorrow is the future, today is a gift - that's why it's called the present.
+> When you are talented you do it whatever it is until your fingers bleed or your eyes are ready to fall out of your head.
 >
-> <p>George Bernard Shaw</p>
+> <p>Stephen King</p>
