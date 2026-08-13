@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Death is not sad; the sad thing is that most people don't really live at all.
+> Each day your life grows a day shorter. Make every move count.
 >
-> <p>Dan Millman</p>
+> <p>Ming-Dao Deng</p>
