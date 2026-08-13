@@ -13,7 +13,11 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Perseids Meteor Shower](https://www.nasa.gov/image-detail/perseidsorion-2/)
+- [2026 Total Solar Eclipse in Spain](https://www.nasa.gov/image-detail/2026-total-solar-eclipse-2/)
+- [Lion Nebula Roars in Webb&#39;s Sights](https://www.nasa.gov/image-detail/stsci-01kx6d0xbhsyp7q1em5qtc43rp/)
+- [NASA Astronaut Jessica Meir Uses VR Goggles](https://www.nasa.gov/image-detail/iss075e0000191/)
+- [NASA&#39;s IXPE Studies Magnetar](https://www.nasa.gov/image-detail/ixpemagnetarartistsconcept-web/)
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
