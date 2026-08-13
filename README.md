@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Sometimes letting things go is an act of far greater power than defending or hanging on.
+> In spite of everything, I shall rise again.
 >
-> <p>Eckhart Tolle</p>
+> <p>Vincent van Gogh</p>
