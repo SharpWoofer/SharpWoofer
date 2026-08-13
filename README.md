@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> We must have strong minds, ready to accept facts as they are.
+> Good entrepreneurs don't fail because they stay at it.
 >
-> <p>Harry S. Truman</p>
+> <p>Naval Ravikant</p>
