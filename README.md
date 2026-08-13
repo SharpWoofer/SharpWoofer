@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> A little impatience will spoil great plans.
+> Sometimes letting things go is an act of far greater power than defending or hanging on.
 >
-> <p>Chinese Proverb</p>
+> <p>Eckhart Tolle</p>
