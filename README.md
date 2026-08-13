@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Each day your life grows a day shorter. Make every move count.
+> You just can't beat the person who never gives up.
 >
-> <p>Ming-Dao Deng</p>
+> <p>Babe Ruth</p>
