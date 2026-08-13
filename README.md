@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> When you are talented you do it whatever it is until your fingers bleed or your eyes are ready to fall out of your head.
+> Life is a succession of lessons, which must be lived to be understood.
 >
-> <p>Stephen King</p>
+> <p>Ralph Waldo Emerson</p>
