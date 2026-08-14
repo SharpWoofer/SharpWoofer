@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The friend is the man who knows all about you, and still likes you.
+> We are all faced with a series of great opportunities brilliantly disguised as impossible situations.
 >
-> <p>Elbert Hubbard</p>
+> <p>Charles Swindoll</p>
