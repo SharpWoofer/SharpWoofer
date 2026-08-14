@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> We are all faced with a series of great opportunities brilliantly disguised as impossible situations.
+> Courage is almost a contradiction in terms. It means a strong desire to live taking the form of a readiness to die.
 >
-> <p>Charles Swindoll</p>
+> <p>Gilbert Chesterton</p>
