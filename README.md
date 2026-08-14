@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Don't try to be young. Just open your mind. Stay interested in stuff.
+> Imagination is everything. It is the preview of life's coming attractions.
 >
-> <p>Betty White</p>
+> <p>Albert Einstein</p>
