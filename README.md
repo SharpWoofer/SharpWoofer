@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The people who are most successful are those who are doing what they love.
+> There is no way to happiness - happiness is the way.
 >
-> <p>Warren Buffett</p>
+> <p>Thich Nhat Hanh</p>
