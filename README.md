@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> If you truly love Nature, you will find beauty everywhere.
+> Don't let your mind stop you.
 >
-> <p>Vincent van Gogh</p>
+> <p>Steve Harvey</p>
