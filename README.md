@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The great use of life is to spend it for something that will outlast it.
+> Superstars think like superstars long before the fans or the press anoint them.
 >
-> <p>William James</p>
+> <p>John Eliot</p>
