@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Kind words can be short and easy to speak, but their echoes are truly endless.
+> Don't try to be young. Just open your mind. Stay interested in stuff.
 >
-> <p>Mother Teresa</p>
+> <p>Betty White</p>
