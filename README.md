@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Fools read fast. Geniuses reread.
+> Kind words can be short and easy to speak, but their echoes are truly endless.
 >
-> <p>Maxime Lagace</p>
+> <p>Mother Teresa</p>
