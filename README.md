@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Good entrepreneurs don't fail because they stay at it.
+> The less you respond to negative people, the more positive your life will become.
 >
-> <p>Naval Ravikant</p>
+> <p>Paulo Coelho</p>
