@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Don't let your mind stop you.
+> Success is not to be pursued, it is to be attracted by the person you become.
 >
-> <p>Steve Harvey</p>
+> <p>Jim Rohn</p>
