@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> It's not what you say out of your mouth that determines your life, it's what you whisper to yourself that has the most power!
+> Fiction is the truth inside the lie.
 >
-> <p>Robert Kiyosaki</p>
+> <p>Stephen King</p>
