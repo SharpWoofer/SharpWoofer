@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The truth is heavy, therefore few care to carry it.
+> Ideas do not reach perfection in a day, no matter how much study is put upon them.
 >
-> <p>Winston Churchill</p>
+> <p>Alexander Graham Bell</p>
