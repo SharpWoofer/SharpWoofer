@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> All wealth is the product of labor.
+> What you are afraid of is never as bad as what you imagine. The fear you let build up in your mind is worse than the situation that actually exists.
 >
-> <p>John Locke</p>
+> <p>Spencer Johnson</p>
