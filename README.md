@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> There is no truth except the truth that exists within you. Everything else is what someone is telling you.
+> You came empty handed, and you will leave empty handed.
 >
-> <p>Neale Donald Walsch</p>
+> <p>Bhagavad Gita</p>
