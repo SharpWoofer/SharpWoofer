@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Imagination is more important than knowledge.
+> Real learning comes about when the competitive spirit has ceased.
 >
-> <p>Albert Einstein</p>
+> <p>Jiddu Krishnamurti</p>
