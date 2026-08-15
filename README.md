@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> It is during our darkest moments that we must focus to see the light.
+> The power to make and break habits and learning how to do that is really important.
 >
-> <p>Aristotle</p>
+> <p>Naval Ravikant</p>
