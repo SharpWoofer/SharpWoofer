@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> You know the more one does the more one can do.
+> The few who do are the envy of the many who only watch.
 >
-> <p>Amelia Earhart</p>
+> <p>Jim Rohn</p>
