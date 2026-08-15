@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Real learning comes about when the competitive spirit has ceased.
+> Embody what you teach, and teach only what you have embodied.
 >
-> <p>Jiddu Krishnamurti</p>
+> <p>Dan Millman</p>
