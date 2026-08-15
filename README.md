@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The first principle of success is desire.
+> All wealth is the product of labor.
 >
-> <p>Robert Collier</p>
+> <p>John Locke</p>
