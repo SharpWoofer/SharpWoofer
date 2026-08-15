@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The few who do are the envy of the many who only watch.
+> The first principle of success is desire.
 >
-> <p>Jim Rohn</p>
+> <p>Robert Collier</p>
