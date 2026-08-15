@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> If you are depressed, you are living in the past. If you are anxious, you are living in the future. if you are at peace, you are living in the present.
+> We must accept finite disappointment, but never lose infinite hope.
 >
-> <p>Lao Tzu</p>
+> <p>Martin Luther King, Jr.</p>
