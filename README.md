@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Embody what you teach, and teach only what you have embodied.
+> If you are depressed, you are living in the past. If you are anxious, you are living in the future. if you are at peace, you are living in the present.
 >
-> <p>Dan Millman</p>
+> <p>Lao Tzu</p>
