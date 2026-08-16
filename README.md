@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> At every moment where language can't go, that's your mind.
+> We suffer for the simple reason that suffering is biologically useful. It is nature's preferred agent for inspiring change.
 >
-> <p>Bodhidharma</p>
+> <p>Mark Manson</p>
