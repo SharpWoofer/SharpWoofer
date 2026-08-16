@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> You don't get in life what you want; you get in life what you are.
+> Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new.
 >
-> <p>Les Brown</p>
+> <p>Brian Tracy</p>
