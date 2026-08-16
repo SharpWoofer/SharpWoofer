@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> You can't stay in your corner of the Forest waiting for others to come to you. You have to go to them sometimes.
+> You have to give up some of the old so that you can make room for the new.
 >
-> <p>A.A. Milne</p>
+> <p>Yanni</p>
