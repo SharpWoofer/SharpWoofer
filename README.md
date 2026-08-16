@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> A comfort zone is a beautiful place, but nothing ever grows there.
+> The fact of the matter is that there will be nothing learned from any challenge in which we don't try our hardest.
 >
-> <p>Unknown</p>
+> <p>Josh Waitzkin</p>
