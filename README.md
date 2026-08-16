@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The happiness of your life depends upon the quality of your thoughts; therefore guard accordingly.
+> Whoever is happy will make others happy too.
 >
-> <p>Marcus Aurelius</p>
+> <p>Anne Frank</p>
