@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Ideas do not reach perfection in a day, no matter how much study is put upon them.
+> If we will be quiet and ready enough, we shall find compensation in every disappointment.
 >
-> <p>Alexander Graham Bell</p>
+> <p>Henry David Thoreau</p>
