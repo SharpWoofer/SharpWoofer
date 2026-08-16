@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> People become attached to their burdens sometimes more than the burdens are attached to them.
+> When one does not have what one wants, one must want what one has.
 >
-> <p>George Bernard Shaw</p>
+> <p>Sigmund Freud</p>
