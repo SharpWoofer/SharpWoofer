@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> We suffer for the simple reason that suffering is biologically useful. It is nature's preferred agent for inspiring change.
+> You will not do incredible things without an incredible dream.
 >
-> <p>Mark Manson</p>
+> <p>John Eliot</p>
