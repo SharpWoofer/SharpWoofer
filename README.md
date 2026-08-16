@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Change is hardest at the beginning, messiest in the middle and best at the end.
+> The happiness of your life depends upon the quality of your thoughts; therefore guard accordingly.
 >
-> <p>Robin Sharma</p>
+> <p>Marcus Aurelius</p>
