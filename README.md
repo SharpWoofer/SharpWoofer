@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Total Solar Eclipse in Sunflower Field](https://www.nasa.gov/image-detail/2026-total-solar-eclipse-3/)
-- [Perseids Meteor Shower](https://www.nasa.gov/image-detail/perseidsorion-2/)
-- [2026 Total Solar Eclipse in Spain](https://www.nasa.gov/image-detail/2026-total-solar-eclipse-2/)
-- [Lion Nebula Roars in Webb&#39;s Sights](https://www.nasa.gov/image-detail/stsci-01kx6d0xbhsyp7q1em5qtc43rp/)
-- [NASA Astronaut Jessica Meir Uses VR Goggles](https://www.nasa.gov/image-detail/iss075e0000191/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> When one does not have what one wants, one must want what one has.
+> You can't stay in your corner of the Forest waiting for others to come to you. You have to go to them sometimes.
 >
-> <p>Sigmund Freud</p>
+> <p>A.A. Milne</p>
