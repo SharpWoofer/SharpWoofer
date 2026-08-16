@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Most people do not really want freedom, because freedom involves responsibility, and most people are frightened of responsibility.
+> The most important thing is to enjoy your life, to be happy, it's all that matters.
 >
-> <p>Sigmund Freud</p>
+> <p>Audrey Hepburn</p>
