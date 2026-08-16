@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Every hour of every day is an unspeakably perfect miracle.
+> At every moment where language can't go, that's your mind.
 >
-> <p>Walt Whitman</p>
+> <p>Bodhidharma</p>
