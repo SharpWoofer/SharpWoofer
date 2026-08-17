@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Sometimes you have to travel a long way to find what is near.
+> It does not do to dwell on dreams and forget to live, remember that.
 >
-> <p>Paulo Coelho</p>
+> <p>Albus Dumbledore</p>
