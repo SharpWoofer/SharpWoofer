@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Always keep your eyes open. Keep watching. Because whatever you see can inspire you.
+> All animals except man know that the principal business of life is to enjoy it.
 >
-> <p>Grace Coddington</p>
+> <p>Samuel Butler</p>
