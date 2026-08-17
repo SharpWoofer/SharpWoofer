@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Total Solar Eclipse in Sunflower Field](https://www.nasa.gov/image-detail/2026-total-solar-eclipse-3/)
-- [Perseids Meteor Shower](https://www.nasa.gov/image-detail/perseidsorion-2/)
-- [2026 Total Solar Eclipse in Spain](https://www.nasa.gov/image-detail/2026-total-solar-eclipse-2/)
-- [Lion Nebula Roars in Webb&#39;s Sights](https://www.nasa.gov/image-detail/stsci-01kx6d0xbhsyp7q1em5qtc43rp/)
-- [NASA Astronaut Jessica Meir Uses VR Goggles](https://www.nasa.gov/image-detail/iss075e0000191/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> All animals except man know that the principal business of life is to enjoy it.
+> Be as simple as you can be; you will be astonished to see how uncomplicated and happy your life can become.
 >
-> <p>Samuel Butler</p>
+> <p>Paramahansa Yogananda</p>
