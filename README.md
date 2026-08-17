@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The harder you work, the harder it is to surrender.
+> Believe in one thing too much and you have no room for new ideas.
 >
-> <p>Vince Lombardi</p>
+> <p>Ray Bradbury</p>
