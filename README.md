@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Some changes look negative on the surface but you will soon realize that space is being created in your life for something new to emerge.
+> There is no fear for one whose mind is not filled with desires.
 >
-> <p>Eckhart Tolle</p>
+> <p>Buddha</p>
