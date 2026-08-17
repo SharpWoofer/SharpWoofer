@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Concentrate all your thoughts upon the work at hand. The sun's rays do not burn until brought to focus.
+> You can not live your life just based on what everyone else thinks.
 >
-> <p>Alexander Graham Bell</p>
+> <p>Joyce Meyer</p>
