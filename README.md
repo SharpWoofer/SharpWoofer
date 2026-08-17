@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The difference between ordinary and extraordinary is that little extra.
+> It's necessary to get the losers out of your life if you want to live your dream.
 >
-> <p>Colin R. Davis</p>
+> <p>Les Brown</p>
