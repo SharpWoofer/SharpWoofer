@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Turn your wounds into wisdom.
+> Concentrate all your thoughts upon the work at hand. The sun's rays do not burn until brought to focus.
 >
-> <p>Oprah Winfrey</p>
+> <p>Alexander Graham Bell</p>
