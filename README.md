@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Blessed is he who expects nothing, for he shall be disappointed.
+> Turn your wounds into wisdom.
 >
-> <p>Jonathan Swift</p>
+> <p>Oprah Winfrey</p>
