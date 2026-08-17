@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> You can put lipstick on a pig. It's still a pig.
+> Art is the signature of civilizations.
 >
-> <p>Barack Obama</p>
+> <p>Beverly Sills</p>
