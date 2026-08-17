@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> It's beautiful to be alone. To be alone does not mean to be lonely. It means the mind is not influenced and contaminated by society.
+> We are all born ignorant, but one must work hard to remain stupid.
 >
-> <p>Jiddu Krishnamurti</p>
+> <p>Benjamin Franklin</p>
