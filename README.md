@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Most people do not really want freedom, because freedom involves responsibility, and most people are frightened of responsibility.
+> You can put lipstick on a pig. It's still a pig.
 >
-> <p>Sigmund Freud</p>
+> <p>Barack Obama</p>
