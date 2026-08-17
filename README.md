@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> It's necessary to get the losers out of your life if you want to live your dream.
+> The harder you work, the harder it is to surrender.
 >
-> <p>Les Brown</p>
+> <p>Vince Lombardi</p>
