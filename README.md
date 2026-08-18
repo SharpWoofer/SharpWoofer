@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Colorful Collage of Tarantula Nebula](https://www.nasa.gov/image-detail/30dor-crop/)
-- [Total Solar Eclipse in Sunflower Field](https://www.nasa.gov/image-detail/2026-total-solar-eclipse-3/)
-- [Perseids Meteor Shower](https://www.nasa.gov/image-detail/perseidsorion-2/)
-- [2026 Total Solar Eclipse in Spain](https://www.nasa.gov/image-detail/2026-total-solar-eclipse-2/)
-- [Lion Nebula Roars in Webb&#39;s Sights](https://www.nasa.gov/image-detail/stsci-01kx6d0xbhsyp7q1em5qtc43rp/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Just try to be the best you can be; never cease trying to be the best you can be. That's in your power.
+> Find the game where you can win, and then commit your life to playing it; and play to win.
 >
-> <p>John Wooden</p>
+> <p>Robert Kiyosaki</p>
