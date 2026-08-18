@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Find the game where you can win, and then commit your life to playing it; and play to win.
+> Procrastination is one of the most common and deadliest of diseases and its toll on success and happiness is heavy.
 >
-> <p>Robert Kiyosaki</p>
+> <p>Wayne Gretzky</p>
