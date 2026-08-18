@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Everybody's life is either rewarding or an example.
+> Raise your words, not voice. It is rain that grows flowers, not thunder.
 >
-> <p>Tony Robbins</p>
+> <p>Rumi</p>
