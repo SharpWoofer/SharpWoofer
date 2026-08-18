@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s B777 Gets New Coat of Paint](https://www.nasa.gov/image-detail/jsc2026e407303/)
-- [Colorful Collage of Tarantula Nebula](https://www.nasa.gov/image-detail/30dor-crop/)
-- [Total Solar Eclipse in Sunflower Field](https://www.nasa.gov/image-detail/2026-total-solar-eclipse-3/)
-- [Perseids Meteor Shower](https://www.nasa.gov/image-detail/perseidsorion-2/)
-- [2026 Total Solar Eclipse in Spain](https://www.nasa.gov/image-detail/2026-total-solar-eclipse-2/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Every limit is a beginning as well as an ending.
+> A man's worth is no greater than his ambitions.
 >
-> <p>George Eliot</p>
+> <p>Marcus Aurelius</p>
