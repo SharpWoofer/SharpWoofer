@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Opportunities multiply as they are seized.
+> Everybody's life is either rewarding or an example.
 >
-> <p>Sun Tzu</p>
+> <p>Tony Robbins</p>
