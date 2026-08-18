@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Happiness comes when you believe in what you are doing, know what you are doing, and love what you are doing.
+> Discipline is the bridge between goals and accomplishment.
 >
-> <p>Brian Tracy</p>
+> <p>Jim Rohn</p>
