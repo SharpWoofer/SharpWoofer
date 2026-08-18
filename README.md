@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Procrastination is one of the most common and deadliest of diseases and its toll on success and happiness is heavy.
+> Arise, slay thy enemies, enjoy a prosperous kingdom.
 >
-> <p>Wayne Gretzky</p>
+> <p>Bhagavad Gita</p>
