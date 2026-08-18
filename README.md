@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The grass is greener where you water it.
+> Know the rules well, so you can break them effectively.
 >
-> <p>Neil Barringham</p>
+> <p>Dalai Lama</p>
