@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> It is the power of the mind to be unconquerable.
+> We need a backbone, not a wishbone.
 >
-> <p>Seneca</p>
+> <p>Joyce Meyer</p>
