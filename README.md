@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> We run to win, not just to be in the race.
+> I admire those who do good and expect nothing in return.
 >
-> <p>Vince Lombardi</p>
+> <p>Roy T. Bennett</p>
