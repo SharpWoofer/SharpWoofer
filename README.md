@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Raise your words, not voice. It is rain that grows flowers, not thunder.
+> Take time like the river that never grows stale. Keep going and steady. No hurry, no rush.
 >
 > <p>Rumi</p>
