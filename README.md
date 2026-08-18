@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Discipline is the bridge between goals and accomplishment.
+> The moment you stop to think about whether you love someone, you've already stopped loving that person forever.
 >
-> <p>Jim Rohn</p>
+> <p>Carlos Ruiz Zafon</p>
