@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Never let the things you can't do stop you from doing what you can.
+> We are all like the bright moon, we still have our darker side.
 >
-> <p>Ronald Reagan</p>
+> <p>Kahlil Gibran</p>
