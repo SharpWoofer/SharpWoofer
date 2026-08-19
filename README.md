@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> You can, you should, and if you're brave enough to start, you will.
+> Rich people have small TVs and big libraries, and poor people have small libraries and big TVs.
 >
-> <p>Stephen King</p>
+> <p>Zig Ziglar</p>
