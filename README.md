@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Every man desires to live long, but no man wishes to be old.
+> If you find you are not valued and appreciated, then shift your attention to places where you will be valued and appreciated.
 >
-> <p>Jonathan Swift</p>
+> <p>Celestine Chua</p>
