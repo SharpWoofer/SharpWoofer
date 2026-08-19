@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Ancient Milky Way Merger](https://www.nasa.gov/image-detail/stsci-01kz4n4d8g9ak26cf28hd5nt5n-d2d764/)
-- [NASA&#39;s B777 Gets New Coat of Paint](https://www.nasa.gov/image-detail/jsc2026e407303/)
-- [Colorful Collage of Tarantula Nebula](https://www.nasa.gov/image-detail/30dor-crop/)
-- [Total Solar Eclipse in Sunflower Field](https://www.nasa.gov/image-detail/2026-total-solar-eclipse-3/)
-- [Perseids Meteor Shower](https://www.nasa.gov/image-detail/perseidsorion-2/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Have the courage to be ignorant of a great number of things, in order to avoid the calamity of being ignorant of everything.
+> If you only knew the magnificence of the 3, 6, and 9, then you would have a key to the universe.
 >
-> <p>Sydney Smith</p>
+> <p>Nikola Tesla</p>
