@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Remember that sometimes not getting what you want is a wonderful stroke of luck.
+> It doesn't matter where you are, you are nowhere compared to where you can go.
 >
-> <p>Dalai Lama</p>
+> <p>Bob Proctor</p>
