@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Failure is feedback. Learn from it and move on.
+> Never let the things you can't do stop you from doing what you can.
 >
-> <p>Jack Butcher</p>
+> <p>Ronald Reagan</p>
