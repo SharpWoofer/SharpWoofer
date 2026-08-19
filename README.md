@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> A fear of weakness only strengthens weakness.
+> Problems remain as problems because people are busy defending them rather than finding solutions.
 >
-> <p>Criss Jami</p>
+> <p>Celestine Chua</p>
