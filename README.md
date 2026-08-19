@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Words are the clothing of our thoughts.
+> A dead thing can go with the stream, but only a living thing can go against it.
 >
-> <p>Jonathan Swift</p>
+> <p>Gilbert Chesterton</p>
