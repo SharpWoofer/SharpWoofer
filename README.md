@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Life can be wonderful if you're not afraid of it.
+> The river that flows in you also flows in me.
 >
-> <p>Charlie Chaplin</p>
+> <p>Kabir</p>
