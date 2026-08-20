@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Make each day a new horizon.
+> The harder you work for something, the greater you'll feel when you achieve it.
 >
-> <p>Christopher McCandless</p>
+> <p>Colin R. Davis</p>
