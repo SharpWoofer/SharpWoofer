@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Listen to what you know instead of what you fear.
+> It is not enough to win a war; it is more important to organize the peace.
 >
-> <p>Richard Bach</p>
+> <p>Aristotle</p>
