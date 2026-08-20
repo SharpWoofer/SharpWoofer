@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The harder you work for something, the greater you'll feel when you achieve it.
+> The hard path is often the right one. The river teaches more than the shore.
 >
-> <p>Colin R. Davis</p>
+> <p>Maxime Lagace</p>
