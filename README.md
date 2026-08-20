@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The hard path is often the right one. The river teaches more than the shore.
+> Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it.
 >
-> <p>Maxime Lagace</p>
+> <p>Rumi</p>
