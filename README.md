@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> People who have goals succeed because they know where they're going. It's that simple.
+> It is useless to meet revenge with revenge; it will heal nothing.
 >
-> <p>Earl Nightingale</p>
+> <p>J.R.R. Tolkien</p>
