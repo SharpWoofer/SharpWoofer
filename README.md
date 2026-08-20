@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new.
+> Only when you can be extremely pliable and soft can you be extremely hard and strong.
 >
-> <p>Brian Tracy</p>
+> <p>Zen Proverb</p>
