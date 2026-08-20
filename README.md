@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> It is useless to meet revenge with revenge; it will heal nothing.
+> It is not how much we have, but how much we enjoy, that makes happiness.
 >
-> <p>J.R.R. Tolkien</p>
+> <p>Charles Spurgeon</p>
