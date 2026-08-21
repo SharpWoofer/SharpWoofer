@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> What is planted in each person's soul will sprout.
+> The degree of responsibility you take for your life determines how much change you can create in it.
 >
-> <p>Rumi</p>
+> <p>Celestine Chua</p>
