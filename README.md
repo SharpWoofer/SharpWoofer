@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> In order to control myself I must first accept myself by going with and not against my nature.
+> Experience is a comb which nature gives us when we are bald.
 >
-> <p>Bruce Lee</p>
+> <p>Chinese Proverb</p>
