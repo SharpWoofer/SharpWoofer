@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The road to success is always under construction..
+> The golden opportunity you are seeking is in yourself. It is not in your environment; it is not in luck or chance, or the help of others; it is in yourself alone.
 >
-> <p>Lily Tomlin</p>
+> <p>Orison Swett Marden</p>
