@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Mind is the creator of everything. You should therefore guide it to create only good.
+> If you are lucky enough to find love, remember it is there and don't throw it away.
 >
-> <p>Paramahansa Yogananda</p>
+> <p>Stephen Hawking</p>
