@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> If you are lucky enough to find love, remember it is there and don't throw it away.
+> If we are not able to smile, then the world will not have peace.
 >
-> <p>Stephen Hawking</p>
+> <p>Thich Nhat Hanh</p>
