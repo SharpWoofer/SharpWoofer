@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Surround yourself with only people who are going to lift you higher.
+> What is planted in each person's soul will sprout.
 >
-> <p>Oprah Winfrey</p>
+> <p>Rumi</p>
