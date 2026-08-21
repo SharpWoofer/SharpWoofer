@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> It is better to fail in originality than to succeed in imitation.
+> Sometimes, the only way to evolve is to open ourselves fully.
 >
-> <p>Herman Melville</p>
+> <p>Kamal Ravikant</p>
