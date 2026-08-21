@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Experience is a comb which nature gives us when we are bald.
+> The road to success is always under construction..
 >
-> <p>Chinese Proverb</p>
+> <p>Lily Tomlin</p>
