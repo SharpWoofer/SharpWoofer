@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The power of human thought grows exponentially with the number of minds that share that thought.
+> The worst part of success is trying to find someone who is happy for you.
 >
-> <p>Dan Brown</p>
+> <p>Bette Midler</p>
