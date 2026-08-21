@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The degree of responsibility you take for your life determines how much change you can create in it.
+> Take time like the river that never grows stale. Keep going and steady. No hurry, no rush.
 >
-> <p>Celestine Chua</p>
+> <p>Rumi</p>
