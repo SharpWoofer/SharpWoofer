@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Words can only have a positive effect on others if and when they are ready to listen.
+> The destiny of man is in his own soul.
 >
-> <p>Christopher Reeve</p>
+> <p>Herodotus</p>
