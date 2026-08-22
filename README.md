@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Sometimes things become possible if we want them bad enough.
+> Stop acting so small. You are the universe in ecstatic motion.
 >
-> <p>T.S. Eliot</p>
+> <p>Rumi</p>
