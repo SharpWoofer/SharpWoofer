@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Someday death will take us to another star.
+> Life is really simple, but men insist on making it complicated.
 >
-> <p>Vincent van Gogh</p>
+> <p>Confucius</p>
