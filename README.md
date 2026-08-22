@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Music is like creating an emotional painting. The sounds are the colors.
+> Sometimes things become possible if we want them bad enough.
 >
-> <p>Yanni</p>
+> <p>T.S. Eliot</p>
