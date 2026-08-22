@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time.
+> Be as simple as you can be; you will be astonished to see how uncomplicated and happy your life can become.
 >
-> <p>Mark Twain</p>
+> <p>Paramahansa Yogananda</p>
