@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> If you do not change direction, you may end up where you are heading.
+> Silence is a source of great strength.
 >
 > <p>Lao Tzu</p>
