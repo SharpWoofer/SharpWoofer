@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Life is really simple, but men insist on making it complicated.
+> To be prepared is half the victory.
 >
-> <p>Confucius</p>
+> <p>Miguel de Cervantes</p>
