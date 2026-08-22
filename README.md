@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Misfortune shows those who are not really friends.
+> If you do not change direction, you may end up where you are heading.
 >
-> <p>Aristotle</p>
+> <p>Lao Tzu</p>
