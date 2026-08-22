@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> All cruelty springs from weakness.
+> Words can only have a positive effect on others if and when they are ready to listen.
 >
-> <p>Seneca</p>
+> <p>Christopher Reeve</p>
