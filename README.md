@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The longer we dwell on our misfortunes, the greater is their power to harm us.
+> You can have results or excuses, but not both.
 >
-> <p>Voltaire</p>
+> <p>Arnold Schwarzenegger</p>
