@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Life is not just the passing of time. Life is the collection of experiences and their intensity.
+> All cruelty springs from weakness.
 >
-> <p>Jim Rohn</p>
+> <p>Seneca</p>
