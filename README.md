@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The destiny of man is in his own soul.
+> The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time.
 >
-> <p>Herodotus</p>
+> <p>Mark Twain</p>
