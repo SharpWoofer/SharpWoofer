@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> If you want peace, accept. If you want suffering, expect.
+> The successful warrior is the average man, with laser-like focus.
 >
-> <p>Maxime Lagace</p>
+> <p>Bruce Lee</p>
