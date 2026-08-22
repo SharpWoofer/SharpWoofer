@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> To be prepared is half the victory.
+> The longer we dwell on our misfortunes, the greater is their power to harm us.
 >
-> <p>Miguel de Cervantes</p>
+> <p>Voltaire</p>
