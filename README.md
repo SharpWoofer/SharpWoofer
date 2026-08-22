@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Be as simple as you can be; you will be astonished to see how uncomplicated and happy your life can become.
+> Loyalty and friendship are the most precious possessions a man can have.
 >
-> <p>Paramahansa Yogananda</p>
+> <p>Herbert Hoover</p>
