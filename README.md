@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Stop acting so small. You are the universe in ecstatic motion.
+> A real friend is one who walks in when the rest of the world walks out.
 >
-> <p>Rumi</p>
+> <p>Unknown</p>
