@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> If you put yourself in a position where you have to stretch outside your comfort zone, then you are forced to expand your consciousness.
+> The privilege of a lifetime is to become who you truly are.
 >
-> <p>Unknown</p>
+> <p>Carl Jung</p>
