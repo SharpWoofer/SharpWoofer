@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The privilege of a lifetime is to become who you truly are.
+> Wit is educated insolence.
 >
-> <p>Carl Jung</p>
+> <p>Aristotle</p>
