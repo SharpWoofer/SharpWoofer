@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Wit is educated insolence.
+> You must learn to let go. Release the stress. You were never in control anyway.
 >
-> <p>Aristotle</p>
+> <p>Steve Maraboli</p>
