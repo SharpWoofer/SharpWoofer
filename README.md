@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The seasons do not push one another; neither do clouds race the wind across the sky. All things happen in their own good time.
+> There is no absolute success in the world, only constant progress.
 >
-> <p>Dan Millman</p>
+> <p>Jonathan Swift</p>
