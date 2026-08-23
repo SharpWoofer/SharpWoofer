@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> You can tell more about a person by what he says about others than you can by what others say about him.
+> Every strike brings me closer to the next home run.
 >
-> <p>Audrey Hepburn</p>
+> <p>Babe Ruth</p>
