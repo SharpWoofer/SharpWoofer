@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Don't bother people for help without first trying to solve the problem yourself.
+> We lie the loudest when we lie to ourselves.
 >
-> <p>Colin Powell</p>
+> <p>Eric Hoffer</p>
