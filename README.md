@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> When you want to be honored by others, you learn to honor them first.
+> If you always do what you've always done, you'll always get what you've always got.
 >
-> <p>Sathya Sai Baba</p>
+> <p>Henry Ford</p>
