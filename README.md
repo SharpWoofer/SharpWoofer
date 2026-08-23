@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> You must learn to let go. Release the stress. You were never in control anyway.
+> Don't bother people for help without first trying to solve the problem yourself.
 >
-> <p>Steve Maraboli</p>
+> <p>Colin Powell</p>
