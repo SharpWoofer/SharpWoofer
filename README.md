@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them.
+> Problems remain as problems because people are busy defending them rather than finding solutions.
 >
-> <p>Denis Waitley</p>
+> <p>Celestine Chua</p>
