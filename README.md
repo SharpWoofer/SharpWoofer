@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> From the errors of others, a wise man corrects his own.
+> The trouble with most of us is that we'd rather be ruined by praise than saved by criticism.
 >
-> <p>Publilius Syrus</p>
+> <p>Norman Vincent Peale</p>
