@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Keep others in suspense, cultivate an air of unpredictability.
+> There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them.
 >
-> <p>Robert Greene</p>
+> <p>Denis Waitley</p>
