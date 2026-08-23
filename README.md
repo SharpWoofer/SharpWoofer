@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> If you are far from the enemy, make him believe you are near.
+> When you want to be honored by others, you learn to honor them first.
 >
-> <p>Sun Tzu</p>
+> <p>Sathya Sai Baba</p>
