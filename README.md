@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> We forge the chains we wear in life.
+> Remember we're all in this alone.
 >
-> <p>Charles Dickens</p>
+> <p>Lily Tomlin</p>
