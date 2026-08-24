@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> We take care of the future best by taking care of the present now.
+> Live life as though nobody is watching, and express yourself as though everyone is listening.
 >
-> <p>Jon Kabat-Zinn</p>
+> <p>Nelson Mandela</p>
