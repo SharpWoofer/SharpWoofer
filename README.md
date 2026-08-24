@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The biggest risk is not taking any risk. In a world that's changing quickly, the only strategy that is guaranteed to fail is not taking risks.
+> Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young.
 >
-> <p>Colin R. Davis</p>
+> <p>Henry Ford</p>
