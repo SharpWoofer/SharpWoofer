@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The traveler sees what he sees. The tourist sees what he has come to see.
+> We don't stumble accidentally into an amazing life. It takes decision, a commitment to consistently work on ourselves.
 >
-> <p>Gilbert Chesterton</p>
+> <p>Kamal Ravikant</p>
