@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young.
+> Nothing you do is going to matter that much in the long run. Don't take yourself so seriously.
 >
-> <p>Henry Ford</p>
+> <p>Naval Ravikant</p>
