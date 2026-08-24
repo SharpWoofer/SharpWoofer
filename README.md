@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA Astronaut Reid Wiseman at Freedom 250 Grand Prix](https://www.nasa.gov/image-detail/freedom-250-grand-prix/)
-- [Webb Opens Treasure Chest](https://www.nasa.gov/image-detail/webb-opens-a-treasure-chest-filled-with-stars/)
-- [Artemis Mission Patches](https://www.nasa.gov/image-detail/afs-8-101-1304/)
-- [Ancient Milky Way Merger](https://www.nasa.gov/image-detail/stsci-01kz4n4d8g9ak26cf28hd5nt5n-d2d764/)
-- [NASA&#39;s B777 Gets New Coat of Paint](https://www.nasa.gov/image-detail/jsc2026e407303/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Don't risk what is important to you, to get what is not important to you.
+> The biggest risk is not taking any risk. In a world that's changing quickly, the only strategy that is guaranteed to fail is not taking risks.
 >
-> <p>Warren Buffett</p>
+> <p>Colin R. Davis</p>
