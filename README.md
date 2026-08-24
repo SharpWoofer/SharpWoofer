@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Webb Opens Treasure Chest](https://www.nasa.gov/image-detail/webb-opens-a-treasure-chest-filled-with-stars/)
-- [Artemis Mission Patches](https://www.nasa.gov/image-detail/afs-8-101-1304/)
-- [Ancient Milky Way Merger](https://www.nasa.gov/image-detail/stsci-01kz4n4d8g9ak26cf28hd5nt5n-d2d764/)
-- [NASA&#39;s B777 Gets New Coat of Paint](https://www.nasa.gov/image-detail/jsc2026e407303/)
-- [Colorful Collage of Tarantula Nebula](https://www.nasa.gov/image-detail/30dor-crop/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Life is trying things to see if they work.
+> Life is what happens to you while you're busy making other plans.
 >
-> <p>Ray Bradbury</p>
+> <p>John Lennon</p>
