@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Intelligence, imagination, and knowledge are essential resources, but only effectiveness converts them into results.
+> Don't risk what is important to you, to get what is not important to you.
 >
-> <p>Peter Drucker</p>
+> <p>Warren Buffett</p>
