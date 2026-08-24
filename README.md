@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> People are weird. When we find someone with weirdness that is compatible with ours, we team up and call it love.
+> We take care of the future best by taking care of the present now.
 >
-> <p>Dr. Seuss</p>
+> <p>Jon Kabat-Zinn</p>
