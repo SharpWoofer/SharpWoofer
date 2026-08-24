@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The more perfect a person is on the outside, the more demons they have on the inside.
+> The greatest deception men suffer is from their own opinions.
 >
-> <p>Sigmund Freud</p>
+> <p>Leonardo da Vinci</p>
