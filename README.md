@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Routine life is unbearable, and most people only think about how to escape into the world of fantasy and dreams.
+> Don't measure yourself by what you have accomplished, but by what you should have accomplished with your ability.
 >
-> <p>Robert Greene</p>
+> <p>John Wooden</p>
