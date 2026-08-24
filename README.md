@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> In the middle of difficulty lies opportunity.
+> Faults are yours to fix, not to curse.
 >
-> <p>Albert Einstein</p>
+> <p>Colin Powell</p>
