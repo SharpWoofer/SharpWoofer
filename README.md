@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Little by little, one travels far.
+> Everybody's life is either rewarding or an example.
 >
-> <p>J.R.R. Tolkien</p>
+> <p>Tony Robbins</p>
