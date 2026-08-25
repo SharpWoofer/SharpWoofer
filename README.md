@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Believe in one thing too much and you have no room for new ideas.
+> It's not what happens to you, but how you react to it that matters.
 >
-> <p>Ray Bradbury</p>
+> <p>Epictetus</p>
