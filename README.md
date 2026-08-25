@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The more something threatens your identity, the more you will avoid it.
+> If you find you are not valued and appreciated, then shift your attention to places where you will be valued and appreciated.
 >
-> <p>Mark Manson</p>
+> <p>Celestine Chua</p>
