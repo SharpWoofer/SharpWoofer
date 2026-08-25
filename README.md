@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> A good character is the best tombstone. Carve your name on hearts, not on marble.
+> The pain of parting is nothing to the joy of meeting again.
 >
-> <p>Charles Spurgeon</p>
+> <p>Charles Dickens</p>
