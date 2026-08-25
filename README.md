@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Courage is what it takes to stand up and speak. Courage is also what it takes to sit down and listen.
+> A good character is the best tombstone. Carve your name on hearts, not on marble.
 >
-> <p>Winston Churchill</p>
+> <p>Charles Spurgeon</p>
