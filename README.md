@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> It's not what happens to you, but how you react to it that matters.
+> Little by little, one travels far.
 >
-> <p>Epictetus</p>
+> <p>J.R.R. Tolkien</p>
