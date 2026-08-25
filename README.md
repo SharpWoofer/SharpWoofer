@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> 20 percent of your activities will account for 80 percent of your results.
+> Believe in one thing too much and you have no room for new ideas.
 >
-> <p>Brian Tracy</p>
+> <p>Ray Bradbury</p>
