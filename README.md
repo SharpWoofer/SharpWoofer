@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.
+> Giving is the secret of a healthy life. Not necessarily money, but whatever a person has of encouragement, sympathy and understanding.
 >
-> <p>Ralph Waldo Emerson</p>
+> <p>John D. Rockefeller</p>
