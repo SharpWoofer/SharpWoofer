@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Nothing you do is going to matter that much in the long run. Don't take yourself so seriously.
+> A hut full of laughter is richer than a palace full of sadness.
 >
-> <p>Naval Ravikant</p>
+> <p>Zen Proverb</p>
