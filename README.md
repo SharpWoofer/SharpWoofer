@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Hold yourself responsible for a higher standard than anybody else expects of you.
+> Faith is taking the first step even when you don't see the whole staircase.
 >
-> <p>Henry Ward Beecher</p>
+> <p>Martin Luther King, Jr.</p>
