@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Faith is taking the first step even when you don't see the whole staircase.
+> Even the finest sword plunged into salt water will eventually rust.
 >
-> <p>Martin Luther King, Jr.</p>
+> <p>Sun Tzu</p>
