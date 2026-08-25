@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work.
+> 20 percent of your activities will account for 80 percent of your results.
 >
-> <p>Steve Jobs</p>
+> <p>Brian Tracy</p>
