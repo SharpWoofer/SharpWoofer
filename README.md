@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Success is often achieved by those who don't know that failure is inevitable.
+> Many a man has failed because he had his wishbone where his backbone should have been.
 >
-> <p>Coco Chanel</p>
+> <p>Ronald Reagan</p>
