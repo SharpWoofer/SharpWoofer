@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Hope means hoping when everything seems hopeless.
+> A creative man is motivated by the desire to achieve, not by the desire to beat others.
 >
-> <p>Gilbert Chesterton</p>
+> <p>Ayn Rand</p>
