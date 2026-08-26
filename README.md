@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Be the silent watcher of your thoughts and behavior. You are beneath the thinker.
+> When you get up in the morning, you have two choices - either to be happy or to be unhappy. Just choose to be happy.
 >
-> <p>Eckhart Tolle</p>
+> <p>Norman Vincent Peale</p>
