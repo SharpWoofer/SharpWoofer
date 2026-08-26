@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Every man is guilty of all the good he did not do.
+> Changing minds is harder than finding people who already agree.
 >
-> <p>Voltaire</p>
+> <p>Jack Butcher</p>
