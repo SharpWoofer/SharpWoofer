@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Astronauts Anil Menon and Sophie Adenot on Spacewalk](https://www.nasa.gov/image-detail/gmt230_ehdc1-2/)
-- [NASA Astronaut Reid Wiseman at Freedom 250 Grand Prix](https://www.nasa.gov/image-detail/freedom-250-grand-prix/)
-- [Webb Opens Treasure Chest](https://www.nasa.gov/image-detail/webb-opens-a-treasure-chest-filled-with-stars/)
-- [Artemis Mission Patches](https://www.nasa.gov/image-detail/afs-8-101-1304/)
-- [Ancient Milky Way Merger](https://www.nasa.gov/image-detail/stsci-01kz4n4d8g9ak26cf28hd5nt5n-d2d764/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> If you practiced for the day, then you have won. If you were lazy for the day, then you have lost.
+> Every man is guilty of all the good he did not do.
 >
-> <p>Ming-Dao Deng</p>
+> <p>Voltaire</p>
