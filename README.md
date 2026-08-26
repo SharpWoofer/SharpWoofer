@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Wise people, even though all laws were abolished, would still lead the same life.
+> If you practiced for the day, then you have won. If you were lazy for the day, then you have lost.
 >
-> <p>Aristophanes</p>
+> <p>Ming-Dao Deng</p>
