@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> When you want something in life, you just gotta reach out and grab it.
+> Never argue with stupid people, they will drag you down to their level and then beat you with experience.
 >
-> <p>Christopher McCandless</p>
+> <p>Mark Twain</p>
