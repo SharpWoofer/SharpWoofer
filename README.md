@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Success is good at any age, but the sooner you find it, the longer you will enjoy it.
+> He who is untrue to his own cause cannot command the respect of others.
 >
-> <p>Napoleon Hill</p>
+> <p>Albert Einstein</p>
