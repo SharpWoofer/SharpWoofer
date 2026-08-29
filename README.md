@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s Artemis II Crew Receives Congressional Space Medal of Honor](https://www.nasa.gov/image-detail/20260828-120552-jk1-3999-2/)
-- [Civil Servants Sworn in at NASA Ames](https://www.nasa.gov/image-detail/nasa-civil-servant-swearing-in-ceremony/)
-- [Roman Space Telescope Travels to SpaceX Hangar](https://www.nasa.gov/image-detail/afs-8-101-1305/)
-- [Astronauts Anil Menon and Sophie Adenot on Spacewalk](https://www.nasa.gov/image-detail/gmt230_ehdc1-2/)
-- [NASA Astronaut Reid Wiseman at Freedom 250 Grand Prix](https://www.nasa.gov/image-detail/freedom-250-grand-prix/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Much learning does not teach understanding.
+> You are free, and that is why you are lost.
 >
-> <p>Heraclitus</p>
+> <p>Franz Kafka</p>
