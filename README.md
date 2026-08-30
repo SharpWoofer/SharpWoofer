@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> As we first succeed, we will find ourselves in new situations, facing new problems.
+> We need a backbone, not a wishbone.
 >
-> <p>Ryan Holiday</p>
+> <p>Joyce Meyer</p>
