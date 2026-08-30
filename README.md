@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> If you do not get the chills when you set your goal you're not setting big enough goals.
+> The finish line is just the beginning of a whole new race.
 >
-> <p>Bob Proctor</p>
+> <p>Unknown</p>
