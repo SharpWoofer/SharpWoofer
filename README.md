@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Happiness is only real, when shared.
+> Always be a first rate version of yourself and not a second rate version of someone else.
 >
-> <p>Christopher McCandless</p>
+> <p>Judy Garland</p>
