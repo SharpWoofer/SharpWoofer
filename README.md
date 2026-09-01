@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Don't gain the world and lose your soul. Wisdom is better than silver and gold.
+> Everything great that has ever happened to humanity has begun as a single thought in someone's mind.
 >
-> <p>Bob Marley</p>
+> <p>Yanni</p>
