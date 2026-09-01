@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Always be a first rate version of yourself and not a second rate version of someone else.
+> The best way to not feel hopeless is to get up and do something.
 >
-> <p>Judy Garland</p>
+> <p>Barack Obama</p>
