@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Everything great that has ever happened to humanity has begun as a single thought in someone's mind.
+> If you don't like something change it. If you can't change it, change your attitude about it. Don't complain.
 >
-> <p>Yanni</p>
+> <p>Maya Angelou</p>
