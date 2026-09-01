@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> When you lose your desire for things that do not matter, you will be free.
+> Don't gain the world and lose your soul. Wisdom is better than silver and gold.
 >
-> <p>Morihei Ueshiba</p>
+> <p>Bob Marley</p>
