@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s Nancy Grace Roman Space Telescope Launches](https://www.nasa.gov/image-detail/nancy-grace-roman-space-telescope-launch-2/)
-- [NASA&#39;s Artemis II Crew Receives Congressional Space Medal of Honor](https://www.nasa.gov/image-detail/20260828-120552-jk1-3999-2/)
-- [Civil Servants Sworn in at NASA Ames](https://www.nasa.gov/image-detail/nasa-civil-servant-swearing-in-ceremony/)
-- [Roman Space Telescope Travels to SpaceX Hangar](https://www.nasa.gov/image-detail/afs-8-101-1305/)
-- [Astronauts Anil Menon and Sophie Adenot on Spacewalk](https://www.nasa.gov/image-detail/gmt230_ehdc1-2/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> No one can confidently say that he will still be living tomorrow.
+> When you lose your desire for things that do not matter, you will be free.
 >
-> <p>Euripides</p>
+> <p>Morihei Ueshiba</p>
