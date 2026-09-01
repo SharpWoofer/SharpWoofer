@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The best way to not feel hopeless is to get up and do something.
+> The positive thinker sees the invisible, feels the intangible, and achieves the impossible.
 >
-> <p>Barack Obama</p>
+> <p>Winston Churchill</p>
