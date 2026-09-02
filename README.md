@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Absorb what is useful, discard what is not, add what is uniquely your own.
+> Go for it now. The future is promised to no one.
 >
-> <p>Bruce Lee</p>
+> <p>Wayne Dyer</p>
