@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> We learn to walk by falling down. If we never fell down, we would never walk.
+> To injure an opponent is to injure yourself. To control aggression without inflicting injury is the Art of Peace.
 >
-> <p>Robert Kiyosaki</p>
+> <p>Morihei Ueshiba</p>
