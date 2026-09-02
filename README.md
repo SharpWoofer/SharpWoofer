@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Artemis III RS-25 Engine Processing: #3 Lift](https://www.nasa.gov/image-detail/amf-ksc-20260825-ph-rcr01_0045/)
-- [NASA&#39;s Nancy Grace Roman Space Telescope Launches](https://www.nasa.gov/image-detail/nancy-grace-roman-space-telescope-launch-2/)
-- [NASA&#39;s Artemis II Crew Receives Congressional Space Medal of Honor](https://www.nasa.gov/image-detail/20260828-120552-jk1-3999-2/)
-- [Civil Servants Sworn in at NASA Ames](https://www.nasa.gov/image-detail/nasa-civil-servant-swearing-in-ceremony/)
-- [Roman Space Telescope Travels to SpaceX Hangar](https://www.nasa.gov/image-detail/afs-8-101-1305/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> If you don't like something change it. If you can't change it, change your attitude about it. Don't complain.
+> We learn to walk by falling down. If we never fell down, we would never walk.
 >
-> <p>Maya Angelou</p>
+> <p>Robert Kiyosaki</p>
