@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The consequences of today are determined by the actions of the past. To change your future, alter your decisions today.
+> Dreams are the royal road to the unconscious.
 >
-> <p>Unknown</p>
+> <p>Sigmund Freud</p>
