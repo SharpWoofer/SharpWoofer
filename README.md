@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [August Lunar Eclipse Rises Over Louisiana](https://www.nasa.gov/image-detail/amf-maf_20260827_lunareclipse_01/)
-- [Artemis III RS-25 Engine Processing: #3 Lift](https://www.nasa.gov/image-detail/amf-ksc-20260825-ph-rcr01_0045/)
-- [NASA&#39;s Nancy Grace Roman Space Telescope Launches](https://www.nasa.gov/image-detail/nancy-grace-roman-space-telescope-launch-2/)
-- [NASA&#39;s Artemis II Crew Receives Congressional Space Medal of Honor](https://www.nasa.gov/image-detail/20260828-120552-jk1-3999-2/)
-- [Civil Servants Sworn in at NASA Ames](https://www.nasa.gov/image-detail/nasa-civil-servant-swearing-in-ceremony/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> You can never get enough of what you don't need to make you happy.
+> It may take some hard work. But the more you say no to the things that don't matter, the more you can say yes to the things that do.
 >
-> <p>Eric Hoffer</p>
+> <p>Ryan Holiday</p>
