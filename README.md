@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Don't waste your time in anger, regrets, worries, and grudges. Life is too short to be unhappy.
+> Make improvements, not excuses. Seek respect, not attention.
 >
 > <p>Roy T. Bennett</p>
