@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Make improvements, not excuses. Seek respect, not attention.
+> It is what we make out of what we have, not what we are given, that separates one person from another.
 >
-> <p>Roy T. Bennett</p>
+> <p>Nelson Mandela</p>
