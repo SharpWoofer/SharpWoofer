@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Nothing you do is going to matter that much in the long run. Don't take yourself so seriously.
+> Growth comes at the point of resistance.
 >
-> <p>Naval Ravikant</p>
+> <p>Josh Waitzkin</p>
