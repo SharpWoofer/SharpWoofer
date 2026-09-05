@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> We cannot always do great things in life, but we can do small things with great love.
+> Whatever your heart clings to and confides in, that is really your God.
 >
-> <p>Dan Millman</p>
+> <p>Martin Luther</p>
