@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Growth comes at the point of resistance.
+> The majority of what you want will come from the minority of what you do.
 >
-> <p>Josh Waitzkin</p>
+> <p>Gary Keller</p>
