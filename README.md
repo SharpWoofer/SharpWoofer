@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Lunar Occultation of Venus](https://www.nasa.gov/image-detail/amf-nhq202606170001/)
-- [Igniting Roman&#39;s Journey](https://www.nasa.gov/image-detail/amf-nhq202608300037/)
-- [August Lunar Eclipse Rises Over Louisiana](https://www.nasa.gov/image-detail/amf-maf_20260827_lunareclipse_01/)
-- [Artemis III RS-25 Engine Processing: #3 Lift](https://www.nasa.gov/image-detail/amf-ksc-20260825-ph-rcr01_0045/)
-- [NASA&#39;s Nancy Grace Roman Space Telescope Launches](https://www.nasa.gov/image-detail/nancy-grace-roman-space-telescope-launch-2/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> All you need is the plan, the road map, and the courage to press on to your destination.
+> Nothing you do is going to matter that much in the long run. Don't take yourself so seriously.
 >
-> <p>Earl Nightingale</p>
+> <p>Naval Ravikant</p>
