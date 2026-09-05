@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Your vision will become clear only when you can look into your own heart.
+> The spirit is beyond destruction. No one can bring an end to spirit which is everlasting.
 >
-> <p>Lolly Daskal</p>
+> <p>Bhagavad Gita</p>
