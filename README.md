@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Many have died; you also will die. The drum of death is being beaten. The world has fallen in love with a dream. Only sayings of the wise will remain.
+> Success comes from knowing that you did your best to become the best that you are capable of becoming.
 >
-> <p>Kabir</p>
+> <p>John Wooden</p>
