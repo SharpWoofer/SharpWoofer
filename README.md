@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Do not regret the past. Look to the future.
+> Many have died; you also will die. The drum of death is being beaten. The world has fallen in love with a dream. Only sayings of the wise will remain.
 >
-> <p>Soyen Shaku</p>
+> <p>Kabir</p>
