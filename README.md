@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The best of us sometimes eat our words.
+> One must be deeply aware of the impermanence of the world.
 >
-> <p>Albus Dumbledore</p>
+> <p>Dogen</p>
