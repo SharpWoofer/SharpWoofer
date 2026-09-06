@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The spirit is beyond destruction. No one can bring an end to spirit which is everlasting.
+> Do not regret the past. Look to the future.
 >
-> <p>Bhagavad Gita</p>
+> <p>Soyen Shaku</p>
