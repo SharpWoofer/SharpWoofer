@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> One must be deeply aware of the impermanence of the world.
+> While we may not be able to control all that happens to us, we can control what happens inside us.
 >
-> <p>Dogen</p>
+> <p>Benjamin Franklin</p>
