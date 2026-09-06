@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The most important single ingredient in the formula of success is knowing how to get along with people.
+> The best of us sometimes eat our words.
 >
-> <p>Theodore Roosevelt</p>
+> <p>Albus Dumbledore</p>
