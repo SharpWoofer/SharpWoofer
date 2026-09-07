@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> A crisis is an opportunity riding the dangerous wind.
+> Best be yourself, imperial, plain, and true.
 >
-> <p>Chinese Proverb</p>
+> <p>Robert Browning</p>
