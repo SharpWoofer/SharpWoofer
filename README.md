@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Best be yourself, imperial, plain, and true.
+> Actions are the seeds of fate. Deeds grow into destiny.
 >
-> <p>Robert Browning</p>
+> <p>Harry S. Truman</p>
