@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> It still holds true that man is most uniquely human when he turns obstacles into opportunities.
+> The Truth is realized in an instant; the Act is practiced step by step.
 >
-> <p>Eric Hoffer</p>
+> <p>Seungsahn</p>
