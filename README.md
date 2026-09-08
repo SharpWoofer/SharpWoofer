@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Superbubble in the Large Magellanic Cloud](https://www.nasa.gov/image-detail/hubble-n44-wfc3-large/)
-- [Lunar Occultation of Venus](https://www.nasa.gov/image-detail/amf-nhq202606170001/)
-- [Igniting Roman&#39;s Journey](https://www.nasa.gov/image-detail/amf-nhq202608300037/)
-- [August Lunar Eclipse Rises Over Louisiana](https://www.nasa.gov/image-detail/amf-maf_20260827_lunareclipse_01/)
-- [Artemis III RS-25 Engine Processing: #3 Lift](https://www.nasa.gov/image-detail/amf-ksc-20260825-ph-rcr01_0045/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> What the mind can conceive and believe, and the heart desire, you can achieve.
+> Optimism is the one quality more associated with success and happiness than any other.
 >
-> <p>Norman Vincent Peale</p>
+> <p>Brian Tracy</p>
