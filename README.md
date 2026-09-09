@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Artemis II Crew at NASA Marshall](https://www.nasa.gov/image-detail/msfc-09012026-artemis-ii-crew-visit-at-msfc-1orig/)
-- [Superbubble in the Large Magellanic Cloud](https://www.nasa.gov/image-detail/hubble-n44-wfc3-large/)
-- [Lunar Occultation of Venus](https://www.nasa.gov/image-detail/amf-nhq202606170001/)
-- [Igniting Roman&#39;s Journey](https://www.nasa.gov/image-detail/amf-nhq202608300037/)
-- [August Lunar Eclipse Rises Over Louisiana](https://www.nasa.gov/image-detail/amf-maf_20260827_lunareclipse_01/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Know your gifts and share them.
+> Your purpose will be clear only when you listen to your heart.
 >
-> <p>Les Brown</p>
+> <p>Lolly Daskal</p>
