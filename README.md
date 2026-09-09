@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Happiness is the meaning and the purpose of life, the whole aim and end of human existence.
+> Circumstances rule men; men do not rule circumstances.
 >
-> <p>Aristotle</p>
+> <p>Herodotus</p>
