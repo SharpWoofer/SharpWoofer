@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> People don't realize that now is all there ever is; there is no past or future except as memory or anticipation in your mind.
+> Be who you are and say what you feel because those who mind don't matter and those who matter don't mind.
 >
-> <p>Eckhart Tolle</p>
+> <p>Dr. Seuss</p>
