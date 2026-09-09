@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Circumstances rule men; men do not rule circumstances.
+> People don't realize that now is all there ever is; there is no past or future except as memory or anticipation in your mind.
 >
-> <p>Herodotus</p>
+> <p>Eckhart Tolle</p>
