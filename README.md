@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Be who you are and say what you feel because those who mind don't matter and those who matter don't mind.
+> Know your gifts and share them.
 >
-> <p>Dr. Seuss</p>
+> <p>Les Brown</p>
