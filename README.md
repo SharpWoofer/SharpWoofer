@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Who wishes to fight must first count the cost.
+> Trying to define yourself is like trying to bite your own teeth.
 >
-> <p>Sun Tzu</p>
+> <p>Zen Proverb</p>
