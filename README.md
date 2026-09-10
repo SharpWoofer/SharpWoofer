@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> To find yourself, think for yourself.
+> Duty makes us do things well, but love makes us do them beautifully.
 >
-> <p>Socrates</p>
+> <p>Zig Ziglar</p>
