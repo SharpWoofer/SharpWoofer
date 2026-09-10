@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The only limits in your life are those that you set yourself.
+> To find yourself, think for yourself.
 >
-> <p>Celestine Chua</p>
+> <p>Socrates</p>
