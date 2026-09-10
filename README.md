@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> If I can laugh, I can live.
+> Who wishes to fight must first count the cost.
 >
-> <p>Christopher Reeve</p>
+> <p>Sun Tzu</p>
