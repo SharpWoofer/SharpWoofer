@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The greatest discovery of all time is that a person can change their future by merely changing their attitude.
+> No kind action ever stops with itself. One kind action leads to another. Good example is followed.
 >
-> <p>Oprah Winfrey</p>
+> <p>Amelia Earhart</p>
