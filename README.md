@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Dust and Water in Sagittarius A*](https://www.nasa.gov/image-detail/55459350878-2e1468b664-o/)
-- [Artemis II Crew at NASA Marshall](https://www.nasa.gov/image-detail/msfc-09012026-artemis-ii-crew-visit-at-msfc-1orig/)
-- [Superbubble in the Large Magellanic Cloud](https://www.nasa.gov/image-detail/hubble-n44-wfc3-large/)
-- [Lunar Occultation of Venus](https://www.nasa.gov/image-detail/amf-nhq202606170001/)
-- [Igniting Roman&#39;s Journey](https://www.nasa.gov/image-detail/amf-nhq202608300037/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Duty makes us do things well, but love makes us do them beautifully.
+> Quality is not an act, it is a habit.
 >
-> <p>Zig Ziglar</p>
+> <p>Aristotle</p>
