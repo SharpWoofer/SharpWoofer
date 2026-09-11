@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Sometimes you will never know the value of something, until it becomes a memory.
+> Presents are made for the pleasure of who gives them, not the merits of who receives them.
 >
-> <p>Dr. Seuss</p>
+> <p>Carlos Ruiz Zafon</p>
