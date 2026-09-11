@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Be - don't try to become
+> We have more possibilities available in each moment than we realize.
 >
-> <p>Osho</p>
+> <p>Thich Nhat Hanh</p>
