@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Consider the rights of others before your own feelings, and the feelings of others before your own rights.
+> One reason so few of us achieve what we truly want is that we never direct our focus; we never concentrate our power.
 >
-> <p>John Wooden</p>
+> <p>Tony Robbins</p>
