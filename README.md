@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> We have more possibilities available in each moment than we realize.
+> We're responsible for everything that happens to us.
 >
-> <p>Thich Nhat Hanh</p>
+> <p>Yanni</p>
