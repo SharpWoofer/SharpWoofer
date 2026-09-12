@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> When things go wrong, don't go with them.
+> We would accomplish many more things if we did not think of them as impossible.
 >
-> <p>Elvis Presley</p>
+> <p>Vince Lombardi</p>
