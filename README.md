@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Life belongs to the living, and he who lives must be prepared for changes.
+> There is nothing quite so tragic as a young cynic.
 >
-> <p>Johann Wolfgang von Goethe</p>
+> <p>Maya Angelou</p>
