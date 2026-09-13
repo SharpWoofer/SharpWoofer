@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> If life were predictable it would cease to be life, and be without flavor.
+> When you view failure as feedback, you get more done. When you view failure as a finality, you get nothing done.
 >
-> <p>Eleanor Roosevelt</p>
+> <p>Jack Butcher</p>
