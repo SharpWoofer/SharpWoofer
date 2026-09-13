@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Giving is living. If you stop wanting to give, there's nothing more to live for.
+> If life were predictable it would cease to be life, and be without flavor.
 >
-> <p>Audrey Hepburn</p>
+> <p>Eleanor Roosevelt</p>
