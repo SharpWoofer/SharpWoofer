@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> They who have conquered doubt and fear have conquered failure.
+> Giving is living. If you stop wanting to give, there's nothing more to live for.
 >
-> <p>James Allen</p>
+> <p>Audrey Hepburn</p>
