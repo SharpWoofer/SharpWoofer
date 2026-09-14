@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> You never know when a moment and a few sincere words can have an impact on a life.
+> Behind every cloud is another cloud.
 >
-> <p>Zig Ziglar</p>
+> <p>Judy Garland</p>
