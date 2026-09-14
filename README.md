@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> You only live once, but if you do it right, once is enough.
+> For the things we have to learn before we can do them, we learn by doing them.
 >
-> <p>Mae West</p>
+> <p>Aristotle</p>
