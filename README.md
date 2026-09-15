@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Nourish the mind like you would your body. The mind cannot survive on junk food.
+> Dreams provide nourishment for the soul, just as a meal does for the body.
 >
-> <p>Brian Tracy</p>
+> <p>Paulo Coelho</p>
