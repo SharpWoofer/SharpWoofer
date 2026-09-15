@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Artemis III Crew Visits NASA Kennedy&#39;s Vehicle Assembly Building](https://www.nasa.gov/image-detail/afs-8-101-1307/)
-- [NASA Kicks Off Inspiration Tour with Steelers vs. Falcons Game](https://www.nasa.gov/image-detail/nasas-inspiration-tour-at-acrisure-stadium/)
-- [NASA&#39;s Chandra Spots Galactic Gem](https://www.nasa.gov/image-detail/galaxies-iizw096/)
-- [Dust and Water in Sagittarius A*](https://www.nasa.gov/image-detail/55459350878-2e1468b664-o/)
-- [Artemis II Crew at NASA Marshall](https://www.nasa.gov/image-detail/msfc-09012026-artemis-ii-crew-visit-at-msfc-1orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Not all those who wander are lost.
+> Your worth consists in what you are and not in what you have.
 >
-> <p>J.R.R. Tolkien</p>
+> <p>Thomas Edison</p>
