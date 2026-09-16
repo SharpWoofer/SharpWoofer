@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Surround yourself only with people who are going to take you higher.
+> The energy of the mind is the essence of life.
 >
-> <p>Oprah Winfrey</p>
+> <p>Aristotle</p>
