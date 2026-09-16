@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> With self-discipline, almost anything is possible.
+> Surround yourself only with people who are going to take you higher.
 >
-> <p>Theodore Roosevelt</p>
+> <p>Oprah Winfrey</p>
