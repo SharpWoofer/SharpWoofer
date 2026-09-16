@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Today will never happen again. Don't waste it with a false start or no start at all.
+> With self-discipline, almost anything is possible.
 >
-> <p>Og Mandino</p>
+> <p>Theodore Roosevelt</p>
