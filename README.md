@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> If you try, you might get exactly what you want. If you don't, you don't.
+> You cannot control the behavior of others, but you can always choose how you respond to it.
 >
-> <p>Unknown</p>
+> <p>Roy T. Bennett</p>
