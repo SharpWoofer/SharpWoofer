@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> You cannot control the behavior of others, but you can always choose how you respond to it.
+> It is in the heart that makes a man rich. He is rich according to what he is, not according to what he has.
 >
-> <p>Roy T. Bennett</p>
+> <p>Henry Ward Beecher</p>
