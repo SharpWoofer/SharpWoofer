@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The energy of the mind is the essence of life.
+> There are people who have money and people who are rich.
 >
-> <p>Aristotle</p>
+> <p>Coco Chanel</p>
