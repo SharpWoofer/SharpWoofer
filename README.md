@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Today you are you, that is truer than true. There is no one alive who is you-er than you.
+> The person who says something is impossible should not interrupt the person who is doing it.
 >
-> <p>Dr. Seuss</p>
+> <p>Chinese Proverb</p>
