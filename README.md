@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The person who says something is impossible should not interrupt the person who is doing it.
+> Intelligence is the ability to adapt to change.
 >
-> <p>Chinese Proverb</p>
+> <p>Stephen Hawking</p>
