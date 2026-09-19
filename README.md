@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [COSI Telescope Comes Together](https://www.nasa.gov/image-detail/cosi-2026july-01/)
-- [NASA Unveils Enterprise, the First Space Shuttle](https://www.nasa.gov/image-detail/the-shuttle-enterprise-with-star-trek-cast/)
-- [Indonesia&#39;s Anak Krakatau](https://www.nasa.gov/image-detail/krakatau-oli-20260905-lrg/)
-- [Artemis III Crew Visits NASA Kennedy&#39;s Vehicle Assembly Building](https://www.nasa.gov/image-detail/afs-8-101-1307/)
-- [NASA Kicks Off Inspiration Tour with Steelers vs. Falcons Game](https://www.nasa.gov/image-detail/nasas-inspiration-tour-at-acrisure-stadium/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it.
+> Take away love and our earth is a tomb.
 >
-> <p>George Eliot</p>
+> <p>Robert Browning</p>
