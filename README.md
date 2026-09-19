@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Many have died; you also will die. The drum of death is being beaten. The world has fallen in love with a dream. Only sayings of the wise will remain.
+> Whatever you believe with feeling becomes your reality.
 >
-> <p>Kabir</p>
+> <p>Brian Tracy</p>
