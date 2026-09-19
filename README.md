@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Use your smile to change the world but don't let the world change your smile.
+> A rational person can find peace by cultivating indifference to things outside of their control.
 >
-> <p>Unknown</p>
+> <p>Naval Ravikant</p>
