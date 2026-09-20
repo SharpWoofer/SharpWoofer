@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The man who does not value himself, cannot value anything or anyone.
+> Trust is built and maintained by many small actions over time.
 >
-> <p>Ayn Rand</p>
+> <p>Lolly Daskal</p>
