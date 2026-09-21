@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> If a man knows not to which port he sails, no wind is favorable.
+> A mistake is only an error, it becomes a mistake when you fail to correct it.
 >
-> <p>Seneca</p>
+> <p>John Lennon</p>
