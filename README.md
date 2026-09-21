@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The difference between impossible and possible is a willing heart.
+> You can live a whole life time never being awake.
 >
-> <p>Lolly Daskal</p>
+> <p>Dan Millman</p>
