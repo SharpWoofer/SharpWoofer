@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> A child without education is like a bird without wings.
+> Every poem should remind the reader that they are going to die.
 >
-> <p>Tibetan Proverb</p>
+> <p>Edgar Allan Poe</p>
