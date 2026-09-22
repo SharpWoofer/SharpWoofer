@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Mistake is a mistake only if you make it twice.
+> Things turn out best for the people who make the best of the way things turn out.
 >
-> <p>Robin Sharma</p>
+> <p>John Wooden</p>
