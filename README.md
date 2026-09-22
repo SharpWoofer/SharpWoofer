@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The only man who never makes mistakes is the man who never does anything.
+> Mistake is a mistake only if you make it twice.
 >
-> <p>Theodore Roosevelt</p>
+> <p>Robin Sharma</p>
