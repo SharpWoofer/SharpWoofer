@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s Chandra Finds Unusual Objects in Pinwheel Galaxy](https://www.nasa.gov/image-detail/m101-lg/)
-- [NASA Astronaut Reid Wiseman Attends Ravens vs. Saints Game](https://www.nasa.gov/image-detail/nasas-inspiration-tour-at-mt-bank-stadium/)
-- [COSI Telescope Comes Together](https://www.nasa.gov/image-detail/cosi-2026july-01/)
-- [NASA Unveils Enterprise, the First Space Shuttle](https://www.nasa.gov/image-detail/the-shuttle-enterprise-with-star-trek-cast/)
-- [Indonesia&#39;s Anak Krakatau](https://www.nasa.gov/image-detail/krakatau-oli-20260905-lrg/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Re-examine all that you have been told... dismiss that which insults your soul.
+> Mastery is not a function of genius or talent, it is a function of time and intense focus applied to a particular field of knowledge.
 >
-> <p>Walt Whitman</p>
+> <p>Robert Greene</p>
