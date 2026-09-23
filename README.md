@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Things turn out best for the people who make the best of the way things turn out.
+> Knowing others is wisdom, knowing yourself is enlightenment.
 >
-> <p>John Wooden</p>
+> <p>Lao Tzu</p>
