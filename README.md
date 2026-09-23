@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Tomorrow is only found in the calendar of fools.
+> Re-examine all that you have been told... dismiss that which insults your soul.
 >
-> <p>Og Mandino</p>
+> <p>Walt Whitman</p>
