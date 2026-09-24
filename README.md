@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s Hubble Telescope Reaches Milestone, Looks for Elusive Supernova](https://www.nasa.gov/image-detail/stsci-h-p26023a-m-2000x1207/)
-- [NASA&#39;s Chandra Finds Unusual Objects in Pinwheel Galaxy](https://www.nasa.gov/image-detail/m101-lg/)
-- [NASA Astronaut Reid Wiseman Attends Ravens vs. Saints Game](https://www.nasa.gov/image-detail/nasas-inspiration-tour-at-mt-bank-stadium/)
-- [COSI Telescope Comes Together](https://www.nasa.gov/image-detail/cosi-2026july-01/)
-- [NASA Unveils Enterprise, the First Space Shuttle](https://www.nasa.gov/image-detail/the-shuttle-enterprise-with-star-trek-cast/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> You must learn to let go. Release the stress. You were never in control anyway.
+> One of the most difficult things is not to change society - but to change yourself.
 >
-> <p>Steve Maraboli</p>
+> <p>Nelson Mandela</p>
