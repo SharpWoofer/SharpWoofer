@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> It is dangerous to be right in matters on which the established authorities are wrong.
+> To think is easy. To act is hard. But the hardest thing in the world is to act in accordance with your thinking.
 >
-> <p>Voltaire</p>
+> <p>Johann Wolfgang von Goethe</p>
