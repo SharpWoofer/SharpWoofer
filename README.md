@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Wheresoever you go, go with all your heart.
+> To some degree, you control your life by controlling your time.
 >
-> <p>Confucius</p>
+> <p>Conrad Hilton</p>
