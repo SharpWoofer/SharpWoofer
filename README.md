@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> A crisis is an opportunity riding the dangerous wind.
+> When it is dark enough, you can see the stars.
 >
-> <p>Chinese Proverb</p>
+> <p>Ralph Waldo Emerson</p>
