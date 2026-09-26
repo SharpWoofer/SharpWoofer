@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Hubble Spots Chaotic Secret in Galaxy](https://www.nasa.gov/image-detail/a-galaxy-spinning-out-of-sync/)
-- [Practicing for Safe Landings on the Moon and Beyond](https://www.nasa.gov/image-detail/nasa-navigation-experiment-shows-promise-for-landing-on-other-planets/)
-- [NASA&#39;s Hubble Telescope Reaches Milestone, Looks for Elusive Supernova](https://www.nasa.gov/image-detail/stsci-h-p26023a-m-2000x1207/)
-- [NASA&#39;s Chandra Finds Unusual Objects in Pinwheel Galaxy](https://www.nasa.gov/image-detail/m101-lg/)
-- [NASA Astronaut Reid Wiseman Attends Ravens vs. Saints Game](https://www.nasa.gov/image-detail/nasas-inspiration-tour-at-mt-bank-stadium/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Do every act of your life as if it were your last.
+> A crisis is an opportunity riding the dangerous wind.
 >
-> <p>Marcus Aurelius</p>
+> <p>Chinese Proverb</p>
