@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> If you need inspiration, don't do it.
+> Expect the best, plan for the worst, and prepare to be surprised.
 >
-> <p>Elon Musk</p>
+> <p>Denis Waitley</p>
