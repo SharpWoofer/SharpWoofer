@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Expect the best, plan for the worst, and prepare to be surprised.
+> Our view of the world is truly shaped by what we decide to hear.
 >
-> <p>Denis Waitley</p>
+> <p>William James</p>
