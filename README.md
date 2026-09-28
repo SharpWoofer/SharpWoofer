@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> You just can't beat the person who never gives up.
+> Wake up and smile! Wake up and be grateful!
 >
-> <p>Babe Ruth</p>
+> <p>Steve Harvey</p>
