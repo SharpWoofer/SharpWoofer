@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Don't bother people for help without first trying to solve the problem yourself.
+> Facts are the enemy of truth.
 >
-> <p>Colin Powell</p>
+> <p>Miguel de Cervantes</p>
