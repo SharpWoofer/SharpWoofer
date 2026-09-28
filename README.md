@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Giving back involves a certain amount of giving up.
+> You just can't beat the person who never gives up.
 >
-> <p>Colin Powell</p>
+> <p>Babe Ruth</p>
