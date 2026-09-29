@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Space Station View of Earth at Night](https://www.nasa.gov/image-detail/gmt251_08_43_jessica-meir_northern-aurora-cupola-14mm/)
-- [Hubble Spots Chaotic Secret in Galaxy](https://www.nasa.gov/image-detail/a-galaxy-spinning-out-of-sync/)
-- [Practicing for Safe Landings on the Moon and Beyond](https://www.nasa.gov/image-detail/nasa-navigation-experiment-shows-promise-for-landing-on-other-planets/)
-- [NASA&#39;s Hubble Telescope Reaches Milestone, Looks for Elusive Supernova](https://www.nasa.gov/image-detail/stsci-h-p26023a-m-2000x1207/)
-- [NASA&#39;s Chandra Finds Unusual Objects in Pinwheel Galaxy](https://www.nasa.gov/image-detail/m101-lg/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Everyone has oceans to fly, if they have the heart to do it. Is it reckless? Maybe. But what do dreams know of boundaries.
+> Never waste a minute of your precious life thinking about people you don't like.
 >
-> <p>Amelia Earhart</p>
+> <p>Celestine Chua</p>
