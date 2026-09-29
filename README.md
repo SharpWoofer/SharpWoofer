@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Facts are the enemy of truth.
+> Do not use life to give life to death. Do not use death to bring death to life.
 >
-> <p>Miguel de Cervantes</p>
+> <p>Zhuangzi</p>
