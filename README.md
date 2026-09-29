@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Space Station View of Earth at Night](https://www.nasa.gov/image-detail/gmt251_08_43_jessica-meir_northern-aurora-cupola-14mm/)
-- [Hubble Spots Chaotic Secret in Galaxy](https://www.nasa.gov/image-detail/a-galaxy-spinning-out-of-sync/)
-- [Practicing for Safe Landings on the Moon and Beyond](https://www.nasa.gov/image-detail/nasa-navigation-experiment-shows-promise-for-landing-on-other-planets/)
-- [NASA&#39;s Hubble Telescope Reaches Milestone, Looks for Elusive Supernova](https://www.nasa.gov/image-detail/stsci-h-p26023a-m-2000x1207/)
-- [NASA&#39;s Chandra Finds Unusual Objects in Pinwheel Galaxy](https://www.nasa.gov/image-detail/m101-lg/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Do not use life to give life to death. Do not use death to bring death to life.
+> Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work.
 >
-> <p>Zhuangzi</p>
+> <p>Steve Jobs</p>
