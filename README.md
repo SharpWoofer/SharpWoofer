@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Crew-13 Rocket and Spacecraft at Launch Pad](https://www.nasa.gov/image-detail/afs-8-101-1312/)
-- [Space Station View of Earth at Night](https://www.nasa.gov/image-detail/gmt251_08_43_jessica-meir_northern-aurora-cupola-14mm/)
-- [Hubble Spots Chaotic Secret in Galaxy](https://www.nasa.gov/image-detail/a-galaxy-spinning-out-of-sync/)
-- [Practicing for Safe Landings on the Moon and Beyond](https://www.nasa.gov/image-detail/nasa-navigation-experiment-shows-promise-for-landing-on-other-planets/)
-- [NASA&#39;s Hubble Telescope Reaches Milestone, Looks for Elusive Supernova](https://www.nasa.gov/image-detail/stsci-h-p26023a-m-2000x1207/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> To be prepared is half the victory.
+> The only limits in our life are those we impose on ourselves.
 >
-> <p>Miguel de Cervantes</p>
+> <p>Bob Proctor</p>
