@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Every second you have on this planet is very precious and it's your responsibility that you're happy.
+> The danger of an adventure is worth a thousand days of ease and comfort.
 >
-> <p>Naval Ravikant</p>
+> <p>Paulo Coelho</p>
