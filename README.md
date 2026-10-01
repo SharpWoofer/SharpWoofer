@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The danger of an adventure is worth a thousand days of ease and comfort.
+> Change yourself and you have done your part in changing the world.
 >
-> <p>Paulo Coelho</p>
+> <p>Paramahansa Yogananda</p>
