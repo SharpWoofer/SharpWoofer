@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Your heart is the size of an ocean. Go find yourself in its hidden depths.
+> Success is the child of drudgery and perseverance. It cannot be coaxed or bribed; pay the price and it is yours.
 >
-> <p>Rumi</p>
+> <p>Orison Swett Marden</p>
