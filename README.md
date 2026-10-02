@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA’s SpaceX Crew-13 Launches](https://www.nasa.gov/image-detail/nasas-spacex-crew-13-launch-3/)
-- [Star Trails](https://www.nasa.gov/image-detail/iss075e0144232/)
-- [Crew-13 Rocket and Spacecraft at Launch Pad](https://www.nasa.gov/image-detail/afs-8-101-1312/)
-- [Space Station View of Earth at Night](https://www.nasa.gov/image-detail/gmt251_08_43_jessica-meir_northern-aurora-cupola-14mm/)
-- [Hubble Spots Chaotic Secret in Galaxy](https://www.nasa.gov/image-detail/a-galaxy-spinning-out-of-sync/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> You're never too old for anything.
+> There is no truth except the truth that exists within you. Everything else is what someone is telling you.
 >
-> <p>Betty White</p>
+> <p>Neale Donald Walsch</p>
