@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Exceptional thinkers ignore their critics and go about their business making history.
+> The wise warrior avoids the battle.
 >
-> <p>John Eliot</p>
+> <p>Sun Tzu</p>
