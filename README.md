@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Truth is such a rare thing, it is delighted to tell it.
+> Don't let the noise of others' opinions drown out your own inner voice.
 >
-> <p>Emily Dickinson</p>
+> <p>Steve Jobs</p>
