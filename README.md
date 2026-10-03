@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Change is inevitable but personal growth is a choice.
+> Exceptional thinkers ignore their critics and go about their business making history.
 >
-> <p>Bob Proctor</p>
+> <p>John Eliot</p>
