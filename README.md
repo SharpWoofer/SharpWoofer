@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Don't let the noise of others' opinions drown out your own inner voice.
+> Change is inevitable but personal growth is a choice.
 >
-> <p>Steve Jobs</p>
+> <p>Bob Proctor</p>
