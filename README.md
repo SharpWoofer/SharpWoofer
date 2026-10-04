@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Be gentle with yourself. Think less and feel more. Be as happy as you can. You only have this moment.
+> No amount of regretting can change the past, and no amount of worrying can change the future.
 >
-> <p>Dan Millman</p>
+> <p>Roy T. Bennett</p>
