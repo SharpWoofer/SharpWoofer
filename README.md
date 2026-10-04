@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> No amount of regretting can change the past, and no amount of worrying can change the future.
+> We must be free not because we claim freedom, but because we practice it.
 >
-> <p>Roy T. Bennett</p>
+> <p>William Faulkner</p>
