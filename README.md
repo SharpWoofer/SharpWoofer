@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s DAVINCI Probe Can Stand the Heat](https://www.nasa.gov/image-detail/davinci-heat-test-1/)
-- [NASA’s SpaceX Crew-13 Launches](https://www.nasa.gov/image-detail/nasas-spacex-crew-13-launch-3/)
-- [Star Trails](https://www.nasa.gov/image-detail/iss075e0144232/)
-- [Crew-13 Rocket and Spacecraft at Launch Pad](https://www.nasa.gov/image-detail/afs-8-101-1312/)
-- [Space Station View of Earth at Night](https://www.nasa.gov/image-detail/gmt251_08_43_jessica-meir_northern-aurora-cupola-14mm/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> To himself everyone is immortal; he may know that he is going to die, but he can never know he is dead.
+> When you reach the end of your rope, tie a knot in it and hang on.
 >
-> <p>Samuel Butler</p>
+> <p>Franklin D. Roosevelt</p>
