@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The quality of your life is determined by the quality of your thoughts.
+> A strong man overcomes an obstacle, a wise man goes the whole way.
 >
-> <p>Unknown</p>
+> <p>Zen Proverb</p>
