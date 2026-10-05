@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> We must be free not because we claim freedom, but because we practice it.
+> The quality of your life is determined by the quality of your thoughts.
 >
-> <p>William Faulkner</p>
+> <p>Unknown</p>
