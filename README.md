@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA Astronaut Christina Koch at Eagles vs. Rams](https://www.nasa.gov/image-detail/nasas-inspiration-tour-at-lincoln-financial-field/)
-- [NASA&#39;s DAVINCI Probe Can Stand the Heat](https://www.nasa.gov/image-detail/davinci-heat-test-1/)
-- [NASA’s SpaceX Crew-13 Launches](https://www.nasa.gov/image-detail/nasas-spacex-crew-13-launch-3/)
-- [Star Trails](https://www.nasa.gov/image-detail/iss075e0144232/)
-- [Crew-13 Rocket and Spacecraft at Launch Pad](https://www.nasa.gov/image-detail/afs-8-101-1312/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Just try to be the best you can be; never cease trying to be the best you can be. That's in your power.
+> Failure is an option here. If things are not failing, you are not innovating enough.
 >
-> <p>John Wooden</p>
+> <p>Elon Musk</p>
