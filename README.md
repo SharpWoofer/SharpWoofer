@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Artemis II Crew Moon Photo Annotations](https://www.nasa.gov/image-detail/fd07_impact-flashes/)
-- [Astronomers Solve Cosmic Cold Case with NASA Hubble Data](https://www.nasa.gov/image-detail/stsci-01m3cbk3t6srkp4q7wv9cgfgw9/)
-- [NASA Astronaut Christina Koch at Eagles vs. Rams](https://www.nasa.gov/image-detail/nasas-inspiration-tour-at-lincoln-financial-field/)
-- [NASA&#39;s DAVINCI Probe Can Stand the Heat](https://www.nasa.gov/image-detail/davinci-heat-test-1/)
-- [NASA’s SpaceX Crew-13 Launches](https://www.nasa.gov/image-detail/nasas-spacex-crew-13-launch-3/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> We never know the love of a parent till we become parents ourselves.
+> Many have died; you also will die. The drum of death is being beaten. The world has fallen in love with a dream. Only sayings of the wise will remain.
 >
-> <p>Henry Ward Beecher</p>
+> <p>Kabir</p>
