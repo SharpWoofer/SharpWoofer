@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Tomorrow is only found in the calendar of fools.
+> If you can see it in your mind, you can hold it in your mind.
 >
-> <p>Og Mandino</p>
+> <p>Steve Harvey</p>
