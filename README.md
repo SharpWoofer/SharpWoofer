@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Many have died; you also will die. The drum of death is being beaten. The world has fallen in love with a dream. Only sayings of the wise will remain.
+> The key to immortality is first living a life worth remembering.
 >
-> <p>Kabir</p>
+> <p>Bruce Lee</p>
