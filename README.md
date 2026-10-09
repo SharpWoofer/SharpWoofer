@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Crew-12 Returns to Earth](https://www.nasa.gov/image-detail/nasas-spacex-crew-12-splashdown-2/)
-- [Artemis II Crew Moon Photo Annotations](https://www.nasa.gov/image-detail/fd07_impact-flashes/)
-- [Astronomers Solve Cosmic Cold Case with NASA Hubble Data](https://www.nasa.gov/image-detail/stsci-01m3cbk3t6srkp4q7wv9cgfgw9/)
-- [NASA Astronaut Christina Koch at Eagles vs. Rams](https://www.nasa.gov/image-detail/nasas-inspiration-tour-at-lincoln-financial-field/)
-- [NASA&#39;s DAVINCI Probe Can Stand the Heat](https://www.nasa.gov/image-detail/davinci-heat-test-1/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> You are never too old to set another goal or to dream a new dream.
+> The biggest adventure is what lies ahead.
 >
-> <p>Les Brown</p>
+> <p>J.R.R. Tolkien</p>
