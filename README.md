@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The key to immortality is first living a life worth remembering.
+> You are never too old to set another goal or to dream a new dream.
 >
-> <p>Bruce Lee</p>
+> <p>Les Brown</p>
