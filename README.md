@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> There is an essence of when you are fearless, you become more creative.
+> Shoot for the moon. Even if you miss, you'll land among the stars.
 >
-> <p>Gurbaksh Chahal</p>
+> <p>Norman Vincent Peale</p>
