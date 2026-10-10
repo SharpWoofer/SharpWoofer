@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Shoot for the moon. Even if you miss, you'll land among the stars.
+> You cannot always control what goes on outside. But you can always control what goes on inside.
 >
-> <p>Norman Vincent Peale</p>
+> <p>Wayne Dyer</p>
