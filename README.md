@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> You cannot always control what goes on outside. But you can always control what goes on inside.
+> The easiest way in the world to make enemies is to hire friends.
 >
-> <p>Wayne Dyer</p>
+> <p>George Lorimer</p>
