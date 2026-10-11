@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Even a hare will bite when it is cornered.
+> Happiness is the meaning and the purpose of life, the whole aim and end of human existence.
 >
-> <p>Chinese Proverb</p>
+> <p>Aristotle</p>
