@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Happiness is the meaning and the purpose of life, the whole aim and end of human existence.
+> Inspire yourself to be great. Being good isn't good enough.
 >
-> <p>Aristotle</p>
+> <p>Gurbaksh Chahal</p>
