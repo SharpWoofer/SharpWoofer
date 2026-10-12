@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> If you've made a mistake, it's better just to laugh at it.
+> It's easy to be a critic, but being a doer requires effort, risk, and change.
 >
-> <p>Zen Proverb</p>
+> <p>Wayne Dyer</p>
