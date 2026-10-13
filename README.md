@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Cosmic House of Mirrors](https://www.nasa.gov/image-detail/galaxies-in-a-cosmic-house-of-mirrors/)
-- [Crew-12 Returns to Earth](https://www.nasa.gov/image-detail/nasas-spacex-crew-12-splashdown-2/)
-- [Artemis II Crew Moon Photo Annotations](https://www.nasa.gov/image-detail/fd07_impact-flashes/)
-- [Astronomers Solve Cosmic Cold Case with NASA Hubble Data](https://www.nasa.gov/image-detail/stsci-01m3cbk3t6srkp4q7wv9cgfgw9/)
-- [NASA Astronaut Christina Koch at Eagles vs. Rams](https://www.nasa.gov/image-detail/nasas-inspiration-tour-at-lincoln-financial-field/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Keep smiling, because life is a beautiful thing and there's so much to smile about.
+> Strategy is a commodity, execution is an art.
 >
-> <p>Marilyn Monroe</p>
+> <p>Peter Drucker</p>
