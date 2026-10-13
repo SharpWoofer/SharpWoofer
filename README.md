@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> You change the world by being yourself.
+> Always try to be a little kinder than necessary.
 >
-> <p>Yoko Ono</p>
+> <p>James Matthew Barrie</p>
