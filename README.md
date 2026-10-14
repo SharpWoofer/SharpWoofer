@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Transporter-18 SmallSats Encapsulation](https://www.nasa.gov/image-detail/afs-8-101-1315/)
-- [Cosmic House of Mirrors](https://www.nasa.gov/image-detail/galaxies-in-a-cosmic-house-of-mirrors/)
-- [Crew-12 Returns to Earth](https://www.nasa.gov/image-detail/nasas-spacex-crew-12-splashdown-2/)
-- [Artemis II Crew Moon Photo Annotations](https://www.nasa.gov/image-detail/fd07_impact-flashes/)
-- [Astronomers Solve Cosmic Cold Case with NASA Hubble Data](https://www.nasa.gov/image-detail/stsci-01m3cbk3t6srkp4q7wv9cgfgw9/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Always try to be a little kinder than necessary.
+> Shoot for the moon. Even if you miss, you'll land among the stars.
 >
-> <p>James Matthew Barrie</p>
+> <p>Norman Vincent Peale</p>
