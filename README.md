@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Chandra Finds Possible Origin of &#39;Treble Clef&#39; Waves](https://www.nasa.gov/image-detail/shape-3601-3601/)
-- [NASA’s SpaceX CRS-35 Launch Jellyfish](https://www.nasa.gov/image-detail/nasas-spacex-crs-35-launch/)
-- [Transporter-18 SmallSats Encapsulation](https://www.nasa.gov/image-detail/afs-8-101-1315/)
-- [Cosmic House of Mirrors](https://www.nasa.gov/image-detail/galaxies-in-a-cosmic-house-of-mirrors/)
-- [Crew-12 Returns to Earth](https://www.nasa.gov/image-detail/nasas-spacex-crew-12-splashdown-2/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Don't gain the world and lose your soul. Wisdom is better than silver and gold.
+> If you want to find the secrets of the universe, think in terms of energy, frequency and vibration.
 >
-> <p>Bob Marley</p>
+> <p>Nikola Tesla</p>
