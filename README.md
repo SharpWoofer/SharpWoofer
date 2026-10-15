@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> He who can, does.
+> Don't gain the world and lose your soul. Wisdom is better than silver and gold.
 >
-> <p>George Bernard Shaw</p>
+> <p>Bob Marley</p>
