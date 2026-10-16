@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Life doesn't get easier or more forgiving, we get stronger and more resilient.
+> Keep your face to the sunshine and you cannot see the shadows.
 >
-> <p>Steve Maraboli</p>
+> <p>Helen Keller</p>
