@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Keep your face to the sunshine and you cannot see the shadows.
+> You're always free to change your mind and choose a different future, or a different past.
 >
-> <p>Helen Keller</p>
+> <p>Richard Bach</p>
