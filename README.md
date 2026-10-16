@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Through discipline comes freedom.
+> Note that this journey is uniquely yours, no one elses. So the path has to be your own.
 >
-> <p>Aristotle</p>
+> <p>Jon Kabat-Zinn</p>
