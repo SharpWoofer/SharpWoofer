@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Unless you change how you are, you will always have what you got.
+> Give out what you most want to come back.
 >
-> <p>Jim Rohn</p>
+> <p>Robin Sharma</p>
