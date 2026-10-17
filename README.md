@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Give out what you most want to come back.
+> When angry count to ten before you speak. If very angry, count to one hundred.
 >
-> <p>Robin Sharma</p>
+> <p>Thomas Jefferson</p>
