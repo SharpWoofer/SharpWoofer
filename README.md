@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Artemis II Heat Shield After Splashdown](https://www.nasa.gov/image-detail/afs-8-101-1320/)
-- [Chandra Finds Possible Origin of &#39;Treble Clef&#39; Waves](https://www.nasa.gov/image-detail/shape-3601-3601/)
-- [NASA’s SpaceX CRS-35 Launch Jellyfish](https://www.nasa.gov/image-detail/nasas-spacex-crs-35-launch/)
-- [Transporter-18 SmallSats Encapsulation](https://www.nasa.gov/image-detail/afs-8-101-1315/)
-- [Cosmic House of Mirrors](https://www.nasa.gov/image-detail/galaxies-in-a-cosmic-house-of-mirrors/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Even though you are on the right track - you will get run over if you just sit there.
+> Life has no limitations except the ones you make.
 >
-> <p>Will Rogers</p>
+> <p>Les Brown</p>
