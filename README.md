@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Life has no limitations except the ones you make.
+> Your life does not get better by chance, it gets better by change.
 >
-> <p>Les Brown</p>
+> <p>Jim Rohn</p>
