@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Be fascinated instead of frustrated.
+> Never whine, never complain, never try to justify yourself.
 >
-> <p>Jim Rohn</p>
+> <p>Robert Greene</p>
