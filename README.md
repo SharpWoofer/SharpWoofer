@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Your life does not get better by chance, it gets better by change.
+> Appear weak when you are strong, and strong when you are weak.
 >
-> <p>Jim Rohn</p>
+> <p>Sun Tzu</p>
