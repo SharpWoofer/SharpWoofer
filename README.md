@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Appear weak when you are strong, and strong when you are weak.
+> Being wrong brings the opportunity for growth.
 >
-> <p>Sun Tzu</p>
+> <p>Mark Manson</p>
