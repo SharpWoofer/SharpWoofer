@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> We think too much and feel too little.
+> The most courageous act is still to think for yourself. Aloud.
 >
-> <p>Charlie Chaplin</p>
+> <p>Coco Chanel</p>
