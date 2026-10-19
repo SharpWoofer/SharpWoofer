@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> If you can't imagine it, you can't have it.
+> We think too much and feel too little.
 >
-> <p>Toni Morrison</p>
+> <p>Charlie Chaplin</p>
