@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Martian Dawn](https://www.nasa.gov/image-detail/1-pia26728-fig-a-curiosity-captures-dawn-breaking-on-wind-carved-cliffs-2/)
-- [Artemis II Heat Shield After Splashdown](https://www.nasa.gov/image-detail/afs-8-101-1320/)
-- [Chandra Finds Possible Origin of &#39;Treble Clef&#39; Waves](https://www.nasa.gov/image-detail/shape-3601-3601/)
-- [NASA’s SpaceX CRS-35 Launch Jellyfish](https://www.nasa.gov/image-detail/nasas-spacex-crs-35-launch/)
-- [Transporter-18 SmallSats Encapsulation](https://www.nasa.gov/image-detail/afs-8-101-1315/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Listen to what you know instead of what you fear.
+> A person hears only what they understand.
 >
-> <p>Richard Bach</p>
+> <p>Johann Wolfgang von Goethe</p>
