@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Webb Captures Stellar Jets](https://www.nasa.gov/image-detail/55572978759-545472774e-o/)
-- [Martian Dawn](https://www.nasa.gov/image-detail/1-pia26728-fig-a-curiosity-captures-dawn-breaking-on-wind-carved-cliffs-2/)
-- [Artemis II Heat Shield After Splashdown](https://www.nasa.gov/image-detail/afs-8-101-1320/)
-- [Chandra Finds Possible Origin of &#39;Treble Clef&#39; Waves](https://www.nasa.gov/image-detail/shape-3601-3601/)
-- [NASA’s SpaceX CRS-35 Launch Jellyfish](https://www.nasa.gov/image-detail/nasas-spacex-crs-35-launch/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> You are always your own best guru, your own best teacher, the answers are always inside you.
+> The seasons do not push one another; neither do clouds race the wind across the sky. All things happen in their own good time.
 >
-> <p>Sathya Sai Baba</p>
+> <p>Dan Millman</p>
