@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Saying nothing sometimes says the most.
+> Your time is limited, so don't waste it living someone elses. life.
 >
-> <p>Emily Dickinson</p>
+> <p>Steve Jobs</p>
