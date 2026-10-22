@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Rivers know this: there is no hurry. We shall get there some day.
+> You can't build a reputation on what you are going to do.
 >
-> <p>A.A. Milne</p>
+> <p>Henry Ford</p>
