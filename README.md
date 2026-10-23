@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Our view of the world is truly shaped by what we decide to hear.
+> The only way to do great work is to love what you do.
 >
-> <p>William James</p>
+> <p>Colin R. Davis</p>
