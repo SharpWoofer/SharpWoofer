@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Spiral&#39;s Edge](https://www.nasa.gov/image-detail/hubble-ngc1827-1-flat-final/)
-- [Science on the Space Station with NASA Astronaut Jessica Watkins](https://www.nasa.gov/image-detail/iss075e0190239/)
-- [Webb Captures Stellar Jets](https://www.nasa.gov/image-detail/55572978759-545472774e-o/)
-- [Martian Dawn](https://www.nasa.gov/image-detail/1-pia26728-fig-a-curiosity-captures-dawn-breaking-on-wind-carved-cliffs-2/)
-- [Artemis II Heat Shield After Splashdown](https://www.nasa.gov/image-detail/afs-8-101-1320/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The only way to do great work is to love what you do.
+> Confidence is consistency of thinking about what is possible and how to make it possible.
 >
-> <p>Colin R. Davis</p>
+> <p>John Eliot</p>
