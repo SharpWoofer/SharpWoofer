@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Those who attain the middle Dominate the whole.
+> Any game becomes important when you know and love the players.
 >
-> <p>Ming-Dao Deng</p>
+> <p>W.P. Kinsella</p>
