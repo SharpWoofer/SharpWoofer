@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> To be able to forget means sanity.
+> Be not glad at the misfortune of another, though he may be your enemy.
 >
-> <p>Jack London</p>
+> <p>George Washington</p>
