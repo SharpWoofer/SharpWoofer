@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Be not glad at the misfortune of another, though he may be your enemy.
+> The act of taking the first step is what separates the winners from the losers.
 >
-> <p>George Washington</p>
+> <p>Brian Tracy</p>
