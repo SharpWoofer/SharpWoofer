@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> If you love somebody, let them go, for if they return, they were always yours. If they don't, they never were.
+> For every minute you are angry you lose sixty seconds of happiness.
 >
-> <p>Kahlil Gibran</p>
+> <p>Ralph Waldo Emerson</p>
