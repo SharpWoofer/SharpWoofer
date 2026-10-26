@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [RS-25 Engine Tests at NASA Stennis](https://www.nasa.gov/image-detail/ssc-20261021-s00947horig/)
-- [Spiral&#39;s Edge](https://www.nasa.gov/image-detail/hubble-ngc1827-1-flat-final/)
-- [Science on the Space Station with NASA Astronaut Jessica Watkins](https://www.nasa.gov/image-detail/iss075e0190239/)
-- [Webb Captures Stellar Jets](https://www.nasa.gov/image-detail/55572978759-545472774e-o/)
-- [Martian Dawn](https://www.nasa.gov/image-detail/1-pia26728-fig-a-curiosity-captures-dawn-breaking-on-wind-carved-cliffs-2/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> No kind action ever stops with itself. One kind action leads to another. Good example is followed.
+> Learn to value yourself, which means: fight for your happiness.
 >
-> <p>Amelia Earhart</p>
+> <p>Ayn Rand</p>
