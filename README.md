@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s X-59 Aircraft and Test Pilot](https://www.nasa.gov/image-detail/mike-lippert-x-59-lbfd-flight-39-3/)
-- [RS-25 Engine Tests at NASA Stennis](https://www.nasa.gov/image-detail/ssc-20261021-s00947horig/)
-- [Spiral&#39;s Edge](https://www.nasa.gov/image-detail/hubble-ngc1827-1-flat-final/)
-- [Science on the Space Station with NASA Astronaut Jessica Watkins](https://www.nasa.gov/image-detail/iss075e0190239/)
-- [Webb Captures Stellar Jets](https://www.nasa.gov/image-detail/55572978759-545472774e-o/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> We are always complaining that our days are few, and acting as though there would be no end of them.
+> Opportunity comes when you continually push forward.
 >
-> <p>Seneca</p>
+> <p>Sonia Ricotti</p>
