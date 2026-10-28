@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Everything has beauty but not everyone sees it.
+> There is nothing like looking if you want to find something.
 >
-> <p>Confucius</p>
+> <p>J.R.R. Tolkien</p>
