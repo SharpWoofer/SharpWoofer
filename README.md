@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Webb Sees Turbulent Star Nursery](https://www.nasa.gov/image-detail/stars-brewing-in-a-nebulous-cauldron/)
-- [NASA&#39;s Neo Surveyor Sunshade](https://www.nasa.gov/image-detail/1-pia26715-bae-sunshade-inspection-2/)
-- [NASA&#39;s X-59 Aircraft and Test Pilot](https://www.nasa.gov/image-detail/mike-lippert-x-59-lbfd-flight-39-3/)
-- [RS-25 Engine Tests at NASA Stennis](https://www.nasa.gov/image-detail/ssc-20261021-s00947horig/)
-- [Spiral&#39;s Edge](https://www.nasa.gov/image-detail/hubble-ngc1827-1-flat-final/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Give so much away people insist on paying you.
+> Youth has no age.
 >
-> <p>Jack Butcher</p>
+> <p>Pablo Picasso</p>
