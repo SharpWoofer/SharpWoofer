@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s Hubble Marks Way for Roman Space Telescope](https://www.nasa.gov/image-detail/55606049603-e8822462fe-o/)
-- [Webb Sees Turbulent Star Nursery](https://www.nasa.gov/image-detail/stars-brewing-in-a-nebulous-cauldron/)
-- [NASA&#39;s Neo Surveyor Sunshade](https://www.nasa.gov/image-detail/1-pia26715-bae-sunshade-inspection-2/)
-- [NASA&#39;s X-59 Aircraft and Test Pilot](https://www.nasa.gov/image-detail/mike-lippert-x-59-lbfd-flight-39-3/)
-- [RS-25 Engine Tests at NASA Stennis](https://www.nasa.gov/image-detail/ssc-20261021-s00947horig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Believe that life is worth living and your belief will help create the fact.
+> No man can get rich himself unless he enriches others.
 >
-> <p>William James</p>
+> <p>Earl Nightingale</p>
