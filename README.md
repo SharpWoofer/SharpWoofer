@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s Hubble Marks Way for Roman Space Telescope](https://www.nasa.gov/image-detail/55606049603-e8822462fe-o/)
-- [Webb Sees Turbulent Star Nursery](https://www.nasa.gov/image-detail/stars-brewing-in-a-nebulous-cauldron/)
-- [NASA&#39;s Neo Surveyor Sunshade](https://www.nasa.gov/image-detail/1-pia26715-bae-sunshade-inspection-2/)
-- [NASA&#39;s X-59 Aircraft and Test Pilot](https://www.nasa.gov/image-detail/mike-lippert-x-59-lbfd-flight-39-3/)
-- [RS-25 Engine Tests at NASA Stennis](https://www.nasa.gov/image-detail/ssc-20261021-s00947horig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The highest level of wisdom is when you not only accept but love adversity.
+> Working hard for something we don't care about is called stress: Working hard for something we love is called passion.
 >
-> <p>Maxime Lagace</p>
+> <p>Simon Sinek</p>
