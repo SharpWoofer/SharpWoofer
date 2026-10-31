@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The only thing standing between you and your goal is the story you keep telling yourself as to why you can't achieve it.
+> There are no shortcuts to any place worth going.
 >
-> <p>Colin R. Davis</p>
+> <p>Beverly Sills</p>
