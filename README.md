@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Men are disturbed not by things, but by the view which they take of them.
+> The only place where success comes before work is in the dictionary.
 >
-> <p>Epictetus</p>
+> <p>Vidal Sassoon</p>
