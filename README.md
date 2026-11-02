@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> It is our choices that show what we truly are, far more than our abilities.
+> Do not anticipate trouble, or worry about what may never happen. Keep in the sunlight.
 >
-> <p>Albus Dumbledore</p>
+> <p>Benjamin Franklin</p>
