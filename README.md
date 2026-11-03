@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Do not anticipate trouble, or worry about what may never happen. Keep in the sunlight.
+> Always be a first rate version of yourself and not a second rate version of someone else.
 >
-> <p>Benjamin Franklin</p>
+> <p>Judy Garland</p>
