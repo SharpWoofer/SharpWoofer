@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Tomorrow is only found in the calendar of fools.
+> A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty.
 >
-> <p>Og Mandino</p>
+> <p>Winston Churchill</p>
