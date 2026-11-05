@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The difference between impossible and possible is a willing heart.
+> Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.
 >
-> <p>Lolly Daskal</p>
+> <p>Martin Luther King, Jr.</p>
