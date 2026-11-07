@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [M30&#39;s Sparkling Stars](https://www.nasa.gov/image-detail/hubble-m30-potm2610a/)
-- [Midwestern City Lights](https://www.nasa.gov/image-detail/iss075e0227352/)
-- [Hubble Reveals Cosmic Mystery](https://www.nasa.gov/image-detail/full-res-for-display-1-3/)
-- [Astronaut and Earth](https://www.nasa.gov/image-detail/iss075e0253663/)
-- [NASA&#39;s CHAPEA Crew &quot;Returns&quot; to Earth](https://www.nasa.gov/image-detail/chapea-mission-2-crew-poses-outdoors-after-exiting-habitat/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Victims recite problems, leaders provide solutions.
+> The most tragic thing in the world is a man of genius who is not a man of honor.
 >
-> <p>Robin Sharma</p>
+> <p>George Bernard Shaw</p>
