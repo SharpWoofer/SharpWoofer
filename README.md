@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [M30&#39;s Sparkling Stars](https://www.nasa.gov/image-detail/hubble-m30-potm2610a/)
-- [Midwestern City Lights](https://www.nasa.gov/image-detail/iss075e0227352/)
-- [Hubble Reveals Cosmic Mystery](https://www.nasa.gov/image-detail/full-res-for-display-1-3/)
-- [Astronaut and Earth](https://www.nasa.gov/image-detail/iss075e0253663/)
-- [NASA&#39;s CHAPEA Crew &quot;Returns&quot; to Earth](https://www.nasa.gov/image-detail/chapea-mission-2-crew-poses-outdoors-after-exiting-habitat/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Perfection is not attainable, but if we chase perfection we can catch excellence.
+> Don't waste your time in anger, regrets, worries, and grudges. Life is too short to be unhappy.
 >
-> <p>Vince Lombardi</p>
+> <p>Roy T. Bennett</p>
