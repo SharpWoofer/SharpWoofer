@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The most tragic thing in the world is a man of genius who is not a man of honor.
+> Fishing is much more than fish.
 >
-> <p>George Bernard Shaw</p>
+> <p>Herbert Hoover</p>
