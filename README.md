@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Fool me once, shame on you; fool me twice, shame on me.
+> Make peace with your inner turmoil.
 >
-> <p>Chinese Proverb</p>
+> <p>Unknown</p>
