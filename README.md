@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Astronauts Across Generations Share the Stage](https://www.nasa.gov/image-detail/20261106-artemiscelebrationgala-sl1-4202/)
-- [M30&#39;s Sparkling Stars](https://www.nasa.gov/image-detail/hubble-m30-potm2610a/)
-- [Midwestern City Lights](https://www.nasa.gov/image-detail/iss075e0227352/)
-- [Hubble Reveals Cosmic Mystery](https://www.nasa.gov/image-detail/full-res-for-display-1-3/)
-- [Astronaut and Earth](https://www.nasa.gov/image-detail/iss075e0253663/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Respect is earned by effort not age, all things age without effort.
+> You get paid in direct proportion to the difficulty of problems you solve.
 >
-> <p>C. Sean McGee</p>
+> <p>Elon Musk</p>
