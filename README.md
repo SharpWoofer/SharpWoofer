@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> A person without a sense of humor is like a wagon without springs, jolted by every pebble in the road.
+> A clear conscience is the sure sign of a bad memory.
 >
-> <p>Henry Ward Beecher</p>
+> <p>Mark Twain</p>
