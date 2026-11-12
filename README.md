@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [CHAPEA Crew Leaves a Mark](https://www.nasa.gov/image-detail/photos-from-chapea-mission-2-arranged-around-boot-print/)
-- [Astronauts Across Generations Share the Stage](https://www.nasa.gov/image-detail/20261106-artemiscelebrationgala-sl1-4202/)
-- [M30&#39;s Sparkling Stars](https://www.nasa.gov/image-detail/hubble-m30-potm2610a/)
-- [Midwestern City Lights](https://www.nasa.gov/image-detail/iss075e0227352/)
-- [Hubble Reveals Cosmic Mystery](https://www.nasa.gov/image-detail/full-res-for-display-1-3/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Life comes at us in waves. We can't predict or control those waves, but we can learn to surf.
+> Remember that sometimes not getting what you want is a wonderful stroke of luck.
 >
-> <p>Dan Millman</p>
+> <p>Dalai Lama</p>
