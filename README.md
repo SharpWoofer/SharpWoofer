@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Outbursts from a Massive Star](https://www.nasa.gov/image-detail/a-giant-star-in-a-distant-galaxy-has-been-mysteriously-erupting-for-at-least-15-years-new-data-from-nasas-chandra-explains-what-is-causing-these-huge-outbursts/)
-- [Heart in the Sky at NASA Kennedy](https://www.nasa.gov/image-detail/55640210122-dae9d5e6b9-o/)
-- [CHAPEA Crew Leaves a Mark](https://www.nasa.gov/image-detail/photos-from-chapea-mission-2-arranged-around-boot-print/)
-- [Astronauts Across Generations Share the Stage](https://www.nasa.gov/image-detail/20261106-artemiscelebrationgala-sl1-4202/)
-- [M30&#39;s Sparkling Stars](https://www.nasa.gov/image-detail/hubble-m30-potm2610a/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Develop success from failures. Discouragement and failure are two of the surest stepping stones to success.
+> When obstacles arise, you change your direction to reach your goal; you do not change your decision to get there.
 >
-> <p>Dale Carnegie</p>
+> <p>Zig Ziglar</p>
