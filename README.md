@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> There is no self-discovery without pain and loss.
+> Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new.
 >
-> <p>Anita Krizzan</p>
+> <p>Brian Tracy</p>
