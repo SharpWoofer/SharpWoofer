@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Exceptional thinkers ignore their critics and go about their business making history.
+> Force has no place where there is need of skill.
 >
-> <p>John Eliot</p>
+> <p>Herodotus</p>
