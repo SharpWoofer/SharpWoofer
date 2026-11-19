@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> By the practice of meditation, you will find that you are carrying within your heart a portable paradise.
+> Happiness is when what you think, what you say, and what you do are in harmony.
 >
-> <p>Paramahansa Yogananda</p>
+> <p>Mahatma Gandhi</p>
