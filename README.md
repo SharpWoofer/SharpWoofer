@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Happiness is when what you think, what you say, and what you do are in harmony.
+> If you hang out with chickens, you're going to cluck and if you hang out with eagles, you're going to fly.
 >
-> <p>Mahatma Gandhi</p>
+> <p>Steve Maraboli</p>
