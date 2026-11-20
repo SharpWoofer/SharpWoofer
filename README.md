@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Lake Pelku](https://www.nasa.gov/image-detail/iss075e0267074/)
-- [Empire State Building Goes Gold for Voyager](https://www.nasa.gov/image-detail/nasas-voyager-1-spacecraft-light-day/)
-- [Space Selfie](https://www.nasa.gov/image-detail/iss075e0253155/)
-- [Thunderbirds in Formation](https://www.nasa.gov/image-detail/11072026-ksc-max-power-airdotshow-2orig/)
-- [Outbursts from a Massive Star](https://www.nasa.gov/image-detail/a-giant-star-in-a-distant-galaxy-has-been-mysteriously-erupting-for-at-least-15-years-new-data-from-nasas-chandra-explains-what-is-causing-these-huge-outbursts/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> If you hang out with chickens, you're going to cluck and if you hang out with eagles, you're going to fly.
+> If ever you feel like an animal among men, be a lion.
 >
-> <p>Steve Maraboli</p>
+> <p>Criss Jami</p>
