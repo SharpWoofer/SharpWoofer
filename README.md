@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> If ever you feel like an animal among men, be a lion.
+> We have to live life with a sense of urgency so not a minute is wasted.
 >
-> <p>Criss Jami</p>
+> <p>Les Brown</p>
