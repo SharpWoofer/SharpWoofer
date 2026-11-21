@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> A man is but a product of his thoughts. What he thinks he becomes.
+> If you want to change how you see your problems, you have to change what you value and/or how you measure failure/success.
 >
-> <p>Mahatma Gandhi</p>
+> <p>Mark Manson</p>
