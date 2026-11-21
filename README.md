@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s Curiosity Mars Rover Collects Samples](https://www.nasa.gov/image-detail/pia26804/)
-- [Lake Pelku](https://www.nasa.gov/image-detail/iss075e0267074/)
-- [Empire State Building Goes Gold for Voyager](https://www.nasa.gov/image-detail/nasas-voyager-1-spacecraft-light-day/)
-- [Space Selfie](https://www.nasa.gov/image-detail/iss075e0253155/)
-- [Thunderbirds in Formation](https://www.nasa.gov/image-detail/11072026-ksc-max-power-airdotshow-2orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The dead receive more flowers than the living because regret is stronger than gratitude.
+> A man is but a product of his thoughts. What he thinks he becomes.
 >
-> <p>Anne Frank</p>
+> <p>Mahatma Gandhi</p>
