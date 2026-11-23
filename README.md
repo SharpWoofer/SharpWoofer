@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s Curiosity Mars Rover Collects Samples](https://www.nasa.gov/image-detail/pia26804/)
-- [Lake Pelku](https://www.nasa.gov/image-detail/iss075e0267074/)
-- [Empire State Building Goes Gold for Voyager](https://www.nasa.gov/image-detail/nasas-voyager-1-spacecraft-light-day/)
-- [Space Selfie](https://www.nasa.gov/image-detail/iss075e0253155/)
-- [Thunderbirds in Formation](https://www.nasa.gov/image-detail/11072026-ksc-max-power-airdotshow-2orig/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The first step is to establish that something is possible; then probability will occur.
+> It is not fair to ask of others what you are not willing to do yourself.
 >
-> <p>Elon Musk</p>
+> <p>Eleanor Roosevelt</p>
