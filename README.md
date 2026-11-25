@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> You're braver than you believe, and stronger than you seem, and smarter than you think.
+> Everyday you can take a tiny step in the right direction.
 >
-> <p>A.A. Milne</p>
+> <p>Unknown</p>
