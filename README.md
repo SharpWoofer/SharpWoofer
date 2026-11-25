@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Webb Reveals New Details in Supernova Remnant](https://www.nasa.gov/image-detail/cas-a-webb-miri/)
-- [Studying Cancer Cells in Microgravity](https://www.nasa.gov/image-detail/jsc2026e426880/)
-- [NASA&#39;s Curiosity Mars Rover Collects Samples](https://www.nasa.gov/image-detail/pia26804/)
-- [Lake Pelku](https://www.nasa.gov/image-detail/iss075e0267074/)
-- [Empire State Building Goes Gold for Voyager](https://www.nasa.gov/image-detail/nasas-voyager-1-spacecraft-light-day/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Everyday you can take a tiny step in the right direction.
+> Elegance does not consist in putting on a new dress.
 >
-> <p>Unknown</p>
+> <p>Coco Chanel</p>
