@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Eye of the Sahara](https://www.nasa.gov/image-detail/iss075e0274930/)
-- [Webb Reveals New Details in Supernova Remnant](https://www.nasa.gov/image-detail/cas-a-webb-miri/)
-- [Studying Cancer Cells in Microgravity](https://www.nasa.gov/image-detail/jsc2026e426880/)
-- [NASA&#39;s Curiosity Mars Rover Collects Samples](https://www.nasa.gov/image-detail/pia26804/)
-- [Lake Pelku](https://www.nasa.gov/image-detail/iss075e0267074/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> Anything becomes interesting if you look at it long enough..
+> You'll see it when you believe it.
 >
-> <p>Gustave Flaubert</p>
+> <p>Wayne Dyer</p>
