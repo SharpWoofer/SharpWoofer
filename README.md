@@ -80,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> You'll see it when you believe it.
+> Cease striving. Then there will be transformation.
 >
-> <p>Wayne Dyer</p>
+> <p>Zhuangzi</p>
