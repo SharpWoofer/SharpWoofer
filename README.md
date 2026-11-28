@@ -13,11 +13,7 @@ Hello!
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Artemis III Astronaut Andre Douglas Visits VAB](https://www.nasa.gov/image-detail/afs-8-101-1328/)
-- [Eye of the Sahara](https://www.nasa.gov/image-detail/iss075e0274930/)
-- [Webb Reveals New Details in Supernova Remnant](https://www.nasa.gov/image-detail/cas-a-webb-miri/)
-- [Studying Cancer Cells in Microgravity](https://www.nasa.gov/image-detail/jsc2026e426880/)
-- [NASA&#39;s Curiosity Mars Rover Collects Samples](https://www.nasa.gov/image-detail/pia26804/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br> 
@@ -84,6 +80,6 @@ Hello!
 
 ## 📣 Inspirational quote of the hour
 
-> The road to success is always under construction.
+> Learn to enjoy every minute of your life. Be happy now. Don't wait for something outside of yourself to make you happy in the future.
 >
-> <p>Steve Harvey</p>
+> <p>Earl Nightingale</p>
